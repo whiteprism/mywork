@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 元素之塔BUFF
+  row: 3
+  model: instance.elementtowerbuff
+  columns:
+    - name: attrTypes_str
+      column: attrTypes
+      type: char
+      default: ""
+
+    - name: extras_float
+      column: extras
+      type: char
+      default: ""
+
+    - name: iconId
+      column: iconId
+      type: char
+      default: ""
+
+

@@ -1,0 +1,38 @@
+
+table:
+  out-type: json
+  sheet: 种族装备
+  row: 3
+  model: equip.cardequipinfo
+  columns:
+    - name: pos1_int
+      column: pos1
+      type: char
+      default: ""
+
+    - name: pos2_int
+      column: pos2
+      type: char
+      default: ""
+
+    - name: pos3_int
+      column: pos3
+      type: char
+      default: ""
+
+    - name: pos4_int
+      column: pos4
+      type: char
+      default: ""
+
+    - name: pos5_int
+      column: pos5
+      type: char
+      default: ""
+
+    - name: pos6_int
+      column: pos6
+      type: char
+      default: ""
+
+

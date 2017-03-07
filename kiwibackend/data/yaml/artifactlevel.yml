@@ -1,0 +1,42 @@
+
+table:
+  out-type: json
+  sheet: 圣物等级
+  row: 3
+  model: artifact.artifactlevel
+  columns:
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: artifact
+      column: artifact
+      type: int
+
+    - name: attrs_int
+      column: attrs
+      type: char
+      default: "0"
+
+    - name: needXp
+      column: needXp
+      type: int
+      default: 0
+
+    - name: skillId
+      column: skillId
+      type: int
+      default: 0
+
+    - name: skillLevel
+      column: skillLevel
+      type: int
+      default: 0
+
+    - name: artifactElement
+      column: artifactElement
+      type: int
+      default: 0
+
+

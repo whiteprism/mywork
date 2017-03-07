@@ -1,0 +1,58 @@
+
+table:
+  out-type: json
+  sheet: 英雄培养
+  row: 3
+  model: hero.herotrain
+  columns:
+    - name: count
+      column: count
+      type: int
+      default: 0
+
+    - name: goldCost
+      column: goldCost
+      type: int
+      default: 0
+
+    - name: diamondCost
+      column: diamondCost
+      type: int
+      default: 0
+
+    - name: hpAttrValues_int
+      column: hpAttrValues
+      type: char
+      default: ""
+
+    - name: magicAttrValues_int
+      column: magicAttrValues
+      type: char
+      default: ""
+
+    - name: physicalAttrValues_int
+      column: physicalAttrValues
+      type: char
+      default: ""
+
+    - name: attackAttrValues_int
+      column: attackAttrValues
+      type: char
+      default: ""
+
+    - name: itemProbabilities_int
+      column: itemProbabilities
+      type: char
+      default: ""
+
+    - name: goldProbabilities_int
+      column: goldProbabilities
+      type: char
+      default: ""
+
+    - name: diamondProbabilities_int
+      column: diamondProbabilities
+      type: char
+      default: ""
+
+

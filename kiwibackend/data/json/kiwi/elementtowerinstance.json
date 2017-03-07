@@ -1,0 +1,66 @@
+[
+    {
+        "pk": 102001,
+        "model": "instance.elementtowerinstance",
+        "fields": {
+            "descriptionId": "fytext_301108",
+            "rewardIds_str": "t2312101,t2312202,t2312303,t2312404,t2342101,t2342202,t2342303,t2342404",
+            "name": "fytext_102001",
+            "minUserLevel": 19,
+            "iconId": "icon_102001",
+            "scene": "level_elevator",
+            "extroImageId": "icon_10200100",
+            "difficulty": 1,
+            "suggestHeroIds_int": "1110005,1120006,1140007,1120004,1160004",
+            "bgImageId": "icon_1020010"
+        }
+    },
+    {
+        "pk": 102002,
+        "model": "instance.elementtowerinstance",
+        "fields": {
+            "descriptionId": "fytext_301109",
+            "rewardIds_str": "t2314101,t2314202,t2314303,t2314404,t2344101,t2344202,t2344303,t2344404",
+            "name": "fytext_102002",
+            "minUserLevel": 35,
+            "iconId": "icon_102002",
+            "scene": "level_elevator",
+            "extroImageId": "icon_10200200",
+            "difficulty": 1,
+            "suggestHeroIds_int": "1110005,1120006,1140007,1120004,1160004",
+            "bgImageId": "icon_1020020"
+        }
+    },
+    {
+        "pk": 102003,
+        "model": "instance.elementtowerinstance",
+        "fields": {
+            "descriptionId": "fytext_301110",
+            "rewardIds_str": "t2317101,t2317202,t2317303,t2317404,t2347101,t2347202,t2347303,t2347404",
+            "name": "fytext_102003",
+            "minUserLevel": 50,
+            "iconId": "icon_102003",
+            "scene": "level_elevator",
+            "extroImageId": "icon_10200300",
+            "difficulty": 1,
+            "suggestHeroIds_int": "1110005,1120006,1140007,1120004,1160004",
+            "bgImageId": "icon_1020030"
+        }
+    },
+    {
+        "pk": 102004,
+        "model": "instance.elementtowerinstance",
+        "fields": {
+            "descriptionId": "fytext_301111",
+            "rewardIds_str": "",
+            "name": "fytext_102004",
+            "minUserLevel": 50,
+            "iconId": "",
+            "scene": "level_elevator",
+            "extroImageId": "",
+            "difficulty": 1,
+            "suggestHeroIds_int": "",
+            "bgImageId": ""
+        }
+    }
+]

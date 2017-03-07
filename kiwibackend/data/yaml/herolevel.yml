@@ -1,0 +1,12 @@
+
+table:
+  out-type: json
+  sheet: 英雄升级
+  row: 3
+  model: hero.herolevel
+  columns:
+    - name: xp
+      column: xp
+      type: int
+
+

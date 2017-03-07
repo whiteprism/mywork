@@ -1,0 +1,72 @@
+[
+    {
+        "pk": 10,
+        "model": "pvp.pvpscene",
+        "fields": {
+            "startPoints_int": "24,101",
+            "triggerInfos_int": "",
+            "scene": "level_lava",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 20,
+        "model": "pvp.pvpscene",
+        "fields": {
+            "startPoints_int": "59,136",
+            "triggerInfos_int": "",
+            "scene": "level_lost_temple",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 30,
+        "model": "pvp.pvpscene",
+        "fields": {
+            "startPoints_int": "115,192",
+            "triggerInfos_int": "",
+            "scene": "level_lost_temple",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 40,
+        "model": "pvp.pvpscene",
+        "fields": {
+            "startPoints_int": "38,115",
+            "triggerInfos_int": "",
+            "scene": "level_desert",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 50,
+        "model": "pvp.pvpscene",
+        "fields": {
+            "startPoints_int": "38,115",
+            "triggerInfos_int": "",
+            "scene": "level_desert",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 60,
+        "model": "pvp.pvpscene",
+        "fields": {
+            "startPoints_int": "52,129",
+            "triggerInfos_int": "",
+            "scene": "level_crypt",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 70,
+        "model": "pvp.pvpscene",
+        "fields": {
+            "startPoints_int": "52,129",
+            "triggerInfos_int": "",
+            "scene": "level_crypt",
+            "zoneID": 4
+        }
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "pk": 1001,
+        "model": "building.buildingproductioncost",
+        "fields": {
+            "count": 50000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "building.buildingproductioncost",
+        "fields": {
+            "count": 60000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "building.buildingproductioncost",
+        "fields": {
+            "count": 70000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "building.buildingproductioncost",
+        "fields": {
+            "count": 80000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1005,
+        "model": "building.buildingproductioncost",
+        "fields": {
+            "count": 90000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1006,
+        "model": "building.buildingproductioncost",
+        "fields": {
+            "count": 100000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1007,
+        "model": "building.buildingproductioncost",
+        "fields": {
+            "count": 110000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1008,
+        "model": "building.buildingproductioncost",
+        "fields": {
+            "count": 120000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1009,
+        "model": "building.buildingproductioncost",
+        "fields": {
+            "count": 130000,
+            "type": 500000,
+            "level": 0
+        }
+    }
+]

@@ -1,0 +1,33 @@
+
+table:
+  out-type: json
+  sheet: 资源保护
+  row: 3
+  model: building.buildingresourceprotected
+  columns:
+    - name: building_id
+      column: building_id
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: goldCount
+      column: goldCount
+      type: int
+      default: 0
+
+    - name: woodCount
+      column: woodCount
+      type: int
+      default: 0
+
+    - name: percentage
+      column: percentage
+      type: float
+      default: 0.0
+
+

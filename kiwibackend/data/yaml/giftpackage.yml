@@ -1,0 +1,53 @@
+
+table:
+  out-type: json
+  sheet: 活动奖励
+  row: 3
+  model: activity.giftpackage
+  columns:
+    - name: category
+      column: category
+      type: int
+      default: 0
+
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: entryName_key
+      column: entryName_key
+      type: char
+      default: ""
+
+    - name: entryName_val
+      column: entryName_val
+      type: char
+      default: ""
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: rewards_int
+      column: rewards
+      type: char
+      default: ""
+
+    - name: boxRewards_int
+      column: boxRewards
+      type: char
+      default: "0"
+
+    - name: boxPrecent
+      column: boxPrecent
+      type: int
+      default: 0
+
+    - name: boxImgs_str
+      column: boxImgs
+      type: char
+      default: "0"
+
+

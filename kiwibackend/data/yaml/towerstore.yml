@@ -1,0 +1,48 @@
+
+table:
+  out-type: json
+  sheet: 爬塔商店
+  row: 3
+  model: item.towerstore
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: "0"
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: "0"
+
+    - name: basePrice
+      column: basePrice
+      type: int
+      default: 0
+
+    - name: incrPrice
+      column: incrPrice
+      type: int
+      default: 0
+
+    - name: dailyCount
+      column: dailyCount
+      type: int
+      default: 0
+
+    - name: item_id
+      column: item_id
+      type: int
+      default: 0
+
+    - name: display
+      column: display
+      type: int
+      default: 1
+
+    - name: orderId
+      column: orderId
+      type: int
+      default: 0
+
+

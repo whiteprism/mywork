@@ -1,0 +1,842 @@
+[
+    {
+        "pk": 1,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 500
+        }
+    },
+    {
+        "pk": 2,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 600
+        }
+    },
+    {
+        "pk": 3,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 700
+        }
+    },
+    {
+        "pk": 4,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 800
+        }
+    },
+    {
+        "pk": 5,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 900
+        }
+    },
+    {
+        "pk": 6,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 1000
+        }
+    },
+    {
+        "pk": 7,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 1100
+        }
+    },
+    {
+        "pk": 8,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 1200
+        }
+    },
+    {
+        "pk": 9,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 1300
+        }
+    },
+    {
+        "pk": 10,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 1400
+        }
+    },
+    {
+        "pk": 11,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 1500
+        }
+    },
+    {
+        "pk": 12,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 1600
+        }
+    },
+    {
+        "pk": 13,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 1700
+        }
+    },
+    {
+        "pk": 14,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 1800
+        }
+    },
+    {
+        "pk": 15,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 1900
+        }
+    },
+    {
+        "pk": 16,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 2000
+        }
+    },
+    {
+        "pk": 17,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 2100
+        }
+    },
+    {
+        "pk": 18,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 2200
+        }
+    },
+    {
+        "pk": 19,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 2300
+        }
+    },
+    {
+        "pk": 20,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 2400
+        }
+    },
+    {
+        "pk": 21,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 2500
+        }
+    },
+    {
+        "pk": 22,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 2600
+        }
+    },
+    {
+        "pk": 23,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 2800
+        }
+    },
+    {
+        "pk": 24,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 3000
+        }
+    },
+    {
+        "pk": 25,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 3200
+        }
+    },
+    {
+        "pk": 26,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 3400
+        }
+    },
+    {
+        "pk": 27,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 3600
+        }
+    },
+    {
+        "pk": 28,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 3800
+        }
+    },
+    {
+        "pk": 29,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 4000
+        }
+    },
+    {
+        "pk": 30,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 4500
+        }
+    },
+    {
+        "pk": 31,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 32,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 5500
+        }
+    },
+    {
+        "pk": 33,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 6000
+        }
+    },
+    {
+        "pk": 34,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 6500
+        }
+    },
+    {
+        "pk": 35,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 7000
+        }
+    },
+    {
+        "pk": 36,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 7500
+        }
+    },
+    {
+        "pk": 37,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 8000
+        }
+    },
+    {
+        "pk": 38,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 8500
+        }
+    },
+    {
+        "pk": 39,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 9000
+        }
+    },
+    {
+        "pk": 40,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 9500
+        }
+    },
+    {
+        "pk": 41,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 10000
+        }
+    },
+    {
+        "pk": 42,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 10500
+        }
+    },
+    {
+        "pk": 43,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 11000
+        }
+    },
+    {
+        "pk": 44,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 11500
+        }
+    },
+    {
+        "pk": 45,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 12000
+        }
+    },
+    {
+        "pk": 46,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 12500
+        }
+    },
+    {
+        "pk": 47,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 13000
+        }
+    },
+    {
+        "pk": 48,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 13500
+        }
+    },
+    {
+        "pk": 49,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 14000
+        }
+    },
+    {
+        "pk": 50,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 14500
+        }
+    },
+    {
+        "pk": 51,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 15000
+        }
+    },
+    {
+        "pk": 52,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 15500
+        }
+    },
+    {
+        "pk": 53,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 16000
+        }
+    },
+    {
+        "pk": 54,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 16500
+        }
+    },
+    {
+        "pk": 55,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 17000
+        }
+    },
+    {
+        "pk": 56,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 18500
+        }
+    },
+    {
+        "pk": 57,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 20000
+        }
+    },
+    {
+        "pk": 58,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 21500
+        }
+    },
+    {
+        "pk": 59,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 23000
+        }
+    },
+    {
+        "pk": 60,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 24500
+        }
+    },
+    {
+        "pk": 61,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 26000
+        }
+    },
+    {
+        "pk": 62,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 27500
+        }
+    },
+    {
+        "pk": 63,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 29000
+        }
+    },
+    {
+        "pk": 64,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 30500
+        }
+    },
+    {
+        "pk": 65,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 32000
+        }
+    },
+    {
+        "pk": 66,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 33500
+        }
+    },
+    {
+        "pk": 67,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 35000
+        }
+    },
+    {
+        "pk": 68,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 36500
+        }
+    },
+    {
+        "pk": 69,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 38000
+        }
+    },
+    {
+        "pk": 70,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 39500
+        }
+    },
+    {
+        "pk": 71,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 41000
+        }
+    },
+    {
+        "pk": 72,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 42500
+        }
+    },
+    {
+        "pk": 73,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 44000
+        }
+    },
+    {
+        "pk": 74,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 45500
+        }
+    },
+    {
+        "pk": 75,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 47000
+        }
+    },
+    {
+        "pk": 76,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 48500
+        }
+    },
+    {
+        "pk": 77,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 50000
+        }
+    },
+    {
+        "pk": 78,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 51500
+        }
+    },
+    {
+        "pk": 79,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 53000
+        }
+    },
+    {
+        "pk": 80,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 54500
+        }
+    },
+    {
+        "pk": 81,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 56000
+        }
+    },
+    {
+        "pk": 82,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 57500
+        }
+    },
+    {
+        "pk": 83,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 59000
+        }
+    },
+    {
+        "pk": 84,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 60500
+        }
+    },
+    {
+        "pk": 85,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 62000
+        }
+    },
+    {
+        "pk": 86,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 63500
+        }
+    },
+    {
+        "pk": 87,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 65000
+        }
+    },
+    {
+        "pk": 88,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 66500
+        }
+    },
+    {
+        "pk": 89,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 68000
+        }
+    },
+    {
+        "pk": 90,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 69500
+        }
+    },
+    {
+        "pk": 91,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 71000
+        }
+    },
+    {
+        "pk": 92,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 72500
+        }
+    },
+    {
+        "pk": 93,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 74000
+        }
+    },
+    {
+        "pk": 94,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 75500
+        }
+    },
+    {
+        "pk": 95,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 77000
+        }
+    },
+    {
+        "pk": 96,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 78500
+        }
+    },
+    {
+        "pk": 97,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 80000
+        }
+    },
+    {
+        "pk": 98,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 81500
+        }
+    },
+    {
+        "pk": 99,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 83000
+        }
+    },
+    {
+        "pk": 100,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 84500
+        }
+    },
+    {
+        "pk": 101,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 86000
+        }
+    },
+    {
+        "pk": 102,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 87500
+        }
+    },
+    {
+        "pk": 103,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 89000
+        }
+    },
+    {
+        "pk": 104,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 90500
+        }
+    },
+    {
+        "pk": 105,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 92000
+        }
+    },
+    {
+        "pk": 106,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 93500
+        }
+    },
+    {
+        "pk": 107,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 95000
+        }
+    },
+    {
+        "pk": 108,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 96500
+        }
+    },
+    {
+        "pk": 109,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 98000
+        }
+    },
+    {
+        "pk": 110,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 99500
+        }
+    },
+    {
+        "pk": 111,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 101000
+        }
+    },
+    {
+        "pk": 112,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 102500
+        }
+    },
+    {
+        "pk": 113,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 104000
+        }
+    },
+    {
+        "pk": 114,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 105500
+        }
+    },
+    {
+        "pk": 115,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 107000
+        }
+    },
+    {
+        "pk": 116,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 108500
+        }
+    },
+    {
+        "pk": 117,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 110000
+        }
+    },
+    {
+        "pk": 118,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 111500
+        }
+    },
+    {
+        "pk": 119,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 113000
+        }
+    },
+    {
+        "pk": 120,
+        "model": "equip.equipenhance",
+        "fields": {
+            "gold": 114500
+        }
+    }
+]

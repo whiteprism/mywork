@@ -1,0 +1,4496 @@
+[
+    {
+        "pk": 10030001,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10030001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10030001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 0,
+            "value1": 10
+        }
+    },
+    {
+        "pk": 10030002,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10030002,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10030001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 0,
+            "value1": 14
+        }
+    },
+    {
+        "pk": 10030003,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10030003,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10030001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 0,
+            "value1": 18
+        }
+    },
+    {
+        "pk": 10030004,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10030004,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10030001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 0,
+            "value1": 22
+        }
+    },
+    {
+        "pk": 10030005,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10030005,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10030001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 0,
+            "value1": 26
+        }
+    },
+    {
+        "pk": 10030006,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10030006,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10030001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 0,
+            "value1": 30
+        }
+    },
+    {
+        "pk": 10030007,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10030007,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10030001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 0,
+            "value1": 35
+        }
+    },
+    {
+        "pk": 10030008,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10030008,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10030001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 0,
+            "value1": 40
+        }
+    },
+    {
+        "pk": 10030009,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10030009,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10030001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 0,
+            "value1": 45
+        }
+    },
+    {
+        "pk": 10030010,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10030010,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10030001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 0,
+            "value1": 50
+        }
+    },
+    {
+        "pk": 10030011,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10030011,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10030001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 0,
+            "value1": 55
+        }
+    },
+    {
+        "pk": 10030012,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10030012,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10030001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 0,
+            "value1": 60
+        }
+    },
+    {
+        "pk": 10100001,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10100001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10100001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 25,
+            "value1": 0
+        }
+    },
+    {
+        "pk": 10100002,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10100002,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10100001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 30,
+            "value1": 0
+        }
+    },
+    {
+        "pk": 10100003,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10100003,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10100001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 35,
+            "value1": 0
+        }
+    },
+    {
+        "pk": 10100004,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10100004,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10100001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 40,
+            "value1": 0
+        }
+    },
+    {
+        "pk": 10100005,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10100005,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10100001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 45,
+            "value1": 0
+        }
+    },
+    {
+        "pk": 10100006,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10100006,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10100001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 50,
+            "value1": 0
+        }
+    },
+    {
+        "pk": 10100007,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10100007,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10100001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 55,
+            "value1": 0
+        }
+    },
+    {
+        "pk": 10100008,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10100008,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10100001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 60,
+            "value1": 0
+        }
+    },
+    {
+        "pk": 10070001,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10070001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10070001,
+            "value4": 0,
+            "value3": 0,
+            "value2": 0,
+            "value1": 1
+        }
+    },
+    {
+        "pk": 10010001,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 1,
+            "value1": 1
+        }
+    },
+    {
+        "pk": 10010002,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010002,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 2
+        }
+    },
+    {
+        "pk": 10010003,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010003,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 2,
+            "value1": 3
+        }
+    },
+    {
+        "pk": 10010004,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010004,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 4
+        }
+    },
+    {
+        "pk": 10010005,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010005,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 3,
+            "value1": 5
+        }
+    },
+    {
+        "pk": 10010006,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010006,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 4,
+            "value1": 6
+        }
+    },
+    {
+        "pk": 10010007,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010007,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 7
+        }
+    },
+    {
+        "pk": 10010008,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010008,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 5,
+            "value1": 8
+        }
+    },
+    {
+        "pk": 10010009,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010009,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 9
+        }
+    },
+    {
+        "pk": 10010010,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010010,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 6,
+            "value1": 10
+        }
+    },
+    {
+        "pk": 10010011,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010011,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 7,
+            "value1": 11
+        }
+    },
+    {
+        "pk": 10010012,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010012,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 12
+        }
+    },
+    {
+        "pk": 10010013,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010013,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 8,
+            "value1": 13
+        }
+    },
+    {
+        "pk": 10010014,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010014,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 14
+        }
+    },
+    {
+        "pk": 10010015,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010015,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 9,
+            "value1": 15
+        }
+    },
+    {
+        "pk": 10010016,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010016,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 10,
+            "value1": 16
+        }
+    },
+    {
+        "pk": 10010017,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010017,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 17
+        }
+    },
+    {
+        "pk": 10010018,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010018,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 11,
+            "value1": 18
+        }
+    },
+    {
+        "pk": 10010019,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010019,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 19
+        }
+    },
+    {
+        "pk": 10010020,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010020,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 12,
+            "value1": 20
+        }
+    },
+    {
+        "pk": 10010021,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010021,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 13,
+            "value1": 21
+        }
+    },
+    {
+        "pk": 10010022,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010022,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 22
+        }
+    },
+    {
+        "pk": 10010023,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010023,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 14,
+            "value1": 23
+        }
+    },
+    {
+        "pk": 10010024,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010024,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 24
+        }
+    },
+    {
+        "pk": 10010025,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010025,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010001,
+            "value4": 0,
+            "value3": 2,
+            "value2": 15,
+            "value1": 25
+        }
+    },
+    {
+        "pk": 10010026,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 1,
+            "value1": 1
+        }
+    },
+    {
+        "pk": 10010027,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010002,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 2
+        }
+    },
+    {
+        "pk": 10010028,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010003,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 2,
+            "value1": 3
+        }
+    },
+    {
+        "pk": 10010029,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010004,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 4
+        }
+    },
+    {
+        "pk": 10010030,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010005,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 3,
+            "value1": 5
+        }
+    },
+    {
+        "pk": 10010031,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010006,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 4,
+            "value1": 6
+        }
+    },
+    {
+        "pk": 10010032,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010007,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 7
+        }
+    },
+    {
+        "pk": 10010033,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010008,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 5,
+            "value1": 8
+        }
+    },
+    {
+        "pk": 10010034,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010009,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 9
+        }
+    },
+    {
+        "pk": 10010035,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010010,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 6,
+            "value1": 10
+        }
+    },
+    {
+        "pk": 10010036,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010011,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 7,
+            "value1": 11
+        }
+    },
+    {
+        "pk": 10010037,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010012,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 12
+        }
+    },
+    {
+        "pk": 10010038,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010013,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 8,
+            "value1": 13
+        }
+    },
+    {
+        "pk": 10010039,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010014,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 14
+        }
+    },
+    {
+        "pk": 10010040,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010015,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 9,
+            "value1": 15
+        }
+    },
+    {
+        "pk": 10010041,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010016,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 10,
+            "value1": 16
+        }
+    },
+    {
+        "pk": 10010042,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010017,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 17
+        }
+    },
+    {
+        "pk": 10010043,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010018,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 11,
+            "value1": 18
+        }
+    },
+    {
+        "pk": 10010044,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010019,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 19
+        }
+    },
+    {
+        "pk": 10010045,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010020,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 12,
+            "value1": 20
+        }
+    },
+    {
+        "pk": 10010046,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010021,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 13,
+            "value1": 21
+        }
+    },
+    {
+        "pk": 10010047,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010022,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 22
+        }
+    },
+    {
+        "pk": 10010048,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010023,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 14,
+            "value1": 23
+        }
+    },
+    {
+        "pk": 10010049,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010024,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 24
+        }
+    },
+    {
+        "pk": 10010050,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010025,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010002,
+            "value4": 0,
+            "value3": 2,
+            "value2": 15,
+            "value1": 25
+        }
+    },
+    {
+        "pk": 10010051,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 1,
+            "value1": 1
+        }
+    },
+    {
+        "pk": 10010052,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010002,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 2
+        }
+    },
+    {
+        "pk": 10010053,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010003,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 2,
+            "value1": 3
+        }
+    },
+    {
+        "pk": 10010054,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010004,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 4
+        }
+    },
+    {
+        "pk": 10010055,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010005,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 3,
+            "value1": 5
+        }
+    },
+    {
+        "pk": 10010056,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010006,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 4,
+            "value1": 6
+        }
+    },
+    {
+        "pk": 10010057,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010007,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 7
+        }
+    },
+    {
+        "pk": 10010058,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010008,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 5,
+            "value1": 8
+        }
+    },
+    {
+        "pk": 10010059,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010009,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 9
+        }
+    },
+    {
+        "pk": 10010060,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010010,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 6,
+            "value1": 10
+        }
+    },
+    {
+        "pk": 10010061,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010011,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 7,
+            "value1": 11
+        }
+    },
+    {
+        "pk": 10010062,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010012,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 12
+        }
+    },
+    {
+        "pk": 10010063,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010013,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 8,
+            "value1": 13
+        }
+    },
+    {
+        "pk": 10010064,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010014,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 14
+        }
+    },
+    {
+        "pk": 10010065,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010015,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 9,
+            "value1": 15
+        }
+    },
+    {
+        "pk": 10010066,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010016,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 10,
+            "value1": 16
+        }
+    },
+    {
+        "pk": 10010067,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010017,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 17
+        }
+    },
+    {
+        "pk": 10010068,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010018,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 11,
+            "value1": 18
+        }
+    },
+    {
+        "pk": 10010069,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010019,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 19
+        }
+    },
+    {
+        "pk": 10010070,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010020,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 12,
+            "value1": 20
+        }
+    },
+    {
+        "pk": 10010071,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010021,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 13,
+            "value1": 21
+        }
+    },
+    {
+        "pk": 10010072,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010022,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 22
+        }
+    },
+    {
+        "pk": 10010073,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010023,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 14,
+            "value1": 23
+        }
+    },
+    {
+        "pk": 10010074,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010024,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 24
+        }
+    },
+    {
+        "pk": 10010075,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010025,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010003,
+            "value4": 0,
+            "value3": 2,
+            "value2": 15,
+            "value1": 25
+        }
+    },
+    {
+        "pk": 10010076,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 1,
+            "value1": 1
+        }
+    },
+    {
+        "pk": 10010077,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010002,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 2
+        }
+    },
+    {
+        "pk": 10010078,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010003,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 2,
+            "value1": 3
+        }
+    },
+    {
+        "pk": 10010079,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010004,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 4
+        }
+    },
+    {
+        "pk": 10010080,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010005,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 3,
+            "value1": 5
+        }
+    },
+    {
+        "pk": 10010081,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010006,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 4,
+            "value1": 6
+        }
+    },
+    {
+        "pk": 10010082,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010007,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 7
+        }
+    },
+    {
+        "pk": 10010083,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010008,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 5,
+            "value1": 8
+        }
+    },
+    {
+        "pk": 10010084,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010009,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 9
+        }
+    },
+    {
+        "pk": 10010085,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010010,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 6,
+            "value1": 10
+        }
+    },
+    {
+        "pk": 10010086,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010011,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 7,
+            "value1": 11
+        }
+    },
+    {
+        "pk": 10010087,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010012,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 12
+        }
+    },
+    {
+        "pk": 10010088,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010013,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 8,
+            "value1": 13
+        }
+    },
+    {
+        "pk": 10010089,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010014,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 14
+        }
+    },
+    {
+        "pk": 10010090,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010015,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 9,
+            "value1": 15
+        }
+    },
+    {
+        "pk": 10010091,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010016,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 10,
+            "value1": 16
+        }
+    },
+    {
+        "pk": 10010092,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010017,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 17
+        }
+    },
+    {
+        "pk": 10010093,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010018,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 11,
+            "value1": 18
+        }
+    },
+    {
+        "pk": 10010094,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010019,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 19
+        }
+    },
+    {
+        "pk": 10010095,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010020,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 12,
+            "value1": 20
+        }
+    },
+    {
+        "pk": 10010096,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010021,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 13,
+            "value1": 21
+        }
+    },
+    {
+        "pk": 10010097,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010022,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 22
+        }
+    },
+    {
+        "pk": 10010098,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010023,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 14,
+            "value1": 23
+        }
+    },
+    {
+        "pk": 10010099,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010024,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 24
+        }
+    },
+    {
+        "pk": 10010100,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010025,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010004,
+            "value4": 0,
+            "value3": 2,
+            "value2": 15,
+            "value1": 25
+        }
+    },
+    {
+        "pk": 10010101,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 1,
+            "value1": 1
+        }
+    },
+    {
+        "pk": 10010102,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010002,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 2
+        }
+    },
+    {
+        "pk": 10010103,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010003,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 2,
+            "value1": 3
+        }
+    },
+    {
+        "pk": 10010104,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010004,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 4
+        }
+    },
+    {
+        "pk": 10010105,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010005,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 3,
+            "value1": 5
+        }
+    },
+    {
+        "pk": 10010106,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010006,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 4,
+            "value1": 6
+        }
+    },
+    {
+        "pk": 10010107,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010007,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 7
+        }
+    },
+    {
+        "pk": 10010108,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010008,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 5,
+            "value1": 8
+        }
+    },
+    {
+        "pk": 10010109,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010009,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 9
+        }
+    },
+    {
+        "pk": 10010110,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010010,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 6,
+            "value1": 10
+        }
+    },
+    {
+        "pk": 10010111,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010011,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 7,
+            "value1": 11
+        }
+    },
+    {
+        "pk": 10010112,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010012,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 12
+        }
+    },
+    {
+        "pk": 10010113,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010013,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 8,
+            "value1": 13
+        }
+    },
+    {
+        "pk": 10010114,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010014,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 14
+        }
+    },
+    {
+        "pk": 10010115,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010015,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 9,
+            "value1": 15
+        }
+    },
+    {
+        "pk": 10010116,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010016,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 10,
+            "value1": 16
+        }
+    },
+    {
+        "pk": 10010117,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010017,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 17
+        }
+    },
+    {
+        "pk": 10010118,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010018,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 11,
+            "value1": 18
+        }
+    },
+    {
+        "pk": 10010119,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010019,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 19
+        }
+    },
+    {
+        "pk": 10010120,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010020,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 12,
+            "value1": 20
+        }
+    },
+    {
+        "pk": 10010121,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010021,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 13,
+            "value1": 21
+        }
+    },
+    {
+        "pk": 10010122,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010022,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 22
+        }
+    },
+    {
+        "pk": 10010123,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010023,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 14,
+            "value1": 23
+        }
+    },
+    {
+        "pk": 10010124,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010024,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 24
+        }
+    },
+    {
+        "pk": 10010125,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010025,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010005,
+            "value4": 0,
+            "value3": 2,
+            "value2": 15,
+            "value1": 25
+        }
+    },
+    {
+        "pk": 10010126,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 1,
+            "value1": 1
+        }
+    },
+    {
+        "pk": 10010127,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010002,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 2
+        }
+    },
+    {
+        "pk": 10010128,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010003,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 2,
+            "value1": 3
+        }
+    },
+    {
+        "pk": 10010129,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010004,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 4
+        }
+    },
+    {
+        "pk": 10010130,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010005,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 3,
+            "value1": 5
+        }
+    },
+    {
+        "pk": 10010131,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010006,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 4,
+            "value1": 6
+        }
+    },
+    {
+        "pk": 10010132,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010007,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 7
+        }
+    },
+    {
+        "pk": 10010133,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010008,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 5,
+            "value1": 8
+        }
+    },
+    {
+        "pk": 10010134,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010009,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 9
+        }
+    },
+    {
+        "pk": 10010135,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010010,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 6,
+            "value1": 10
+        }
+    },
+    {
+        "pk": 10010136,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010011,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 7,
+            "value1": 11
+        }
+    },
+    {
+        "pk": 10010137,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010012,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 12
+        }
+    },
+    {
+        "pk": 10010138,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010013,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 8,
+            "value1": 13
+        }
+    },
+    {
+        "pk": 10010139,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010014,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 14
+        }
+    },
+    {
+        "pk": 10010140,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010015,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 9,
+            "value1": 15
+        }
+    },
+    {
+        "pk": 10010141,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010016,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 10,
+            "value1": 16
+        }
+    },
+    {
+        "pk": 10010142,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010017,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 17
+        }
+    },
+    {
+        "pk": 10010143,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010018,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 11,
+            "value1": 18
+        }
+    },
+    {
+        "pk": 10010144,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010019,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 19
+        }
+    },
+    {
+        "pk": 10010145,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010020,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 12,
+            "value1": 20
+        }
+    },
+    {
+        "pk": 10010146,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010021,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 13,
+            "value1": 21
+        }
+    },
+    {
+        "pk": 10010147,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010022,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 22
+        }
+    },
+    {
+        "pk": 10010148,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010023,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 14,
+            "value1": 23
+        }
+    },
+    {
+        "pk": 10010149,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010024,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 24
+        }
+    },
+    {
+        "pk": 10010150,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010025,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010006,
+            "value4": 0,
+            "value3": 2,
+            "value2": 15,
+            "value1": 25
+        }
+    },
+    {
+        "pk": 10010151,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 1,
+            "value1": 1
+        }
+    },
+    {
+        "pk": 10010152,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010002,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 2
+        }
+    },
+    {
+        "pk": 10010153,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010003,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 2,
+            "value1": 3
+        }
+    },
+    {
+        "pk": 10010154,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010004,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 4
+        }
+    },
+    {
+        "pk": 10010155,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010005,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 3,
+            "value1": 5
+        }
+    },
+    {
+        "pk": 10010156,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010006,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 4,
+            "value1": 6
+        }
+    },
+    {
+        "pk": 10010157,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010007,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 7
+        }
+    },
+    {
+        "pk": 10010158,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010008,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 5,
+            "value1": 8
+        }
+    },
+    {
+        "pk": 10010159,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010009,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 9
+        }
+    },
+    {
+        "pk": 10010160,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010010,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 6,
+            "value1": 10
+        }
+    },
+    {
+        "pk": 10010161,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010011,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 7,
+            "value1": 11
+        }
+    },
+    {
+        "pk": 10010162,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010012,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 12
+        }
+    },
+    {
+        "pk": 10010163,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010013,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 8,
+            "value1": 13
+        }
+    },
+    {
+        "pk": 10010164,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010014,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 14
+        }
+    },
+    {
+        "pk": 10010165,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010015,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 9,
+            "value1": 15
+        }
+    },
+    {
+        "pk": 10010166,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010016,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 10,
+            "value1": 16
+        }
+    },
+    {
+        "pk": 10010167,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010017,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 17
+        }
+    },
+    {
+        "pk": 10010168,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010018,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 11,
+            "value1": 18
+        }
+    },
+    {
+        "pk": 10010169,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010019,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 19
+        }
+    },
+    {
+        "pk": 10010170,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010020,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 12,
+            "value1": 20
+        }
+    },
+    {
+        "pk": 10010171,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010021,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 13,
+            "value1": 21
+        }
+    },
+    {
+        "pk": 10010172,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010022,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 22
+        }
+    },
+    {
+        "pk": 10010173,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010023,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 14,
+            "value1": 23
+        }
+    },
+    {
+        "pk": 10010174,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010024,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 24
+        }
+    },
+    {
+        "pk": 10010175,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010025,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010007,
+            "value4": 0,
+            "value3": 2,
+            "value2": 15,
+            "value1": 25
+        }
+    },
+    {
+        "pk": 10010176,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 1,
+            "value1": 1
+        }
+    },
+    {
+        "pk": 10010177,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010002,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 2
+        }
+    },
+    {
+        "pk": 10010178,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010003,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 2,
+            "value1": 3
+        }
+    },
+    {
+        "pk": 10010179,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010004,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 4
+        }
+    },
+    {
+        "pk": 10010180,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010005,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 3,
+            "value1": 5
+        }
+    },
+    {
+        "pk": 10010181,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010006,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 4,
+            "value1": 6
+        }
+    },
+    {
+        "pk": 10010182,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010007,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 7
+        }
+    },
+    {
+        "pk": 10010183,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010008,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 5,
+            "value1": 8
+        }
+    },
+    {
+        "pk": 10010184,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010009,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 9
+        }
+    },
+    {
+        "pk": 10010185,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010010,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 6,
+            "value1": 10
+        }
+    },
+    {
+        "pk": 10010186,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010011,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 7,
+            "value1": 11
+        }
+    },
+    {
+        "pk": 10010187,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010012,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 12
+        }
+    },
+    {
+        "pk": 10010188,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010013,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 8,
+            "value1": 13
+        }
+    },
+    {
+        "pk": 10010189,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010014,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 14
+        }
+    },
+    {
+        "pk": 10010190,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010015,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 9,
+            "value1": 15
+        }
+    },
+    {
+        "pk": 10010191,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010016,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 10,
+            "value1": 16
+        }
+    },
+    {
+        "pk": 10010192,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010017,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 17
+        }
+    },
+    {
+        "pk": 10010193,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010018,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 11,
+            "value1": 18
+        }
+    },
+    {
+        "pk": 10010194,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010019,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 19
+        }
+    },
+    {
+        "pk": 10010195,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010020,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 12,
+            "value1": 20
+        }
+    },
+    {
+        "pk": 10010196,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010021,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 13,
+            "value1": 21
+        }
+    },
+    {
+        "pk": 10010197,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010022,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 22
+        }
+    },
+    {
+        "pk": 10010198,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010023,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 14,
+            "value1": 23
+        }
+    },
+    {
+        "pk": 10010199,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010024,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 24
+        }
+    },
+    {
+        "pk": 10010200,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010025,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010008,
+            "value4": 0,
+            "value3": 2,
+            "value2": 15,
+            "value1": 25
+        }
+    },
+    {
+        "pk": 10010201,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 1,
+            "value1": 1
+        }
+    },
+    {
+        "pk": 10010202,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010002,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 2
+        }
+    },
+    {
+        "pk": 10010203,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010003,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 2,
+            "value1": 3
+        }
+    },
+    {
+        "pk": 10010204,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010004,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 4
+        }
+    },
+    {
+        "pk": 10010205,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010005,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 3,
+            "value1": 5
+        }
+    },
+    {
+        "pk": 10010206,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010006,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 4,
+            "value1": 6
+        }
+    },
+    {
+        "pk": 10010207,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010007,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 7
+        }
+    },
+    {
+        "pk": 10010208,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010008,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 5,
+            "value1": 8
+        }
+    },
+    {
+        "pk": 10010209,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010009,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 9
+        }
+    },
+    {
+        "pk": 10010210,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010010,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 6,
+            "value1": 10
+        }
+    },
+    {
+        "pk": 10010211,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010011,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 7,
+            "value1": 11
+        }
+    },
+    {
+        "pk": 10010212,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010012,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 12
+        }
+    },
+    {
+        "pk": 10010213,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010013,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 8,
+            "value1": 13
+        }
+    },
+    {
+        "pk": 10010214,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010014,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 14
+        }
+    },
+    {
+        "pk": 10010215,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010015,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 9,
+            "value1": 15
+        }
+    },
+    {
+        "pk": 10010216,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010016,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 10,
+            "value1": 16
+        }
+    },
+    {
+        "pk": 10010217,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010017,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 17
+        }
+    },
+    {
+        "pk": 10010218,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010018,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 11,
+            "value1": 18
+        }
+    },
+    {
+        "pk": 10010219,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010019,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 19
+        }
+    },
+    {
+        "pk": 10010220,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010020,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 12,
+            "value1": 20
+        }
+    },
+    {
+        "pk": 10010221,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010021,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 13,
+            "value1": 21
+        }
+    },
+    {
+        "pk": 10010222,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010022,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 22
+        }
+    },
+    {
+        "pk": 10010223,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010023,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 14,
+            "value1": 23
+        }
+    },
+    {
+        "pk": 10010224,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010024,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 24
+        }
+    },
+    {
+        "pk": 10010225,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010025,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010009,
+            "value4": 0,
+            "value3": 2,
+            "value2": 15,
+            "value1": 25
+        }
+    },
+    {
+        "pk": 10010226,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 1,
+            "value1": 1
+        }
+    },
+    {
+        "pk": 10010227,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010002,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 2
+        }
+    },
+    {
+        "pk": 10010228,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010003,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 2,
+            "value1": 3
+        }
+    },
+    {
+        "pk": 10010229,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010004,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 4
+        }
+    },
+    {
+        "pk": 10010230,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010005,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 3,
+            "value1": 5
+        }
+    },
+    {
+        "pk": 10010231,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010006,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 4,
+            "value1": 6
+        }
+    },
+    {
+        "pk": 10010232,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010007,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 7
+        }
+    },
+    {
+        "pk": 10010233,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010008,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 5,
+            "value1": 8
+        }
+    },
+    {
+        "pk": 10010234,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010009,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 9
+        }
+    },
+    {
+        "pk": 10010235,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010010,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 6,
+            "value1": 10
+        }
+    },
+    {
+        "pk": 10010236,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010011,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 7,
+            "value1": 11
+        }
+    },
+    {
+        "pk": 10010237,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010012,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 12
+        }
+    },
+    {
+        "pk": 10010238,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010013,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 8,
+            "value1": 13
+        }
+    },
+    {
+        "pk": 10010239,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010014,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 14
+        }
+    },
+    {
+        "pk": 10010240,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010015,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 9,
+            "value1": 15
+        }
+    },
+    {
+        "pk": 10010241,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010016,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 10,
+            "value1": 16
+        }
+    },
+    {
+        "pk": 10010242,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010017,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 17
+        }
+    },
+    {
+        "pk": 10010243,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010018,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 11,
+            "value1": 18
+        }
+    },
+    {
+        "pk": 10010244,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010019,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 19
+        }
+    },
+    {
+        "pk": 10010245,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010020,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 12,
+            "value1": 20
+        }
+    },
+    {
+        "pk": 10010246,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010021,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 13,
+            "value1": 21
+        }
+    },
+    {
+        "pk": 10010247,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010022,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 22
+        }
+    },
+    {
+        "pk": 10010248,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010023,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 14,
+            "value1": 23
+        }
+    },
+    {
+        "pk": 10010249,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010024,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 24
+        }
+    },
+    {
+        "pk": 10010250,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010025,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010010,
+            "value4": 0,
+            "value3": 2,
+            "value2": 15,
+            "value1": 25
+        }
+    },
+    {
+        "pk": 10010251,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 1,
+            "value1": 1
+        }
+    },
+    {
+        "pk": 10010252,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010002,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 2
+        }
+    },
+    {
+        "pk": 10010253,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010003,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 2,
+            "value1": 3
+        }
+    },
+    {
+        "pk": 10010254,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010004,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 4
+        }
+    },
+    {
+        "pk": 10010255,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010005,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 3,
+            "value1": 5
+        }
+    },
+    {
+        "pk": 10010256,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010006,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 4,
+            "value1": 6
+        }
+    },
+    {
+        "pk": 10010257,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010007,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 7
+        }
+    },
+    {
+        "pk": 10010258,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010008,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 5,
+            "value1": 8
+        }
+    },
+    {
+        "pk": 10010259,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010009,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 9
+        }
+    },
+    {
+        "pk": 10010260,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010010,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 6,
+            "value1": 10
+        }
+    },
+    {
+        "pk": 10010261,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010011,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 7,
+            "value1": 11
+        }
+    },
+    {
+        "pk": 10010262,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010012,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 12
+        }
+    },
+    {
+        "pk": 10010263,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010013,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 8,
+            "value1": 13
+        }
+    },
+    {
+        "pk": 10010264,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010014,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 14
+        }
+    },
+    {
+        "pk": 10010265,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010015,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 9,
+            "value1": 15
+        }
+    },
+    {
+        "pk": 10010266,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010016,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 10,
+            "value1": 16
+        }
+    },
+    {
+        "pk": 10010267,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010017,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 17
+        }
+    },
+    {
+        "pk": 10010268,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010018,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 11,
+            "value1": 18
+        }
+    },
+    {
+        "pk": 10010269,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010019,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 19
+        }
+    },
+    {
+        "pk": 10010270,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010020,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 12,
+            "value1": 20
+        }
+    },
+    {
+        "pk": 10010271,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010021,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 13,
+            "value1": 21
+        }
+    },
+    {
+        "pk": 10010272,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010022,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 22
+        }
+    },
+    {
+        "pk": 10010273,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010023,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 14,
+            "value1": 23
+        }
+    },
+    {
+        "pk": 10010274,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010024,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 24
+        }
+    },
+    {
+        "pk": 10010275,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010025,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010011,
+            "value4": 0,
+            "value3": 2,
+            "value2": 15,
+            "value1": 25
+        }
+    },
+    {
+        "pk": 10010276,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010001,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 1,
+            "value1": 1
+        }
+    },
+    {
+        "pk": 10010277,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010002,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 2
+        }
+    },
+    {
+        "pk": 10010278,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010003,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 2,
+            "value1": 3
+        }
+    },
+    {
+        "pk": 10010279,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010004,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 4
+        }
+    },
+    {
+        "pk": 10010280,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010005,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 3,
+            "value1": 5
+        }
+    },
+    {
+        "pk": 10010281,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010006,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 4,
+            "value1": 6
+        }
+    },
+    {
+        "pk": 10010282,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010007,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 7
+        }
+    },
+    {
+        "pk": 10010283,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010008,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 5,
+            "value1": 8
+        }
+    },
+    {
+        "pk": 10010284,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010009,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 9
+        }
+    },
+    {
+        "pk": 10010285,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010010,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 6,
+            "value1": 10
+        }
+    },
+    {
+        "pk": 10010286,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010011,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 7,
+            "value1": 11
+        }
+    },
+    {
+        "pk": 10010287,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010012,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 12
+        }
+    },
+    {
+        "pk": 10010288,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010013,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 8,
+            "value1": 13
+        }
+    },
+    {
+        "pk": 10010289,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010014,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 14
+        }
+    },
+    {
+        "pk": 10010290,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010015,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 9,
+            "value1": 15
+        }
+    },
+    {
+        "pk": 10010291,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010016,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 10,
+            "value1": 16
+        }
+    },
+    {
+        "pk": 10010292,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010017,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 17
+        }
+    },
+    {
+        "pk": 10010293,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010018,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 11,
+            "value1": 18
+        }
+    },
+    {
+        "pk": 10010294,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010019,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 19
+        }
+    },
+    {
+        "pk": 10010295,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010020,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 12,
+            "value1": 20
+        }
+    },
+    {
+        "pk": 10010296,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010021,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 13,
+            "value1": 21
+        }
+    },
+    {
+        "pk": 10010297,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010022,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 22
+        }
+    },
+    {
+        "pk": 10010298,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010023,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 14,
+            "value1": 23
+        }
+    },
+    {
+        "pk": 10010299,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010024,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 1,
+            "value2": 0,
+            "value1": 24
+        }
+    },
+    {
+        "pk": 10010300,
+        "model": "activity.activityrule",
+        "fields": {
+            "giftBagId": 10010025,
+            "value5": 0,
+            "value6": 0,
+            "activityId": 10010012,
+            "value4": 0,
+            "value3": 2,
+            "value2": 15,
+            "value1": 25
+        }
+    }
+]

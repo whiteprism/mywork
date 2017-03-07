@@ -1,0 +1,28 @@
+
+table:
+  out-type: json
+  sheet: 公会拍卖物品
+  row: 3
+  model: guild.guildauctionreward
+  columns:
+    - name: basePrice
+      column: basePrice
+      type: int
+      default: 0
+
+    - name: stepPrice
+      column: stepPrice
+      type: int
+      default: 0
+
+    - name: maxPrice
+      column: maxPrice
+      type: int
+      default: 0
+
+    - name: rewardId
+      column: rewardId
+      type: char
+      default: ""
+
+

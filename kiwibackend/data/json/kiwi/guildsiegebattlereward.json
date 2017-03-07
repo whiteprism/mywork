@@ -1,0 +1,482 @@
+[
+    {
+        "pk": 1,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c5.2,t770000c840",
+            "rewardIds9_str": "t510000c9.4,t770000c980",
+            "rewardIds8_str": "t510000c8.8,t770000c960",
+            "rewardIds7_str": "t510000c8.2,t770000c940",
+            "rewardIds5_str": "t510000c7,t770000c900",
+            "rewardIds4_str": "t510000c6.4,t770000c880",
+            "rewardIds3_str": "t510000c5.8,t770000c860",
+            "rewardIds10_str": "t510000c10,t770000c1000",
+            "rewardIds1_str": "t510000c4.6,t770000c820",
+            "rewardIds6_str": "t510000c7.6,t770000c920"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c6.24,t770000c840",
+            "rewardIds9_str": "t510000c11.28,t770000c980",
+            "rewardIds8_str": "t510000c10.56,t770000c960",
+            "rewardIds7_str": "t510000c9.84,t770000c940",
+            "rewardIds5_str": "t510000c8.4,t770000c900",
+            "rewardIds4_str": "t510000c7.68,t770000c880",
+            "rewardIds3_str": "t510000c6.96,t770000c860",
+            "rewardIds10_str": "t510000c12,t770000c1000",
+            "rewardIds1_str": "t510000c5.52,t770000c820",
+            "rewardIds6_str": "t510000c9.12,t770000c920"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c7.28,t770000c840",
+            "rewardIds9_str": "t510000c13.16,t770000c980",
+            "rewardIds8_str": "t510000c12.32,t770000c960",
+            "rewardIds7_str": "t510000c11.48,t770000c940",
+            "rewardIds5_str": "t510000c9.8,t770000c900",
+            "rewardIds4_str": "t510000c8.96,t770000c880",
+            "rewardIds3_str": "t510000c8.12,t770000c860",
+            "rewardIds10_str": "t510000c14,t770000c1000",
+            "rewardIds1_str": "t510000c6.44,t770000c820",
+            "rewardIds6_str": "t510000c10.64,t770000c920"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c8.32,t770000c840",
+            "rewardIds9_str": "t510000c15.04,t770000c980",
+            "rewardIds8_str": "t510000c14.08,t770000c960",
+            "rewardIds7_str": "t510000c13.12,t770000c940",
+            "rewardIds5_str": "t510000c11.2,t770000c900",
+            "rewardIds4_str": "t510000c10.24,t770000c880",
+            "rewardIds3_str": "t510000c9.28,t770000c860",
+            "rewardIds10_str": "t510000c16,t770000c1000",
+            "rewardIds1_str": "t510000c7.36,t770000c820",
+            "rewardIds6_str": "t510000c12.16,t770000c920"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c9.36,t770000c840",
+            "rewardIds9_str": "t510000c16.92,t770000c980",
+            "rewardIds8_str": "t510000c15.84,t770000c960",
+            "rewardIds7_str": "t510000c14.76,t770000c940",
+            "rewardIds5_str": "t510000c12.6,t770000c900",
+            "rewardIds4_str": "t510000c11.52,t770000c880",
+            "rewardIds3_str": "t510000c10.44,t770000c860",
+            "rewardIds10_str": "t510000c18,t770000c1000",
+            "rewardIds1_str": "t510000c8.28,t770000c820",
+            "rewardIds6_str": "t510000c13.68,t770000c920"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c10.4,t770000c840",
+            "rewardIds9_str": "t510000c18.8,t770000c980",
+            "rewardIds8_str": "t510000c17.6,t770000c960",
+            "rewardIds7_str": "t510000c16.4,t770000c940",
+            "rewardIds5_str": "t510000c14,t770000c900",
+            "rewardIds4_str": "t510000c12.8,t770000c880",
+            "rewardIds3_str": "t510000c11.6,t770000c860",
+            "rewardIds10_str": "t510000c20,t770000c1000",
+            "rewardIds1_str": "t510000c9.2,t770000c820",
+            "rewardIds6_str": "t510000c15.2,t770000c920"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c13,t770000c840",
+            "rewardIds9_str": "t510000c23.5,t770000c980",
+            "rewardIds8_str": "t510000c22,t770000c960",
+            "rewardIds7_str": "t510000c20.5,t770000c940",
+            "rewardIds5_str": "t510000c17.5,t770000c900",
+            "rewardIds4_str": "t510000c16,t770000c880",
+            "rewardIds3_str": "t510000c14.5,t770000c860",
+            "rewardIds10_str": "t510000c25,t770000c1000",
+            "rewardIds1_str": "t510000c11.5,t770000c820",
+            "rewardIds6_str": "t510000c19,t770000c920"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c15.6,t770000c840",
+            "rewardIds9_str": "t510000c28.2,t770000c980",
+            "rewardIds8_str": "t510000c26.4,t770000c960",
+            "rewardIds7_str": "t510000c24.6,t770000c940",
+            "rewardIds5_str": "t510000c21,t770000c900",
+            "rewardIds4_str": "t510000c19.2,t770000c880",
+            "rewardIds3_str": "t510000c17.4,t770000c860",
+            "rewardIds10_str": "t510000c30,t770000c1000",
+            "rewardIds1_str": "t510000c13.8,t770000c820",
+            "rewardIds6_str": "t510000c22.8,t770000c920"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c18.2,t770000c840",
+            "rewardIds9_str": "t510000c32.9,t770000c980",
+            "rewardIds8_str": "t510000c30.8,t770000c960",
+            "rewardIds7_str": "t510000c28.7,t770000c940",
+            "rewardIds5_str": "t510000c24.5,t770000c900",
+            "rewardIds4_str": "t510000c22.4,t770000c880",
+            "rewardIds3_str": "t510000c20.3,t770000c860",
+            "rewardIds10_str": "t510000c35,t770000c1000",
+            "rewardIds1_str": "t510000c16.1,t770000c820",
+            "rewardIds6_str": "t510000c26.6,t770000c920"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c20.8,t770000c840",
+            "rewardIds9_str": "t510000c37.6,t770000c980",
+            "rewardIds8_str": "t510000c35.2,t770000c960",
+            "rewardIds7_str": "t510000c32.8,t770000c940",
+            "rewardIds5_str": "t510000c28,t770000c900",
+            "rewardIds4_str": "t510000c25.6,t770000c880",
+            "rewardIds3_str": "t510000c23.2,t770000c860",
+            "rewardIds10_str": "t510000c40,t770000c1000",
+            "rewardIds1_str": "t510000c18.4,t770000c820",
+            "rewardIds6_str": "t510000c30.4,t770000c920"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c23.4,t770000c840",
+            "rewardIds9_str": "t510000c42.3,t770000c980",
+            "rewardIds8_str": "t510000c39.6,t770000c960",
+            "rewardIds7_str": "t510000c36.9,t770000c940",
+            "rewardIds5_str": "t510000c31.5,t770000c900",
+            "rewardIds4_str": "t510000c28.8,t770000c880",
+            "rewardIds3_str": "t510000c26.1,t770000c860",
+            "rewardIds10_str": "t510000c45,t770000c1000",
+            "rewardIds1_str": "t510000c20.7,t770000c820",
+            "rewardIds6_str": "t510000c34.2,t770000c920"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c26,t770000c840",
+            "rewardIds9_str": "t510000c47,t770000c980",
+            "rewardIds8_str": "t510000c44,t770000c960",
+            "rewardIds7_str": "t510000c41,t770000c940",
+            "rewardIds5_str": "t510000c35,t770000c900",
+            "rewardIds4_str": "t510000c32,t770000c880",
+            "rewardIds3_str": "t510000c29,t770000c860",
+            "rewardIds10_str": "t510000c50,t770000c1000",
+            "rewardIds1_str": "t510000c23,t770000c820",
+            "rewardIds6_str": "t510000c38,t770000c920"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c31.2,t770000c1260",
+            "rewardIds9_str": "t510000c56.4,t770000c1470",
+            "rewardIds8_str": "t510000c52.8,t770000c1440",
+            "rewardIds7_str": "t510000c49.2,t770000c1410",
+            "rewardIds5_str": "t510000c42,t770000c1350",
+            "rewardIds4_str": "t510000c38.4,t770000c1320",
+            "rewardIds3_str": "t510000c34.8,t770000c1290",
+            "rewardIds10_str": "t510000c60,t770000c1500",
+            "rewardIds1_str": "t510000c27.6,t770000c1230",
+            "rewardIds6_str": "t510000c45.6,t770000c1380"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c41.6,t770000c1680",
+            "rewardIds9_str": "t510000c75.2,t770000c1960",
+            "rewardIds8_str": "t510000c70.4,t770000c1920",
+            "rewardIds7_str": "t510000c65.6,t770000c1880",
+            "rewardIds5_str": "t510000c56,t770000c1800",
+            "rewardIds4_str": "t510000c51.2,t770000c1760",
+            "rewardIds3_str": "t510000c46.4,t770000c1720",
+            "rewardIds10_str": "t510000c80,t770000c2000",
+            "rewardIds1_str": "t510000c36.8,t770000c1640",
+            "rewardIds6_str": "t510000c60.8,t770000c1840"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c52,t770000c2100",
+            "rewardIds9_str": "t510000c94,t770000c2450",
+            "rewardIds8_str": "t510000c88,t770000c2400",
+            "rewardIds7_str": "t510000c82,t770000c2350",
+            "rewardIds5_str": "t510000c70,t770000c2250",
+            "rewardIds4_str": "t510000c64,t770000c2200",
+            "rewardIds3_str": "t510000c58,t770000c2150",
+            "rewardIds10_str": "t510000c100,t770000c2500",
+            "rewardIds1_str": "t510000c46,t770000c2050",
+            "rewardIds6_str": "t510000c76,t770000c2300"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c70.2,t770000c2520",
+            "rewardIds9_str": "t510000c126.9,t770000c2940",
+            "rewardIds8_str": "t510000c118.8,t770000c2880",
+            "rewardIds7_str": "t510000c110.7,t770000c2820",
+            "rewardIds5_str": "t510000c94.5,t770000c2700",
+            "rewardIds4_str": "t510000c86.4,t770000c2640",
+            "rewardIds3_str": "t510000c78.3,t770000c2580",
+            "rewardIds10_str": "t510000c135,t770000c3000",
+            "rewardIds1_str": "t510000c62.1,t770000c2460",
+            "rewardIds6_str": "t510000c102.6,t770000c2760"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c88.4,t770000c2940",
+            "rewardIds9_str": "t510000c159.8,t770000c3430",
+            "rewardIds8_str": "t510000c149.6,t770000c3360",
+            "rewardIds7_str": "t510000c139.4,t770000c3290",
+            "rewardIds5_str": "t510000c119,t770000c3150",
+            "rewardIds4_str": "t510000c108.8,t770000c3080",
+            "rewardIds3_str": "t510000c98.6,t770000c3010",
+            "rewardIds10_str": "t510000c170,t770000c3500",
+            "rewardIds1_str": "t510000c78.2,t770000c2870",
+            "rewardIds6_str": "t510000c129.2,t770000c3220"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c109.2,t770000c3360",
+            "rewardIds9_str": "t510000c197.4,t770000c3920",
+            "rewardIds8_str": "t510000c184.8,t770000c3840",
+            "rewardIds7_str": "t510000c172.2,t770000c3760",
+            "rewardIds5_str": "t510000c147,t770000c3600",
+            "rewardIds4_str": "t510000c134.4,t770000c3520",
+            "rewardIds3_str": "t510000c121.8,t770000c3440",
+            "rewardIds10_str": "t510000c210,t770000c4000",
+            "rewardIds1_str": "t510000c96.6,t770000c3280",
+            "rewardIds6_str": "t510000c159.6,t770000c3680"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c137.8,t770000c3780",
+            "rewardIds9_str": "t510000c249.1,t770000c4410",
+            "rewardIds8_str": "t510000c233.2,t770000c4320",
+            "rewardIds7_str": "t510000c217.3,t770000c4230",
+            "rewardIds5_str": "t510000c185.5,t770000c4050",
+            "rewardIds4_str": "t510000c169.6,t770000c3960",
+            "rewardIds3_str": "t510000c153.7,t770000c3870",
+            "rewardIds10_str": "t510000c265,t770000c4500",
+            "rewardIds1_str": "t510000c121.9,t770000c3690",
+            "rewardIds6_str": "t510000c201.4,t770000c4140"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c166.4,t770000c4200",
+            "rewardIds9_str": "t510000c300.8,t770000c4900",
+            "rewardIds8_str": "t510000c281.6,t770000c4800",
+            "rewardIds7_str": "t510000c262.4,t770000c4700",
+            "rewardIds5_str": "t510000c224,t770000c4500",
+            "rewardIds4_str": "t510000c204.8,t770000c4400",
+            "rewardIds3_str": "t510000c185.6,t770000c4300",
+            "rewardIds10_str": "t510000c320,t770000c5000",
+            "rewardIds1_str": "t510000c147.2,t770000c4100",
+            "rewardIds6_str": "t510000c243.2,t770000c4600"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c197.6,t770000c4620",
+            "rewardIds9_str": "t510000c357.2,t770000c5390",
+            "rewardIds8_str": "t510000c334.4,t770000c5280",
+            "rewardIds7_str": "t510000c311.6,t770000c5170",
+            "rewardIds5_str": "t510000c266,t770000c4950",
+            "rewardIds4_str": "t510000c243.2,t770000c4840",
+            "rewardIds3_str": "t510000c220.4,t770000c4730",
+            "rewardIds10_str": "t510000c380,t770000c5500",
+            "rewardIds1_str": "t510000c174.8,t770000c4510",
+            "rewardIds6_str": "t510000c288.8,t770000c5060"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c228.8,t770000c5040",
+            "rewardIds9_str": "t510000c413.6,t770000c5880",
+            "rewardIds8_str": "t510000c387.2,t770000c5760",
+            "rewardIds7_str": "t510000c360.8,t770000c5640",
+            "rewardIds5_str": "t510000c308,t770000c5400",
+            "rewardIds4_str": "t510000c281.6,t770000c5280",
+            "rewardIds3_str": "t510000c255.2,t770000c5160",
+            "rewardIds10_str": "t510000c440,t770000c6000",
+            "rewardIds1_str": "t510000c202.4,t770000c4920",
+            "rewardIds6_str": "t510000c334.4,t770000c5520"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c260,t770000c5460",
+            "rewardIds9_str": "t510000c470,t770000c6370",
+            "rewardIds8_str": "t510000c440,t770000c6240",
+            "rewardIds7_str": "t510000c410,t770000c6110",
+            "rewardIds5_str": "t510000c350,t770000c5850",
+            "rewardIds4_str": "t510000c320,t770000c5720",
+            "rewardIds3_str": "t510000c290,t770000c5590",
+            "rewardIds10_str": "t510000c500,t770000c6500",
+            "rewardIds1_str": "t510000c230,t770000c5330",
+            "rewardIds6_str": "t510000c380,t770000c5980"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c293.8,t770000c5880",
+            "rewardIds9_str": "t510000c531.1,t770000c6860",
+            "rewardIds8_str": "t510000c497.2,t770000c6720",
+            "rewardIds7_str": "t510000c463.3,t770000c6580",
+            "rewardIds5_str": "t510000c395.5,t770000c6300",
+            "rewardIds4_str": "t510000c361.6,t770000c6160",
+            "rewardIds3_str": "t510000c327.7,t770000c6020",
+            "rewardIds10_str": "t510000c565,t770000c7000",
+            "rewardIds1_str": "t510000c259.9,t770000c5740",
+            "rewardIds6_str": "t510000c429.4,t770000c6440"
+        }
+    },
+    {
+        "pk": 25,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c327.6,t770000c6300",
+            "rewardIds9_str": "t510000c592.2,t770000c7350",
+            "rewardIds8_str": "t510000c554.4,t770000c7200",
+            "rewardIds7_str": "t510000c516.6,t770000c7050",
+            "rewardIds5_str": "t510000c441,t770000c6750",
+            "rewardIds4_str": "t510000c403.2,t770000c6600",
+            "rewardIds3_str": "t510000c365.4,t770000c6450",
+            "rewardIds10_str": "t510000c630,t770000c7500",
+            "rewardIds1_str": "t510000c289.8,t770000c6150",
+            "rewardIds6_str": "t510000c478.8,t770000c6900"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c369.2,t770000c6720",
+            "rewardIds9_str": "t510000c667.4,t770000c7840",
+            "rewardIds8_str": "t510000c624.8,t770000c7680",
+            "rewardIds7_str": "t510000c582.2,t770000c7520",
+            "rewardIds5_str": "t510000c497,t770000c7200",
+            "rewardIds4_str": "t510000c454.4,t770000c7040",
+            "rewardIds3_str": "t510000c411.8,t770000c6880",
+            "rewardIds10_str": "t510000c710,t770000c8000",
+            "rewardIds1_str": "t510000c326.6,t770000c6560",
+            "rewardIds6_str": "t510000c539.6,t770000c7360"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c413.4,t770000c7140",
+            "rewardIds9_str": "t510000c747.3,t770000c8330",
+            "rewardIds8_str": "t510000c699.6,t770000c8160",
+            "rewardIds7_str": "t510000c651.9,t770000c7990",
+            "rewardIds5_str": "t510000c556.5,t770000c7650",
+            "rewardIds4_str": "t510000c508.8,t770000c7480",
+            "rewardIds3_str": "t510000c461.1,t770000c7310",
+            "rewardIds10_str": "t510000c795,t770000c8500",
+            "rewardIds1_str": "t510000c365.7,t770000c6970",
+            "rewardIds6_str": "t510000c604.2,t770000c7820"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c462.8,t770000c7560",
+            "rewardIds9_str": "t510000c836.6,t770000c8820",
+            "rewardIds8_str": "t510000c783.2,t770000c8640",
+            "rewardIds7_str": "t510000c729.8,t770000c8460",
+            "rewardIds5_str": "t510000c623,t770000c8100",
+            "rewardIds4_str": "t510000c569.6,t770000c7920",
+            "rewardIds3_str": "t510000c516.2,t770000c7740",
+            "rewardIds10_str": "t510000c890,t770000c9000",
+            "rewardIds1_str": "t510000c409.4,t770000c7380",
+            "rewardIds6_str": "t510000c676.4,t770000c8280"
+        }
+    },
+    {
+        "pk": 29,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c520,t770000c7980",
+            "rewardIds9_str": "t510000c940,t770000c9310",
+            "rewardIds8_str": "t510000c880,t770000c9120",
+            "rewardIds7_str": "t510000c820,t770000c8930",
+            "rewardIds5_str": "t510000c700,t770000c8550",
+            "rewardIds4_str": "t510000c640,t770000c8360",
+            "rewardIds3_str": "t510000c580,t770000c8170",
+            "rewardIds10_str": "t510000c1000,t770000c9500",
+            "rewardIds1_str": "t510000c460,t770000c7790",
+            "rewardIds6_str": "t510000c760,t770000c8740"
+        }
+    },
+    {
+        "pk": 30,
+        "model": "guild.guildsiegebattlereward",
+        "fields": {
+            "rewardIds2_str": "t510000c572,t770000c8400",
+            "rewardIds9_str": "t510000c1034,t770000c9800",
+            "rewardIds8_str": "t510000c968,t770000c9600",
+            "rewardIds7_str": "t510000c902,t770000c9400",
+            "rewardIds5_str": "t510000c770,t770000c9000",
+            "rewardIds4_str": "t510000c704,t770000c8800",
+            "rewardIds3_str": "t510000c638,t770000c8600",
+            "rewardIds10_str": "t510000c1100,t770000c10000",
+            "rewardIds1_str": "t510000c506,t770000c8200",
+            "rewardIds6_str": "t510000c836,t770000c9200"
+        }
+    }
+]

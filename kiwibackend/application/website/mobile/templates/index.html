@@ -1,0 +1,50 @@
+ {% extends 'base.html' %}
+  {%block content%}
+ <!--上传Excel-->
+    <form id="upload" action="/xls/upload/" method="POST" enctype="multipart/form-data" >
+        <table>
+            <tr>
+                <td> 上传kiwi_ios.xlsx: </td>
+            </tr>
+            <tr>
+                <td> <input id = "upload1" name="xls" type="file"/> </td>
+            </tr>
+            <tr>
+                <td> <input id="upload2" type="submit" value="上传"> </td>
+            </tr>
+        </table>
+    </form>
+ <br>
+ <br>
+ <!--make json-->
+    <form id="make" action="/xls/make/" method="POST">
+        将Excel数据转换为Json:<br>
+        <table>
+            <tr>
+            {% for module in module_name %}
+            {% if forloop.counter|divisibleby:4 %}
+                <td>{{ forloop.counter }}<input id="{{ module }}" name="module_name" type="checkbox" value="{{ module }}" />{{ module }}&nbsp&nbsp&nbsp&nbsp</td></tr><tr>
+            {% else %}
+                <td>{{ forloop.counter }}<input id="{{ module }}" name="module_name" type="checkbox" value="{{ module }}" />{{ module }}&nbsp&nbsp&nbsp&nbsp</td>
+            {% endif %}
+            {% endfor %}
+            </tr>
+        </table>
+        <br/>
+        <input type="submit" value="生成json">  (若不选中任何模块则为make、load所有)
+    </form>
+ <br>
+ <br>
+ <!--load data-->
+    <form action="/xls/load/" method="POST">
+        将Json数据导入数据库：
+        <input type="submit" value="导入">
+    </form>
+ <br>
+ <br>
+ <!--reload server-->
+    <form action="/xls/reload/" method="POST">
+        重启服务器:
+        <input type="submit" value="重启">
+    </form>
+{%endblock%}

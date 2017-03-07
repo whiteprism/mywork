@@ -1,0 +1,48 @@
+
+table:
+  out-type: json
+  sheet: 技能特效详细
+  row: 3
+  model: skill.skilleffectdetail
+  columns:
+    - name: skill_id
+      column: skill_id
+      type: int
+
+    - name: followPoint
+      column: followPoint
+      type: int
+
+    - name: socketIndex
+      column: socketIndex
+      type: int
+
+    - name: startDelay
+      column: startDelay
+      type: float
+
+    - name: startEffectName
+      column: startEffectName
+      type: char
+      default: ""
+
+    - name: startPositionX
+      column: startPositionX
+      type: float
+      default: 0.0
+
+    - name: startPositionY
+      column: startPositionY
+      type: float
+      default: 0.0
+
+    - name: startPositionZ
+      column: startPositionZ
+      type: float
+      default: 0.0
+
+    - name: survivalTime
+      column: survivalTime
+      type: float
+
+

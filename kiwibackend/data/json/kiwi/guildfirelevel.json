@@ -1,0 +1,72 @@
+[
+    {
+        "pk": 1,
+        "model": "guild.guildfirelevel",
+        "fields": {
+            "xp": 4800000
+        }
+    },
+    {
+        "pk": 2,
+        "model": "guild.guildfirelevel",
+        "fields": {
+            "xp": 24000000
+        }
+    },
+    {
+        "pk": 3,
+        "model": "guild.guildfirelevel",
+        "fields": {
+            "xp": 57600000
+        }
+    },
+    {
+        "pk": 4,
+        "model": "guild.guildfirelevel",
+        "fields": {
+            "xp": 132000000
+        }
+    },
+    {
+        "pk": 5,
+        "model": "guild.guildfirelevel",
+        "fields": {
+            "xp": 226800000
+        }
+    },
+    {
+        "pk": 6,
+        "model": "guild.guildfirelevel",
+        "fields": {
+            "xp": 384000000
+        }
+    },
+    {
+        "pk": 7,
+        "model": "guild.guildfirelevel",
+        "fields": {
+            "xp": 592800000
+        }
+    },
+    {
+        "pk": 8,
+        "model": "guild.guildfirelevel",
+        "fields": {
+            "xp": 877200000
+        }
+    },
+    {
+        "pk": 9,
+        "model": "guild.guildfirelevel",
+        "fields": {
+            "xp": 1209600000
+        }
+    },
+    {
+        "pk": 10,
+        "model": "guild.guildfirelevel",
+        "fields": {
+            "xp": 2008800000
+        }
+    }
+]

@@ -1,0 +1,36 @@
+
+table:
+  out-type: json
+  sheet: packagecode
+  row: 3
+  model: package.packagecode
+  columns:
+    - name: package_id
+      column: package_id
+      type: char
+      default: ""
+
+    - name: is_use
+      column: is_use
+      type: int
+      default: 0
+
+    - name: use_serverid
+      column: use_serverid
+      type: char
+      default: ""
+
+    - name: use_playerid
+      column: use_playerid
+      type: int
+      default: 0
+
+    - name: created_at
+      column: created_at
+      type: char
+
+    - name: used_at
+      column: used_at
+      type: char
+
+

@@ -1,0 +1,73 @@
+
+table:
+  out-type: json
+  sheet: 技能条件详细
+  row: 3
+  model: skill.condition
+  columns:
+    - name: comparator
+      column: comparator
+      type: int
+      default: 0
+
+    - name: leftAbility
+      column: leftAbility
+      type: int
+      default: 0
+
+    - name: leftDouble
+      column: leftDouble
+      type: float
+      default: 0.0
+
+    - name: leftFloat
+      column: leftFloat
+      type: float
+      default: 0.0
+
+    - name: leftInt
+      column: leftInt
+      type: int
+      default: 0
+
+    - name: leftStr
+      column: leftStr
+      type: char
+      default: ""
+
+    - name: leftVarEnum
+      column: leftVarEnum
+      type: int
+      default: 0
+
+    - name: rightAbility
+      column: rightAbility
+      type: int
+      default: 0
+
+    - name: rightDouble
+      column: rightDouble
+      type: float
+      default: 0.0
+
+    - name: rightFloat
+      column: rightFloat
+      type: float
+      default: 0.0
+
+    - name: rightInt
+      column: rightInt
+      type: int
+      default: 0
+
+    - name: rightStr
+      column: rightStr
+      type: char
+      default: ""
+
+    - name: rightVarEnum
+      column: rightVarEnum
+      type: int
+      default: 0
+
+

@@ -1,0 +1,554 @@
+[
+    {
+        "pk": 10030001,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1003,
+            "name": "ActGift_10030001",
+            "level": 0,
+            "entryName_key": "ActGift_10030001",
+            "entryName_val": "10\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "rewards_int": "3001,3101,3201,3301"
+        }
+    },
+    {
+        "pk": 10030002,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1003,
+            "name": "ActGift_10030002",
+            "level": 0,
+            "entryName_key": "ActGift_10030002",
+            "entryName_val": "14\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "rewards_int": "3002,3102,3202,3302"
+        }
+    },
+    {
+        "pk": 10030003,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1003,
+            "name": "ActGift_10030003",
+            "level": 0,
+            "entryName_key": "ActGift_10030003",
+            "entryName_val": "18\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "rewards_int": "3003,3103,3203,3303"
+        }
+    },
+    {
+        "pk": 10030004,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1003,
+            "name": "ActGift_10030004",
+            "level": 0,
+            "entryName_key": "ActGift_10030004",
+            "entryName_val": "22\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "rewards_int": "3004,3104,3204,3304"
+        }
+    },
+    {
+        "pk": 10030005,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1003,
+            "name": "ActGift_10030005",
+            "level": 0,
+            "entryName_key": "ActGift_10030005",
+            "entryName_val": "26\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "rewards_int": "3005,3105,3205,3305"
+        }
+    },
+    {
+        "pk": 10030006,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1003,
+            "name": "ActGift_10030006",
+            "level": 0,
+            "entryName_key": "ActGift_10030006",
+            "entryName_val": "30\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "rewards_int": "3006,3106,3206,3306"
+        }
+    },
+    {
+        "pk": 10030007,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1003,
+            "name": "ActGift_10030007",
+            "level": 0,
+            "entryName_key": "ActGift_10030007",
+            "entryName_val": "35\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "rewards_int": "3007,3107,3207,3307"
+        }
+    },
+    {
+        "pk": 10030008,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1003,
+            "name": "ActGift_10030008",
+            "level": 0,
+            "entryName_key": "ActGift_10030008",
+            "entryName_val": "40\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "rewards_int": "3008,3108,3208,3308"
+        }
+    },
+    {
+        "pk": 10030009,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1003,
+            "name": "ActGift_10030009",
+            "level": 0,
+            "entryName_key": "ActGift_10030009",
+            "entryName_val": "45\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "rewards_int": "3009,3109,3209,3309"
+        }
+    },
+    {
+        "pk": 10030010,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1003,
+            "name": "ActGift_10030010",
+            "level": 0,
+            "entryName_key": "ActGift_10030010",
+            "entryName_val": "50\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "rewards_int": "3010,3110,3210,3310"
+        }
+    },
+    {
+        "pk": 10030011,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1003,
+            "name": "ActGift_10030011",
+            "level": 0,
+            "entryName_key": "ActGift_10030011",
+            "entryName_val": "55\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "rewards_int": "3011,3111,3211,3311"
+        }
+    },
+    {
+        "pk": 10030012,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1003,
+            "name": "ActGift_10030012",
+            "level": 0,
+            "entryName_key": "ActGift_10030012",
+            "entryName_val": "60\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "rewards_int": "3012,3112,3212,3312"
+        }
+    },
+    {
+        "pk": 10010001,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010001",
+            "level": 0,
+            "entryName_key": "ActGift_10010001",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u96461\u5929",
+            "rewards_int": 1001.0
+        }
+    },
+    {
+        "pk": 10010002,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010002",
+            "level": 0,
+            "entryName_key": "ActGift_10010002",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u96462\u5929",
+            "rewards_int": 1002.0
+        }
+    },
+    {
+        "pk": 10010003,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010003",
+            "level": 0,
+            "entryName_key": "ActGift_10010003",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u96463\u5929",
+            "rewards_int": 1003.0
+        }
+    },
+    {
+        "pk": 10010004,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010004",
+            "level": 0,
+            "entryName_key": "ActGift_10010004",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u96464\u5929",
+            "rewards_int": 1004.0
+        }
+    },
+    {
+        "pk": 10010005,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010005",
+            "level": 0,
+            "entryName_key": "ActGift_10010005",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u96465\u5929",
+            "rewards_int": 1005.0
+        }
+    },
+    {
+        "pk": 10010006,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010006",
+            "level": 0,
+            "entryName_key": "ActGift_10010006",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u96466\u5929",
+            "rewards_int": 1006.0
+        }
+    },
+    {
+        "pk": 10010007,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010007",
+            "level": 0,
+            "entryName_key": "ActGift_10010007",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u96467\u5929",
+            "rewards_int": 1007.0
+        }
+    },
+    {
+        "pk": 10010008,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010008",
+            "level": 0,
+            "entryName_key": "ActGift_10010008",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u96468\u5929",
+            "rewards_int": 1008.0
+        }
+    },
+    {
+        "pk": 10010009,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010009",
+            "level": 0,
+            "entryName_key": "ActGift_10010009",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u96469\u5929",
+            "rewards_int": 1009.0
+        }
+    },
+    {
+        "pk": 10010010,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010010",
+            "level": 0,
+            "entryName_key": "ActGift_10010010",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964610\u5929",
+            "rewards_int": 1010.0
+        }
+    },
+    {
+        "pk": 10010011,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010011",
+            "level": 0,
+            "entryName_key": "ActGift_10010011",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964611\u5929",
+            "rewards_int": 1011.0
+        }
+    },
+    {
+        "pk": 10010012,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010012",
+            "level": 0,
+            "entryName_key": "ActGift_10010012",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964612\u5929",
+            "rewards_int": 1012.0
+        }
+    },
+    {
+        "pk": 10010013,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010013",
+            "level": 0,
+            "entryName_key": "ActGift_10010013",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964613\u5929",
+            "rewards_int": 1013.0
+        }
+    },
+    {
+        "pk": 10010014,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010014",
+            "level": 0,
+            "entryName_key": "ActGift_10010014",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964614\u5929",
+            "rewards_int": 1014.0
+        }
+    },
+    {
+        "pk": 10010015,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010015",
+            "level": 0,
+            "entryName_key": "ActGift_10010015",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964615\u5929",
+            "rewards_int": 1015.0
+        }
+    },
+    {
+        "pk": 10010016,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010016",
+            "level": 0,
+            "entryName_key": "ActGift_10010016",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964616\u5929",
+            "rewards_int": 1016.0
+        }
+    },
+    {
+        "pk": 10010017,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010017",
+            "level": 0,
+            "entryName_key": "ActGift_10010017",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964617\u5929",
+            "rewards_int": 1017.0
+        }
+    },
+    {
+        "pk": 10010018,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010018",
+            "level": 0,
+            "entryName_key": "ActGift_10010018",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964618\u5929",
+            "rewards_int": 1018.0
+        }
+    },
+    {
+        "pk": 10010019,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010019",
+            "level": 0,
+            "entryName_key": "ActGift_10010019",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964619\u5929",
+            "rewards_int": 1019.0
+        }
+    },
+    {
+        "pk": 10010020,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010020",
+            "level": 0,
+            "entryName_key": "ActGift_10010020",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964620\u5929",
+            "rewards_int": 1020.0
+        }
+    },
+    {
+        "pk": 10010021,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010021",
+            "level": 0,
+            "entryName_key": "ActGift_10010021",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964621\u5929",
+            "rewards_int": 1021.0
+        }
+    },
+    {
+        "pk": 10010022,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010022",
+            "level": 0,
+            "entryName_key": "ActGift_10010022",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964622\u5929",
+            "rewards_int": 1022.0
+        }
+    },
+    {
+        "pk": 10010023,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010023",
+            "level": 0,
+            "entryName_key": "ActGift_10010023",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964623\u5929",
+            "rewards_int": 1023.0
+        }
+    },
+    {
+        "pk": 10010024,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010024",
+            "level": 0,
+            "entryName_key": "ActGift_10010024",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964624\u5929",
+            "rewards_int": 1024.0
+        }
+    },
+    {
+        "pk": 10010025,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1001,
+            "name": "ActGift_10010025",
+            "level": 0,
+            "entryName_key": "ActGift_10010025",
+            "entryName_val": "\u6708\u7d2f\u8ba1\u767b\u964625\u5929",
+            "rewards_int": 1025.0
+        }
+    },
+    {
+        "pk": 10100001,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1010,
+            "name": "ActGift_10100001",
+            "level": 0,
+            "entryName_key": "ActGift_10100001",
+            "entryName_val": "25\u7ea7\u6210\u957f\u57fa\u91d1",
+            "rewards_int": "10001"
+        }
+    },
+    {
+        "pk": 10100002,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1010,
+            "name": "ActGift_10100002",
+            "level": 0,
+            "entryName_key": "ActGift_10100002",
+            "entryName_val": "30\u7ea7\u6210\u957f\u57fa\u91d1",
+            "rewards_int": "10002"
+        }
+    },
+    {
+        "pk": 10100003,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1010,
+            "name": "ActGift_10100003",
+            "level": 0,
+            "entryName_key": "ActGift_10100003",
+            "entryName_val": "35\u7ea7\u6210\u957f\u57fa\u91d1",
+            "rewards_int": "10003"
+        }
+    },
+    {
+        "pk": 10100004,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1010,
+            "name": "ActGift_10100004",
+            "level": 0,
+            "entryName_key": "ActGift_10100004",
+            "entryName_val": "40\u7ea7\u6210\u957f\u57fa\u91d1",
+            "rewards_int": "10004"
+        }
+    },
+    {
+        "pk": 10100005,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1010,
+            "name": "ActGift_10100005",
+            "level": 0,
+            "entryName_key": "ActGift_10100005",
+            "entryName_val": "45\u7ea7\u6210\u957f\u57fa\u91d1",
+            "rewards_int": "10005"
+        }
+    },
+    {
+        "pk": 10100006,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1010,
+            "name": "ActGift_10100006",
+            "level": 0,
+            "entryName_key": "ActGift_10100006",
+            "entryName_val": "50\u7ea7\u6210\u957f\u57fa\u91d1",
+            "rewards_int": "10006"
+        }
+    },
+    {
+        "pk": 10100007,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1010,
+            "name": "ActGift_10100007",
+            "level": 0,
+            "entryName_key": "ActGift_10100007",
+            "entryName_val": "55\u7ea7\u6210\u957f\u57fa\u91d1",
+            "rewards_int": "10007"
+        }
+    },
+    {
+        "pk": 10100008,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1010,
+            "name": "ActGift_10100008",
+            "level": 0,
+            "entryName_key": "ActGift_10100008",
+            "entryName_val": "60\u7ea7\u6210\u957f\u57fa\u91d1",
+            "rewards_int": "10008"
+        }
+    },
+    {
+        "pk": 10070001,
+        "model": "activity.giftpackage",
+        "fields": {
+            "category": 1007,
+            "name": "ActGift_10070001",
+            "level": 0,
+            "entryName_key": "ActGift_10070001",
+            "entryName_val": "\u6708\u5361",
+            "rewards_int": 7001.0
+        }
+    }
+]

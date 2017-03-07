@@ -1,0 +1,338 @@
+[
+    {
+        "pk": 1001,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1211202,
+            "pos3Id": 1211303,
+            "attr3List_int": 11202.0,
+            "pos1Id": 1211101,
+            "attr4List_int": "11303,11304",
+            "pos4Id": 1211404,
+            "nameId": "equip_1001",
+            "attr2List_int": 11101.0
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1212202,
+            "pos3Id": 1212303,
+            "attr3List_int": 12202.0,
+            "pos1Id": 1212101,
+            "attr4List_int": "12303,12304",
+            "pos4Id": 1212404,
+            "nameId": "equip_1002",
+            "attr2List_int": 12101.0
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1214202,
+            "pos3Id": 1214303,
+            "attr3List_int": 14202.0,
+            "pos1Id": 1214101,
+            "attr4List_int": "14303,14304",
+            "pos4Id": 1214404,
+            "nameId": "equip_1004",
+            "attr2List_int": 14101.0
+        }
+    },
+    {
+        "pk": 1007,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1217202,
+            "pos3Id": 1217303,
+            "attr3List_int": 17202.0,
+            "pos1Id": 1217101,
+            "attr4List_int": "17303,17304",
+            "pos4Id": 1217404,
+            "nameId": "equip_1007",
+            "attr2List_int": 17101.0
+        }
+    },
+    {
+        "pk": 1010,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1221202,
+            "pos3Id": 1221303,
+            "attr3List_int": 21202.0,
+            "pos1Id": 1221101,
+            "attr4List_int": "21303,21304",
+            "pos4Id": 1221404,
+            "nameId": "equip_1010",
+            "attr2List_int": 21101.0
+        }
+    },
+    {
+        "pk": 1011,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1222202,
+            "pos3Id": 1222303,
+            "attr3List_int": 22202.0,
+            "pos1Id": 1222101,
+            "attr4List_int": "22303,22304",
+            "pos4Id": 1222404,
+            "nameId": "equip_1011",
+            "attr2List_int": 22101.0
+        }
+    },
+    {
+        "pk": 1013,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1224202,
+            "pos3Id": 1224303,
+            "attr3List_int": 24202.0,
+            "pos1Id": 1224101,
+            "attr4List_int": "24303,24304",
+            "pos4Id": 1224404,
+            "nameId": "equip_1013",
+            "attr2List_int": 24101.0
+        }
+    },
+    {
+        "pk": 1016,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1227202,
+            "pos3Id": 1227303,
+            "attr3List_int": 27202.0,
+            "pos1Id": 1227101,
+            "attr4List_int": "27303,27304",
+            "pos4Id": 1227404,
+            "nameId": "equip_1016",
+            "attr2List_int": 27101.0
+        }
+    },
+    {
+        "pk": 1019,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1241202,
+            "pos3Id": 1241303,
+            "attr3List_int": 41202.0,
+            "pos1Id": 1241101,
+            "attr4List_int": "41303,41304",
+            "pos4Id": 1241404,
+            "nameId": "equip_1019",
+            "attr2List_int": 41101.0
+        }
+    },
+    {
+        "pk": 1020,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1242202,
+            "pos3Id": 1242303,
+            "attr3List_int": 42202.0,
+            "pos1Id": 1242101,
+            "attr4List_int": "42303,42304",
+            "pos4Id": 1242404,
+            "nameId": "equip_1020",
+            "attr2List_int": 42101.0
+        }
+    },
+    {
+        "pk": 1022,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1244202,
+            "pos3Id": 1244303,
+            "attr3List_int": 44202.0,
+            "pos1Id": 1244101,
+            "attr4List_int": "44303,44304",
+            "pos4Id": 1244404,
+            "nameId": "equip_1022",
+            "attr2List_int": 44101.0
+        }
+    },
+    {
+        "pk": 1025,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1247202,
+            "pos3Id": 1247303,
+            "attr3List_int": 47202.0,
+            "pos1Id": 1247101,
+            "attr4List_int": "47303,47304",
+            "pos4Id": 1247404,
+            "nameId": "equip_1025",
+            "attr2List_int": 47101.0
+        }
+    },
+    {
+        "pk": 1028,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1261202,
+            "pos3Id": 1261303,
+            "attr3List_int": 61202.0,
+            "pos1Id": 1261101,
+            "attr4List_int": "61303,61304",
+            "pos4Id": 1261404,
+            "nameId": "equip_1028",
+            "attr2List_int": 61101.0
+        }
+    },
+    {
+        "pk": 1029,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1262202,
+            "pos3Id": 1262303,
+            "attr3List_int": 62202.0,
+            "pos1Id": 1262101,
+            "attr4List_int": "62303,62304",
+            "pos4Id": 1262404,
+            "nameId": "equip_1029",
+            "attr2List_int": 62101.0
+        }
+    },
+    {
+        "pk": 1031,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1264202,
+            "pos3Id": 1264303,
+            "attr3List_int": 64202.0,
+            "pos1Id": 1264101,
+            "attr4List_int": "64303,64304",
+            "pos4Id": 1264404,
+            "nameId": "equip_1031",
+            "attr2List_int": 64101.0
+        }
+    },
+    {
+        "pk": 1034,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1267202,
+            "pos3Id": 1267303,
+            "attr3List_int": 67202.0,
+            "pos1Id": 1267101,
+            "attr4List_int": "67303,67304",
+            "pos4Id": 1267404,
+            "nameId": "equip_1034",
+            "attr2List_int": 67101.0
+        }
+    },
+    {
+        "pk": 1037,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1231202,
+            "pos3Id": 1231303,
+            "attr3List_int": 31202.0,
+            "pos1Id": 1231101,
+            "attr4List_int": "31303,31304",
+            "pos4Id": 1231404,
+            "nameId": "equip_1037",
+            "attr2List_int": 31101.0
+        }
+    },
+    {
+        "pk": 1038,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1232202,
+            "pos3Id": 1232303,
+            "attr3List_int": 32202.0,
+            "pos1Id": 1232101,
+            "attr4List_int": "32303,32304",
+            "pos4Id": 1232404,
+            "nameId": "equip_1038",
+            "attr2List_int": 32101.0
+        }
+    },
+    {
+        "pk": 1040,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1234202,
+            "pos3Id": 1234303,
+            "attr3List_int": 34202.0,
+            "pos1Id": 1234101,
+            "attr4List_int": "34303,34304",
+            "pos4Id": 1234404,
+            "nameId": "equip_1040",
+            "attr2List_int": 34101.0
+        }
+    },
+    {
+        "pk": 1043,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1237202,
+            "pos3Id": 1237303,
+            "attr3List_int": 37202.0,
+            "pos1Id": 1237101,
+            "attr4List_int": "37303,37304",
+            "pos4Id": 1237404,
+            "nameId": "equip_1043",
+            "attr2List_int": 37101.0
+        }
+    },
+    {
+        "pk": 1046,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1251202,
+            "pos3Id": 1251303,
+            "attr3List_int": 51202.0,
+            "pos1Id": 1251101,
+            "attr4List_int": "51303,51304",
+            "pos4Id": 1251404,
+            "nameId": "equip_1046",
+            "attr2List_int": 51101.0
+        }
+    },
+    {
+        "pk": 1047,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1252202,
+            "pos3Id": 1252303,
+            "attr3List_int": 52202.0,
+            "pos1Id": 1252101,
+            "attr4List_int": "52303,52304",
+            "pos4Id": 1252404,
+            "nameId": "equip_1047",
+            "attr2List_int": 52101.0
+        }
+    },
+    {
+        "pk": 1049,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1254202,
+            "pos3Id": 1254303,
+            "attr3List_int": 54202.0,
+            "pos1Id": 1254101,
+            "attr4List_int": "54303,54304",
+            "pos4Id": 1254404,
+            "nameId": "equip_1049",
+            "attr2List_int": 54101.0
+        }
+    },
+    {
+        "pk": 1052,
+        "model": "equip.equipsuit",
+        "fields": {
+            "pos2Id": 1257202,
+            "pos3Id": 1257303,
+            "attr3List_int": 57202.0,
+            "pos1Id": 1257101,
+            "attr4List_int": "57303,57304",
+            "pos4Id": 1257404,
+            "nameId": "equip_1052",
+            "attr2List_int": 57101.0
+        }
+    }
+]

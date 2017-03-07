@@ -1,0 +1,119 @@
+[
+    {
+        "pk": 1,
+        "model": "instance.instancereward",
+        "fields": {
+            "count": 1,
+            "type": 3001,
+            "level": 1
+        }
+    },
+    {
+        "pk": 2,
+        "model": "instance.instancereward",
+        "fields": {
+            "count": 10,
+            "type": 3002,
+            "level": 1
+        }
+    },
+    {
+        "pk": 3,
+        "model": "instance.instancereward",
+        "fields": {
+            "count": 1,
+            "type": 3003,
+            "level": 1
+        }
+    },
+    {
+        "pk": 4,
+        "model": "instance.instancereward",
+        "fields": {
+            "count": 1,
+            "type": 3004,
+            "level": 1
+        }
+    },
+    {
+        "pk": 5,
+        "model": "instance.instancereward",
+        "fields": {
+            "count": 1,
+            "type": 3005,
+            "level": 1
+        }
+    },
+    {
+        "pk": 6,
+        "model": "instance.instancereward",
+        "fields": {
+            "count": 1,
+            "type": 3006,
+            "level": 1
+        }
+    },
+    {
+        "pk": 7,
+        "model": "instance.instancereward",
+        "fields": {
+            "count": 1,
+            "type": 3007,
+            "level": 1
+        }
+    },
+    {
+        "pk": 8,
+        "model": "instance.instancereward",
+        "fields": {
+            "count": 1,
+            "type": 3008,
+            "level": 1
+        }
+    },
+    {
+        "pk": 9,
+        "model": "instance.instancereward",
+        "fields": {
+            "count": 1,
+            "type": 3009,
+            "level": 1
+        }
+    },
+    {
+        "pk": 10,
+        "model": "instance.instancereward",
+        "fields": {
+            "count": 1,
+            "type": 3010,
+            "level": 1
+        }
+    },
+    {
+        "pk": 11,
+        "model": "instance.instancereward",
+        "fields": {
+            "count": 1,
+            "type": 3011,
+            "level": 1
+        }
+    },
+    {
+        "pk": 12,
+        "model": "instance.instancereward",
+        "fields": {
+            "count": 1,
+            "type": 3012,
+            "level": 1
+        }
+    },
+    {
+        "pk": 13,
+        "model": "instance.instancereward",
+        "fields": {
+            "count": 1,
+            "type": 3013,
+            "level": 1
+        }
+    }
+]

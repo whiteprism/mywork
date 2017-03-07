@@ -1,0 +1,146 @@
+
+table:
+  out-type: json
+  sheet: 英雄
+  row: 3
+  model: hero.hero
+  columns:
+    - name: cardId
+      column: cardId
+      type: int
+      default: 0
+
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: upgrade
+      column: upgrade
+      type: int
+
+    - name: evolveHero_id
+      column: evolveHero_id
+      type: int
+      default: 0
+
+    - name: evolveLevel
+      column: evolveLevel
+      type: int
+      default: 0
+
+    - name: evolveSoulCost
+      column: evolveSoulCost
+      type: int
+      default: 0
+
+    - name: evolveCosts_int
+      column: evolveCosts
+      type: char
+      default: ""
+
+    - name: soulId
+      column: soulId
+      type: int
+      default: 0
+
+    - name: maxLevel
+      column: maxLevel
+      type: int
+
+    - name: attack
+      column: attack
+      type: float
+
+    - name: hp
+      column: hp
+      type: float
+
+    - name: physicalArmor
+      column: physicalArmor
+      type: float
+
+    - name: magicArmor
+      column: magicArmor
+      type: float
+
+    - name: realPhysical
+      column: realPhysical
+      type: float
+      default: 0.0
+
+    - name: realMagic
+      column: realMagic
+      type: float
+      default: 0.0
+
+    - name: shoot
+      column: shoot
+      type: float
+
+    - name: dodge
+      column: dodge
+      type: float
+
+    - name: critical
+      column: critical
+      type: float
+
+    - name: tenacity
+      column: tenacity
+      type: float
+
+    - name: damageFree
+      column: damageFree
+      type: float
+
+    - name: powerRank
+      column: powerRank
+      type: float
+      default: 0.0
+
+    - name: energyPerSec
+      column: energyPerSec
+      type: float
+
+    - name: maxEnergy
+      column: maxEnergy
+      type: int
+
+    - name: quality
+      column: quality
+      type: int
+      default: 0
+
+    - name: category
+      column: category
+      type: int
+      default: 0
+
+    - name: violence
+      column: violence
+      type: float
+
+    - name: killToHeal
+      column: killToHeal
+      type: float
+
+    - name: killToEnergy
+      column: killToEnergy
+      type: float
+
+    - name: hpPerSecond
+      column: hpPerSecond
+      type: float
+
+    - name: heroTeamId
+      column: heroTeamId
+      type: int
+      default: 0
+
+    - name: hurtToEnergy
+      column: hurtToEnergy
+      type: float
+      default: 0.0
+
+

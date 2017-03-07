@@ -1,0 +1,1142 @@
+[
+    {
+        "pk": 1,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 4,
+            "energy": 120,
+            "levelUpRewards_int": "1001,1003,1006,1007,1008",
+            "stamina": 20,
+            "wallHp": 5,
+            "rewardPower": 30,
+            "battleLeftDownX": 1,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 6,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 2,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 4,
+            "energy": 120,
+            "levelUpRewards_int": "1001,1002,1014,1020,1024",
+            "stamina": 20,
+            "wallHp": 10,
+            "rewardPower": 30,
+            "battleLeftDownX": 1,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1001,
+            "xp": 6,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 3,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 4,
+            "energy": 120,
+            "levelUpRewards_int": "1001,1002,1009,1020,1025",
+            "stamina": 20,
+            "wallHp": 15,
+            "rewardPower": 30,
+            "battleLeftDownX": 1,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1002,
+            "xp": 6,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 4,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 4,
+            "energy": 120,
+            "levelUpRewards_int": "1001,1002,1010,1020,1026",
+            "stamina": 20,
+            "wallHp": 20,
+            "rewardPower": 30,
+            "battleLeftDownX": 1,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1003,
+            "xp": 6,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 5,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 4,
+            "energy": 120,
+            "levelUpRewards_int": "1001,1003,1009,1011,1019,1020",
+            "stamina": 20,
+            "wallHp": 25,
+            "rewardPower": 30,
+            "battleLeftDownX": 1,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 6,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 6,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1001,1003,1012,1014,1015,1018,1020",
+            "stamina": 20,
+            "wallHp": 30,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1005,
+            "xp": 12,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 7,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1001,1003,1013,1016,1014,1017,1018,1020",
+            "stamina": 20,
+            "wallHp": 35,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1006,
+            "xp": 12,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 8,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1001,1003,1016,1014,1017,1015,1018,1020",
+            "stamina": 20,
+            "wallHp": 40,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1017,
+            "xp": 12,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 9,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1001,1002,1020,1027,1030",
+            "stamina": 20,
+            "wallHp": 45,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1018,
+            "xp": 12,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 10,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1001,1002,1020,1028,1029",
+            "stamina": 20,
+            "wallHp": 50,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1007,
+            "xp": 100,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 11,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021,1031,1032,1033,1034",
+            "stamina": 20,
+            "wallHp": 55,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1008,
+            "xp": 500,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 12,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021,1031,1032,1033,1034",
+            "stamina": 20,
+            "wallHp": 60,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1009,
+            "xp": 510,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 13,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021,1031,1032,1033,1034",
+            "stamina": 20,
+            "wallHp": 65,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 520,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 14,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021",
+            "stamina": 20,
+            "wallHp": 70,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1010,
+            "xp": 530,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 15,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021",
+            "stamina": 20,
+            "wallHp": 75,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 540,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 16,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021",
+            "stamina": 20,
+            "wallHp": 80,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1011,
+            "xp": 550,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 17,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021",
+            "stamina": 20,
+            "wallHp": 85,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1012,
+            "xp": 560,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 18,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021",
+            "stamina": 20,
+            "wallHp": 90,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1013,
+            "xp": 570,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 19,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 3,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021",
+            "stamina": 20,
+            "wallHp": 95,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1014,
+            "xp": 580,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 20,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 4,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021",
+            "stamina": 20,
+            "wallHp": 100,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 590,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 21,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 4,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021,1035",
+            "stamina": 20,
+            "wallHp": 105,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1015,
+            "xp": 600,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 22,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 4,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021",
+            "stamina": 20,
+            "wallHp": 110,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 630,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 23,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 4,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021",
+            "stamina": 20,
+            "wallHp": 115,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 660,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 24,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 4,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021",
+            "stamina": 20,
+            "wallHp": 120,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 690,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 25,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 4,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1003,1021",
+            "stamina": 20,
+            "wallHp": 125,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 720,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 26,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 4,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 130,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 750,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 27,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 4,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 135,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 780,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 28,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 4,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 140,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 810,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 29,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 4,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 145,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 840,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 30,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 5,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 150,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 1016,
+            "xp": 870,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 31,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 5,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 155,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 900,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 32,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 5,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 160,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 1000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 33,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 5,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 165,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 2000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 34,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 5,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 170,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 2500,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 35,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 5,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 175,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 3000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 36,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 5,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 180,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 3500,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 37,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 5,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 185,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 4000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 38,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 5,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 190,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 4000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 39,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 5,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 195,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 4500,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 40,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 6,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1004,1022",
+            "stamina": 20,
+            "wallHp": 200,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 4500,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 41,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 6,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 205,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 4500,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 42,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 6,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 210,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 4500,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 43,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 6,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 215,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 5000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 44,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 6,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 220,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 5000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 45,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 6,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 225,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 5000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 46,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 6,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 230,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 5000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 47,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 6,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 235,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 5500,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 48,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 6,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 240,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 6000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 49,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 6,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 245,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 6500,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 50,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 7,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 250,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 7000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 51,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 7,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 255,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 7500,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 52,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 7,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 260,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 8000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 53,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 7,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 265,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 8500,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 54,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 7,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 270,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 9000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 55,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 7,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 275,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 9500,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 56,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 7,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 280,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 10000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 57,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 7,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 285,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 12000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 58,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 7,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 290,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 14000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 59,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 7,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 295,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 16000,
+            "battlePoint": 10
+        }
+    },
+    {
+        "pk": 60,
+        "model": "levelconf.levelconf",
+        "fields": {
+            "rewardStamina": 5,
+            "battleRightTopX": 7,
+            "battleRightTopY": 5,
+            "energy": 120,
+            "levelUpRewards_int": "1005,1023",
+            "stamina": 20,
+            "wallHp": 300,
+            "rewardPower": 30,
+            "battleLeftDownX": 0,
+            "battleLeftDownY": 0,
+            "unlockIconId": 0,
+            "xp": 18000,
+            "battlePoint": 10
+        }
+    }
+]

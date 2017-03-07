@@ -1,0 +1,677 @@
+[
+    {
+        "pk": 10001,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 50000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10002,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 100000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10003,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 150000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10004,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 200000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10005,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 250000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10006,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 300000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10007,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 350000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10008,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 400000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10009,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 450000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10010,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 500000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10011,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 600000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10012,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 700000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10013,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 800000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10014,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 900000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10015,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 1000000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11001,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 2,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11002,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 5,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11003,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 7,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11004,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 10,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11005,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 12,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11006,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 15,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11007,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 17,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11008,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 20,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11009,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 22,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11010,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 25,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11011,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 30,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11012,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 35,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11013,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 40,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11014,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 45,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11015,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 50,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12001,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 1,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12002,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 1,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12003,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 2,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12004,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 2,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12005,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 3,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12006,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 3,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12007,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 4,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12008,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 4,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12009,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 5,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12010,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 5,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12011,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 6,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12012,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 7,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12013,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 8,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12014,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 9,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12015,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 10,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13001,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 1,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13002,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 1,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13003,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 2,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13004,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 2,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13005,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 3,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13006,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 3,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13007,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 4,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13008,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 4,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13009,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 5,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13010,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 5,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13011,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 6,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13012,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 7,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13013,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 8,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13014,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 9,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 13015,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 10,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14001,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 1,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14002,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 2,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14003,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 3,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14004,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 4,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14005,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 5,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14006,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 6,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14007,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 7,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14008,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 8,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14009,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 9,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14010,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 10,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14011,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 12,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14012,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 14,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14013,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 16,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14014,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 18,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 14015,
+        "model": "vip.vipreward",
+        "fields": {
+            "count": 20,
+            "type": 2621201,
+            "level": 0
+        }
+    }
+]

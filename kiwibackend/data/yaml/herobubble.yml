@@ -1,0 +1,123 @@
+
+table:
+  out-type: json
+  sheet: 英雄气泡表
+  row: 3
+  model: hero.herobubble
+  columns:
+    - name: heroId
+      column: heroId
+      type: int
+      default: 0
+
+    - name: bornTypeMessage_str
+      column: bornTypeMessage
+      type: char
+      default: ""
+
+    - name: initPointTypeMessage_str
+      column: initPointTypeMessage
+      type: char
+      default: ""
+
+    - name: gatherPointTypeMessage_str
+      column: gatherPointTypeMessage
+      type: char
+      default: ""
+
+    - name: initAttackTypeMessage_str
+      column: initAttackTypeMessage
+      type: char
+      default: ""
+
+    - name: strokesTypeMessage_str
+      column: strokesTypeMessage
+      type: char
+      default: ""
+
+    - name: hpLowTypeMessage_str
+      column: hpLowTypeMessage
+      type: char
+      default: ""
+
+    - name: friendsHpLowTypeMessage_str
+      column: friendsHpLowTypeMessage
+      type: char
+      default: ""
+
+    - name: deadTypeMessage_str
+      column: deadTypeMessage
+      type: char
+      default: ""
+
+    - name: friendsDeadTypeMessage_str
+      column: friendsDeadTypeMessage
+      type: char
+      default: ""
+
+    - name: normalAttackTypeMessage_str
+      column: normalAttackTypeMessage
+      type: char
+      default: ""
+
+    - name: sneerTypeMessage_str
+      column: sneerTypeMessage
+      type: char
+      default: ""
+
+    - name: bornTypeProperbility
+      column: bornTypeProperbility
+      type: float
+      default: 0.0
+
+    - name: initPointTypeProperbility
+      column: initPointTypeProperbility
+      type: float
+      default: 0.0
+
+    - name: gatherPointTypeProperbility
+      column: gatherPointTypeProperbility
+      type: float
+      default: 0.0
+
+    - name: initAttackTypeProperbility
+      column: initAttackTypeProperbility
+      type: float
+      default: 0.0
+
+    - name: strokesTypeProperbility
+      column: strokesTypeProperbility
+      type: float
+      default: 0.0
+
+    - name: hpLowTypeProperbility
+      column: hpLowTypeProperbility
+      type: float
+      default: 0.0
+
+    - name: friendsHpLowTypeProperbility
+      column: friendsHpLowTypeProperbility
+      type: float
+      default: 0.0
+
+    - name: deadTypeProperbility
+      column: deadTypeProperbility
+      type: float
+      default: 0.0
+
+    - name: friendsDeadTypeProperbility
+      column: friendsDeadTypeProperbility
+      type: float
+      default: 0.0
+
+    - name: normalAttackTypeProperbility
+      column: normalAttackTypeProperbility
+      type: float
+      default: 0.0
+
+    - name: sneerTypeProperbility
+      column: sneerTypeProperbility
+      type: float
+      default: 0.0
+
+

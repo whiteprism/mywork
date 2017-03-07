@@ -1,0 +1,80 @@
+
+table:
+  out-type: json
+  sheet: 小兵等级
+  row: 3
+  model: hero.warriorlevel
+  columns:
+    - name: warrior_id
+      column: warrior_id
+      type: int
+
+    - name: ap
+      column: ap
+      type: float
+
+    - name: attack
+      column: attack
+      type: float
+
+    - name: hp
+      column: hp
+      type: float
+
+    - name: magicArmor
+      column: magicArmor
+      type: float
+
+    - name: physicalArmor
+      column: physicalArmor
+      type: float
+
+    - name: powerRank
+      column: powerRank
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+
+    - name: shoot
+      column: shoot
+      type: float
+
+    - name: skills_int
+      column: skills
+      type: char
+      default: ""
+
+    - name: skill0
+      column: skill0
+      type: int
+      default: 0
+
+    - name: skill0Lv
+      column: skill0Lv
+      type: int
+      default: 0
+
+    - name: dodge
+      column: dodge
+      type: float
+
+    - name: tenacity
+      column: tenacity
+      type: float
+
+    - name: critical
+      column: critical
+      type: float
+
+    - name: violence
+      column: violence
+      type: float
+
+    - name: hpPerSecond
+      column: hpPerSecond
+      type: float
+
+

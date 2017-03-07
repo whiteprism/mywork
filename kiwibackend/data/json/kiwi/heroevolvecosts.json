@@ -1,0 +1,1514 @@
+[
+    {
+        "pk": 262140101,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621401,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140102,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621401,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140103,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621401,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140104,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621401,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140105,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621401,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140201,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140202,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140203,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140204,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140205,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140301,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621403,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140302,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621403,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140303,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621403,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140304,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621403,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140305,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621403,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140401,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140402,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140403,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140404,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140405,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140501,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140502,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621405,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140503,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621405,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140504,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621405,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140505,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621405,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140601,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621405,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140602,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621406,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140603,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621406,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140604,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621406,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262140605,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621406,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150101,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621501,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150102,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621501,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150103,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621501,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150104,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621501,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150105,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621501,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150106,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 7,
+            "type": 2621501,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150201,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150202,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150203,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150204,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150205,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150206,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 7,
+            "type": 2621502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150301,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621503,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150302,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621503,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150303,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621503,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150304,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621503,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150305,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621503,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150306,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 7,
+            "type": 2621503,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150401,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621504,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150402,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621504,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150403,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621504,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150404,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621504,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150405,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621504,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150406,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 7,
+            "type": 2621504,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150501,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621505,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150502,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621505,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150503,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621505,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150504,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621505,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150505,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621505,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150506,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 7,
+            "type": 2621505,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150601,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621506,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150602,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621506,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150603,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621506,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150604,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621506,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150605,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621506,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262150606,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 7,
+            "type": 2621506,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160101,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160102,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160103,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160104,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160105,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 7,
+            "type": 2621601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160106,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 8,
+            "type": 2621601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160201,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160202,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160203,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160204,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160205,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 7,
+            "type": 2621602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160206,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 8,
+            "type": 2621602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160301,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160302,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160303,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160304,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160305,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 7,
+            "type": 2621603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160306,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 8,
+            "type": 2621603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160401,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621604,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160402,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621604,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160403,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621604,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160404,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621604,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160405,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 7,
+            "type": 2621604,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160406,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 8,
+            "type": 2621604,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160502,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621605,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160503,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621605,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160504,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621605,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160505,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621605,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160506,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 7,
+            "type": 2621605,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160507,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 8,
+            "type": 2621605,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160602,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621606,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160603,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621606,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160604,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621606,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160605,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621606,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160606,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 7,
+            "type": 2621606,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262160607,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 8,
+            "type": 2621606,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170101,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621701,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170102,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621701,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170103,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621701,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170201,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621702,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170202,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621702,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170203,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621702,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170301,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621703,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170302,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621703,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170303,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621703,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170401,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621704,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170402,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621704,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170403,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621704,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170501,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621705,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170502,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621705,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170503,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621705,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170601,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621706,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170602,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621706,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262170603,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621706,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180101,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621801,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180102,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621801,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180103,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621801,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180104,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621801,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180201,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621802,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180202,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621802,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180203,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621802,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180204,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621802,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180301,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621803,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180302,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621803,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180303,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621803,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180304,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621803,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180401,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621804,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180402,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621804,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180403,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621804,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180404,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621804,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180501,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621805,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180502,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621805,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180503,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621805,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180504,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621805,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180601,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621806,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180602,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621806,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180603,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621806,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262180604,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621806,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190101,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621901,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190102,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621901,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190103,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621901,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190104,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621901,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190201,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621902,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190202,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621902,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190203,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621902,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190204,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621902,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190301,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621903,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190302,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621903,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190303,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621903,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190304,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621903,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190401,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621904,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190402,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621904,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190403,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621904,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190404,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621904,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190501,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621905,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190502,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621905,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190503,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621905,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190504,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621905,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190601,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621906,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190602,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621906,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190603,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621906,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262190604,
+        "model": "hero.heroevolvecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621906,
+            "level": 0
+        }
+    }
+]

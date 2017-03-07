@@ -1,0 +1,58 @@
+
+table:
+  out-type: json
+  sheet: 公会战奖励
+  row: 3
+  model: guild.guildsiegebattlereward
+  columns:
+    - name: rewardIds1_str
+      column: rewardIds1
+      type: char
+      default: ""
+
+    - name: rewardIds2_str
+      column: rewardIds2
+      type: char
+      default: ""
+
+    - name: rewardIds3_str
+      column: rewardIds3
+      type: char
+      default: ""
+
+    - name: rewardIds4_str
+      column: rewardIds4
+      type: char
+      default: ""
+
+    - name: rewardIds5_str
+      column: rewardIds5
+      type: char
+      default: ""
+
+    - name: rewardIds6_str
+      column: rewardIds6
+      type: char
+      default: ""
+
+    - name: rewardIds7_str
+      column: rewardIds7
+      type: char
+      default: ""
+
+    - name: rewardIds8_str
+      column: rewardIds8
+      type: char
+      default: ""
+
+    - name: rewardIds9_str
+      column: rewardIds9
+      type: char
+      default: ""
+
+    - name: rewardIds10_str
+      column: rewardIds10
+      type: char
+      default: ""
+
+

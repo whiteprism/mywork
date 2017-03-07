@@ -1,0 +1,122 @@
+[
+    {
+        "pk": 1,
+        "model": "hero.heroteam",
+        "fields": {
+            "descriptionId": "team_1",
+            "nameId": "team_10",
+            "heroCardIds_int": "1110001,1150004,1140007,1120006",
+            "name": "\u517d\u65cf\u90e8\u843d"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "hero.heroteam",
+        "fields": {
+            "descriptionId": "team_2",
+            "nameId": "team_20",
+            "heroCardIds_int": "1150005",
+            "name": "\u5de8\u9b54\u5e1d\u56fd"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "hero.heroteam",
+        "fields": {
+            "descriptionId": "team_3",
+            "nameId": "team_30",
+            "heroCardIds_int": "1110003,1150002,1160001",
+            "name": "\u4ea1\u7075\u5723\u6bbf"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "hero.heroteam",
+        "fields": {
+            "descriptionId": "team_4",
+            "nameId": "team_40",
+            "heroCardIds_int": "1110005,1140006",
+            "name": "\u6df1\u6e0a\u5f02\u5f62"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "hero.heroteam",
+        "fields": {
+            "descriptionId": "team_5",
+            "nameId": "team_50",
+            "heroCardIds_int": "1140002,1160004,1160002",
+            "name": "\u9ad8\u7b49\u7cbe\u7075"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "hero.heroteam",
+        "fields": {
+            "descriptionId": "team_6",
+            "nameId": "team_60",
+            "heroCardIds_int": "1130001,1140003,1140004,1120002,1160005",
+            "name": "\u4eba\u7c7b\u8054\u76df"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "hero.heroteam",
+        "fields": {
+            "descriptionId": "team_8",
+            "nameId": "team_80",
+            "heroCardIds_int": "1120005,1160003",
+            "name": "\u6697\u591c\u7cbe\u7075"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "hero.heroteam",
+        "fields": {
+            "descriptionId": "team_9",
+            "nameId": "team_90",
+            "heroCardIds_int": "1150003,1120007",
+            "name": "\u68ee\u6797\u4e4b\u5bb6"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "hero.heroteam",
+        "fields": {
+            "descriptionId": "team_10",
+            "nameId": "team_100",
+            "heroCardIds_int": "1140005,1120008",
+            "name": "\u795e\u65cf\u5149\u8f89"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "hero.heroteam",
+        "fields": {
+            "descriptionId": "team_11",
+            "nameId": "team_110",
+            "heroCardIds_int": "1130003",
+            "name": "\u8352\u91ce\u5e73\u539f"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "hero.heroteam",
+        "fields": {
+            "descriptionId": "team_12",
+            "nameId": "team_120",
+            "heroCardIds_int": "1110002,1120004",
+            "name": "\u6df1\u6d77\u6c34\u65cf"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "hero.heroteam",
+        "fields": {
+            "descriptionId": "team_14",
+            "nameId": "team_140",
+            "heroCardIds_int": "1160007",
+            "name": "\u5730\u4e0b\u866b\u65cf"
+        }
+    }
+]

@@ -1,0 +1,4802 @@
+[
+    {
+        "pk": 2001,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 100,
+            "quality": 2,
+            "level": 1
+        }
+    },
+    {
+        "pk": 2002,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 200,
+            "quality": 2,
+            "level": 2
+        }
+    },
+    {
+        "pk": 2003,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 300,
+            "quality": 2,
+            "level": 3
+        }
+    },
+    {
+        "pk": 2004,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 400,
+            "quality": 2,
+            "level": 4
+        }
+    },
+    {
+        "pk": 2005,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 500,
+            "quality": 2,
+            "level": 5
+        }
+    },
+    {
+        "pk": 2006,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 600,
+            "quality": 2,
+            "level": 6
+        }
+    },
+    {
+        "pk": 2007,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 700,
+            "quality": 2,
+            "level": 7
+        }
+    },
+    {
+        "pk": 2008,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 800,
+            "quality": 2,
+            "level": 8
+        }
+    },
+    {
+        "pk": 2009,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 900,
+            "quality": 2,
+            "level": 9
+        }
+    },
+    {
+        "pk": 2010,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 1000,
+            "quality": 2,
+            "level": 10
+        }
+    },
+    {
+        "pk": 2011,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 1500,
+            "quality": 2,
+            "level": 11
+        }
+    },
+    {
+        "pk": 2012,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 2000,
+            "quality": 2,
+            "level": 12
+        }
+    },
+    {
+        "pk": 2013,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 2500,
+            "quality": 2,
+            "level": 13
+        }
+    },
+    {
+        "pk": 2014,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 3000,
+            "quality": 2,
+            "level": 14
+        }
+    },
+    {
+        "pk": 2015,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 3500,
+            "quality": 2,
+            "level": 15
+        }
+    },
+    {
+        "pk": 2016,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 4000,
+            "quality": 2,
+            "level": 16
+        }
+    },
+    {
+        "pk": 2017,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 4500,
+            "quality": 2,
+            "level": 17
+        }
+    },
+    {
+        "pk": 2018,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 5000,
+            "quality": 2,
+            "level": 18
+        }
+    },
+    {
+        "pk": 2019,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 5500,
+            "quality": 2,
+            "level": 19
+        }
+    },
+    {
+        "pk": 2020,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 6000,
+            "quality": 2,
+            "level": 20
+        }
+    },
+    {
+        "pk": 2021,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 7000,
+            "quality": 2,
+            "level": 21
+        }
+    },
+    {
+        "pk": 2022,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 8000,
+            "quality": 2,
+            "level": 22
+        }
+    },
+    {
+        "pk": 2023,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 9000,
+            "quality": 2,
+            "level": 23
+        }
+    },
+    {
+        "pk": 2024,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 10000,
+            "quality": 2,
+            "level": 24
+        }
+    },
+    {
+        "pk": 2025,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 11000,
+            "quality": 2,
+            "level": 25
+        }
+    },
+    {
+        "pk": 2026,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 12000,
+            "quality": 2,
+            "level": 26
+        }
+    },
+    {
+        "pk": 2027,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 13000,
+            "quality": 2,
+            "level": 27
+        }
+    },
+    {
+        "pk": 2028,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 14000,
+            "quality": 2,
+            "level": 28
+        }
+    },
+    {
+        "pk": 2029,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 15000,
+            "quality": 2,
+            "level": 29
+        }
+    },
+    {
+        "pk": 2030,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 16000,
+            "quality": 2,
+            "level": 30
+        }
+    },
+    {
+        "pk": 2031,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 18000,
+            "quality": 2,
+            "level": 31
+        }
+    },
+    {
+        "pk": 2032,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 20000,
+            "quality": 2,
+            "level": 32
+        }
+    },
+    {
+        "pk": 2033,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 22000,
+            "quality": 2,
+            "level": 33
+        }
+    },
+    {
+        "pk": 2034,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 24000,
+            "quality": 2,
+            "level": 34
+        }
+    },
+    {
+        "pk": 2035,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 26000,
+            "quality": 2,
+            "level": 35
+        }
+    },
+    {
+        "pk": 2036,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 28000,
+            "quality": 2,
+            "level": 36
+        }
+    },
+    {
+        "pk": 2037,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 30000,
+            "quality": 2,
+            "level": 37
+        }
+    },
+    {
+        "pk": 2038,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 32000,
+            "quality": 2,
+            "level": 38
+        }
+    },
+    {
+        "pk": 2039,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 34000,
+            "quality": 2,
+            "level": 39
+        }
+    },
+    {
+        "pk": 2040,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 36000,
+            "quality": 2,
+            "level": 40
+        }
+    },
+    {
+        "pk": 2041,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 38000,
+            "quality": 2,
+            "level": 41
+        }
+    },
+    {
+        "pk": 2042,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 40000,
+            "quality": 2,
+            "level": 42
+        }
+    },
+    {
+        "pk": 2043,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 42000,
+            "quality": 2,
+            "level": 43
+        }
+    },
+    {
+        "pk": 2044,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 44000,
+            "quality": 2,
+            "level": 44
+        }
+    },
+    {
+        "pk": 2045,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 46000,
+            "quality": 2,
+            "level": 45
+        }
+    },
+    {
+        "pk": 2046,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 48000,
+            "quality": 2,
+            "level": 46
+        }
+    },
+    {
+        "pk": 2047,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 50000,
+            "quality": 2,
+            "level": 47
+        }
+    },
+    {
+        "pk": 2048,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 52000,
+            "quality": 2,
+            "level": 48
+        }
+    },
+    {
+        "pk": 2049,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 54000,
+            "quality": 2,
+            "level": 49
+        }
+    },
+    {
+        "pk": 2050,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 56000,
+            "quality": 2,
+            "level": 50
+        }
+    },
+    {
+        "pk": 2051,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 58000,
+            "quality": 2,
+            "level": 51
+        }
+    },
+    {
+        "pk": 2052,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 60000,
+            "quality": 2,
+            "level": 52
+        }
+    },
+    {
+        "pk": 2053,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 62000,
+            "quality": 2,
+            "level": 53
+        }
+    },
+    {
+        "pk": 2054,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 64000,
+            "quality": 2,
+            "level": 54
+        }
+    },
+    {
+        "pk": 2055,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 66000,
+            "quality": 2,
+            "level": 55
+        }
+    },
+    {
+        "pk": 2056,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 68000,
+            "quality": 2,
+            "level": 56
+        }
+    },
+    {
+        "pk": 2057,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 70000,
+            "quality": 2,
+            "level": 57
+        }
+    },
+    {
+        "pk": 2058,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 72000,
+            "quality": 2,
+            "level": 58
+        }
+    },
+    {
+        "pk": 2059,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 74000,
+            "quality": 2,
+            "level": 59
+        }
+    },
+    {
+        "pk": 2060,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 76000,
+            "quality": 2,
+            "level": 60
+        }
+    },
+    {
+        "pk": 2061,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 78000,
+            "quality": 2,
+            "level": 61
+        }
+    },
+    {
+        "pk": 2062,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 80000,
+            "quality": 2,
+            "level": 62
+        }
+    },
+    {
+        "pk": 2063,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 82000,
+            "quality": 2,
+            "level": 63
+        }
+    },
+    {
+        "pk": 2064,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 84000,
+            "quality": 2,
+            "level": 64
+        }
+    },
+    {
+        "pk": 2065,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 86000,
+            "quality": 2,
+            "level": 65
+        }
+    },
+    {
+        "pk": 2066,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 88000,
+            "quality": 2,
+            "level": 66
+        }
+    },
+    {
+        "pk": 2067,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 90000,
+            "quality": 2,
+            "level": 67
+        }
+    },
+    {
+        "pk": 2068,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 92000,
+            "quality": 2,
+            "level": 68
+        }
+    },
+    {
+        "pk": 2069,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 94000,
+            "quality": 2,
+            "level": 69
+        }
+    },
+    {
+        "pk": 2070,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 96000,
+            "quality": 2,
+            "level": 70
+        }
+    },
+    {
+        "pk": 2071,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 98000,
+            "quality": 2,
+            "level": 71
+        }
+    },
+    {
+        "pk": 2072,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 100000,
+            "quality": 2,
+            "level": 72
+        }
+    },
+    {
+        "pk": 2073,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 102000,
+            "quality": 2,
+            "level": 73
+        }
+    },
+    {
+        "pk": 2074,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 104000,
+            "quality": 2,
+            "level": 74
+        }
+    },
+    {
+        "pk": 2075,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 106000,
+            "quality": 2,
+            "level": 75
+        }
+    },
+    {
+        "pk": 2076,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 108000,
+            "quality": 2,
+            "level": 76
+        }
+    },
+    {
+        "pk": 2077,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 110000,
+            "quality": 2,
+            "level": 77
+        }
+    },
+    {
+        "pk": 2078,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 112000,
+            "quality": 2,
+            "level": 78
+        }
+    },
+    {
+        "pk": 2079,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 114000,
+            "quality": 2,
+            "level": 79
+        }
+    },
+    {
+        "pk": 2080,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 116000,
+            "quality": 2,
+            "level": 80
+        }
+    },
+    {
+        "pk": 2081,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 118000,
+            "quality": 2,
+            "level": 81
+        }
+    },
+    {
+        "pk": 2082,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 120000,
+            "quality": 2,
+            "level": 82
+        }
+    },
+    {
+        "pk": 2083,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 122000,
+            "quality": 2,
+            "level": 83
+        }
+    },
+    {
+        "pk": 2084,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 124000,
+            "quality": 2,
+            "level": 84
+        }
+    },
+    {
+        "pk": 2085,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 126000,
+            "quality": 2,
+            "level": 85
+        }
+    },
+    {
+        "pk": 2086,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 128000,
+            "quality": 2,
+            "level": 86
+        }
+    },
+    {
+        "pk": 2087,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 130000,
+            "quality": 2,
+            "level": 87
+        }
+    },
+    {
+        "pk": 2088,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 132000,
+            "quality": 2,
+            "level": 88
+        }
+    },
+    {
+        "pk": 2089,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 134000,
+            "quality": 2,
+            "level": 89
+        }
+    },
+    {
+        "pk": 2090,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 136000,
+            "quality": 2,
+            "level": 90
+        }
+    },
+    {
+        "pk": 2091,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 138000,
+            "quality": 2,
+            "level": 91
+        }
+    },
+    {
+        "pk": 2092,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 140000,
+            "quality": 2,
+            "level": 92
+        }
+    },
+    {
+        "pk": 2093,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 142000,
+            "quality": 2,
+            "level": 93
+        }
+    },
+    {
+        "pk": 2094,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 144000,
+            "quality": 2,
+            "level": 94
+        }
+    },
+    {
+        "pk": 2095,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 146000,
+            "quality": 2,
+            "level": 95
+        }
+    },
+    {
+        "pk": 2096,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 148000,
+            "quality": 2,
+            "level": 96
+        }
+    },
+    {
+        "pk": 2097,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 150000,
+            "quality": 2,
+            "level": 97
+        }
+    },
+    {
+        "pk": 2098,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 152000,
+            "quality": 2,
+            "level": 98
+        }
+    },
+    {
+        "pk": 2099,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 154000,
+            "quality": 2,
+            "level": 99
+        }
+    },
+    {
+        "pk": 2100,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 156000,
+            "quality": 2,
+            "level": 100
+        }
+    },
+    {
+        "pk": 2101,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 158000,
+            "quality": 2,
+            "level": 101
+        }
+    },
+    {
+        "pk": 2102,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 160000,
+            "quality": 2,
+            "level": 102
+        }
+    },
+    {
+        "pk": 2103,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 162000,
+            "quality": 2,
+            "level": 103
+        }
+    },
+    {
+        "pk": 2104,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 164000,
+            "quality": 2,
+            "level": 104
+        }
+    },
+    {
+        "pk": 2105,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 166000,
+            "quality": 2,
+            "level": 105
+        }
+    },
+    {
+        "pk": 2106,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 168000,
+            "quality": 2,
+            "level": 106
+        }
+    },
+    {
+        "pk": 2107,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 170000,
+            "quality": 2,
+            "level": 107
+        }
+    },
+    {
+        "pk": 2108,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 172000,
+            "quality": 2,
+            "level": 108
+        }
+    },
+    {
+        "pk": 2109,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 174000,
+            "quality": 2,
+            "level": 109
+        }
+    },
+    {
+        "pk": 2110,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 176000,
+            "quality": 2,
+            "level": 110
+        }
+    },
+    {
+        "pk": 2111,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 178000,
+            "quality": 2,
+            "level": 111
+        }
+    },
+    {
+        "pk": 2112,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 180000,
+            "quality": 2,
+            "level": 112
+        }
+    },
+    {
+        "pk": 2113,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 182000,
+            "quality": 2,
+            "level": 113
+        }
+    },
+    {
+        "pk": 2114,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 184000,
+            "quality": 2,
+            "level": 114
+        }
+    },
+    {
+        "pk": 2115,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 186000,
+            "quality": 2,
+            "level": 115
+        }
+    },
+    {
+        "pk": 2116,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 188000,
+            "quality": 2,
+            "level": 116
+        }
+    },
+    {
+        "pk": 2117,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 190000,
+            "quality": 2,
+            "level": 117
+        }
+    },
+    {
+        "pk": 2118,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 192000,
+            "quality": 2,
+            "level": 118
+        }
+    },
+    {
+        "pk": 2119,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 194000,
+            "quality": 2,
+            "level": 119
+        }
+    },
+    {
+        "pk": 2120,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 196000,
+            "quality": 2,
+            "level": 120
+        }
+    },
+    {
+        "pk": 3001,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 100,
+            "quality": 3,
+            "level": 1
+        }
+    },
+    {
+        "pk": 3002,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 200,
+            "quality": 3,
+            "level": 2
+        }
+    },
+    {
+        "pk": 3003,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 300,
+            "quality": 3,
+            "level": 3
+        }
+    },
+    {
+        "pk": 3004,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 400,
+            "quality": 3,
+            "level": 4
+        }
+    },
+    {
+        "pk": 3005,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 500,
+            "quality": 3,
+            "level": 5
+        }
+    },
+    {
+        "pk": 3006,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 600,
+            "quality": 3,
+            "level": 6
+        }
+    },
+    {
+        "pk": 3007,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 700,
+            "quality": 3,
+            "level": 7
+        }
+    },
+    {
+        "pk": 3008,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 800,
+            "quality": 3,
+            "level": 8
+        }
+    },
+    {
+        "pk": 3009,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 900,
+            "quality": 3,
+            "level": 9
+        }
+    },
+    {
+        "pk": 3010,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 1000,
+            "quality": 3,
+            "level": 10
+        }
+    },
+    {
+        "pk": 3011,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 1500,
+            "quality": 3,
+            "level": 11
+        }
+    },
+    {
+        "pk": 3012,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 2000,
+            "quality": 3,
+            "level": 12
+        }
+    },
+    {
+        "pk": 3013,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 2500,
+            "quality": 3,
+            "level": 13
+        }
+    },
+    {
+        "pk": 3014,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 3000,
+            "quality": 3,
+            "level": 14
+        }
+    },
+    {
+        "pk": 3015,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 3500,
+            "quality": 3,
+            "level": 15
+        }
+    },
+    {
+        "pk": 3016,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 4000,
+            "quality": 3,
+            "level": 16
+        }
+    },
+    {
+        "pk": 3017,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 4500,
+            "quality": 3,
+            "level": 17
+        }
+    },
+    {
+        "pk": 3018,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 5000,
+            "quality": 3,
+            "level": 18
+        }
+    },
+    {
+        "pk": 3019,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 5500,
+            "quality": 3,
+            "level": 19
+        }
+    },
+    {
+        "pk": 3020,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 6000,
+            "quality": 3,
+            "level": 20
+        }
+    },
+    {
+        "pk": 3021,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 7000,
+            "quality": 3,
+            "level": 21
+        }
+    },
+    {
+        "pk": 3022,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 8000,
+            "quality": 3,
+            "level": 22
+        }
+    },
+    {
+        "pk": 3023,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 9000,
+            "quality": 3,
+            "level": 23
+        }
+    },
+    {
+        "pk": 3024,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 10000,
+            "quality": 3,
+            "level": 24
+        }
+    },
+    {
+        "pk": 3025,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 11000,
+            "quality": 3,
+            "level": 25
+        }
+    },
+    {
+        "pk": 3026,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 12000,
+            "quality": 3,
+            "level": 26
+        }
+    },
+    {
+        "pk": 3027,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 13000,
+            "quality": 3,
+            "level": 27
+        }
+    },
+    {
+        "pk": 3028,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 14000,
+            "quality": 3,
+            "level": 28
+        }
+    },
+    {
+        "pk": 3029,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 15000,
+            "quality": 3,
+            "level": 29
+        }
+    },
+    {
+        "pk": 3030,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 16000,
+            "quality": 3,
+            "level": 30
+        }
+    },
+    {
+        "pk": 3031,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 18000,
+            "quality": 3,
+            "level": 31
+        }
+    },
+    {
+        "pk": 3032,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 20000,
+            "quality": 3,
+            "level": 32
+        }
+    },
+    {
+        "pk": 3033,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 22000,
+            "quality": 3,
+            "level": 33
+        }
+    },
+    {
+        "pk": 3034,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 24000,
+            "quality": 3,
+            "level": 34
+        }
+    },
+    {
+        "pk": 3035,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 26000,
+            "quality": 3,
+            "level": 35
+        }
+    },
+    {
+        "pk": 3036,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 28000,
+            "quality": 3,
+            "level": 36
+        }
+    },
+    {
+        "pk": 3037,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 30000,
+            "quality": 3,
+            "level": 37
+        }
+    },
+    {
+        "pk": 3038,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 32000,
+            "quality": 3,
+            "level": 38
+        }
+    },
+    {
+        "pk": 3039,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 34000,
+            "quality": 3,
+            "level": 39
+        }
+    },
+    {
+        "pk": 3040,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 36000,
+            "quality": 3,
+            "level": 40
+        }
+    },
+    {
+        "pk": 3041,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 38000,
+            "quality": 3,
+            "level": 41
+        }
+    },
+    {
+        "pk": 3042,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 40000,
+            "quality": 3,
+            "level": 42
+        }
+    },
+    {
+        "pk": 3043,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 42000,
+            "quality": 3,
+            "level": 43
+        }
+    },
+    {
+        "pk": 3044,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 44000,
+            "quality": 3,
+            "level": 44
+        }
+    },
+    {
+        "pk": 3045,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 46000,
+            "quality": 3,
+            "level": 45
+        }
+    },
+    {
+        "pk": 3046,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 48000,
+            "quality": 3,
+            "level": 46
+        }
+    },
+    {
+        "pk": 3047,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 50000,
+            "quality": 3,
+            "level": 47
+        }
+    },
+    {
+        "pk": 3048,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 52000,
+            "quality": 3,
+            "level": 48
+        }
+    },
+    {
+        "pk": 3049,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 54000,
+            "quality": 3,
+            "level": 49
+        }
+    },
+    {
+        "pk": 3050,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 56000,
+            "quality": 3,
+            "level": 50
+        }
+    },
+    {
+        "pk": 3051,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 58000,
+            "quality": 3,
+            "level": 51
+        }
+    },
+    {
+        "pk": 3052,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 60000,
+            "quality": 3,
+            "level": 52
+        }
+    },
+    {
+        "pk": 3053,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 62000,
+            "quality": 3,
+            "level": 53
+        }
+    },
+    {
+        "pk": 3054,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 64000,
+            "quality": 3,
+            "level": 54
+        }
+    },
+    {
+        "pk": 3055,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 66000,
+            "quality": 3,
+            "level": 55
+        }
+    },
+    {
+        "pk": 3056,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 68000,
+            "quality": 3,
+            "level": 56
+        }
+    },
+    {
+        "pk": 3057,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 70000,
+            "quality": 3,
+            "level": 57
+        }
+    },
+    {
+        "pk": 3058,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 72000,
+            "quality": 3,
+            "level": 58
+        }
+    },
+    {
+        "pk": 3059,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 74000,
+            "quality": 3,
+            "level": 59
+        }
+    },
+    {
+        "pk": 3060,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 76000,
+            "quality": 3,
+            "level": 60
+        }
+    },
+    {
+        "pk": 3061,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 78000,
+            "quality": 3,
+            "level": 61
+        }
+    },
+    {
+        "pk": 3062,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 80000,
+            "quality": 3,
+            "level": 62
+        }
+    },
+    {
+        "pk": 3063,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 82000,
+            "quality": 3,
+            "level": 63
+        }
+    },
+    {
+        "pk": 3064,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 84000,
+            "quality": 3,
+            "level": 64
+        }
+    },
+    {
+        "pk": 3065,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 86000,
+            "quality": 3,
+            "level": 65
+        }
+    },
+    {
+        "pk": 3066,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 88000,
+            "quality": 3,
+            "level": 66
+        }
+    },
+    {
+        "pk": 3067,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 90000,
+            "quality": 3,
+            "level": 67
+        }
+    },
+    {
+        "pk": 3068,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 92000,
+            "quality": 3,
+            "level": 68
+        }
+    },
+    {
+        "pk": 3069,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 94000,
+            "quality": 3,
+            "level": 69
+        }
+    },
+    {
+        "pk": 3070,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 96000,
+            "quality": 3,
+            "level": 70
+        }
+    },
+    {
+        "pk": 3071,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 98000,
+            "quality": 3,
+            "level": 71
+        }
+    },
+    {
+        "pk": 3072,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 100000,
+            "quality": 3,
+            "level": 72
+        }
+    },
+    {
+        "pk": 3073,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 102000,
+            "quality": 3,
+            "level": 73
+        }
+    },
+    {
+        "pk": 3074,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 104000,
+            "quality": 3,
+            "level": 74
+        }
+    },
+    {
+        "pk": 3075,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 106000,
+            "quality": 3,
+            "level": 75
+        }
+    },
+    {
+        "pk": 3076,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 108000,
+            "quality": 3,
+            "level": 76
+        }
+    },
+    {
+        "pk": 3077,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 110000,
+            "quality": 3,
+            "level": 77
+        }
+    },
+    {
+        "pk": 3078,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 112000,
+            "quality": 3,
+            "level": 78
+        }
+    },
+    {
+        "pk": 3079,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 114000,
+            "quality": 3,
+            "level": 79
+        }
+    },
+    {
+        "pk": 3080,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 116000,
+            "quality": 3,
+            "level": 80
+        }
+    },
+    {
+        "pk": 3081,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 118000,
+            "quality": 3,
+            "level": 81
+        }
+    },
+    {
+        "pk": 3082,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 120000,
+            "quality": 3,
+            "level": 82
+        }
+    },
+    {
+        "pk": 3083,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 122000,
+            "quality": 3,
+            "level": 83
+        }
+    },
+    {
+        "pk": 3084,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 124000,
+            "quality": 3,
+            "level": 84
+        }
+    },
+    {
+        "pk": 3085,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 126000,
+            "quality": 3,
+            "level": 85
+        }
+    },
+    {
+        "pk": 3086,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 128000,
+            "quality": 3,
+            "level": 86
+        }
+    },
+    {
+        "pk": 3087,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 130000,
+            "quality": 3,
+            "level": 87
+        }
+    },
+    {
+        "pk": 3088,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 132000,
+            "quality": 3,
+            "level": 88
+        }
+    },
+    {
+        "pk": 3089,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 134000,
+            "quality": 3,
+            "level": 89
+        }
+    },
+    {
+        "pk": 3090,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 136000,
+            "quality": 3,
+            "level": 90
+        }
+    },
+    {
+        "pk": 3091,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 138000,
+            "quality": 3,
+            "level": 91
+        }
+    },
+    {
+        "pk": 3092,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 140000,
+            "quality": 3,
+            "level": 92
+        }
+    },
+    {
+        "pk": 3093,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 142000,
+            "quality": 3,
+            "level": 93
+        }
+    },
+    {
+        "pk": 3094,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 144000,
+            "quality": 3,
+            "level": 94
+        }
+    },
+    {
+        "pk": 3095,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 146000,
+            "quality": 3,
+            "level": 95
+        }
+    },
+    {
+        "pk": 3096,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 148000,
+            "quality": 3,
+            "level": 96
+        }
+    },
+    {
+        "pk": 3097,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 150000,
+            "quality": 3,
+            "level": 97
+        }
+    },
+    {
+        "pk": 3098,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 152000,
+            "quality": 3,
+            "level": 98
+        }
+    },
+    {
+        "pk": 3099,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 154000,
+            "quality": 3,
+            "level": 99
+        }
+    },
+    {
+        "pk": 3100,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 156000,
+            "quality": 3,
+            "level": 100
+        }
+    },
+    {
+        "pk": 3101,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 158000,
+            "quality": 3,
+            "level": 101
+        }
+    },
+    {
+        "pk": 3102,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 160000,
+            "quality": 3,
+            "level": 102
+        }
+    },
+    {
+        "pk": 3103,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 162000,
+            "quality": 3,
+            "level": 103
+        }
+    },
+    {
+        "pk": 3104,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 164000,
+            "quality": 3,
+            "level": 104
+        }
+    },
+    {
+        "pk": 3105,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 166000,
+            "quality": 3,
+            "level": 105
+        }
+    },
+    {
+        "pk": 3106,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 168000,
+            "quality": 3,
+            "level": 106
+        }
+    },
+    {
+        "pk": 3107,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 170000,
+            "quality": 3,
+            "level": 107
+        }
+    },
+    {
+        "pk": 3108,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 172000,
+            "quality": 3,
+            "level": 108
+        }
+    },
+    {
+        "pk": 3109,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 174000,
+            "quality": 3,
+            "level": 109
+        }
+    },
+    {
+        "pk": 3110,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 176000,
+            "quality": 3,
+            "level": 110
+        }
+    },
+    {
+        "pk": 3111,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 178000,
+            "quality": 3,
+            "level": 111
+        }
+    },
+    {
+        "pk": 3112,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 180000,
+            "quality": 3,
+            "level": 112
+        }
+    },
+    {
+        "pk": 3113,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 182000,
+            "quality": 3,
+            "level": 113
+        }
+    },
+    {
+        "pk": 3114,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 184000,
+            "quality": 3,
+            "level": 114
+        }
+    },
+    {
+        "pk": 3115,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 186000,
+            "quality": 3,
+            "level": 115
+        }
+    },
+    {
+        "pk": 3116,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 188000,
+            "quality": 3,
+            "level": 116
+        }
+    },
+    {
+        "pk": 3117,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 190000,
+            "quality": 3,
+            "level": 117
+        }
+    },
+    {
+        "pk": 3118,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 192000,
+            "quality": 3,
+            "level": 118
+        }
+    },
+    {
+        "pk": 3119,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 194000,
+            "quality": 3,
+            "level": 119
+        }
+    },
+    {
+        "pk": 3120,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 196000,
+            "quality": 3,
+            "level": 120
+        }
+    },
+    {
+        "pk": 4001,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 100,
+            "quality": 4,
+            "level": 1
+        }
+    },
+    {
+        "pk": 4002,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 200,
+            "quality": 4,
+            "level": 2
+        }
+    },
+    {
+        "pk": 4003,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 300,
+            "quality": 4,
+            "level": 3
+        }
+    },
+    {
+        "pk": 4004,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 400,
+            "quality": 4,
+            "level": 4
+        }
+    },
+    {
+        "pk": 4005,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 500,
+            "quality": 4,
+            "level": 5
+        }
+    },
+    {
+        "pk": 4006,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 600,
+            "quality": 4,
+            "level": 6
+        }
+    },
+    {
+        "pk": 4007,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 700,
+            "quality": 4,
+            "level": 7
+        }
+    },
+    {
+        "pk": 4008,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 800,
+            "quality": 4,
+            "level": 8
+        }
+    },
+    {
+        "pk": 4009,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 900,
+            "quality": 4,
+            "level": 9
+        }
+    },
+    {
+        "pk": 4010,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 1000,
+            "quality": 4,
+            "level": 10
+        }
+    },
+    {
+        "pk": 4011,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 1500,
+            "quality": 4,
+            "level": 11
+        }
+    },
+    {
+        "pk": 4012,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 2000,
+            "quality": 4,
+            "level": 12
+        }
+    },
+    {
+        "pk": 4013,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 2500,
+            "quality": 4,
+            "level": 13
+        }
+    },
+    {
+        "pk": 4014,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 3000,
+            "quality": 4,
+            "level": 14
+        }
+    },
+    {
+        "pk": 4015,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 3500,
+            "quality": 4,
+            "level": 15
+        }
+    },
+    {
+        "pk": 4016,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 4000,
+            "quality": 4,
+            "level": 16
+        }
+    },
+    {
+        "pk": 4017,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 4500,
+            "quality": 4,
+            "level": 17
+        }
+    },
+    {
+        "pk": 4018,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 5000,
+            "quality": 4,
+            "level": 18
+        }
+    },
+    {
+        "pk": 4019,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 5500,
+            "quality": 4,
+            "level": 19
+        }
+    },
+    {
+        "pk": 4020,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 6000,
+            "quality": 4,
+            "level": 20
+        }
+    },
+    {
+        "pk": 4021,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 7000,
+            "quality": 4,
+            "level": 21
+        }
+    },
+    {
+        "pk": 4022,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 8000,
+            "quality": 4,
+            "level": 22
+        }
+    },
+    {
+        "pk": 4023,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 9000,
+            "quality": 4,
+            "level": 23
+        }
+    },
+    {
+        "pk": 4024,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 10000,
+            "quality": 4,
+            "level": 24
+        }
+    },
+    {
+        "pk": 4025,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 11000,
+            "quality": 4,
+            "level": 25
+        }
+    },
+    {
+        "pk": 4026,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 12000,
+            "quality": 4,
+            "level": 26
+        }
+    },
+    {
+        "pk": 4027,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 13000,
+            "quality": 4,
+            "level": 27
+        }
+    },
+    {
+        "pk": 4028,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 14000,
+            "quality": 4,
+            "level": 28
+        }
+    },
+    {
+        "pk": 4029,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 15000,
+            "quality": 4,
+            "level": 29
+        }
+    },
+    {
+        "pk": 4030,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 16000,
+            "quality": 4,
+            "level": 30
+        }
+    },
+    {
+        "pk": 4031,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 18000,
+            "quality": 4,
+            "level": 31
+        }
+    },
+    {
+        "pk": 4032,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 20000,
+            "quality": 4,
+            "level": 32
+        }
+    },
+    {
+        "pk": 4033,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 22000,
+            "quality": 4,
+            "level": 33
+        }
+    },
+    {
+        "pk": 4034,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 24000,
+            "quality": 4,
+            "level": 34
+        }
+    },
+    {
+        "pk": 4035,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 26000,
+            "quality": 4,
+            "level": 35
+        }
+    },
+    {
+        "pk": 4036,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 28000,
+            "quality": 4,
+            "level": 36
+        }
+    },
+    {
+        "pk": 4037,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 30000,
+            "quality": 4,
+            "level": 37
+        }
+    },
+    {
+        "pk": 4038,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 32000,
+            "quality": 4,
+            "level": 38
+        }
+    },
+    {
+        "pk": 4039,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 34000,
+            "quality": 4,
+            "level": 39
+        }
+    },
+    {
+        "pk": 4040,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 36000,
+            "quality": 4,
+            "level": 40
+        }
+    },
+    {
+        "pk": 4041,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 38000,
+            "quality": 4,
+            "level": 41
+        }
+    },
+    {
+        "pk": 4042,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 40000,
+            "quality": 4,
+            "level": 42
+        }
+    },
+    {
+        "pk": 4043,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 42000,
+            "quality": 4,
+            "level": 43
+        }
+    },
+    {
+        "pk": 4044,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 44000,
+            "quality": 4,
+            "level": 44
+        }
+    },
+    {
+        "pk": 4045,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 46000,
+            "quality": 4,
+            "level": 45
+        }
+    },
+    {
+        "pk": 4046,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 48000,
+            "quality": 4,
+            "level": 46
+        }
+    },
+    {
+        "pk": 4047,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 50000,
+            "quality": 4,
+            "level": 47
+        }
+    },
+    {
+        "pk": 4048,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 52000,
+            "quality": 4,
+            "level": 48
+        }
+    },
+    {
+        "pk": 4049,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 54000,
+            "quality": 4,
+            "level": 49
+        }
+    },
+    {
+        "pk": 4050,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 56000,
+            "quality": 4,
+            "level": 50
+        }
+    },
+    {
+        "pk": 4051,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 58000,
+            "quality": 4,
+            "level": 51
+        }
+    },
+    {
+        "pk": 4052,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 60000,
+            "quality": 4,
+            "level": 52
+        }
+    },
+    {
+        "pk": 4053,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 62000,
+            "quality": 4,
+            "level": 53
+        }
+    },
+    {
+        "pk": 4054,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 64000,
+            "quality": 4,
+            "level": 54
+        }
+    },
+    {
+        "pk": 4055,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 66000,
+            "quality": 4,
+            "level": 55
+        }
+    },
+    {
+        "pk": 4056,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 68000,
+            "quality": 4,
+            "level": 56
+        }
+    },
+    {
+        "pk": 4057,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 70000,
+            "quality": 4,
+            "level": 57
+        }
+    },
+    {
+        "pk": 4058,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 72000,
+            "quality": 4,
+            "level": 58
+        }
+    },
+    {
+        "pk": 4059,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 74000,
+            "quality": 4,
+            "level": 59
+        }
+    },
+    {
+        "pk": 4060,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 76000,
+            "quality": 4,
+            "level": 60
+        }
+    },
+    {
+        "pk": 4061,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 78000,
+            "quality": 4,
+            "level": 61
+        }
+    },
+    {
+        "pk": 4062,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 80000,
+            "quality": 4,
+            "level": 62
+        }
+    },
+    {
+        "pk": 4063,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 82000,
+            "quality": 4,
+            "level": 63
+        }
+    },
+    {
+        "pk": 4064,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 84000,
+            "quality": 4,
+            "level": 64
+        }
+    },
+    {
+        "pk": 4065,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 86000,
+            "quality": 4,
+            "level": 65
+        }
+    },
+    {
+        "pk": 4066,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 88000,
+            "quality": 4,
+            "level": 66
+        }
+    },
+    {
+        "pk": 4067,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 90000,
+            "quality": 4,
+            "level": 67
+        }
+    },
+    {
+        "pk": 4068,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 92000,
+            "quality": 4,
+            "level": 68
+        }
+    },
+    {
+        "pk": 4069,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 94000,
+            "quality": 4,
+            "level": 69
+        }
+    },
+    {
+        "pk": 4070,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 96000,
+            "quality": 4,
+            "level": 70
+        }
+    },
+    {
+        "pk": 4071,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 98000,
+            "quality": 4,
+            "level": 71
+        }
+    },
+    {
+        "pk": 4072,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 100000,
+            "quality": 4,
+            "level": 72
+        }
+    },
+    {
+        "pk": 4073,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 102000,
+            "quality": 4,
+            "level": 73
+        }
+    },
+    {
+        "pk": 4074,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 104000,
+            "quality": 4,
+            "level": 74
+        }
+    },
+    {
+        "pk": 4075,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 106000,
+            "quality": 4,
+            "level": 75
+        }
+    },
+    {
+        "pk": 4076,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 108000,
+            "quality": 4,
+            "level": 76
+        }
+    },
+    {
+        "pk": 4077,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 110000,
+            "quality": 4,
+            "level": 77
+        }
+    },
+    {
+        "pk": 4078,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 112000,
+            "quality": 4,
+            "level": 78
+        }
+    },
+    {
+        "pk": 4079,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 114000,
+            "quality": 4,
+            "level": 79
+        }
+    },
+    {
+        "pk": 4080,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 116000,
+            "quality": 4,
+            "level": 80
+        }
+    },
+    {
+        "pk": 4081,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 118000,
+            "quality": 4,
+            "level": 81
+        }
+    },
+    {
+        "pk": 4082,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 120000,
+            "quality": 4,
+            "level": 82
+        }
+    },
+    {
+        "pk": 4083,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 122000,
+            "quality": 4,
+            "level": 83
+        }
+    },
+    {
+        "pk": 4084,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 124000,
+            "quality": 4,
+            "level": 84
+        }
+    },
+    {
+        "pk": 4085,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 126000,
+            "quality": 4,
+            "level": 85
+        }
+    },
+    {
+        "pk": 4086,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 128000,
+            "quality": 4,
+            "level": 86
+        }
+    },
+    {
+        "pk": 4087,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 130000,
+            "quality": 4,
+            "level": 87
+        }
+    },
+    {
+        "pk": 4088,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 132000,
+            "quality": 4,
+            "level": 88
+        }
+    },
+    {
+        "pk": 4089,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 134000,
+            "quality": 4,
+            "level": 89
+        }
+    },
+    {
+        "pk": 4090,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 136000,
+            "quality": 4,
+            "level": 90
+        }
+    },
+    {
+        "pk": 4091,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 138000,
+            "quality": 4,
+            "level": 91
+        }
+    },
+    {
+        "pk": 4092,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 140000,
+            "quality": 4,
+            "level": 92
+        }
+    },
+    {
+        "pk": 4093,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 142000,
+            "quality": 4,
+            "level": 93
+        }
+    },
+    {
+        "pk": 4094,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 144000,
+            "quality": 4,
+            "level": 94
+        }
+    },
+    {
+        "pk": 4095,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 146000,
+            "quality": 4,
+            "level": 95
+        }
+    },
+    {
+        "pk": 4096,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 148000,
+            "quality": 4,
+            "level": 96
+        }
+    },
+    {
+        "pk": 4097,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 150000,
+            "quality": 4,
+            "level": 97
+        }
+    },
+    {
+        "pk": 4098,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 152000,
+            "quality": 4,
+            "level": 98
+        }
+    },
+    {
+        "pk": 4099,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 154000,
+            "quality": 4,
+            "level": 99
+        }
+    },
+    {
+        "pk": 4100,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 156000,
+            "quality": 4,
+            "level": 100
+        }
+    },
+    {
+        "pk": 4101,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 158000,
+            "quality": 4,
+            "level": 101
+        }
+    },
+    {
+        "pk": 4102,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 160000,
+            "quality": 4,
+            "level": 102
+        }
+    },
+    {
+        "pk": 4103,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 162000,
+            "quality": 4,
+            "level": 103
+        }
+    },
+    {
+        "pk": 4104,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 164000,
+            "quality": 4,
+            "level": 104
+        }
+    },
+    {
+        "pk": 4105,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 166000,
+            "quality": 4,
+            "level": 105
+        }
+    },
+    {
+        "pk": 4106,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 168000,
+            "quality": 4,
+            "level": 106
+        }
+    },
+    {
+        "pk": 4107,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 170000,
+            "quality": 4,
+            "level": 107
+        }
+    },
+    {
+        "pk": 4108,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 172000,
+            "quality": 4,
+            "level": 108
+        }
+    },
+    {
+        "pk": 4109,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 174000,
+            "quality": 4,
+            "level": 109
+        }
+    },
+    {
+        "pk": 4110,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 176000,
+            "quality": 4,
+            "level": 110
+        }
+    },
+    {
+        "pk": 4111,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 178000,
+            "quality": 4,
+            "level": 111
+        }
+    },
+    {
+        "pk": 4112,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 180000,
+            "quality": 4,
+            "level": 112
+        }
+    },
+    {
+        "pk": 4113,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 182000,
+            "quality": 4,
+            "level": 113
+        }
+    },
+    {
+        "pk": 4114,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 184000,
+            "quality": 4,
+            "level": 114
+        }
+    },
+    {
+        "pk": 4115,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 186000,
+            "quality": 4,
+            "level": 115
+        }
+    },
+    {
+        "pk": 4116,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 188000,
+            "quality": 4,
+            "level": 116
+        }
+    },
+    {
+        "pk": 4117,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 190000,
+            "quality": 4,
+            "level": 117
+        }
+    },
+    {
+        "pk": 4118,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 192000,
+            "quality": 4,
+            "level": 118
+        }
+    },
+    {
+        "pk": 4119,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 194000,
+            "quality": 4,
+            "level": 119
+        }
+    },
+    {
+        "pk": 4120,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 196000,
+            "quality": 4,
+            "level": 120
+        }
+    },
+    {
+        "pk": 5001,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 100,
+            "quality": 5,
+            "level": 1
+        }
+    },
+    {
+        "pk": 5002,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 200,
+            "quality": 5,
+            "level": 2
+        }
+    },
+    {
+        "pk": 5003,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 300,
+            "quality": 5,
+            "level": 3
+        }
+    },
+    {
+        "pk": 5004,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 400,
+            "quality": 5,
+            "level": 4
+        }
+    },
+    {
+        "pk": 5005,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 500,
+            "quality": 5,
+            "level": 5
+        }
+    },
+    {
+        "pk": 5006,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 600,
+            "quality": 5,
+            "level": 6
+        }
+    },
+    {
+        "pk": 5007,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 700,
+            "quality": 5,
+            "level": 7
+        }
+    },
+    {
+        "pk": 5008,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 800,
+            "quality": 5,
+            "level": 8
+        }
+    },
+    {
+        "pk": 5009,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 900,
+            "quality": 5,
+            "level": 9
+        }
+    },
+    {
+        "pk": 5010,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 1000,
+            "quality": 5,
+            "level": 10
+        }
+    },
+    {
+        "pk": 5011,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 1500,
+            "quality": 5,
+            "level": 11
+        }
+    },
+    {
+        "pk": 5012,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 2000,
+            "quality": 5,
+            "level": 12
+        }
+    },
+    {
+        "pk": 5013,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 2500,
+            "quality": 5,
+            "level": 13
+        }
+    },
+    {
+        "pk": 5014,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 3000,
+            "quality": 5,
+            "level": 14
+        }
+    },
+    {
+        "pk": 5015,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 3500,
+            "quality": 5,
+            "level": 15
+        }
+    },
+    {
+        "pk": 5016,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 4000,
+            "quality": 5,
+            "level": 16
+        }
+    },
+    {
+        "pk": 5017,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 4500,
+            "quality": 5,
+            "level": 17
+        }
+    },
+    {
+        "pk": 5018,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 5000,
+            "quality": 5,
+            "level": 18
+        }
+    },
+    {
+        "pk": 5019,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 5500,
+            "quality": 5,
+            "level": 19
+        }
+    },
+    {
+        "pk": 5020,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 6000,
+            "quality": 5,
+            "level": 20
+        }
+    },
+    {
+        "pk": 5021,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 7000,
+            "quality": 5,
+            "level": 21
+        }
+    },
+    {
+        "pk": 5022,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 8000,
+            "quality": 5,
+            "level": 22
+        }
+    },
+    {
+        "pk": 5023,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 9000,
+            "quality": 5,
+            "level": 23
+        }
+    },
+    {
+        "pk": 5024,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 10000,
+            "quality": 5,
+            "level": 24
+        }
+    },
+    {
+        "pk": 5025,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 11000,
+            "quality": 5,
+            "level": 25
+        }
+    },
+    {
+        "pk": 5026,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 12000,
+            "quality": 5,
+            "level": 26
+        }
+    },
+    {
+        "pk": 5027,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 13000,
+            "quality": 5,
+            "level": 27
+        }
+    },
+    {
+        "pk": 5028,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 14000,
+            "quality": 5,
+            "level": 28
+        }
+    },
+    {
+        "pk": 5029,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 15000,
+            "quality": 5,
+            "level": 29
+        }
+    },
+    {
+        "pk": 5030,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 16000,
+            "quality": 5,
+            "level": 30
+        }
+    },
+    {
+        "pk": 5031,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 18000,
+            "quality": 5,
+            "level": 31
+        }
+    },
+    {
+        "pk": 5032,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 20000,
+            "quality": 5,
+            "level": 32
+        }
+    },
+    {
+        "pk": 5033,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 22000,
+            "quality": 5,
+            "level": 33
+        }
+    },
+    {
+        "pk": 5034,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 24000,
+            "quality": 5,
+            "level": 34
+        }
+    },
+    {
+        "pk": 5035,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 26000,
+            "quality": 5,
+            "level": 35
+        }
+    },
+    {
+        "pk": 5036,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 28000,
+            "quality": 5,
+            "level": 36
+        }
+    },
+    {
+        "pk": 5037,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 30000,
+            "quality": 5,
+            "level": 37
+        }
+    },
+    {
+        "pk": 5038,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 32000,
+            "quality": 5,
+            "level": 38
+        }
+    },
+    {
+        "pk": 5039,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 34000,
+            "quality": 5,
+            "level": 39
+        }
+    },
+    {
+        "pk": 5040,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 36000,
+            "quality": 5,
+            "level": 40
+        }
+    },
+    {
+        "pk": 5041,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 38000,
+            "quality": 5,
+            "level": 41
+        }
+    },
+    {
+        "pk": 5042,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 40000,
+            "quality": 5,
+            "level": 42
+        }
+    },
+    {
+        "pk": 5043,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 42000,
+            "quality": 5,
+            "level": 43
+        }
+    },
+    {
+        "pk": 5044,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 44000,
+            "quality": 5,
+            "level": 44
+        }
+    },
+    {
+        "pk": 5045,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 46000,
+            "quality": 5,
+            "level": 45
+        }
+    },
+    {
+        "pk": 5046,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 48000,
+            "quality": 5,
+            "level": 46
+        }
+    },
+    {
+        "pk": 5047,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 50000,
+            "quality": 5,
+            "level": 47
+        }
+    },
+    {
+        "pk": 5048,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 52000,
+            "quality": 5,
+            "level": 48
+        }
+    },
+    {
+        "pk": 5049,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 54000,
+            "quality": 5,
+            "level": 49
+        }
+    },
+    {
+        "pk": 5050,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 56000,
+            "quality": 5,
+            "level": 50
+        }
+    },
+    {
+        "pk": 5051,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 58000,
+            "quality": 5,
+            "level": 51
+        }
+    },
+    {
+        "pk": 5052,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 60000,
+            "quality": 5,
+            "level": 52
+        }
+    },
+    {
+        "pk": 5053,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 62000,
+            "quality": 5,
+            "level": 53
+        }
+    },
+    {
+        "pk": 5054,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 64000,
+            "quality": 5,
+            "level": 54
+        }
+    },
+    {
+        "pk": 5055,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 66000,
+            "quality": 5,
+            "level": 55
+        }
+    },
+    {
+        "pk": 5056,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 68000,
+            "quality": 5,
+            "level": 56
+        }
+    },
+    {
+        "pk": 5057,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 70000,
+            "quality": 5,
+            "level": 57
+        }
+    },
+    {
+        "pk": 5058,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 72000,
+            "quality": 5,
+            "level": 58
+        }
+    },
+    {
+        "pk": 5059,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 74000,
+            "quality": 5,
+            "level": 59
+        }
+    },
+    {
+        "pk": 5060,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 76000,
+            "quality": 5,
+            "level": 60
+        }
+    },
+    {
+        "pk": 5061,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 78000,
+            "quality": 5,
+            "level": 61
+        }
+    },
+    {
+        "pk": 5062,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 80000,
+            "quality": 5,
+            "level": 62
+        }
+    },
+    {
+        "pk": 5063,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 82000,
+            "quality": 5,
+            "level": 63
+        }
+    },
+    {
+        "pk": 5064,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 84000,
+            "quality": 5,
+            "level": 64
+        }
+    },
+    {
+        "pk": 5065,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 86000,
+            "quality": 5,
+            "level": 65
+        }
+    },
+    {
+        "pk": 5066,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 88000,
+            "quality": 5,
+            "level": 66
+        }
+    },
+    {
+        "pk": 5067,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 90000,
+            "quality": 5,
+            "level": 67
+        }
+    },
+    {
+        "pk": 5068,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 92000,
+            "quality": 5,
+            "level": 68
+        }
+    },
+    {
+        "pk": 5069,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 94000,
+            "quality": 5,
+            "level": 69
+        }
+    },
+    {
+        "pk": 5070,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 96000,
+            "quality": 5,
+            "level": 70
+        }
+    },
+    {
+        "pk": 5071,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 98000,
+            "quality": 5,
+            "level": 71
+        }
+    },
+    {
+        "pk": 5072,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 100000,
+            "quality": 5,
+            "level": 72
+        }
+    },
+    {
+        "pk": 5073,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 102000,
+            "quality": 5,
+            "level": 73
+        }
+    },
+    {
+        "pk": 5074,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 104000,
+            "quality": 5,
+            "level": 74
+        }
+    },
+    {
+        "pk": 5075,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 106000,
+            "quality": 5,
+            "level": 75
+        }
+    },
+    {
+        "pk": 5076,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 108000,
+            "quality": 5,
+            "level": 76
+        }
+    },
+    {
+        "pk": 5077,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 110000,
+            "quality": 5,
+            "level": 77
+        }
+    },
+    {
+        "pk": 5078,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 112000,
+            "quality": 5,
+            "level": 78
+        }
+    },
+    {
+        "pk": 5079,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 114000,
+            "quality": 5,
+            "level": 79
+        }
+    },
+    {
+        "pk": 5080,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 116000,
+            "quality": 5,
+            "level": 80
+        }
+    },
+    {
+        "pk": 5081,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 118000,
+            "quality": 5,
+            "level": 81
+        }
+    },
+    {
+        "pk": 5082,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 120000,
+            "quality": 5,
+            "level": 82
+        }
+    },
+    {
+        "pk": 5083,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 122000,
+            "quality": 5,
+            "level": 83
+        }
+    },
+    {
+        "pk": 5084,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 124000,
+            "quality": 5,
+            "level": 84
+        }
+    },
+    {
+        "pk": 5085,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 126000,
+            "quality": 5,
+            "level": 85
+        }
+    },
+    {
+        "pk": 5086,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 128000,
+            "quality": 5,
+            "level": 86
+        }
+    },
+    {
+        "pk": 5087,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 130000,
+            "quality": 5,
+            "level": 87
+        }
+    },
+    {
+        "pk": 5088,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 132000,
+            "quality": 5,
+            "level": 88
+        }
+    },
+    {
+        "pk": 5089,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 134000,
+            "quality": 5,
+            "level": 89
+        }
+    },
+    {
+        "pk": 5090,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 136000,
+            "quality": 5,
+            "level": 90
+        }
+    },
+    {
+        "pk": 5091,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 138000,
+            "quality": 5,
+            "level": 91
+        }
+    },
+    {
+        "pk": 5092,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 140000,
+            "quality": 5,
+            "level": 92
+        }
+    },
+    {
+        "pk": 5093,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 142000,
+            "quality": 5,
+            "level": 93
+        }
+    },
+    {
+        "pk": 5094,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 144000,
+            "quality": 5,
+            "level": 94
+        }
+    },
+    {
+        "pk": 5095,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 146000,
+            "quality": 5,
+            "level": 95
+        }
+    },
+    {
+        "pk": 5096,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 148000,
+            "quality": 5,
+            "level": 96
+        }
+    },
+    {
+        "pk": 5097,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 150000,
+            "quality": 5,
+            "level": 97
+        }
+    },
+    {
+        "pk": 5098,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 152000,
+            "quality": 5,
+            "level": 98
+        }
+    },
+    {
+        "pk": 5099,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 154000,
+            "quality": 5,
+            "level": 99
+        }
+    },
+    {
+        "pk": 5100,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 156000,
+            "quality": 5,
+            "level": 100
+        }
+    },
+    {
+        "pk": 5101,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 158000,
+            "quality": 5,
+            "level": 101
+        }
+    },
+    {
+        "pk": 5102,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 160000,
+            "quality": 5,
+            "level": 102
+        }
+    },
+    {
+        "pk": 5103,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 162000,
+            "quality": 5,
+            "level": 103
+        }
+    },
+    {
+        "pk": 5104,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 164000,
+            "quality": 5,
+            "level": 104
+        }
+    },
+    {
+        "pk": 5105,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 166000,
+            "quality": 5,
+            "level": 105
+        }
+    },
+    {
+        "pk": 5106,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 168000,
+            "quality": 5,
+            "level": 106
+        }
+    },
+    {
+        "pk": 5107,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 170000,
+            "quality": 5,
+            "level": 107
+        }
+    },
+    {
+        "pk": 5108,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 172000,
+            "quality": 5,
+            "level": 108
+        }
+    },
+    {
+        "pk": 5109,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 174000,
+            "quality": 5,
+            "level": 109
+        }
+    },
+    {
+        "pk": 5110,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 176000,
+            "quality": 5,
+            "level": 110
+        }
+    },
+    {
+        "pk": 5111,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 178000,
+            "quality": 5,
+            "level": 111
+        }
+    },
+    {
+        "pk": 5112,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 180000,
+            "quality": 5,
+            "level": 112
+        }
+    },
+    {
+        "pk": 5113,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 182000,
+            "quality": 5,
+            "level": 113
+        }
+    },
+    {
+        "pk": 5114,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 184000,
+            "quality": 5,
+            "level": 114
+        }
+    },
+    {
+        "pk": 5115,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 186000,
+            "quality": 5,
+            "level": 115
+        }
+    },
+    {
+        "pk": 5116,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 188000,
+            "quality": 5,
+            "level": 116
+        }
+    },
+    {
+        "pk": 5117,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 190000,
+            "quality": 5,
+            "level": 117
+        }
+    },
+    {
+        "pk": 5118,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 192000,
+            "quality": 5,
+            "level": 118
+        }
+    },
+    {
+        "pk": 5119,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 194000,
+            "quality": 5,
+            "level": 119
+        }
+    },
+    {
+        "pk": 5120,
+        "model": "artifact.artifactenhance",
+        "fields": {
+            "playerLevel": 20,
+            "xp": 196000,
+            "quality": 5,
+            "level": 120
+        }
+    }
+]

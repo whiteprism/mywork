@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 英雄装备缘分属性
+  row: 3
+  model: hero.heroequipfatesattr
+  columns:
+    - name: equipId
+      column: equipId
+      type: int
+      default: 0
+
+    - name: attrType
+      column: attrType
+      type: char
+      default: ""
+
+    - name: extra
+      column: extra
+      type: float
+      default: 0.0
+
+

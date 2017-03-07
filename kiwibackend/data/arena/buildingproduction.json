@@ -1,0 +1,990 @@
+[
+    {
+        "pk": 1001,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 1,
+            "cost_int": "",
+            "productionId": 1900001,
+            "buildingLevel": 1,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 2,
+            "cost_int": "",
+            "productionId": 1900001,
+            "buildingLevel": 1,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 3,
+            "cost_int": "",
+            "productionId": 1900001,
+            "buildingLevel": 1,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 4,
+            "cost_int": "",
+            "productionId": 1900001,
+            "buildingLevel": 1,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1005,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 5,
+            "cost_int": "",
+            "productionId": 1900001,
+            "buildingLevel": 1,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1006,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 6,
+            "cost_int": "",
+            "productionId": 1900001,
+            "buildingLevel": 1,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1007,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 7,
+            "cost_int": "",
+            "productionId": 1900001,
+            "buildingLevel": 1,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1008,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 8,
+            "cost_int": "",
+            "productionId": 1900001,
+            "buildingLevel": 1,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1009,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 9,
+            "cost_int": "",
+            "productionId": 1900001,
+            "buildingLevel": 1,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1010,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 10,
+            "cost_int": "",
+            "productionId": 1900001,
+            "buildingLevel": 1,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1011,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 1,
+            "cost_int": "",
+            "productionId": 1900006,
+            "buildingLevel": 2,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1012,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 2,
+            "cost_int": "",
+            "productionId": 1900006,
+            "buildingLevel": 2,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1013,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 3,
+            "cost_int": "",
+            "productionId": 1900006,
+            "buildingLevel": 2,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1014,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 4,
+            "cost_int": "",
+            "productionId": 1900006,
+            "buildingLevel": 2,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1015,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 5,
+            "cost_int": "",
+            "productionId": 1900006,
+            "buildingLevel": 2,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1016,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 6,
+            "cost_int": "",
+            "productionId": 1900006,
+            "buildingLevel": 2,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1017,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 7,
+            "cost_int": "",
+            "productionId": 1900006,
+            "buildingLevel": 2,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1018,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 8,
+            "cost_int": "",
+            "productionId": 1900006,
+            "buildingLevel": 2,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1019,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 9,
+            "cost_int": "",
+            "productionId": 1900006,
+            "buildingLevel": 2,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1020,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 10,
+            "cost_int": "",
+            "productionId": 1900006,
+            "buildingLevel": 2,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1021,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 1,
+            "cost_int": "",
+            "productionId": 1900005,
+            "buildingLevel": 3,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1022,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 2,
+            "cost_int": "",
+            "productionId": 1900005,
+            "buildingLevel": 3,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1023,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 3,
+            "cost_int": "",
+            "productionId": 1900005,
+            "buildingLevel": 3,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1024,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 4,
+            "cost_int": "",
+            "productionId": 1900005,
+            "buildingLevel": 3,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1025,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 5,
+            "cost_int": "",
+            "productionId": 1900005,
+            "buildingLevel": 3,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1026,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 6,
+            "cost_int": "",
+            "productionId": 1900005,
+            "buildingLevel": 3,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1027,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 7,
+            "cost_int": "",
+            "productionId": 1900005,
+            "buildingLevel": 3,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1028,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 8,
+            "cost_int": "",
+            "productionId": 1900005,
+            "buildingLevel": 3,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1029,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 9,
+            "cost_int": "",
+            "productionId": 1900005,
+            "buildingLevel": 3,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1030,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 10,
+            "cost_int": "",
+            "productionId": 1900005,
+            "buildingLevel": 3,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1071,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 1,
+            "cost_int": 1001.0,
+            "productionId": 1900001,
+            "buildingLevel": 1,
+            "useTime": 900,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1072,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 2,
+            "cost_int": 1002.0,
+            "productionId": 1900001,
+            "buildingLevel": 2,
+            "useTime": 1800,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1073,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 3,
+            "cost_int": 1003.0,
+            "productionId": 1900001,
+            "buildingLevel": 3,
+            "useTime": 3600,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1074,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 4,
+            "cost_int": 1004.0,
+            "productionId": 1900001,
+            "buildingLevel": 4,
+            "useTime": 7200,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1075,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 5,
+            "cost_int": 1005.0,
+            "productionId": 1900001,
+            "buildingLevel": 5,
+            "useTime": 14400,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1076,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 6,
+            "cost_int": 1006.0,
+            "productionId": 1900001,
+            "buildingLevel": 6,
+            "useTime": 21600,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1077,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 7,
+            "cost_int": 1007.0,
+            "productionId": 1900001,
+            "buildingLevel": 7,
+            "useTime": 28800,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1078,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 8,
+            "cost_int": 1008.0,
+            "productionId": 1900001,
+            "buildingLevel": 8,
+            "useTime": 43200,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1079,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 9,
+            "cost_int": 1009.0,
+            "productionId": 1900001,
+            "buildingLevel": 9,
+            "useTime": 86400,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1080,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 1,
+            "cost_int": 1001.0,
+            "productionId": 1900006,
+            "buildingLevel": 1,
+            "useTime": 900,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1081,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 2,
+            "cost_int": 1002.0,
+            "productionId": 1900006,
+            "buildingLevel": 2,
+            "useTime": 1800,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1082,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 3,
+            "cost_int": 1003.0,
+            "productionId": 1900006,
+            "buildingLevel": 3,
+            "useTime": 3600,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1083,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 4,
+            "cost_int": 1004.0,
+            "productionId": 1900006,
+            "buildingLevel": 4,
+            "useTime": 7200,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1084,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 5,
+            "cost_int": 1005.0,
+            "productionId": 1900006,
+            "buildingLevel": 5,
+            "useTime": 14400,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1085,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 6,
+            "cost_int": 1006.0,
+            "productionId": 1900006,
+            "buildingLevel": 6,
+            "useTime": 21600,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1086,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 7,
+            "cost_int": 1007.0,
+            "productionId": 1900006,
+            "buildingLevel": 7,
+            "useTime": 28800,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1087,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 8,
+            "cost_int": 1008.0,
+            "productionId": 1900006,
+            "buildingLevel": 8,
+            "useTime": 43200,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1088,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 9,
+            "cost_int": 1009.0,
+            "productionId": 1900006,
+            "buildingLevel": 9,
+            "useTime": 86400,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1089,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 1,
+            "cost_int": 1001.0,
+            "productionId": 1900005,
+            "buildingLevel": 1,
+            "useTime": 900,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1090,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 2,
+            "cost_int": 1002.0,
+            "productionId": 1900005,
+            "buildingLevel": 2,
+            "useTime": 1800,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1091,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 3,
+            "cost_int": 1003.0,
+            "productionId": 1900005,
+            "buildingLevel": 3,
+            "useTime": 3600,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1092,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 4,
+            "cost_int": 1004.0,
+            "productionId": 1900005,
+            "buildingLevel": 4,
+            "useTime": 7200,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1093,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 5,
+            "cost_int": 1005.0,
+            "productionId": 1900005,
+            "buildingLevel": 5,
+            "useTime": 14400,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1094,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 6,
+            "cost_int": 1006.0,
+            "productionId": 1900005,
+            "buildingLevel": 6,
+            "useTime": 21600,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1095,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 7,
+            "cost_int": 1007.0,
+            "productionId": 1900005,
+            "buildingLevel": 7,
+            "useTime": 28800,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1096,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 8,
+            "cost_int": 1008.0,
+            "productionId": 1900005,
+            "buildingLevel": 8,
+            "useTime": 43200,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1097,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 9,
+            "cost_int": 1009.0,
+            "productionId": 1900005,
+            "buildingLevel": 9,
+            "useTime": 86400,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1098,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 1,
+            "cost_int": 1001.0,
+            "productionId": 1902031,
+            "buildingLevel": 1,
+            "useTime": 900,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1099,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 2,
+            "cost_int": 1002.0,
+            "productionId": 1902031,
+            "buildingLevel": 2,
+            "useTime": 1800,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1100,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 3,
+            "cost_int": 1003.0,
+            "productionId": 1902031,
+            "buildingLevel": 3,
+            "useTime": 3600,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1101,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 4,
+            "cost_int": 1004.0,
+            "productionId": 1902031,
+            "buildingLevel": 4,
+            "useTime": 7200,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1102,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 5,
+            "cost_int": 1005.0,
+            "productionId": 1902031,
+            "buildingLevel": 5,
+            "useTime": 14400,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1103,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 6,
+            "cost_int": 1006.0,
+            "productionId": 1902031,
+            "buildingLevel": 6,
+            "useTime": 21600,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1104,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 7,
+            "cost_int": 1007.0,
+            "productionId": 1902031,
+            "buildingLevel": 7,
+            "useTime": 28800,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1105,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 8,
+            "cost_int": 1008.0,
+            "productionId": 1902031,
+            "buildingLevel": 8,
+            "useTime": 43200,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1106,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001012,
+            "productionLevel": 9,
+            "cost_int": 1009.0,
+            "productionId": 1902031,
+            "buildingLevel": 9,
+            "useTime": 86400,
+            "productionType": 2
+        }
+    },
+    {
+        "pk": 1031,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 1,
+            "cost_int": "",
+            "productionId": 1902031,
+            "buildingLevel": 4,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1032,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 2,
+            "cost_int": "",
+            "productionId": 1902031,
+            "buildingLevel": 4,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1033,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 3,
+            "cost_int": "",
+            "productionId": 1902031,
+            "buildingLevel": 4,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1034,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 4,
+            "cost_int": "",
+            "productionId": 1902031,
+            "buildingLevel": 4,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1035,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 5,
+            "cost_int": "",
+            "productionId": 1902031,
+            "buildingLevel": 4,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1036,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 6,
+            "cost_int": "",
+            "productionId": 1902031,
+            "buildingLevel": 4,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1037,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 7,
+            "cost_int": "",
+            "productionId": 1902031,
+            "buildingLevel": 4,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1038,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 8,
+            "cost_int": "",
+            "productionId": 1902031,
+            "buildingLevel": 4,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1039,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 9,
+            "cost_int": "",
+            "productionId": 1902031,
+            "buildingLevel": 4,
+            "useTime": 0,
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1040,
+        "model": "building.buildingproduction",
+        "fields": {
+            "building": 1001011,
+            "productionLevel": 10,
+            "cost_int": "",
+            "productionId": 1902031,
+            "buildingLevel": 4,
+            "useTime": 0,
+            "productionType": 1
+        }
+    }
+]

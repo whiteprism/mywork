@@ -1,0 +1,63 @@
+
+table:
+  out-type: json
+  sheet: 礼包
+  row: 3
+  model: package.package
+  columns:
+    - name: id
+      column: ID
+      type: char
+      default: ""
+
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: batch
+      column: batch
+      type: char
+      default: ""
+
+    - name: rewards_int
+      column: rewards
+      type: char
+      default: "0"
+
+    - name: channels_str
+      column: channels
+      type: char
+      default: "0"
+
+    - name: serverids_int
+      column: serverids
+      type: char
+      default: "0"
+
+    - name: expire_date
+      column: expire_date
+      type: char
+      default: "0"
+
+    - name: gift_title
+      column: gift_title
+      type: char
+      default: "0"
+
+    - name: gift_body
+      column: gift_body
+      type: char
+      default: "0"
+
+    - name: code_count
+      column: code_count
+      type: int
+      default: 0
+
+    - name: tag
+      column: tag
+      type: char
+      default: "0"
+
+

@@ -1,0 +1,364 @@
+ {% extends 'base.html' %}
+  {%block content%}
+
+<h1 align="center" > 大酋长项目</h1>
+
+<hr>
+
+<table cellspacing="30">
+    <tr>
+        <td>
+            <h2>钻石充值</h2>
+            <br/>
+            <form action="{% url "mobile_debug_recharge" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        钻石数量:<input type="text" name="yuanbo_id" value="" width="500px" />
+            <br/>
+            <br/>
+            木头数量:<input type="text" name="wood_id" value="" width="500px" />
+            <br/>
+            <br/>
+            金币数量:<input type="text" name="gold_id" value="" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="充值" />
+            </form>
+        </td>
+
+
+        <td>
+            <h2>修改等级和经验</h2>
+            <br/>
+            <form action="{% url "mobile_debug_set_level_and_xp" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        用户等级:<input type="text" name="level" value="0" width="500px" />
+            <br/>
+            <br/>
+	        设置成多少经验:<input type="text" name="xp" value="0" width="500px" />
+            <br/>
+            <br/>
+	        增加多少经验:<input type="text" name="addxp" value="0" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+        </td>
+
+
+        <td>
+            <h2>增加体力&耐力</h2>
+            <br/>
+            <form action="{% url "mobile_debug_add_power_and_sp" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        增加体力:<input type="text" name="power" value="1" width="500px" />
+            <br/>
+            <br/>
+	        增加耐力:<input type="text" name="sp" value="0" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+        </td>
+
+
+        <td>
+            <h2>牛逼lity</h2>
+            <br/>
+            <form action="{% url "mobile_debug_niubility" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+        </td>
+        <td>
+            <h2>牛逼lity(英雄不变)</h2>
+            <br/>
+            <form action="{% url "mobile_debug_niubility2" %}" method="POST">
+            用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+            <input type="submit" name="submit" value="提交" />
+            </form>
+        </td>
+    </tr>
+
+    <tr>
+
+         <td>
+
+            <h2>设置VIP</h2>
+            <br/>
+            <form action="{% url "mobile_debug_set_vip" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        VIP等级:<input type="text" name="level" value="" width="500px" />
+            <br/>
+            <br/>
+	        充值额度:<input type="text" name="count" value="" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+        </td>
+
+        <td>
+
+            <h2>修改引导等级</h2>
+            <br/>
+            <form action="{% url "mobile_debug_set_tutorial" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        引导等级:<input type="text" name="code" value="100" width="500px" />
+            <br/>
+            <br/>
+	        引导状态:<input type="text" name="status" value="1" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+
+        </td>
+
+        <td>
+
+            <h2>添加物品</h2>
+            <br/>
+            <form action="{% url "mobile_debug_add_item" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        物品ID:<input type="text" name="item" value="" width="500px" />
+            <br/>
+            <br/>
+	        物品数量:<input type="text" name="number" value="" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+        </td>
+
+        <td>
+            <h2>添加灵魂碎片</h2>
+            <br/>
+            <form action="{% url "mobile_debug_add_soul" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        灵魂碎片ID:<input type="text" name="soul_id" value="" width="500px" />
+            <br/>
+            <br/>
+	        物品数量:<input type="text" name="number" value="" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+        </td>
+    </tr>
+
+    <tr>
+
+        <td>
+            <h2>添加英雄</h2>
+            <br/>
+            <form action="{% url "mobile_debug_add_hero" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        英雄ID:<input type="text" name="hero_id" value="" width="500px" />
+            <br/>
+            <br/>
+	        英雄等级:<input type="text" name="level" value="" width="500px" />
+            <br/>
+            <br/>
+	        星级:<input type="text" name="star" value="" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+        </td>
+
+
+
+        <td>
+            <h2>添加小兵</h2>
+            <br/>
+            <form action="{% url "mobile_debug_add_warrior" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        小兵ID:<input type="text" name="card_id" value="" width="500px" />
+            <br/>
+            <br/>
+	        数量:<input type="text" name="number" value="" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+        </td>
+
+        <td>
+
+            <h2>添加装备</h2>
+            <br/>
+            <form action="{% url "mobile_debug_add_equip" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        装备ID:<input type="text" name="equip" value="" width="500px" />
+            <br/>
+            <br/>
+	        装备数量:<input type="text" name="number" value="" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+
+        </td>
+
+        <td>
+
+            <h2>添加装备碎片</h2>
+            <br/>
+            <form action="{% url "mobile_debug_add_equipfragment" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        装备碎片ID:<input type="text" name="equipfragment_id" value="" width="500px" />
+            <br/>
+            <br/>
+	        碎片数量:<input type="text" name="number" value="" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+
+            <h2>添加圣物</h2>
+            <br/>
+            <form action="{% url "mobile_debug_add_artifact" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        圣物ID:<input type="text" name="artifact_id" value="" width="500px" />
+            <br/>
+            <br/>
+            圣物碎片ID:<input type="text" name="artifactFragment_id" value="" width="500px" />
+            <br/>
+            <br/>
+
+	        数量:<input type="text" name="number" value="" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+
+        </td>
+
+        <td>
+            <h2>删除建筑</h2>
+            <br/>
+            <form action="{% url "mobile_debug_delete_building" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        建筑ID:<input type="text" name="building_id" value="" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+        </td>
+
+
+        <td>
+            <h2>副本开启</h2>
+            <br/>
+            <form action="{% url "mobile_debug_open_instancelevel" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        开启到levelID:<input type="text" name="instancelevel_id" value="" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+        </td>
+
+        <td>
+            <h2>精英副本副本开启</h2>
+            <br/>
+            <form action="{% url "mobile_debug_open_eliteinstancelevel" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        开启到levelID:<input type="text" name="instancelevel_id" value="" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+        </td>
+    </tr>
+    <tr>
+
+        <td>
+            <h2>修改积分和荣誉点数</h2>
+            <br/>
+            <form action="{% url "mobile_debug_add_honor" %}" method="POST">
+	        用户ID:<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        设置荣誉点数:<input type="text" name="honor_count" value="" width="500px" />
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+	        增加积分数量:<input type="text" name="score_count" value="" width="500px" />
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+        </td>
+
+
+        <td>
+            <h2>邮件测试</h2>
+            <br/>
+            <form action="{% url "mobile_debug_send_mail" %}" method="POST">
+            标题:<input type="text" name="title" value="" width="500px" />
+            <br/>
+            <br/>
+            正文:<input type="text" name="content" value="" width="500px" />
+            <br/>
+            <br/>
+
+	        用户ID(123456代表所有玩家):<input type="text" name="player_code" value="" width="500px" />
+            <br/>
+            <br/>
+	        类别id:<input type="text" name="typel" value="1" width="500px" />like 1,2,3
+            <br/>
+            <br/>
+            对应的数量:<input type="text" name="count" value="1" width="500px" />like 5,5,5
+            <br/>
+            <br/>
+	        <input type="submit" name="submit" value="提交" />
+            </form>
+            <br/>
+            <br/>
+        </td>
+    </tr>
+</table>
+
+{%endblock%}

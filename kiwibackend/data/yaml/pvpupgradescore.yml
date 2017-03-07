@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 积分段位表
+  row: 3
+  model: pvp.pvpupgradescore
+  columns:
+    - name: rewards_int
+      column: rewards
+      type: char
+      default: ""
+
+    - name: mulLang
+      column: mulLang
+      type: char
+      default: ""
+
+    - name: upgrade
+      column: upgrade
+      type: char
+      default: ""
+
+

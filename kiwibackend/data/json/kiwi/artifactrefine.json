@@ -1,0 +1,1242 @@
+[
+    {
+        "pk": 200,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 0,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 10
+        }
+    },
+    {
+        "pk": 201,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 1,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 20
+        }
+    },
+    {
+        "pk": 202,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 2,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 30
+        }
+    },
+    {
+        "pk": 203,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 3,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 40
+        }
+    },
+    {
+        "pk": 204,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 4,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 50
+        }
+    },
+    {
+        "pk": 205,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 5,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 60
+        }
+    },
+    {
+        "pk": 206,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 6,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 70
+        }
+    },
+    {
+        "pk": 207,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 7,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 80
+        }
+    },
+    {
+        "pk": 208,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 8,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 90
+        }
+    },
+    {
+        "pk": 209,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 9,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 100
+        }
+    },
+    {
+        "pk": 210,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 10,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 110
+        }
+    },
+    {
+        "pk": 211,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 11,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 120
+        }
+    },
+    {
+        "pk": 212,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 12,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 130
+        }
+    },
+    {
+        "pk": 213,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 13,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 140
+        }
+    },
+    {
+        "pk": 214,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 14,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 150
+        }
+    },
+    {
+        "pk": 215,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 15,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 160
+        }
+    },
+    {
+        "pk": 216,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 16,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 170
+        }
+    },
+    {
+        "pk": 217,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 17,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 180
+        }
+    },
+    {
+        "pk": 218,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 18,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 190
+        }
+    },
+    {
+        "pk": 219,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 19,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 200
+        }
+    },
+    {
+        "pk": 220,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 20,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 210
+        }
+    },
+    {
+        "pk": 221,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 21,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 220
+        }
+    },
+    {
+        "pk": 222,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 22,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 230
+        }
+    },
+    {
+        "pk": 223,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 23,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 240
+        }
+    },
+    {
+        "pk": 224,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 24,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 250
+        }
+    },
+    {
+        "pk": 225,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 25,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 260
+        }
+    },
+    {
+        "pk": 226,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 26,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 270
+        }
+    },
+    {
+        "pk": 227,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 27,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 280
+        }
+    },
+    {
+        "pk": 228,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 28,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 290
+        }
+    },
+    {
+        "pk": 229,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 29,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 300
+        }
+    },
+    {
+        "pk": 230,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 30,
+            "playerLevel": 30,
+            "quality": 2,
+            "refineCost": 310
+        }
+    },
+    {
+        "pk": 300,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 0,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 10
+        }
+    },
+    {
+        "pk": 301,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 1,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 20
+        }
+    },
+    {
+        "pk": 302,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 2,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 30
+        }
+    },
+    {
+        "pk": 303,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 3,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 40
+        }
+    },
+    {
+        "pk": 304,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 4,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 50
+        }
+    },
+    {
+        "pk": 305,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 5,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 60
+        }
+    },
+    {
+        "pk": 306,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 6,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 70
+        }
+    },
+    {
+        "pk": 307,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 7,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 80
+        }
+    },
+    {
+        "pk": 308,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 8,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 90
+        }
+    },
+    {
+        "pk": 309,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 9,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 100
+        }
+    },
+    {
+        "pk": 310,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 10,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 110
+        }
+    },
+    {
+        "pk": 311,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 11,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 120
+        }
+    },
+    {
+        "pk": 312,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 12,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 130
+        }
+    },
+    {
+        "pk": 313,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 13,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 140
+        }
+    },
+    {
+        "pk": 314,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 14,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 150
+        }
+    },
+    {
+        "pk": 315,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 15,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 160
+        }
+    },
+    {
+        "pk": 316,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 16,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 170
+        }
+    },
+    {
+        "pk": 317,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 17,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 180
+        }
+    },
+    {
+        "pk": 318,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 18,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 190
+        }
+    },
+    {
+        "pk": 319,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 19,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 200
+        }
+    },
+    {
+        "pk": 320,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 20,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 210
+        }
+    },
+    {
+        "pk": 321,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 21,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 220
+        }
+    },
+    {
+        "pk": 322,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 22,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 230
+        }
+    },
+    {
+        "pk": 323,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 23,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 240
+        }
+    },
+    {
+        "pk": 324,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 24,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 250
+        }
+    },
+    {
+        "pk": 325,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 25,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 260
+        }
+    },
+    {
+        "pk": 326,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 26,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 270
+        }
+    },
+    {
+        "pk": 327,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 27,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 280
+        }
+    },
+    {
+        "pk": 328,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 28,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 290
+        }
+    },
+    {
+        "pk": 329,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 29,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 300
+        }
+    },
+    {
+        "pk": 330,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 30,
+            "playerLevel": 30,
+            "quality": 3,
+            "refineCost": 310
+        }
+    },
+    {
+        "pk": 400,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 0,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 10
+        }
+    },
+    {
+        "pk": 401,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 1,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 20
+        }
+    },
+    {
+        "pk": 402,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 2,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 30
+        }
+    },
+    {
+        "pk": 403,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 3,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 40
+        }
+    },
+    {
+        "pk": 404,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 4,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 50
+        }
+    },
+    {
+        "pk": 405,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 5,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 60
+        }
+    },
+    {
+        "pk": 406,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 6,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 70
+        }
+    },
+    {
+        "pk": 407,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 7,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 80
+        }
+    },
+    {
+        "pk": 408,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 8,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 90
+        }
+    },
+    {
+        "pk": 409,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 9,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 100
+        }
+    },
+    {
+        "pk": 410,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 10,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 110
+        }
+    },
+    {
+        "pk": 411,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 11,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 120
+        }
+    },
+    {
+        "pk": 412,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 12,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 130
+        }
+    },
+    {
+        "pk": 413,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 13,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 140
+        }
+    },
+    {
+        "pk": 414,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 14,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 150
+        }
+    },
+    {
+        "pk": 415,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 15,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 160
+        }
+    },
+    {
+        "pk": 416,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 16,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 170
+        }
+    },
+    {
+        "pk": 417,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 17,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 180
+        }
+    },
+    {
+        "pk": 418,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 18,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 190
+        }
+    },
+    {
+        "pk": 419,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 19,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 200
+        }
+    },
+    {
+        "pk": 420,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 20,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 210
+        }
+    },
+    {
+        "pk": 421,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 21,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 220
+        }
+    },
+    {
+        "pk": 422,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 22,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 230
+        }
+    },
+    {
+        "pk": 423,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 23,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 240
+        }
+    },
+    {
+        "pk": 424,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 24,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 250
+        }
+    },
+    {
+        "pk": 425,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 25,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 260
+        }
+    },
+    {
+        "pk": 426,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 26,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 270
+        }
+    },
+    {
+        "pk": 427,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 27,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 280
+        }
+    },
+    {
+        "pk": 428,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 28,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 290
+        }
+    },
+    {
+        "pk": 429,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 29,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 300
+        }
+    },
+    {
+        "pk": 430,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 30,
+            "playerLevel": 30,
+            "quality": 4,
+            "refineCost": 310
+        }
+    },
+    {
+        "pk": 500,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 0,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 10
+        }
+    },
+    {
+        "pk": 501,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 1,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 20
+        }
+    },
+    {
+        "pk": 502,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 2,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 30
+        }
+    },
+    {
+        "pk": 503,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 3,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 40
+        }
+    },
+    {
+        "pk": 504,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 4,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 50
+        }
+    },
+    {
+        "pk": 505,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 5,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 60
+        }
+    },
+    {
+        "pk": 506,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 6,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 70
+        }
+    },
+    {
+        "pk": 507,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 7,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 80
+        }
+    },
+    {
+        "pk": 508,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 8,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 90
+        }
+    },
+    {
+        "pk": 509,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 9,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 100
+        }
+    },
+    {
+        "pk": 510,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 10,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 110
+        }
+    },
+    {
+        "pk": 511,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 11,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 120
+        }
+    },
+    {
+        "pk": 512,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 12,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 130
+        }
+    },
+    {
+        "pk": 513,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 13,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 140
+        }
+    },
+    {
+        "pk": 514,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 14,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 150
+        }
+    },
+    {
+        "pk": 515,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 15,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 160
+        }
+    },
+    {
+        "pk": 516,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 16,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 170
+        }
+    },
+    {
+        "pk": 517,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 17,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 180
+        }
+    },
+    {
+        "pk": 518,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 18,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 190
+        }
+    },
+    {
+        "pk": 519,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 19,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 200
+        }
+    },
+    {
+        "pk": 520,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 20,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 210
+        }
+    },
+    {
+        "pk": 521,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 21,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 220
+        }
+    },
+    {
+        "pk": 522,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 22,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 230
+        }
+    },
+    {
+        "pk": 523,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 23,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 240
+        }
+    },
+    {
+        "pk": 524,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 24,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 250
+        }
+    },
+    {
+        "pk": 525,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 25,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 260
+        }
+    },
+    {
+        "pk": 526,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 26,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 270
+        }
+    },
+    {
+        "pk": 527,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 27,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 280
+        }
+    },
+    {
+        "pk": 528,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 28,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 290
+        }
+    },
+    {
+        "pk": 529,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 29,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 300
+        }
+    },
+    {
+        "pk": 530,
+        "model": "artifact.artifactrefine",
+        "fields": {
+            "refineLevel": 30,
+            "playerLevel": 30,
+            "quality": 5,
+            "refineCost": 310
+        }
+    }
+]

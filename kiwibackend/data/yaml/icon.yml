@@ -1,0 +1,13 @@
+
+table:
+  out-type: json
+  sheet: 头像
+  row: 3
+  model: icon.icon
+  columns:
+    - name: iconId
+      column: iconId
+      type: char
+      default: ""
+
+

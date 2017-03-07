@@ -1,0 +1,78 @@
+
+table:
+  out-type: json
+  sheet: 活动副本
+  row: 3
+  model: instance.raid
+  columns:
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: easyTextId
+      column: easyTextId
+      type: char
+      default: ""
+
+    - name: heroId
+      column: heroId
+      type: char
+      default: "0"
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: normalTextId
+      column: normalTextId
+      type: char
+      default: ""
+
+    - name: openTimeTextId
+      column: openTimeTextId
+      type: char
+      default: ""
+
+    - name: powerCost
+      column: powerCost
+      type: int
+      default: 0
+
+    - name: textId
+      column: textId
+      type: char
+      default: ""
+
+    - name: category
+      column: category
+      type: int
+      default: 0
+
+    - name: raidLevelId_int
+      column: raidLevelId
+      type: char
+      default: ""
+
+    - name: vocationType
+      column: vocationType
+      type: int
+      default: 0
+
+    - name: maxPlayCount
+      column: maxPlayCount
+      type: int
+      default: 0
+
+    - name: experiment1
+      column: experiment1
+      type: char
+      default: ""
+
+    - name: experiment2
+      column: experiment2
+      type: char
+      default: ""
+
+

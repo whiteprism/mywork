@@ -1,0 +1,13 @@
+
+table:
+  out-type: json
+  sheet: 公会火堆等级
+  row: 3
+  model: guild.guildfirelevel
+  columns:
+    - name: xp
+      column: xp
+      type: int
+      default: 0
+
+

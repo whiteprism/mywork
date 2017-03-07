@@ -1,0 +1,83 @@
+
+table:
+  out-type: json
+  sheet: 英雄升星成长
+  row: 3
+  model: hero.herostar
+  columns:
+    - name: cardId
+      column: cardId
+      type: int
+      default: 0
+
+    - name: star
+      column: star
+      type: int
+      default: 0
+
+    - name: attackGrow
+      column: attackGrow
+      type: float
+      default: 0.0
+
+    - name: hpGrow
+      column: hpGrow
+      type: float
+      default: 0.0
+
+    - name: physicalArmorGrow
+      column: physicalArmorGrow
+      type: float
+      default: 0.0
+
+    - name: magicArmorGrow
+      column: magicArmorGrow
+      type: float
+      default: 0.0
+
+    - name: realPhysicalGrow
+      column: realPhysicalGrow
+      type: float
+      default: 0.0
+
+    - name: realMagicGrow
+      column: realMagicGrow
+      type: float
+      default: 0.0
+
+    - name: shootGrow
+      column: shootGrow
+      type: float
+      default: 0.0
+
+    - name: dodgeGrow
+      column: dodgeGrow
+      type: float
+      default: 0.0
+
+    - name: criticalGrow
+      column: criticalGrow
+      type: float
+      default: 0.0
+
+    - name: tenacityGrow
+      column: tenacityGrow
+      type: float
+      default: 0.0
+
+    - name: damageFreeGrow
+      column: damageFreeGrow
+      type: float
+      default: 0.0
+
+    - name: energyPerSecGrow
+      column: energyPerSecGrow
+      type: float
+      default: 0.0
+
+    - name: growPercent
+      column: growPercent
+      type: float
+      default: 0.0
+
+

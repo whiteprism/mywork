@@ -1,0 +1,65 @@
+[
+    {
+        "pk": 1,
+        "model": "loginbonus.loginbonus",
+        "fields": {
+            "gift_body": "\u7b2c1\u5929\u767b\u9646\u5956\u52b1\uff1a\u94bb\u77f3*100,\u5564\u9152*1,\u5237\u65b0\u5238*1\u3002",
+            "gift_title": "\u8fde\u7eed\u767b\u5f55\u5956\u52b1",
+            "rewards_int": "1001,1101,1201"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "loginbonus.loginbonus",
+        "fields": {
+            "gift_body": "\u8fde\u7eed2\u5929\u767b\u9646\u5956\u52b1\uff1a\u94bb\u77f3*150,\u5564\u9152*1,\u5237\u65b0\u5238*1",
+            "gift_title": "\u8fde\u7eed\u767b\u5f55\u5956\u52b1",
+            "rewards_int": "1002,1102,1202"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "loginbonus.loginbonus",
+        "fields": {
+            "gift_body": "\u8fde\u7eed3\u5929\u767b\u9646\u5956\u52b1\uff1a\u94bb\u77f3*200,\u5564\u9152*1,\u5237\u65b0\u5238*1",
+            "gift_title": "\u8fde\u7eed\u767b\u5f55\u5956\u52b1",
+            "rewards_int": "1003,1103,1203"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "loginbonus.loginbonus",
+        "fields": {
+            "gift_body": "\u8fde\u7eed4\u5929\u767b\u9646\u5956\u52b1\uff1a\u94bb\u77f3*250,\u5564\u9152*2,\u5237\u65b0\u5238*2",
+            "gift_title": "\u8fde\u7eed\u767b\u5f55\u5956\u52b1",
+            "rewards_int": "1004,1104,1204"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "loginbonus.loginbonus",
+        "fields": {
+            "gift_body": "\u8fde\u7eed5\u5929\u767b\u9646\u5956\u52b1\uff1a\u94bb\u77f3*300,\u5564\u9152*2,\u5237\u65b0\u5238*2",
+            "gift_title": "\u8fde\u7eed\u767b\u5f55\u5956\u52b1",
+            "rewards_int": "1005,1105,1205"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "loginbonus.loginbonus",
+        "fields": {
+            "gift_body": "\u8fde\u7eed6\u5929\u767b\u9646\u5956\u52b1\uff1a\u94bb\u77f3*400,\u5564\u9152*2,\u5237\u65b0\u5238*2",
+            "gift_title": "\u8fde\u7eed\u767b\u5f55\u5956\u52b1",
+            "rewards_int": "1006,1106,1206"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "loginbonus.loginbonus",
+        "fields": {
+            "gift_body": "\u8fde\u7eed7\u5929\u7ec8\u6781\u5956\u52b1\uff1a\u94bb\u77f3*500,\u5564\u9152*3,\u5237\u65b0\u5238*3",
+            "gift_title": "\u8fde\u7eed\u767b\u5f55\u5956\u52b1",
+            "rewards_int": "1007,1107,1207"
+        }
+    }
+]

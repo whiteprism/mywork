@@ -1,0 +1,38 @@
+
+table:
+  out-type: json
+  sheet: 抽奖
+  row: 3
+  model: gashapon.gashapon
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: topreward_number
+      column: topreward_number
+      type: int
+      default: 0
+
+    - name: topreward_rarity
+      column: topreward_rarity
+      type: int
+      default: 0
+
+    - name: topreward_quality
+      column: topreward_quality
+      type: int
+      default: 0
+
+    - name: topreward_reset
+      column: topreward_reset
+      type: int
+      default: 0
+
+    - name: description
+      column: description
+      type: char
+      default: ""
+
+

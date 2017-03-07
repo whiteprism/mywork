@@ -1,0 +1,38 @@
+
+table:
+  out-type: json
+  sheet: 竞技场排行
+  row: 3
+  model: pvp.pvprank
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: titleID
+      column: titleID
+      type: char
+      default: ""
+
+    - name: score
+      column: score
+      type: int
+      default: 0
+
+    - name: rank
+      column: rank
+      type: int
+      default: 0
+
+    - name: weeklyRewards_int
+      column: weeklyRewards
+      type: char
+      default: ""
+
+    - name: dailyRewards_int
+      column: dailyRewards
+      type: char
+      default: ""
+
+

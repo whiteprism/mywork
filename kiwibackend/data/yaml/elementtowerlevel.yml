@@ -1,0 +1,58 @@
+
+table:
+  out-type: json
+  sheet: 元素之塔关卡掉落
+  row: 3
+  model: instance.elementtowerlevel
+  columns:
+    - name: monsterId
+      column: monsterId
+      type: int
+      default: 0
+
+    - name: towerId
+      column: towerId
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: rewardIds_str
+      column: rewardIds
+      type: char
+      default: ""
+
+    - name: difficulties_int
+      column: difficulties
+      type: char
+      default: ""
+
+    - name: diamondRewardIds_str
+      column: diamondRewardIds
+      type: char
+      default: ""
+
+    - name: diamondCosts_int
+      column: diamondCosts
+      type: char
+      default: ""
+
+    - name: enemyId
+      column: enemyId
+      type: int
+      default: 0
+
+    - name: zoneIDs_int
+      column: zoneIDs
+      type: char
+      default: ""
+
+

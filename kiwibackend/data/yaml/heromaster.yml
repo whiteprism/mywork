@@ -1,0 +1,28 @@
+
+table:
+  out-type: json
+  sheet: 英雄成长大师
+  row: 3
+  model: hero.heromaster
+  columns:
+    - name: category
+      column: category
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: attrList_int
+      column: attrList
+      type: char
+      default: ""
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+

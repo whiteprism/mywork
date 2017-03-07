@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{%block content%}
+    <table>
+        <tr><td><pre>{{ result }}</pre></td></tr>
+    </table>
+
+    <!--<input type="button" value="点此返回" onclick="javascript:window.location.href='/xls/';">-->
+    <input type="button" value="点此返回" onclick="javascript:history.back();">
+{% endblock %}

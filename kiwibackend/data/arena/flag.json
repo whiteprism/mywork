@@ -1,0 +1,782 @@
+[
+    {
+        "pk": 2001,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 7,
+            "effectName": "",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2002,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "General/buff/fx_chenmo",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 2
+        }
+    },
+    {
+        "pk": 2003,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 3,
+            "effectName": "",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2004,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Ursa/fx_Ursa_chaoqingliliang_hand",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 4
+        }
+    },
+    {
+        "pk": 2005,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Ursa/fx_Ursa_jinu_hand",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 4
+        }
+    },
+    {
+        "pk": 2006,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "General/buff/Fx_xuanyun_xg",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 2
+        }
+    },
+    {
+        "pk": 2007,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Doom/fx_Doom_jiaotu_range",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2008,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Doom/fx_Doom_mori_foot",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2009,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Naga_Siren/fx_Naga_Siren_youbu_foot",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2010,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Axe/fx_Axe_Zhandoujike_body",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2011,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Axe/fx_Axe_Zhandoujike_foot",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2012,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Axe/fx_Axe_Zhandoujike_head",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 2
+        }
+    },
+    {
+        "pk": 2013,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "warlock/fx_Warlock_jubian_foot",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2014,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "warlock/fx_Warlock_zhiminglianjie_head",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 2
+        }
+    },
+    {
+        "pk": 2015,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 4,
+            "effectName": "Enchantress/fx_Enchantress_meihuo_flag",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2016,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Zeratul/fx_Zeratul_xukongjingu_fly",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2017,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Zeratul/fx_Zeratul_qidiandingci_flay",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2018,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Venomancer/fx_Venomancer_juduxinxing_flag",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2019,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "QueenOfPain/fx_Queen_of_Pain_anyingtuxi_hit",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2020,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Crystal_Maiden/fx_Crystal_Maiden_bingshuangxinxing_heal",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2999,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "General/buff/fx_zengyixiaoguo",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2021,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Juggernaut/fx_Juggernaut_zhiliaoshouwei_heal",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2022,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "lich/fx_Lich_shuangdonghujia_flay",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2023,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "OmniKnight/fx_OmniKnight_shouhutianshi_foot",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2024,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "OmniKnight/fx_OmniKnight_quzhu_flag",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2025,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Silencer/fx_Silencer_zuihouyiyan_foot",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2026,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Skeleton_archer/fx_Skeleton_archer_skill_hit",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2027,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Jackal_archer/fx_Jackal_archer_skill_hit",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2028,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Treant/fx_Treant_skill_foot",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2029,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Human_warrior/fx_Human_warrior_skill_foot",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2030,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Windranger/fx_Windranger_shufuji_foot",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2031,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Abaddon/fx_Abaddon_huiguangfanzhao_body",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2032,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Abaddon/fx_Abaddon_wuguangzhidun_foot",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2033,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "dazzle/fx_Dazzle_juduzhishi_hit",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2034,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "dazzle/fx_Dazzle_bozang_foot",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2101,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "General/buff/fx_armor_up",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2102,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "General/buff/fx_armor_down",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2103,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "General/buff/fx_magic_resistance_up",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2104,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "General/buff/fx_magic_resistance_down",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2105,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "General/buff/fx_attack_up",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 4
+        }
+    },
+    {
+        "pk": 2106,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "General/buff/fx_attack_down",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 4
+        }
+    },
+    {
+        "pk": 2107,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "General/buff/fx_critical_up",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 2
+        }
+    },
+    {
+        "pk": 2108,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "General/buff/fx_dodge_up",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2109,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "General/buff/fx_dodge_down",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2110,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "General/buff/fx_attack_speed_up",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2111,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "General/buff/fx_attack_speed_down",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2035,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Troll_headhunter/fx_Troll_headhunter_hand",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 4
+        }
+    },
+    {
+        "pk": 2036,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 2,
+            "effectName": "",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2037,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "Tauren_warrior/fx_Tauren_warrior_fangyubuff",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2038,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 8,
+            "effectName": "",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2039,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "fubenjineng/fx_fuben_mofamianyi",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2040,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "fubenjineng/fx_fuben_wulimianyi",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2041,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "fubenjineng/fx_fuben_dunxishou_headup",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 3
+        }
+    },
+    {
+        "pk": 2042,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "fubenjineng/fx_fuben_daojishi_headup",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 2
+        }
+    },
+    {
+        "pk": 2043,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "fubenjineng/fx_fuben_mofafanshang_bady",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2044,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "fubenjineng/fx_fuben_wulifanshang_bady",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2045,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 1,
+            "effectSpecialShow": 0,
+            "effectName": "fubenjineng/fx_fuben_dxuanyun_headup",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 1
+        }
+    },
+    {
+        "pk": 2046,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 0,
+            "effectSpecialShow": 0,
+            "effectName": "fubenjineng/fx_fuben_siwangbingdong_bady",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 0
+        }
+    },
+    {
+        "pk": 2047,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 0,
+            "effectSpecialShow": 0,
+            "effectName": "fubenjineng/fx_fuben_jinzhidazhao_headup",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 0
+        }
+    },
+    {
+        "pk": 2048,
+        "model": "skill.flag",
+        "fields": {
+            "followBone": 0,
+            "effectSpecialShow": 0,
+            "effectName": "fubenjineng/fx_fuben_siwanggaogong_headup",
+            "specialSkillId": 0,
+            "offsetIgnoreType": 0,
+            "nameId": "",
+            "mountType": 0
+        }
+    }
+]

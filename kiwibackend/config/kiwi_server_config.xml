@@ -1,0 +1,41 @@
+<kiwi>
+
+    <Server0>
+        <uwsgi id="demo">
+            <socket>127.0.0.1:9090</socket>
+            <listen>40</listen>
+            <master>true</master>
+            <pidfile>/tmp/uwsgi_demo.pid</pidfile>
+            <processes>4</processes> 
+            <pythonpath>/data/kiwi/scripts/demo/</pythonpath>
+            <module>server</module>
+            <profiler>true</profiler>
+            <memory-report>true</memory-report>
+            <enable-threads>true</enable-threads>
+            <logdate>true</logdate>
+            <limit-as>512</limit-as>
+            <daemonize>/tmp/kiwi_uwsgi_demo.log</daemonize>
+        </uwsgi>
+        <redis_ip>127.0.0.1</redis_ip>
+        <redis_port>6379</redis_port>
+    </Server0>
+
+    <Server1>
+        <uwsgi id="Server1">
+            <socket>127.0.0.1:9091</socket>
+            <listen>40</listen>
+            <master>true</master>
+            <pidfile>/tmp/uwsgi_Server1.pid</pidfile>
+            <processes>4</processes> 
+            <pythonpath>/data/kiwi/scripts/demo/</pythonpath>
+            <module>server</module>
+            <profiler>true</profiler>
+            <memory-report>true</memory-report>
+            <enable-threads>true</enable-threads>
+            <logdate>true</logdate>
+            <limit-as>512</limit-as>
+            <daemonize>/tmp/kiwi_uwsgi_Server1.log</daemonize>
+        </uwsgi>
+    </Server1>
+
+</kiwi>

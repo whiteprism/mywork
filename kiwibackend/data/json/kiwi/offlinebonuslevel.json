@@ -1,0 +1,422 @@
+[
+    {
+        "pk": 1,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": ""
+        }
+    },
+    {
+        "pk": 2,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": ""
+        }
+    },
+    {
+        "pk": 3,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": ""
+        }
+    },
+    {
+        "pk": 4,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": ""
+        }
+    },
+    {
+        "pk": 5,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": ""
+        }
+    },
+    {
+        "pk": 6,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": ""
+        }
+    },
+    {
+        "pk": 7,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": ""
+        }
+    },
+    {
+        "pk": 8,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": ""
+        }
+    },
+    {
+        "pk": 9,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": ""
+        }
+    },
+    {
+        "pk": 10,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": ""
+        }
+    },
+    {
+        "pk": 11,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620701c1,t2620101c1"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620701c2,t2620101c2"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620701c3,t2620101c3"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620701c4,t2620101c4"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620701c5,t2620101c5"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620701c6,t2620101c6"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620701c7,t2620101c7"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620701c8,t2620101c8"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620701c9,t2620101c9"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620701c10,t2620101c10"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620702c6,t2620102c6"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620702c7,t2620102c7"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620702c8,t2620102c8"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620702c9,t2620102c9"
+        }
+    },
+    {
+        "pk": 25,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620702c10,t2620102c10"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620702c11,t2620102c11"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620702c12,t2620102c12"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620702c13,t2620102c13"
+        }
+    },
+    {
+        "pk": 29,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620702c14,t2620102c14"
+        }
+    },
+    {
+        "pk": 30,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620702c15,t2620102c15"
+        }
+    },
+    {
+        "pk": 31,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620703c10,t2620103c10"
+        }
+    },
+    {
+        "pk": 32,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620703c11,t2620103c11"
+        }
+    },
+    {
+        "pk": 33,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620703c12,t2620103c12"
+        }
+    },
+    {
+        "pk": 34,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620703c13,t2620103c13"
+        }
+    },
+    {
+        "pk": 35,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620703c14,t2620103c14"
+        }
+    },
+    {
+        "pk": 36,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620703c15,t2620103c15"
+        }
+    },
+    {
+        "pk": 37,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620703c16,t2620103c16"
+        }
+    },
+    {
+        "pk": 38,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620703c17,t2620103c17"
+        }
+    },
+    {
+        "pk": 39,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620703c18,t2620103c18"
+        }
+    },
+    {
+        "pk": 40,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620703c19,t2620103c19"
+        }
+    },
+    {
+        "pk": 41,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c16,t2620104c16"
+        }
+    },
+    {
+        "pk": 42,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c17,t2620104c17"
+        }
+    },
+    {
+        "pk": 43,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c18,t2620104c18"
+        }
+    },
+    {
+        "pk": 44,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c19,t2620104c19"
+        }
+    },
+    {
+        "pk": 45,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c20,t2620104c20"
+        }
+    },
+    {
+        "pk": 46,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c21,t2620104c21"
+        }
+    },
+    {
+        "pk": 47,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c22,t2620104c22"
+        }
+    },
+    {
+        "pk": 48,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c23,t2620104c23"
+        }
+    },
+    {
+        "pk": 49,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c24,t2620104c24"
+        }
+    },
+    {
+        "pk": 50,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c25,t2620104c25"
+        }
+    },
+    {
+        "pk": 51,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c26,t2620104c26"
+        }
+    },
+    {
+        "pk": 52,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c27,t2620104c27"
+        }
+    },
+    {
+        "pk": 53,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c28,t2620104c28"
+        }
+    },
+    {
+        "pk": 54,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c29,t2620104c29"
+        }
+    },
+    {
+        "pk": 55,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c30,t2620104c30"
+        }
+    },
+    {
+        "pk": 56,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c31,t2620104c31"
+        }
+    },
+    {
+        "pk": 57,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c32,t2620104c32"
+        }
+    },
+    {
+        "pk": 58,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c33,t2620104c33"
+        }
+    },
+    {
+        "pk": 59,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c34,t2620104c34"
+        }
+    },
+    {
+        "pk": 60,
+        "model": "offlinebonus.offlinebonuslevel",
+        "fields": {
+            "rewardIds_str": "t2620704c35,t2620104c35"
+        }
+    }
+]

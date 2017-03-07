@@ -1,0 +1,56 @@
+[
+    {
+        "pk": 1001,
+        "model": "package.packagereward",
+        "fields": {
+            "count": 200000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "package.packagereward",
+        "fields": {
+            "count": 1000,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "package.packagereward",
+        "fields": {
+            "count": 1000000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "package.packagereward",
+        "fields": {
+            "count": 3000,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1005,
+        "model": "package.packagereward",
+        "fields": {
+            "count": 50,
+            "type": 2040003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1006,
+        "model": "package.packagereward",
+        "fields": {
+            "count": 100,
+            "type": 2620603,
+            "level": 0
+        }
+    }
+]

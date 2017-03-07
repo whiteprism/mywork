@@ -1,0 +1,18 @@
+
+table:
+  out-type: json
+  sheet: 装备套装属性
+  row: 3
+  model: equip.equipsuitattr
+  columns:
+    - name: attrType
+      column: attrType
+      type: char
+      default: "0"
+
+    - name: extra
+      column: extra
+      type: float
+      default: 0.0
+
+

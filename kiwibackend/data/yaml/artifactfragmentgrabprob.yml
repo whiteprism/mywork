@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 圣物碎片抢夺概率
+  row: 3
+  model: artifact.artifactfragmentgrabprob
+  columns:
+    - name: robotProb
+      column: robotProb
+      type: int
+      default: 0
+
+    - name: playerProb
+      column: playerProb
+      type: int
+      default: 0
+
+    - name: robotTenProbs_int
+      column: robotTenProbs
+      type: char
+      default: ""
+
+

@@ -1,0 +1,5436 @@
+[
+    {
+        "pk": 3100101,
+        "model": "task.task",
+        "fields": {
+            "orderId": 10,
+            "descriptionId": "task_31001010",
+            "is_first": 1,
+            "name": "\u914b\u957f\u91ce\u671b",
+            "level": 10,
+            "nextTaskId": 3100102,
+            "buildingId": 0,
+            "rewards_int": "3010,3020",
+            "link": 11,
+            "category": 10,
+            "nameId": "task_3100101",
+            "condition_id": 300,
+            "icon": "icon_3100101"
+        }
+    },
+    {
+        "pk": 3100102,
+        "model": "task.task",
+        "fields": {
+            "orderId": 10,
+            "descriptionId": "task_31001020",
+            "is_first": 0,
+            "name": "\u914b\u957f\u91ce\u671b",
+            "level": 10,
+            "nextTaskId": 3100103,
+            "buildingId": 0,
+            "rewards_int": "3010,3020",
+            "link": 11,
+            "category": 10,
+            "nameId": "task_3100102",
+            "condition_id": 310,
+            "icon": "icon_3100101"
+        }
+    },
+    {
+        "pk": 3100103,
+        "model": "task.task",
+        "fields": {
+            "orderId": 10,
+            "descriptionId": "task_31001030",
+            "is_first": 0,
+            "name": "\u914b\u957f\u91ce\u671b",
+            "level": 10,
+            "nextTaskId": 3100104,
+            "buildingId": 0,
+            "rewards_int": "3010,3020",
+            "link": 11,
+            "category": 10,
+            "nameId": "task_3100103",
+            "condition_id": 320,
+            "icon": "icon_3100101"
+        }
+    },
+    {
+        "pk": 3100104,
+        "model": "task.task",
+        "fields": {
+            "orderId": 10,
+            "descriptionId": "task_31001040",
+            "is_first": 0,
+            "name": "\u914b\u957f\u91ce\u671b",
+            "level": 10,
+            "nextTaskId": 3100105,
+            "buildingId": 0,
+            "rewards_int": "3010,3020",
+            "link": 11,
+            "category": 10,
+            "nameId": "task_3100104",
+            "condition_id": 330,
+            "icon": "icon_3100101"
+        }
+    },
+    {
+        "pk": 3100105,
+        "model": "task.task",
+        "fields": {
+            "orderId": 10,
+            "descriptionId": "task_31001050",
+            "is_first": 0,
+            "name": "\u914b\u957f\u91ce\u671b",
+            "level": 10,
+            "nextTaskId": 3100106,
+            "buildingId": 0,
+            "rewards_int": "3010,3020",
+            "link": 11,
+            "category": 10,
+            "nameId": "task_3100105",
+            "condition_id": 340,
+            "icon": "icon_3100101"
+        }
+    },
+    {
+        "pk": 3100106,
+        "model": "task.task",
+        "fields": {
+            "orderId": 10,
+            "descriptionId": "task_31001060",
+            "is_first": 0,
+            "name": "\u914b\u957f\u91ce\u671b",
+            "level": 10,
+            "nextTaskId": 3100107,
+            "buildingId": 0,
+            "rewards_int": "3010,3020",
+            "link": 11,
+            "category": 10,
+            "nameId": "task_3100106",
+            "condition_id": 350,
+            "icon": "icon_3100101"
+        }
+    },
+    {
+        "pk": 3100107,
+        "model": "task.task",
+        "fields": {
+            "orderId": 10,
+            "descriptionId": "task_31001070",
+            "is_first": 0,
+            "name": "\u914b\u957f\u91ce\u671b",
+            "level": 10,
+            "nextTaskId": 3100108,
+            "buildingId": 0,
+            "rewards_int": "3010,3020",
+            "link": 11,
+            "category": 10,
+            "nameId": "task_3100107",
+            "condition_id": 360,
+            "icon": "icon_3100101"
+        }
+    },
+    {
+        "pk": 3100108,
+        "model": "task.task",
+        "fields": {
+            "orderId": 10,
+            "descriptionId": "task_31001080",
+            "is_first": 0,
+            "name": "\u914b\u957f\u91ce\u671b",
+            "level": 10,
+            "nextTaskId": 3100109,
+            "buildingId": 0,
+            "rewards_int": "3010,3020",
+            "link": 11,
+            "category": 10,
+            "nameId": "task_3100108",
+            "condition_id": 370,
+            "icon": "icon_3100101"
+        }
+    },
+    {
+        "pk": 3100109,
+        "model": "task.task",
+        "fields": {
+            "orderId": 10,
+            "descriptionId": "task_31001090",
+            "is_first": 0,
+            "name": "\u914b\u957f\u91ce\u671b",
+            "level": 10,
+            "nextTaskId": 3100110,
+            "buildingId": 0,
+            "rewards_int": "3010,3020",
+            "link": 11,
+            "category": 10,
+            "nameId": "task_3100109",
+            "condition_id": 380,
+            "icon": "icon_3100101"
+        }
+    },
+    {
+        "pk": 3100110,
+        "model": "task.task",
+        "fields": {
+            "orderId": 10,
+            "descriptionId": "task_31001100",
+            "is_first": 0,
+            "name": "\u914b\u957f\u91ce\u671b",
+            "level": 10,
+            "nextTaskId": 3100111,
+            "buildingId": 0,
+            "rewards_int": "3010,3020",
+            "link": 11,
+            "category": 10,
+            "nameId": "task_3100110",
+            "condition_id": 390,
+            "icon": "icon_3100101"
+        }
+    },
+    {
+        "pk": 3100111,
+        "model": "task.task",
+        "fields": {
+            "orderId": 10,
+            "descriptionId": "task_31001110",
+            "is_first": 0,
+            "name": "\u914b\u957f\u91ce\u671b",
+            "level": 10,
+            "nextTaskId": 3100112,
+            "buildingId": 0,
+            "rewards_int": "3010,3020",
+            "link": 11,
+            "category": 10,
+            "nameId": "task_3100111",
+            "condition_id": 400,
+            "icon": "icon_3100101"
+        }
+    },
+    {
+        "pk": 3100112,
+        "model": "task.task",
+        "fields": {
+            "orderId": 10,
+            "descriptionId": "task_31001120",
+            "is_first": 0,
+            "name": "\u914b\u957f\u91ce\u671b",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 0,
+            "rewards_int": "3010,3020",
+            "link": 11,
+            "category": 10,
+            "nameId": "task_3100112",
+            "condition_id": 410,
+            "icon": "icon_3100101"
+        }
+    },
+    {
+        "pk": 3100201,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002010",
+            "is_first": 1,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100202,
+            "buildingId": 0,
+            "rewards_int": "3030,3120",
+            "link": 100103,
+            "category": 20,
+            "nameId": "task_3100201",
+            "condition_id": 420,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100202,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002020",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100203,
+            "buildingId": 0,
+            "rewards_int": "3040,3120",
+            "link": 100106,
+            "category": 20,
+            "nameId": "task_3100202",
+            "condition_id": 430,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100203,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002030",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100204,
+            "buildingId": 0,
+            "rewards_int": "3050,3120",
+            "link": 100110,
+            "category": 20,
+            "nameId": "task_3100203",
+            "condition_id": 440,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100204,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002040",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100205,
+            "buildingId": 0,
+            "rewards_int": "3030,3120",
+            "link": 100203,
+            "category": 20,
+            "nameId": "task_3100204",
+            "condition_id": 450,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100205,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002050",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100206,
+            "buildingId": 0,
+            "rewards_int": "3040,3120",
+            "link": 100206,
+            "category": 20,
+            "nameId": "task_3100205",
+            "condition_id": 460,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100206,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002060",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100207,
+            "buildingId": 0,
+            "rewards_int": "3050,3120",
+            "link": 100210,
+            "category": 20,
+            "nameId": "task_3100206",
+            "condition_id": 470,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100207,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002070",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100208,
+            "buildingId": 0,
+            "rewards_int": "3030,3120",
+            "link": 100303,
+            "category": 20,
+            "nameId": "task_3100207",
+            "condition_id": 480,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100208,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002080",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100209,
+            "buildingId": 0,
+            "rewards_int": "3040,3120",
+            "link": 100306,
+            "category": 20,
+            "nameId": "task_3100208",
+            "condition_id": 490,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100209,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002090",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100210,
+            "buildingId": 0,
+            "rewards_int": "3050,3120",
+            "link": 100310,
+            "category": 20,
+            "nameId": "task_3100209",
+            "condition_id": 500,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100210,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002100",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100211,
+            "buildingId": 0,
+            "rewards_int": "3030,3120",
+            "link": 100403,
+            "category": 20,
+            "nameId": "task_3100210",
+            "condition_id": 510,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100211,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002110",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100212,
+            "buildingId": 0,
+            "rewards_int": "3040,3120",
+            "link": 100406,
+            "category": 20,
+            "nameId": "task_3100211",
+            "condition_id": 520,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100212,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002120",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100213,
+            "buildingId": 0,
+            "rewards_int": "3050,3120",
+            "link": 100410,
+            "category": 20,
+            "nameId": "task_3100212",
+            "condition_id": 530,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100213,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002130",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100214,
+            "buildingId": 0,
+            "rewards_int": "3030,3120",
+            "link": 100503,
+            "category": 20,
+            "nameId": "task_3100213",
+            "condition_id": 540,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100214,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002140",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100215,
+            "buildingId": 0,
+            "rewards_int": "3040,3120",
+            "link": 100506,
+            "category": 20,
+            "nameId": "task_3100214",
+            "condition_id": 550,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100215,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002150",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100216,
+            "buildingId": 0,
+            "rewards_int": "3050,3120",
+            "link": 100510,
+            "category": 20,
+            "nameId": "task_3100215",
+            "condition_id": 560,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100216,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002160",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100217,
+            "buildingId": 0,
+            "rewards_int": "3060,3120",
+            "link": 100603,
+            "category": 20,
+            "nameId": "task_3100216",
+            "condition_id": 570,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100217,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002170",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100218,
+            "buildingId": 0,
+            "rewards_int": "3070,3120",
+            "link": 100606,
+            "category": 20,
+            "nameId": "task_3100217",
+            "condition_id": 580,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100218,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002180",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100219,
+            "buildingId": 0,
+            "rewards_int": "3080,3120",
+            "link": 100610,
+            "category": 20,
+            "nameId": "task_3100218",
+            "condition_id": 590,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100219,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002190",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100220,
+            "buildingId": 0,
+            "rewards_int": "3060,3120",
+            "link": 100703,
+            "category": 20,
+            "nameId": "task_3100219",
+            "condition_id": 600,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100220,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002200",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100221,
+            "buildingId": 0,
+            "rewards_int": "3070,3120",
+            "link": 100706,
+            "category": 20,
+            "nameId": "task_3100220",
+            "condition_id": 610,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100221,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002210",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100222,
+            "buildingId": 0,
+            "rewards_int": "3080,3120",
+            "link": 100710,
+            "category": 20,
+            "nameId": "task_3100221",
+            "condition_id": 620,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100222,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002220",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100223,
+            "buildingId": 0,
+            "rewards_int": "3060,3120",
+            "link": 100803,
+            "category": 20,
+            "nameId": "task_3100222",
+            "condition_id": 630,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100223,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002230",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100224,
+            "buildingId": 0,
+            "rewards_int": "3070,3120",
+            "link": 100806,
+            "category": 20,
+            "nameId": "task_3100223",
+            "condition_id": 640,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100224,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002240",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100225,
+            "buildingId": 0,
+            "rewards_int": "3080,3120",
+            "link": 100810,
+            "category": 20,
+            "nameId": "task_3100224",
+            "condition_id": 650,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100225,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002250",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100226,
+            "buildingId": 0,
+            "rewards_int": "3060,3120",
+            "link": 100903,
+            "category": 20,
+            "nameId": "task_3100225",
+            "condition_id": 4540,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100226,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002260",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100227,
+            "buildingId": 0,
+            "rewards_int": "3070,3120",
+            "link": 100906,
+            "category": 20,
+            "nameId": "task_3100226",
+            "condition_id": 4550,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100227,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002270",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100228,
+            "buildingId": 0,
+            "rewards_int": "3080,3120",
+            "link": 100910,
+            "category": 20,
+            "nameId": "task_3100227",
+            "condition_id": 4560,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100228,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002280",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100229,
+            "buildingId": 0,
+            "rewards_int": "3090,3120",
+            "link": 101003,
+            "category": 20,
+            "nameId": "task_3100228",
+            "condition_id": 4570,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100229,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002290",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100230,
+            "buildingId": 0,
+            "rewards_int": "3100,3120",
+            "link": 101006,
+            "category": 20,
+            "nameId": "task_3100229",
+            "condition_id": 4580,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100230,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002300",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100231,
+            "buildingId": 0,
+            "rewards_int": "3110,3120",
+            "link": 101010,
+            "category": 20,
+            "nameId": "task_3100230",
+            "condition_id": 4590,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100231,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002310",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100232,
+            "buildingId": 0,
+            "rewards_int": "3090,3120",
+            "link": 101103,
+            "category": 20,
+            "nameId": "task_3100231",
+            "condition_id": 4600,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100232,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002320",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100233,
+            "buildingId": 0,
+            "rewards_int": "3100,3120",
+            "link": 101106,
+            "category": 20,
+            "nameId": "task_3100232",
+            "condition_id": 4610,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100233,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002330",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100234,
+            "buildingId": 0,
+            "rewards_int": "3110,3120",
+            "link": 101110,
+            "category": 20,
+            "nameId": "task_3100233",
+            "condition_id": 4620,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100234,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002340",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100235,
+            "buildingId": 0,
+            "rewards_int": "3090,3120",
+            "link": 101203,
+            "category": 20,
+            "nameId": "task_3100234",
+            "condition_id": 4630,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100235,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002350",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100236,
+            "buildingId": 0,
+            "rewards_int": "3100,3120",
+            "link": 101206,
+            "category": 20,
+            "nameId": "task_3100235",
+            "condition_id": 4640,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100236,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002360",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100237,
+            "buildingId": 0,
+            "rewards_int": "3110,3120",
+            "link": 101210,
+            "category": 20,
+            "nameId": "task_3100236",
+            "condition_id": 4650,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100237,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002370",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100238,
+            "buildingId": 0,
+            "rewards_int": "3090,3120",
+            "link": 101303,
+            "category": 20,
+            "nameId": "task_3100237",
+            "condition_id": 4660,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100238,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002380",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100239,
+            "buildingId": 0,
+            "rewards_int": "3100,3120",
+            "link": 101306,
+            "category": 20,
+            "nameId": "task_3100238",
+            "condition_id": 4670,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100239,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002390",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100240,
+            "buildingId": 0,
+            "rewards_int": "3110,3120",
+            "link": 101310,
+            "category": 20,
+            "nameId": "task_3100239",
+            "condition_id": 4680,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100240,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002400",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100241,
+            "buildingId": 0,
+            "rewards_int": "3090,3120",
+            "link": 101403,
+            "category": 20,
+            "nameId": "task_3100240",
+            "condition_id": 4690,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100241,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002410",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100242,
+            "buildingId": 0,
+            "rewards_int": "3100,3120",
+            "link": 101406,
+            "category": 20,
+            "nameId": "task_3100241",
+            "condition_id": 4700,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100242,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002420",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100243,
+            "buildingId": 0,
+            "rewards_int": "3110,3120",
+            "link": 101410,
+            "category": 20,
+            "nameId": "task_3100242",
+            "condition_id": 4710,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100243,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002430",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100244,
+            "buildingId": 0,
+            "rewards_int": "3090,3120",
+            "link": 101503,
+            "category": 20,
+            "nameId": "task_3100243",
+            "condition_id": 4720,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100244,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002440",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100245,
+            "buildingId": 0,
+            "rewards_int": "3100,3120",
+            "link": 101506,
+            "category": 20,
+            "nameId": "task_3100244",
+            "condition_id": 4730,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100245,
+        "model": "task.task",
+        "fields": {
+            "orderId": 20,
+            "descriptionId": "task_31002450",
+            "is_first": 0,
+            "name": "\u65b0\u7684\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 0,
+            "rewards_int": "3110,3120",
+            "link": 101510,
+            "category": 20,
+            "nameId": "task_3100245",
+            "condition_id": 4740,
+            "icon": "icon_3100201"
+        }
+    },
+    {
+        "pk": 3100301,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003010",
+            "is_first": 1,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100302,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110101,
+            "category": 30,
+            "nameId": "task_3100301",
+            "condition_id": 660,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100302,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003020",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100303,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110102,
+            "category": 30,
+            "nameId": "task_3100302",
+            "condition_id": 670,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100303,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003030",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100304,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110103,
+            "category": 30,
+            "nameId": "task_3100303",
+            "condition_id": 680,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100304,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003040",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100305,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110104,
+            "category": 30,
+            "nameId": "task_3100304",
+            "condition_id": 690,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100305,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003050",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100306,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110105,
+            "category": 30,
+            "nameId": "task_3100305",
+            "condition_id": 700,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100306,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003060",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100307,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110106,
+            "category": 30,
+            "nameId": "task_3100306",
+            "condition_id": 710,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100307,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003070",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100308,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110107,
+            "category": 30,
+            "nameId": "task_3100307",
+            "condition_id": 720,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100308,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003080",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100309,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110201,
+            "category": 30,
+            "nameId": "task_3100308",
+            "condition_id": 730,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100309,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003090",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100310,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110202,
+            "category": 30,
+            "nameId": "task_3100309",
+            "condition_id": 740,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100310,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003100",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100311,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110203,
+            "category": 30,
+            "nameId": "task_3100310",
+            "condition_id": 750,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100311,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003110",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100312,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110204,
+            "category": 30,
+            "nameId": "task_3100311",
+            "condition_id": 760,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100312,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003120",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100313,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110205,
+            "category": 30,
+            "nameId": "task_3100312",
+            "condition_id": 770,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100313,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003130",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100314,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110206,
+            "category": 30,
+            "nameId": "task_3100313",
+            "condition_id": 780,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100314,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003140",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100315,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110207,
+            "category": 30,
+            "nameId": "task_3100314",
+            "condition_id": 790,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100315,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003150",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100316,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110301,
+            "category": 30,
+            "nameId": "task_3100315",
+            "condition_id": 800,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100316,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003160",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100317,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110302,
+            "category": 30,
+            "nameId": "task_3100316",
+            "condition_id": 810,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100317,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003170",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100318,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110303,
+            "category": 30,
+            "nameId": "task_3100317",
+            "condition_id": 820,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100318,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003180",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100319,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110304,
+            "category": 30,
+            "nameId": "task_3100318",
+            "condition_id": 830,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100319,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003190",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100320,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110305,
+            "category": 30,
+            "nameId": "task_3100319",
+            "condition_id": 840,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100320,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003200",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100321,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110306,
+            "category": 30,
+            "nameId": "task_3100320",
+            "condition_id": 850,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100321,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003210",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100322,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110307,
+            "category": 30,
+            "nameId": "task_3100321",
+            "condition_id": 860,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100322,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003220",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100323,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110401,
+            "category": 30,
+            "nameId": "task_3100322",
+            "condition_id": 870,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100323,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003230",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100324,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110402,
+            "category": 30,
+            "nameId": "task_3100323",
+            "condition_id": 880,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100324,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003240",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100325,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110403,
+            "category": 30,
+            "nameId": "task_3100324",
+            "condition_id": 890,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100325,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003250",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100326,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110404,
+            "category": 30,
+            "nameId": "task_3100325",
+            "condition_id": 900,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100326,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003260",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100327,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110405,
+            "category": 30,
+            "nameId": "task_3100326",
+            "condition_id": 910,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100327,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003270",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100328,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110406,
+            "category": 30,
+            "nameId": "task_3100327",
+            "condition_id": 920,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100328,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003280",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100329,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110407,
+            "category": 30,
+            "nameId": "task_3100328",
+            "condition_id": 930,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100329,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003290",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100330,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110501,
+            "category": 30,
+            "nameId": "task_3100329",
+            "condition_id": 940,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100330,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003300",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100331,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110502,
+            "category": 30,
+            "nameId": "task_3100330",
+            "condition_id": 950,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100331,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003310",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100332,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110503,
+            "category": 30,
+            "nameId": "task_3100331",
+            "condition_id": 960,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100332,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003320",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100333,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110504,
+            "category": 30,
+            "nameId": "task_3100332",
+            "condition_id": 970,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100333,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003330",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100334,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110505,
+            "category": 30,
+            "nameId": "task_3100333",
+            "condition_id": 980,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100334,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003340",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100335,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110506,
+            "category": 30,
+            "nameId": "task_3100334",
+            "condition_id": 990,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100335,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003350",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100336,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110507,
+            "category": 30,
+            "nameId": "task_3100335",
+            "condition_id": 1000,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100336,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003360",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100337,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110601,
+            "category": 30,
+            "nameId": "task_3100336",
+            "condition_id": 1010,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100337,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003370",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100338,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110602,
+            "category": 30,
+            "nameId": "task_3100337",
+            "condition_id": 1020,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100338,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003380",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100339,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110603,
+            "category": 30,
+            "nameId": "task_3100338",
+            "condition_id": 1030,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100339,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003390",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100340,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110604,
+            "category": 30,
+            "nameId": "task_3100339",
+            "condition_id": 1040,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100340,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003400",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100341,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110605,
+            "category": 30,
+            "nameId": "task_3100340",
+            "condition_id": 1050,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100341,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003410",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100342,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110606,
+            "category": 30,
+            "nameId": "task_3100341",
+            "condition_id": 1060,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100342,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003420",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100343,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110607,
+            "category": 30,
+            "nameId": "task_3100342",
+            "condition_id": 1070,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100343,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003430",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100344,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110701,
+            "category": 30,
+            "nameId": "task_3100343",
+            "condition_id": 1080,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100344,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003440",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100345,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110702,
+            "category": 30,
+            "nameId": "task_3100344",
+            "condition_id": 1090,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100345,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003450",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100346,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110703,
+            "category": 30,
+            "nameId": "task_3100345",
+            "condition_id": 1100,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100346,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003460",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100347,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110704,
+            "category": 30,
+            "nameId": "task_3100346",
+            "condition_id": 1110,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100347,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003470",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100348,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110705,
+            "category": 30,
+            "nameId": "task_3100347",
+            "condition_id": 1120,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100348,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003480",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100349,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110706,
+            "category": 30,
+            "nameId": "task_3100348",
+            "condition_id": 1130,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100349,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003490",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100350,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110707,
+            "category": 30,
+            "nameId": "task_3100349",
+            "condition_id": 1140,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100350,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003500",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100351,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110801,
+            "category": 30,
+            "nameId": "task_3100350",
+            "condition_id": 1150,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100351,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003510",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100352,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110802,
+            "category": 30,
+            "nameId": "task_3100351",
+            "condition_id": 1160,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100352,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003520",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100353,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110803,
+            "category": 30,
+            "nameId": "task_3100352",
+            "condition_id": 1170,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100353,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003530",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100354,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110804,
+            "category": 30,
+            "nameId": "task_3100353",
+            "condition_id": 1180,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100354,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003540",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100355,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110805,
+            "category": 30,
+            "nameId": "task_3100354",
+            "condition_id": 1190,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100355,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003550",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100356,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110806,
+            "category": 30,
+            "nameId": "task_3100355",
+            "condition_id": 1200,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100356,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003560",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100357,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110807,
+            "category": 30,
+            "nameId": "task_3100356",
+            "condition_id": 1210,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100357,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003570",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100358,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110901,
+            "category": 30,
+            "nameId": "task_3100357",
+            "condition_id": 4750,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100358,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003580",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100359,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110902,
+            "category": 30,
+            "nameId": "task_3100358",
+            "condition_id": 4760,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100359,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003590",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100360,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110903,
+            "category": 30,
+            "nameId": "task_3100359",
+            "condition_id": 4770,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100360,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003600",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100361,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110904,
+            "category": 30,
+            "nameId": "task_3100360",
+            "condition_id": 4780,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100361,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003610",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100362,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110905,
+            "category": 30,
+            "nameId": "task_3100361",
+            "condition_id": 4790,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100362,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003620",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100363,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110906,
+            "category": 30,
+            "nameId": "task_3100362",
+            "condition_id": 4800,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100363,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003630",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100364,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 110907,
+            "category": 30,
+            "nameId": "task_3100363",
+            "condition_id": 4810,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100364,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003640",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100365,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111001,
+            "category": 30,
+            "nameId": "task_3100364",
+            "condition_id": 4820,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100365,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003650",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100366,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111002,
+            "category": 30,
+            "nameId": "task_3100365",
+            "condition_id": 4830,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100366,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003660",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100367,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111003,
+            "category": 30,
+            "nameId": "task_3100366",
+            "condition_id": 4840,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100367,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003670",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100368,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111004,
+            "category": 30,
+            "nameId": "task_3100367",
+            "condition_id": 4850,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100368,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003680",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100369,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111005,
+            "category": 30,
+            "nameId": "task_3100368",
+            "condition_id": 4860,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100369,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003690",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100370,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111006,
+            "category": 30,
+            "nameId": "task_3100369",
+            "condition_id": 4870,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100370,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003700",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100371,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111007,
+            "category": 30,
+            "nameId": "task_3100370",
+            "condition_id": 4880,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100371,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003710",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100372,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111101,
+            "category": 30,
+            "nameId": "task_3100371",
+            "condition_id": 4890,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100372,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003720",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100373,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111102,
+            "category": 30,
+            "nameId": "task_3100372",
+            "condition_id": 4900,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100373,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003730",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100374,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111103,
+            "category": 30,
+            "nameId": "task_3100373",
+            "condition_id": 4910,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100374,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003740",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100375,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111104,
+            "category": 30,
+            "nameId": "task_3100374",
+            "condition_id": 4920,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100375,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003750",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100376,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111105,
+            "category": 30,
+            "nameId": "task_3100375",
+            "condition_id": 4930,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100376,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003760",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100377,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111106,
+            "category": 30,
+            "nameId": "task_3100376",
+            "condition_id": 4940,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100377,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003770",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100378,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111107,
+            "category": 30,
+            "nameId": "task_3100377",
+            "condition_id": 4950,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100378,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003780",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100379,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111201,
+            "category": 30,
+            "nameId": "task_3100378",
+            "condition_id": 4960,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100379,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003790",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100380,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111202,
+            "category": 30,
+            "nameId": "task_3100379",
+            "condition_id": 4970,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100380,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003800",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100381,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111203,
+            "category": 30,
+            "nameId": "task_3100380",
+            "condition_id": 4980,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100381,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003810",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100382,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111204,
+            "category": 30,
+            "nameId": "task_3100381",
+            "condition_id": 4990,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100382,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003820",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100383,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111205,
+            "category": 30,
+            "nameId": "task_3100382",
+            "condition_id": 5000,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100383,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003830",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100384,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111206,
+            "category": 30,
+            "nameId": "task_3100383",
+            "condition_id": 5010,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100384,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003840",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100385,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111207,
+            "category": 30,
+            "nameId": "task_3100384",
+            "condition_id": 5020,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100385,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003850",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100386,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111301,
+            "category": 30,
+            "nameId": "task_3100385",
+            "condition_id": 5030,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100386,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003860",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100387,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111302,
+            "category": 30,
+            "nameId": "task_3100386",
+            "condition_id": 5040,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100387,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003870",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100388,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111303,
+            "category": 30,
+            "nameId": "task_3100387",
+            "condition_id": 5050,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100388,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003880",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100389,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111304,
+            "category": 30,
+            "nameId": "task_3100388",
+            "condition_id": 5060,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100389,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003890",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100390,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111305,
+            "category": 30,
+            "nameId": "task_3100389",
+            "condition_id": 5070,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100390,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003900",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100391,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111306,
+            "category": 30,
+            "nameId": "task_3100390",
+            "condition_id": 5080,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100391,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003910",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100392,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111307,
+            "category": 30,
+            "nameId": "task_3100391",
+            "condition_id": 5090,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100392,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003920",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100393,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111401,
+            "category": 30,
+            "nameId": "task_3100392",
+            "condition_id": 5100,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100393,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003930",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100394,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111402,
+            "category": 30,
+            "nameId": "task_3100393",
+            "condition_id": 5110,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100394,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003940",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100395,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111403,
+            "category": 30,
+            "nameId": "task_3100394",
+            "condition_id": 5120,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100395,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003950",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100396,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111404,
+            "category": 30,
+            "nameId": "task_3100395",
+            "condition_id": 5130,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100396,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003960",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100397,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111405,
+            "category": 30,
+            "nameId": "task_3100396",
+            "condition_id": 5140,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100397,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003970",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100398,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111406,
+            "category": 30,
+            "nameId": "task_3100397",
+            "condition_id": 5150,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100398,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003980",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100399,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111407,
+            "category": 30,
+            "nameId": "task_3100398",
+            "condition_id": 5160,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100399,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31003990",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100400,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111501,
+            "category": 30,
+            "nameId": "task_3100399",
+            "condition_id": 5170,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100400,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31004000",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100401,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111502,
+            "category": 30,
+            "nameId": "task_3100400",
+            "condition_id": 5180,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100401,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31004010",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100402,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111503,
+            "category": 30,
+            "nameId": "task_3100401",
+            "condition_id": 5190,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100402,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31004020",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100403,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111504,
+            "category": 30,
+            "nameId": "task_3100402",
+            "condition_id": 5200,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100403,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31004030",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100404,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111505,
+            "category": 30,
+            "nameId": "task_3100403",
+            "condition_id": 5210,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100404,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31004040",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 3100405,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111506,
+            "category": 30,
+            "nameId": "task_3100404",
+            "condition_id": 5220,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100405,
+        "model": "task.task",
+        "fields": {
+            "orderId": 30,
+            "descriptionId": "task_31004050",
+            "is_first": 0,
+            "name": "\u7cbe\u82f1\u6311\u6218",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 0,
+            "rewards_int": "1100,1110",
+            "link": 111507,
+            "category": 30,
+            "nameId": "task_3100405",
+            "condition_id": 5230,
+            "icon": "icon_3100301"
+        }
+    },
+    {
+        "pk": 3100501,
+        "model": "task.task",
+        "fields": {
+            "orderId": 40,
+            "descriptionId": "task_31005010",
+            "is_first": 1,
+            "name": "\u4e8c\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100502,
+            "buildingId": 0,
+            "rewards_int": 3130.0,
+            "link": 7,
+            "category": 40,
+            "nameId": "task_3100501",
+            "condition_id": 1420,
+            "icon": "icon_3100501"
+        }
+    },
+    {
+        "pk": 3100502,
+        "model": "task.task",
+        "fields": {
+            "orderId": 40,
+            "descriptionId": "task_31005020",
+            "is_first": 0,
+            "name": "\u4e8c\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100503,
+            "buildingId": 0,
+            "rewards_int": 3130.0,
+            "link": 7,
+            "category": 40,
+            "nameId": "task_3100502",
+            "condition_id": 1430,
+            "icon": "icon_3100501"
+        }
+    },
+    {
+        "pk": 3100503,
+        "model": "task.task",
+        "fields": {
+            "orderId": 40,
+            "descriptionId": "task_31005030",
+            "is_first": 0,
+            "name": "\u4e8c\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100504,
+            "buildingId": 0,
+            "rewards_int": 3130.0,
+            "link": 7,
+            "category": 40,
+            "nameId": "task_3100503",
+            "condition_id": 1440,
+            "icon": "icon_3100501"
+        }
+    },
+    {
+        "pk": 3100504,
+        "model": "task.task",
+        "fields": {
+            "orderId": 40,
+            "descriptionId": "task_31005040",
+            "is_first": 0,
+            "name": "\u4e8c\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100505,
+            "buildingId": 0,
+            "rewards_int": 3130.0,
+            "link": 7,
+            "category": 40,
+            "nameId": "task_3100504",
+            "condition_id": 1450,
+            "icon": "icon_3100501"
+        }
+    },
+    {
+        "pk": 3100505,
+        "model": "task.task",
+        "fields": {
+            "orderId": 40,
+            "descriptionId": "task_31005050",
+            "is_first": 0,
+            "name": "\u4e8c\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100506,
+            "buildingId": 0,
+            "rewards_int": 3130.0,
+            "link": 7,
+            "category": 40,
+            "nameId": "task_3100505",
+            "condition_id": 1460,
+            "icon": "icon_3100501"
+        }
+    },
+    {
+        "pk": 3100506,
+        "model": "task.task",
+        "fields": {
+            "orderId": 40,
+            "descriptionId": "task_31005060",
+            "is_first": 0,
+            "name": "\u4e8c\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100507,
+            "buildingId": 0,
+            "rewards_int": 3130.0,
+            "link": 7,
+            "category": 40,
+            "nameId": "task_3100506",
+            "condition_id": 1470,
+            "icon": "icon_3100501"
+        }
+    },
+    {
+        "pk": 3100507,
+        "model": "task.task",
+        "fields": {
+            "orderId": 40,
+            "descriptionId": "task_31005070",
+            "is_first": 0,
+            "name": "\u4e8c\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100508,
+            "buildingId": 0,
+            "rewards_int": 3130.0,
+            "link": 7,
+            "category": 40,
+            "nameId": "task_3100507",
+            "condition_id": 1480,
+            "icon": "icon_3100501"
+        }
+    },
+    {
+        "pk": 3100508,
+        "model": "task.task",
+        "fields": {
+            "orderId": 40,
+            "descriptionId": "task_31005080",
+            "is_first": 0,
+            "name": "\u4e8c\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 0,
+            "rewards_int": 3130.0,
+            "link": 7,
+            "category": 40,
+            "nameId": "task_3100508",
+            "condition_id": 1490,
+            "icon": "icon_3100501"
+        }
+    },
+    {
+        "pk": 3100551,
+        "model": "task.task",
+        "fields": {
+            "orderId": 50,
+            "descriptionId": "task_31005510",
+            "is_first": 1,
+            "name": "\u4e09\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100552,
+            "buildingId": 0,
+            "rewards_int": 3140.0,
+            "link": 7,
+            "category": 50,
+            "nameId": "task_3100551",
+            "condition_id": 1500,
+            "icon": "icon_3100551"
+        }
+    },
+    {
+        "pk": 3100552,
+        "model": "task.task",
+        "fields": {
+            "orderId": 50,
+            "descriptionId": "task_31005520",
+            "is_first": 0,
+            "name": "\u4e09\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100553,
+            "buildingId": 0,
+            "rewards_int": 3140.0,
+            "link": 7,
+            "category": 50,
+            "nameId": "task_3100552",
+            "condition_id": 1510,
+            "icon": "icon_3100551"
+        }
+    },
+    {
+        "pk": 3100553,
+        "model": "task.task",
+        "fields": {
+            "orderId": 50,
+            "descriptionId": "task_31005530",
+            "is_first": 0,
+            "name": "\u4e09\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100554,
+            "buildingId": 0,
+            "rewards_int": 3140.0,
+            "link": 7,
+            "category": 50,
+            "nameId": "task_3100553",
+            "condition_id": 1520,
+            "icon": "icon_3100551"
+        }
+    },
+    {
+        "pk": 3100554,
+        "model": "task.task",
+        "fields": {
+            "orderId": 50,
+            "descriptionId": "task_31005540",
+            "is_first": 0,
+            "name": "\u4e09\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100555,
+            "buildingId": 0,
+            "rewards_int": 3140.0,
+            "link": 7,
+            "category": 50,
+            "nameId": "task_3100554",
+            "condition_id": 1530,
+            "icon": "icon_3100551"
+        }
+    },
+    {
+        "pk": 3100555,
+        "model": "task.task",
+        "fields": {
+            "orderId": 50,
+            "descriptionId": "task_31005550",
+            "is_first": 0,
+            "name": "\u4e09\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100556,
+            "buildingId": 0,
+            "rewards_int": 3140.0,
+            "link": 7,
+            "category": 50,
+            "nameId": "task_3100555",
+            "condition_id": 1540,
+            "icon": "icon_3100551"
+        }
+    },
+    {
+        "pk": 3100556,
+        "model": "task.task",
+        "fields": {
+            "orderId": 50,
+            "descriptionId": "task_31005560",
+            "is_first": 0,
+            "name": "\u4e09\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100557,
+            "buildingId": 0,
+            "rewards_int": 3140.0,
+            "link": 7,
+            "category": 50,
+            "nameId": "task_3100556",
+            "condition_id": 1550,
+            "icon": "icon_3100551"
+        }
+    },
+    {
+        "pk": 3100557,
+        "model": "task.task",
+        "fields": {
+            "orderId": 50,
+            "descriptionId": "task_31005570",
+            "is_first": 0,
+            "name": "\u4e09\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100558,
+            "buildingId": 0,
+            "rewards_int": 3140.0,
+            "link": 7,
+            "category": 50,
+            "nameId": "task_3100557",
+            "condition_id": 1560,
+            "icon": "icon_3100551"
+        }
+    },
+    {
+        "pk": 3100558,
+        "model": "task.task",
+        "fields": {
+            "orderId": 50,
+            "descriptionId": "task_31005580",
+            "is_first": 0,
+            "name": "\u4e09\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 0,
+            "rewards_int": 3140.0,
+            "link": 7,
+            "category": 50,
+            "nameId": "task_3100558",
+            "condition_id": 1570,
+            "icon": "icon_3100551"
+        }
+    },
+    {
+        "pk": 3100601,
+        "model": "task.task",
+        "fields": {
+            "orderId": 60,
+            "descriptionId": "task_31006010",
+            "is_first": 1,
+            "name": "\u4e94\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100602,
+            "buildingId": 0,
+            "rewards_int": 3150.0,
+            "link": 7,
+            "category": 60,
+            "nameId": "task_3100601",
+            "condition_id": 1580,
+            "icon": "icon_3100601"
+        }
+    },
+    {
+        "pk": 3100602,
+        "model": "task.task",
+        "fields": {
+            "orderId": 60,
+            "descriptionId": "task_31006020",
+            "is_first": 0,
+            "name": "\u4e94\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100603,
+            "buildingId": 0,
+            "rewards_int": 3150.0,
+            "link": 7,
+            "category": 60,
+            "nameId": "task_3100602",
+            "condition_id": 1590,
+            "icon": "icon_3100601"
+        }
+    },
+    {
+        "pk": 3100603,
+        "model": "task.task",
+        "fields": {
+            "orderId": 60,
+            "descriptionId": "task_31006030",
+            "is_first": 0,
+            "name": "\u4e94\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100604,
+            "buildingId": 0,
+            "rewards_int": 3150.0,
+            "link": 7,
+            "category": 60,
+            "nameId": "task_3100603",
+            "condition_id": 1600,
+            "icon": "icon_3100601"
+        }
+    },
+    {
+        "pk": 3100604,
+        "model": "task.task",
+        "fields": {
+            "orderId": 60,
+            "descriptionId": "task_31006040",
+            "is_first": 0,
+            "name": "\u4e94\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100605,
+            "buildingId": 0,
+            "rewards_int": 3150.0,
+            "link": 7,
+            "category": 60,
+            "nameId": "task_3100604",
+            "condition_id": 1610,
+            "icon": "icon_3100601"
+        }
+    },
+    {
+        "pk": 3100605,
+        "model": "task.task",
+        "fields": {
+            "orderId": 60,
+            "descriptionId": "task_31006050",
+            "is_first": 0,
+            "name": "\u4e94\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100606,
+            "buildingId": 0,
+            "rewards_int": 3150.0,
+            "link": 7,
+            "category": 60,
+            "nameId": "task_3100605",
+            "condition_id": 1620,
+            "icon": "icon_3100601"
+        }
+    },
+    {
+        "pk": 3100606,
+        "model": "task.task",
+        "fields": {
+            "orderId": 60,
+            "descriptionId": "task_31006060",
+            "is_first": 0,
+            "name": "\u4e94\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100607,
+            "buildingId": 0,
+            "rewards_int": 3150.0,
+            "link": 7,
+            "category": 60,
+            "nameId": "task_3100606",
+            "condition_id": 1630,
+            "icon": "icon_3100601"
+        }
+    },
+    {
+        "pk": 3100607,
+        "model": "task.task",
+        "fields": {
+            "orderId": 60,
+            "descriptionId": "task_31006070",
+            "is_first": 0,
+            "name": "\u4e94\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 3100608,
+            "buildingId": 0,
+            "rewards_int": 3150.0,
+            "link": 7,
+            "category": 60,
+            "nameId": "task_3100607",
+            "condition_id": 1640,
+            "icon": "icon_3100601"
+        }
+    },
+    {
+        "pk": 3100608,
+        "model": "task.task",
+        "fields": {
+            "orderId": 60,
+            "descriptionId": "task_31006080",
+            "is_first": 0,
+            "name": "\u4e94\u661f\u98ce\u66b4",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 0,
+            "rewards_int": 3150.0,
+            "link": 7,
+            "category": 60,
+            "nameId": "task_3100608",
+            "condition_id": 1650,
+            "icon": "icon_3100601"
+        }
+    },
+    {
+        "pk": 3100701,
+        "model": "task.task",
+        "fields": {
+            "orderId": 70,
+            "descriptionId": "task_31007010",
+            "is_first": 1,
+            "name": "\u7eff\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100702,
+            "buildingId": 0,
+            "rewards_int": 3160.0,
+            "link": 7,
+            "category": 70,
+            "nameId": "task_3100701",
+            "condition_id": 1660,
+            "icon": "icon_3100701"
+        }
+    },
+    {
+        "pk": 3100702,
+        "model": "task.task",
+        "fields": {
+            "orderId": 70,
+            "descriptionId": "task_31007020",
+            "is_first": 0,
+            "name": "\u7eff\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100703,
+            "buildingId": 0,
+            "rewards_int": 3160.0,
+            "link": 7,
+            "category": 70,
+            "nameId": "task_3100702",
+            "condition_id": 1670,
+            "icon": "icon_3100701"
+        }
+    },
+    {
+        "pk": 3100703,
+        "model": "task.task",
+        "fields": {
+            "orderId": 70,
+            "descriptionId": "task_31007030",
+            "is_first": 0,
+            "name": "\u7eff\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100704,
+            "buildingId": 0,
+            "rewards_int": 3160.0,
+            "link": 7,
+            "category": 70,
+            "nameId": "task_3100703",
+            "condition_id": 1680,
+            "icon": "icon_3100701"
+        }
+    },
+    {
+        "pk": 3100704,
+        "model": "task.task",
+        "fields": {
+            "orderId": 70,
+            "descriptionId": "task_31007040",
+            "is_first": 0,
+            "name": "\u7eff\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100705,
+            "buildingId": 0,
+            "rewards_int": 3160.0,
+            "link": 7,
+            "category": 70,
+            "nameId": "task_3100704",
+            "condition_id": 1690,
+            "icon": "icon_3100701"
+        }
+    },
+    {
+        "pk": 3100705,
+        "model": "task.task",
+        "fields": {
+            "orderId": 70,
+            "descriptionId": "task_31007050",
+            "is_first": 0,
+            "name": "\u7eff\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100706,
+            "buildingId": 0,
+            "rewards_int": 3160.0,
+            "link": 7,
+            "category": 70,
+            "nameId": "task_3100705",
+            "condition_id": 1700,
+            "icon": "icon_3100701"
+        }
+    },
+    {
+        "pk": 3100706,
+        "model": "task.task",
+        "fields": {
+            "orderId": 70,
+            "descriptionId": "task_31007060",
+            "is_first": 0,
+            "name": "\u7eff\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100707,
+            "buildingId": 0,
+            "rewards_int": 3160.0,
+            "link": 7,
+            "category": 70,
+            "nameId": "task_3100706",
+            "condition_id": 1710,
+            "icon": "icon_3100701"
+        }
+    },
+    {
+        "pk": 3100707,
+        "model": "task.task",
+        "fields": {
+            "orderId": 70,
+            "descriptionId": "task_31007070",
+            "is_first": 0,
+            "name": "\u7eff\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 0,
+            "rewards_int": 3160.0,
+            "link": 7,
+            "category": 70,
+            "nameId": "task_3100707",
+            "condition_id": 1720,
+            "icon": "icon_3100701"
+        }
+    },
+    {
+        "pk": 3100711,
+        "model": "task.task",
+        "fields": {
+            "orderId": 80,
+            "descriptionId": "task_31007110",
+            "is_first": 1,
+            "name": "\u84dd\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100712,
+            "buildingId": 0,
+            "rewards_int": 3170.0,
+            "link": 7,
+            "category": 80,
+            "nameId": "task_3100711",
+            "condition_id": 1730,
+            "icon": "icon_3100711"
+        }
+    },
+    {
+        "pk": 3100712,
+        "model": "task.task",
+        "fields": {
+            "orderId": 80,
+            "descriptionId": "task_31007120",
+            "is_first": 0,
+            "name": "\u84dd\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100713,
+            "buildingId": 0,
+            "rewards_int": 3170.0,
+            "link": 7,
+            "category": 80,
+            "nameId": "task_3100712",
+            "condition_id": 1740,
+            "icon": "icon_3100711"
+        }
+    },
+    {
+        "pk": 3100713,
+        "model": "task.task",
+        "fields": {
+            "orderId": 80,
+            "descriptionId": "task_31007130",
+            "is_first": 0,
+            "name": "\u84dd\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100714,
+            "buildingId": 0,
+            "rewards_int": 3170.0,
+            "link": 7,
+            "category": 80,
+            "nameId": "task_3100713",
+            "condition_id": 1750,
+            "icon": "icon_3100711"
+        }
+    },
+    {
+        "pk": 3100714,
+        "model": "task.task",
+        "fields": {
+            "orderId": 80,
+            "descriptionId": "task_31007140",
+            "is_first": 0,
+            "name": "\u84dd\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100715,
+            "buildingId": 0,
+            "rewards_int": 3170.0,
+            "link": 7,
+            "category": 80,
+            "nameId": "task_3100714",
+            "condition_id": 1760,
+            "icon": "icon_3100711"
+        }
+    },
+    {
+        "pk": 3100715,
+        "model": "task.task",
+        "fields": {
+            "orderId": 80,
+            "descriptionId": "task_31007150",
+            "is_first": 0,
+            "name": "\u84dd\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100716,
+            "buildingId": 0,
+            "rewards_int": 3170.0,
+            "link": 7,
+            "category": 80,
+            "nameId": "task_3100715",
+            "condition_id": 1770,
+            "icon": "icon_3100711"
+        }
+    },
+    {
+        "pk": 3100716,
+        "model": "task.task",
+        "fields": {
+            "orderId": 80,
+            "descriptionId": "task_31007160",
+            "is_first": 0,
+            "name": "\u84dd\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100717,
+            "buildingId": 0,
+            "rewards_int": 3170.0,
+            "link": 7,
+            "category": 80,
+            "nameId": "task_3100716",
+            "condition_id": 1780,
+            "icon": "icon_3100711"
+        }
+    },
+    {
+        "pk": 3100717,
+        "model": "task.task",
+        "fields": {
+            "orderId": 80,
+            "descriptionId": "task_31007170",
+            "is_first": 0,
+            "name": "\u84dd\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 0,
+            "rewards_int": 3170.0,
+            "link": 7,
+            "category": 80,
+            "nameId": "task_3100717",
+            "condition_id": 1790,
+            "icon": "icon_3100711"
+        }
+    },
+    {
+        "pk": 3100721,
+        "model": "task.task",
+        "fields": {
+            "orderId": 90,
+            "descriptionId": "task_31007210",
+            "is_first": 1,
+            "name": "\u7d2b\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100722,
+            "buildingId": 0,
+            "rewards_int": 3180.0,
+            "link": 7,
+            "category": 90,
+            "nameId": "task_3100721",
+            "condition_id": 1800,
+            "icon": "icon_3100721"
+        }
+    },
+    {
+        "pk": 3100722,
+        "model": "task.task",
+        "fields": {
+            "orderId": 90,
+            "descriptionId": "task_31007220",
+            "is_first": 0,
+            "name": "\u7d2b\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100723,
+            "buildingId": 0,
+            "rewards_int": 3180.0,
+            "link": 7,
+            "category": 90,
+            "nameId": "task_3100722",
+            "condition_id": 1810,
+            "icon": "icon_3100721"
+        }
+    },
+    {
+        "pk": 3100723,
+        "model": "task.task",
+        "fields": {
+            "orderId": 90,
+            "descriptionId": "task_31007230",
+            "is_first": 0,
+            "name": "\u7d2b\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100724,
+            "buildingId": 0,
+            "rewards_int": 3180.0,
+            "link": 7,
+            "category": 90,
+            "nameId": "task_3100723",
+            "condition_id": 1820,
+            "icon": "icon_3100721"
+        }
+    },
+    {
+        "pk": 3100724,
+        "model": "task.task",
+        "fields": {
+            "orderId": 90,
+            "descriptionId": "task_31007240",
+            "is_first": 0,
+            "name": "\u7d2b\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100725,
+            "buildingId": 0,
+            "rewards_int": 3180.0,
+            "link": 7,
+            "category": 90,
+            "nameId": "task_3100724",
+            "condition_id": 1830,
+            "icon": "icon_3100721"
+        }
+    },
+    {
+        "pk": 3100725,
+        "model": "task.task",
+        "fields": {
+            "orderId": 90,
+            "descriptionId": "task_31007250",
+            "is_first": 0,
+            "name": "\u7d2b\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100726,
+            "buildingId": 0,
+            "rewards_int": 3180.0,
+            "link": 7,
+            "category": 90,
+            "nameId": "task_3100725",
+            "condition_id": 1840,
+            "icon": "icon_3100721"
+        }
+    },
+    {
+        "pk": 3100726,
+        "model": "task.task",
+        "fields": {
+            "orderId": 90,
+            "descriptionId": "task_31007260",
+            "is_first": 0,
+            "name": "\u7d2b\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 3100727,
+            "buildingId": 0,
+            "rewards_int": 3180.0,
+            "link": 7,
+            "category": 90,
+            "nameId": "task_3100726",
+            "condition_id": 1850,
+            "icon": "icon_3100721"
+        }
+    },
+    {
+        "pk": 3100727,
+        "model": "task.task",
+        "fields": {
+            "orderId": 90,
+            "descriptionId": "task_31007270",
+            "is_first": 0,
+            "name": "\u7d2b\u8272\u519b\u56e2",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 0,
+            "rewards_int": 3180.0,
+            "link": 7,
+            "category": 90,
+            "nameId": "task_3100727",
+            "condition_id": 1860,
+            "icon": "icon_3100721"
+        }
+    },
+    {
+        "pk": 3101051,
+        "model": "task.task",
+        "fields": {
+            "orderId": 130,
+            "descriptionId": "task_31010510",
+            "is_first": 1,
+            "name": "\u7ade\u6280\u738b\u8005",
+            "level": 10,
+            "nextTaskId": 3101052,
+            "buildingId": 1001005,
+            "rewards_int": "3190,3240",
+            "link": 15,
+            "category": 140,
+            "nameId": "task_3101051",
+            "condition_id": 2170,
+            "icon": "icon_3101051"
+        }
+    },
+    {
+        "pk": 3101052,
+        "model": "task.task",
+        "fields": {
+            "orderId": 130,
+            "descriptionId": "task_31010520",
+            "is_first": 0,
+            "name": "\u7ade\u6280\u738b\u8005",
+            "level": 10,
+            "nextTaskId": 3101053,
+            "buildingId": 1001005,
+            "rewards_int": "3200,3250",
+            "link": 15,
+            "category": 140,
+            "nameId": "task_3101052",
+            "condition_id": 2180,
+            "icon": "icon_3101051"
+        }
+    },
+    {
+        "pk": 3101053,
+        "model": "task.task",
+        "fields": {
+            "orderId": 130,
+            "descriptionId": "task_31010530",
+            "is_first": 0,
+            "name": "\u7ade\u6280\u738b\u8005",
+            "level": 10,
+            "nextTaskId": 3101054,
+            "buildingId": 1001005,
+            "rewards_int": "3210,3260",
+            "link": 15,
+            "category": 140,
+            "nameId": "task_3101053",
+            "condition_id": 2190,
+            "icon": "icon_3101051"
+        }
+    },
+    {
+        "pk": 3101054,
+        "model": "task.task",
+        "fields": {
+            "orderId": 130,
+            "descriptionId": "task_31010540",
+            "is_first": 0,
+            "name": "\u7ade\u6280\u738b\u8005",
+            "level": 10,
+            "nextTaskId": 3101055,
+            "buildingId": 1001005,
+            "rewards_int": "3220,3270",
+            "link": 15,
+            "category": 140,
+            "nameId": "task_3101054",
+            "condition_id": 2200,
+            "icon": "icon_3101051"
+        }
+    },
+    {
+        "pk": 3101055,
+        "model": "task.task",
+        "fields": {
+            "orderId": 130,
+            "descriptionId": "task_31010550",
+            "is_first": 0,
+            "name": "\u7ade\u6280\u738b\u8005",
+            "level": 10,
+            "nextTaskId": 3101056,
+            "buildingId": 1001005,
+            "rewards_int": "3230,3280",
+            "link": 15,
+            "category": 140,
+            "nameId": "task_3101055",
+            "condition_id": 2210,
+            "icon": "icon_3101051"
+        }
+    },
+    {
+        "pk": 3101056,
+        "model": "task.task",
+        "fields": {
+            "orderId": 130,
+            "descriptionId": "task_31010560",
+            "is_first": 0,
+            "name": "\u7ade\u6280\u738b\u8005",
+            "level": 10,
+            "nextTaskId": 3101057,
+            "buildingId": 1001005,
+            "rewards_int": "3290,3340",
+            "link": 15,
+            "category": 140,
+            "nameId": "task_3101056",
+            "condition_id": 2220,
+            "icon": "icon_3101051"
+        }
+    },
+    {
+        "pk": 3101057,
+        "model": "task.task",
+        "fields": {
+            "orderId": 130,
+            "descriptionId": "task_31010570",
+            "is_first": 0,
+            "name": "\u7ade\u6280\u738b\u8005",
+            "level": 10,
+            "nextTaskId": 3101058,
+            "buildingId": 1001005,
+            "rewards_int": "3300,3350",
+            "link": 15,
+            "category": 140,
+            "nameId": "task_3101057",
+            "condition_id": 2230,
+            "icon": "icon_3101051"
+        }
+    },
+    {
+        "pk": 3101058,
+        "model": "task.task",
+        "fields": {
+            "orderId": 130,
+            "descriptionId": "task_31010580",
+            "is_first": 0,
+            "name": "\u7ade\u6280\u738b\u8005",
+            "level": 10,
+            "nextTaskId": 3101059,
+            "buildingId": 1001005,
+            "rewards_int": "3310,3360",
+            "link": 15,
+            "category": 140,
+            "nameId": "task_3101058",
+            "condition_id": 2240,
+            "icon": "icon_3101051"
+        }
+    },
+    {
+        "pk": 3101059,
+        "model": "task.task",
+        "fields": {
+            "orderId": 130,
+            "descriptionId": "task_31010590",
+            "is_first": 0,
+            "name": "\u7ade\u6280\u738b\u8005",
+            "level": 10,
+            "nextTaskId": 3101060,
+            "buildingId": 1001005,
+            "rewards_int": "3320,3370",
+            "link": 15,
+            "category": 140,
+            "nameId": "task_3101059",
+            "condition_id": 2250,
+            "icon": "icon_3101051"
+        }
+    },
+    {
+        "pk": 3101060,
+        "model": "task.task",
+        "fields": {
+            "orderId": 130,
+            "descriptionId": "task_31010600",
+            "is_first": 0,
+            "name": "\u7ade\u6280\u738b\u8005",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 1001005,
+            "rewards_int": "3330,3380",
+            "link": 15,
+            "category": 140,
+            "nameId": "task_3101060",
+            "condition_id": 2260,
+            "icon": "icon_3101051"
+        }
+    },
+    {
+        "pk": 3101351,
+        "model": "task.task",
+        "fields": {
+            "orderId": 190,
+            "descriptionId": "task_31013510",
+            "is_first": 1,
+            "name": "\u91d1\u878d\u5de8\u5934",
+            "level": 10,
+            "nextTaskId": 3101352,
+            "buildingId": 1001009,
+            "rewards_int": 3390.0,
+            "link": 4,
+            "category": 200,
+            "nameId": "task_3101351",
+            "condition_id": 2270,
+            "icon": "icon_3101351"
+        }
+    },
+    {
+        "pk": 3101352,
+        "model": "task.task",
+        "fields": {
+            "orderId": 190,
+            "descriptionId": "task_31013520",
+            "is_first": 0,
+            "name": "\u91d1\u878d\u5de8\u5934",
+            "level": 10,
+            "nextTaskId": 3101353,
+            "buildingId": 1001009,
+            "rewards_int": 3400.0,
+            "link": 4,
+            "category": 200,
+            "nameId": "task_3101352",
+            "condition_id": 2280,
+            "icon": "icon_3101351"
+        }
+    },
+    {
+        "pk": 3101353,
+        "model": "task.task",
+        "fields": {
+            "orderId": 190,
+            "descriptionId": "task_31013530",
+            "is_first": 0,
+            "name": "\u91d1\u878d\u5de8\u5934",
+            "level": 10,
+            "nextTaskId": 3101354,
+            "buildingId": 1001009,
+            "rewards_int": 3410.0,
+            "link": 4,
+            "category": 200,
+            "nameId": "task_3101353",
+            "condition_id": 2290,
+            "icon": "icon_3101351"
+        }
+    },
+    {
+        "pk": 3101354,
+        "model": "task.task",
+        "fields": {
+            "orderId": 190,
+            "descriptionId": "task_31013540",
+            "is_first": 0,
+            "name": "\u91d1\u878d\u5de8\u5934",
+            "level": 10,
+            "nextTaskId": 3101355,
+            "buildingId": 1001009,
+            "rewards_int": 3420.0,
+            "link": 4,
+            "category": 200,
+            "nameId": "task_3101354",
+            "condition_id": 2300,
+            "icon": "icon_3101351"
+        }
+    },
+    {
+        "pk": 3101355,
+        "model": "task.task",
+        "fields": {
+            "orderId": 190,
+            "descriptionId": "task_31013550",
+            "is_first": 0,
+            "name": "\u91d1\u878d\u5de8\u5934",
+            "level": 10,
+            "nextTaskId": 3101356,
+            "buildingId": 1001009,
+            "rewards_int": 3430.0,
+            "link": 4,
+            "category": 200,
+            "nameId": "task_3101355",
+            "condition_id": 2310,
+            "icon": "icon_3101351"
+        }
+    },
+    {
+        "pk": 3101356,
+        "model": "task.task",
+        "fields": {
+            "orderId": 190,
+            "descriptionId": "task_31013560",
+            "is_first": 0,
+            "name": "\u91d1\u878d\u5de8\u5934",
+            "level": 10,
+            "nextTaskId": 3101357,
+            "buildingId": 1001009,
+            "rewards_int": 3440.0,
+            "link": 4,
+            "category": 200,
+            "nameId": "task_3101356",
+            "condition_id": 2320,
+            "icon": "icon_3101351"
+        }
+    },
+    {
+        "pk": 3101357,
+        "model": "task.task",
+        "fields": {
+            "orderId": 190,
+            "descriptionId": "task_31013570",
+            "is_first": 0,
+            "name": "\u91d1\u878d\u5de8\u5934",
+            "level": 10,
+            "nextTaskId": 3101358,
+            "buildingId": 1001009,
+            "rewards_int": 3450.0,
+            "link": 4,
+            "category": 200,
+            "nameId": "task_3101357",
+            "condition_id": 2330,
+            "icon": "icon_3101351"
+        }
+    },
+    {
+        "pk": 3101358,
+        "model": "task.task",
+        "fields": {
+            "orderId": 190,
+            "descriptionId": "task_31013580",
+            "is_first": 0,
+            "name": "\u91d1\u878d\u5de8\u5934",
+            "level": 10,
+            "nextTaskId": 3101359,
+            "buildingId": 1001009,
+            "rewards_int": 3460.0,
+            "link": 4,
+            "category": 200,
+            "nameId": "task_3101358",
+            "condition_id": 2340,
+            "icon": "icon_3101351"
+        }
+    },
+    {
+        "pk": 3101359,
+        "model": "task.task",
+        "fields": {
+            "orderId": 190,
+            "descriptionId": "task_31013590",
+            "is_first": 0,
+            "name": "\u91d1\u878d\u5de8\u5934",
+            "level": 10,
+            "nextTaskId": 3101360,
+            "buildingId": 1001009,
+            "rewards_int": 3470.0,
+            "link": 4,
+            "category": 200,
+            "nameId": "task_3101359",
+            "condition_id": 2350,
+            "icon": "icon_3101351"
+        }
+    },
+    {
+        "pk": 3101360,
+        "model": "task.task",
+        "fields": {
+            "orderId": 190,
+            "descriptionId": "task_31013600",
+            "is_first": 0,
+            "name": "\u91d1\u878d\u5de8\u5934",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 1001009,
+            "rewards_int": 3480.0,
+            "link": 4,
+            "category": 200,
+            "nameId": "task_3101360",
+            "condition_id": 2360,
+            "icon": "icon_3101351"
+        }
+    },
+    {
+        "pk": 3101501,
+        "model": "task.task",
+        "fields": {
+            "orderId": 220,
+            "descriptionId": "task_31015010",
+            "is_first": 1,
+            "name": "\u6211\u662f\u571f\u8c6a",
+            "level": 10,
+            "nextTaskId": 3101502,
+            "buildingId": 0,
+            "rewards_int": 3490.0,
+            "link": 2,
+            "category": 230,
+            "nameId": "task_3101501",
+            "condition_id": 2470,
+            "icon": "icon_3101501"
+        }
+    },
+    {
+        "pk": 3101502,
+        "model": "task.task",
+        "fields": {
+            "orderId": 220,
+            "descriptionId": "task_31015020",
+            "is_first": 0,
+            "name": "\u6211\u662f\u571f\u8c6a",
+            "level": 10,
+            "nextTaskId": 3101503,
+            "buildingId": 0,
+            "rewards_int": 3500.0,
+            "link": 2,
+            "category": 230,
+            "nameId": "task_3101502",
+            "condition_id": 2480,
+            "icon": "icon_3101501"
+        }
+    },
+    {
+        "pk": 3101503,
+        "model": "task.task",
+        "fields": {
+            "orderId": 220,
+            "descriptionId": "task_31015030",
+            "is_first": 0,
+            "name": "\u6211\u662f\u571f\u8c6a",
+            "level": 10,
+            "nextTaskId": 3101504,
+            "buildingId": 0,
+            "rewards_int": 3510.0,
+            "link": 2,
+            "category": 230,
+            "nameId": "task_3101503",
+            "condition_id": 2490,
+            "icon": "icon_3101501"
+        }
+    },
+    {
+        "pk": 3101504,
+        "model": "task.task",
+        "fields": {
+            "orderId": 220,
+            "descriptionId": "task_31015040",
+            "is_first": 0,
+            "name": "\u6211\u662f\u571f\u8c6a",
+            "level": 10,
+            "nextTaskId": 3101505,
+            "buildingId": 0,
+            "rewards_int": 3520.0,
+            "link": 2,
+            "category": 230,
+            "nameId": "task_3101504",
+            "condition_id": 2500,
+            "icon": "icon_3101501"
+        }
+    },
+    {
+        "pk": 3101505,
+        "model": "task.task",
+        "fields": {
+            "orderId": 220,
+            "descriptionId": "task_31015050",
+            "is_first": 0,
+            "name": "\u6211\u662f\u571f\u8c6a",
+            "level": 10,
+            "nextTaskId": 3101506,
+            "buildingId": 0,
+            "rewards_int": 3530.0,
+            "link": 2,
+            "category": 230,
+            "nameId": "task_3101505",
+            "condition_id": 2510,
+            "icon": "icon_3101501"
+        }
+    },
+    {
+        "pk": 3101506,
+        "model": "task.task",
+        "fields": {
+            "orderId": 220,
+            "descriptionId": "task_31015060",
+            "is_first": 0,
+            "name": "\u6211\u662f\u571f\u8c6a",
+            "level": 10,
+            "nextTaskId": 3101507,
+            "buildingId": 0,
+            "rewards_int": 3540.0,
+            "link": 2,
+            "category": 230,
+            "nameId": "task_3101506",
+            "condition_id": 2520,
+            "icon": "icon_3101501"
+        }
+    },
+    {
+        "pk": 3101507,
+        "model": "task.task",
+        "fields": {
+            "orderId": 220,
+            "descriptionId": "task_31015070",
+            "is_first": 0,
+            "name": "\u6211\u662f\u571f\u8c6a",
+            "level": 10,
+            "nextTaskId": 3101508,
+            "buildingId": 0,
+            "rewards_int": 3550.0,
+            "link": 2,
+            "category": 230,
+            "nameId": "task_3101507",
+            "condition_id": 2530,
+            "icon": "icon_3101501"
+        }
+    },
+    {
+        "pk": 3101508,
+        "model": "task.task",
+        "fields": {
+            "orderId": 220,
+            "descriptionId": "task_31015080",
+            "is_first": 0,
+            "name": "\u6211\u662f\u571f\u8c6a",
+            "level": 10,
+            "nextTaskId": 3101509,
+            "buildingId": 0,
+            "rewards_int": 3560.0,
+            "link": 2,
+            "category": 230,
+            "nameId": "task_3101508",
+            "condition_id": 2540,
+            "icon": "icon_3101501"
+        }
+    },
+    {
+        "pk": 3101509,
+        "model": "task.task",
+        "fields": {
+            "orderId": 220,
+            "descriptionId": "task_31015090",
+            "is_first": 0,
+            "name": "\u6211\u662f\u571f\u8c6a",
+            "level": 10,
+            "nextTaskId": 3101510,
+            "buildingId": 0,
+            "rewards_int": 3570.0,
+            "link": 2,
+            "category": 230,
+            "nameId": "task_3101509",
+            "condition_id": 2550,
+            "icon": "icon_3101501"
+        }
+    },
+    {
+        "pk": 3101510,
+        "model": "task.task",
+        "fields": {
+            "orderId": 220,
+            "descriptionId": "task_31015100",
+            "is_first": 0,
+            "name": "\u6211\u662f\u571f\u8c6a",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 0,
+            "rewards_int": 3580.0,
+            "link": 2,
+            "category": 230,
+            "nameId": "task_3101510",
+            "condition_id": 2560,
+            "icon": "icon_3101501"
+        }
+    },
+    {
+        "pk": 3101751,
+        "model": "task.task",
+        "fields": {
+            "orderId": 270,
+            "descriptionId": "task_31017510",
+            "is_first": 1,
+            "name": "\u90e8\u843d\u4fe1\u4ef0",
+            "level": 10,
+            "nextTaskId": 3101752,
+            "buildingId": 1001006,
+            "rewards_int": 3590.0,
+            "link": 19,
+            "category": 280,
+            "nameId": "task_3101751",
+            "condition_id": 2570,
+            "icon": "icon_3101751"
+        }
+    },
+    {
+        "pk": 3101752,
+        "model": "task.task",
+        "fields": {
+            "orderId": 270,
+            "descriptionId": "task_31017520",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u4fe1\u4ef0",
+            "level": 10,
+            "nextTaskId": 3101753,
+            "buildingId": 1001006,
+            "rewards_int": 3600.0,
+            "link": 19,
+            "category": 280,
+            "nameId": "task_3101752",
+            "condition_id": 2580,
+            "icon": "icon_3101751"
+        }
+    },
+    {
+        "pk": 3101753,
+        "model": "task.task",
+        "fields": {
+            "orderId": 270,
+            "descriptionId": "task_31017530",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u4fe1\u4ef0",
+            "level": 10,
+            "nextTaskId": 3101754,
+            "buildingId": 1001006,
+            "rewards_int": 3610.0,
+            "link": 19,
+            "category": 280,
+            "nameId": "task_3101753",
+            "condition_id": 2590,
+            "icon": "icon_3101751"
+        }
+    },
+    {
+        "pk": 3101754,
+        "model": "task.task",
+        "fields": {
+            "orderId": 270,
+            "descriptionId": "task_31017540",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u4fe1\u4ef0",
+            "level": 10,
+            "nextTaskId": 3101755,
+            "buildingId": 1001006,
+            "rewards_int": 3620.0,
+            "link": 19,
+            "category": 280,
+            "nameId": "task_3101754",
+            "condition_id": 2600,
+            "icon": "icon_3101751"
+        }
+    },
+    {
+        "pk": 3101755,
+        "model": "task.task",
+        "fields": {
+            "orderId": 270,
+            "descriptionId": "task_31017550",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u4fe1\u4ef0",
+            "level": 10,
+            "nextTaskId": 3101756,
+            "buildingId": 1001006,
+            "rewards_int": 3630.0,
+            "link": 19,
+            "category": 280,
+            "nameId": "task_3101755",
+            "condition_id": 2610,
+            "icon": "icon_3101751"
+        }
+    },
+    {
+        "pk": 3101756,
+        "model": "task.task",
+        "fields": {
+            "orderId": 270,
+            "descriptionId": "task_31017560",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u4fe1\u4ef0",
+            "level": 10,
+            "nextTaskId": 3101757,
+            "buildingId": 1001006,
+            "rewards_int": 3640.0,
+            "link": 19,
+            "category": 280,
+            "nameId": "task_3101756",
+            "condition_id": 2620,
+            "icon": "icon_3101751"
+        }
+    },
+    {
+        "pk": 3101757,
+        "model": "task.task",
+        "fields": {
+            "orderId": 270,
+            "descriptionId": "task_31017570",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u4fe1\u4ef0",
+            "level": 10,
+            "nextTaskId": 3101758,
+            "buildingId": 1001006,
+            "rewards_int": 3650.0,
+            "link": 19,
+            "category": 280,
+            "nameId": "task_3101757",
+            "condition_id": 2630,
+            "icon": "icon_3101751"
+        }
+    },
+    {
+        "pk": 3101758,
+        "model": "task.task",
+        "fields": {
+            "orderId": 270,
+            "descriptionId": "task_31017580",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u4fe1\u4ef0",
+            "level": 10,
+            "nextTaskId": 3101759,
+            "buildingId": 1001006,
+            "rewards_int": 3660.0,
+            "link": 19,
+            "category": 280,
+            "nameId": "task_3101758",
+            "condition_id": 2640,
+            "icon": "icon_3101751"
+        }
+    },
+    {
+        "pk": 3101759,
+        "model": "task.task",
+        "fields": {
+            "orderId": 270,
+            "descriptionId": "task_31017590",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u4fe1\u4ef0",
+            "level": 10,
+            "nextTaskId": 3101760,
+            "buildingId": 1001006,
+            "rewards_int": 3670.0,
+            "link": 19,
+            "category": 280,
+            "nameId": "task_3101759",
+            "condition_id": 2650,
+            "icon": "icon_3101751"
+        }
+    },
+    {
+        "pk": 3101760,
+        "model": "task.task",
+        "fields": {
+            "orderId": 270,
+            "descriptionId": "task_31017600",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u4fe1\u4ef0",
+            "level": 10,
+            "nextTaskId": 3101761,
+            "buildingId": 1001006,
+            "rewards_int": 3680.0,
+            "link": 19,
+            "category": 280,
+            "nameId": "task_3101760",
+            "condition_id": 2660,
+            "icon": "icon_3101751"
+        }
+    },
+    {
+        "pk": 3101761,
+        "model": "task.task",
+        "fields": {
+            "orderId": 270,
+            "descriptionId": "task_31017610",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u4fe1\u4ef0",
+            "level": 10,
+            "nextTaskId": 3101762,
+            "buildingId": 1001006,
+            "rewards_int": 3690.0,
+            "link": 19,
+            "category": 280,
+            "nameId": "task_3101761",
+            "condition_id": 2670,
+            "icon": "icon_3101751"
+        }
+    },
+    {
+        "pk": 3101762,
+        "model": "task.task",
+        "fields": {
+            "orderId": 270,
+            "descriptionId": "task_31017620",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u4fe1\u4ef0",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 1001006,
+            "rewards_int": 3700.0,
+            "link": 19,
+            "category": 280,
+            "nameId": "task_3101762",
+            "condition_id": 2680,
+            "icon": "icon_3101751"
+        }
+    },
+    {
+        "pk": 3101801,
+        "model": "task.task",
+        "fields": {
+            "orderId": 290,
+            "descriptionId": "task_31018010",
+            "is_first": 1,
+            "name": "\u4f10\u6728\u8fbe\u4eba",
+            "level": 10,
+            "nextTaskId": 3101802,
+            "buildingId": 1001010,
+            "rewards_int": 3710.0,
+            "link": 4,
+            "category": 290,
+            "nameId": "task_3101801",
+            "condition_id": 2690,
+            "icon": "icon_3101801"
+        }
+    },
+    {
+        "pk": 3101802,
+        "model": "task.task",
+        "fields": {
+            "orderId": 290,
+            "descriptionId": "task_31018020",
+            "is_first": 0,
+            "name": "\u4f10\u6728\u8fbe\u4eba",
+            "level": 10,
+            "nextTaskId": 3101803,
+            "buildingId": 1001010,
+            "rewards_int": 3720.0,
+            "link": 4,
+            "category": 290,
+            "nameId": "task_3101802",
+            "condition_id": 2700,
+            "icon": "icon_3101801"
+        }
+    },
+    {
+        "pk": 3101803,
+        "model": "task.task",
+        "fields": {
+            "orderId": 290,
+            "descriptionId": "task_31018030",
+            "is_first": 0,
+            "name": "\u4f10\u6728\u8fbe\u4eba",
+            "level": 10,
+            "nextTaskId": 3101804,
+            "buildingId": 1001010,
+            "rewards_int": 3730.0,
+            "link": 4,
+            "category": 290,
+            "nameId": "task_3101803",
+            "condition_id": 2710,
+            "icon": "icon_3101801"
+        }
+    },
+    {
+        "pk": 3101804,
+        "model": "task.task",
+        "fields": {
+            "orderId": 290,
+            "descriptionId": "task_31018040",
+            "is_first": 0,
+            "name": "\u4f10\u6728\u8fbe\u4eba",
+            "level": 10,
+            "nextTaskId": 3101805,
+            "buildingId": 1001010,
+            "rewards_int": 3740.0,
+            "link": 4,
+            "category": 290,
+            "nameId": "task_3101804",
+            "condition_id": 2720,
+            "icon": "icon_3101801"
+        }
+    },
+    {
+        "pk": 3101805,
+        "model": "task.task",
+        "fields": {
+            "orderId": 290,
+            "descriptionId": "task_31018050",
+            "is_first": 0,
+            "name": "\u4f10\u6728\u8fbe\u4eba",
+            "level": 10,
+            "nextTaskId": 3101806,
+            "buildingId": 1001010,
+            "rewards_int": 3750.0,
+            "link": 4,
+            "category": 290,
+            "nameId": "task_3101805",
+            "condition_id": 2730,
+            "icon": "icon_3101801"
+        }
+    },
+    {
+        "pk": 3101806,
+        "model": "task.task",
+        "fields": {
+            "orderId": 290,
+            "descriptionId": "task_31018060",
+            "is_first": 0,
+            "name": "\u4f10\u6728\u8fbe\u4eba",
+            "level": 10,
+            "nextTaskId": 3101807,
+            "buildingId": 1001010,
+            "rewards_int": 3760.0,
+            "link": 4,
+            "category": 290,
+            "nameId": "task_3101806",
+            "condition_id": 2740,
+            "icon": "icon_3101801"
+        }
+    },
+    {
+        "pk": 3101807,
+        "model": "task.task",
+        "fields": {
+            "orderId": 290,
+            "descriptionId": "task_31018070",
+            "is_first": 0,
+            "name": "\u4f10\u6728\u8fbe\u4eba",
+            "level": 10,
+            "nextTaskId": 3101808,
+            "buildingId": 1001010,
+            "rewards_int": 3770.0,
+            "link": 4,
+            "category": 290,
+            "nameId": "task_3101807",
+            "condition_id": 2750,
+            "icon": "icon_3101801"
+        }
+    },
+    {
+        "pk": 3101808,
+        "model": "task.task",
+        "fields": {
+            "orderId": 290,
+            "descriptionId": "task_31018080",
+            "is_first": 0,
+            "name": "\u4f10\u6728\u8fbe\u4eba",
+            "level": 10,
+            "nextTaskId": 3101809,
+            "buildingId": 1001010,
+            "rewards_int": 3780.0,
+            "link": 4,
+            "category": 290,
+            "nameId": "task_3101808",
+            "condition_id": 2760,
+            "icon": "icon_3101801"
+        }
+    },
+    {
+        "pk": 3101809,
+        "model": "task.task",
+        "fields": {
+            "orderId": 290,
+            "descriptionId": "task_31018090",
+            "is_first": 0,
+            "name": "\u4f10\u6728\u8fbe\u4eba",
+            "level": 10,
+            "nextTaskId": 3101810,
+            "buildingId": 1001010,
+            "rewards_int": 3790.0,
+            "link": 4,
+            "category": 290,
+            "nameId": "task_3101809",
+            "condition_id": 2770,
+            "icon": "icon_3101801"
+        }
+    },
+    {
+        "pk": 3101810,
+        "model": "task.task",
+        "fields": {
+            "orderId": 290,
+            "descriptionId": "task_31018100",
+            "is_first": 0,
+            "name": "\u4f10\u6728\u8fbe\u4eba",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 1001010,
+            "rewards_int": 3800.0,
+            "link": 4,
+            "category": 290,
+            "nameId": "task_3101810",
+            "condition_id": 2780,
+            "icon": "icon_3101801"
+        }
+    },
+    {
+        "pk": 3101851,
+        "model": "task.task",
+        "fields": {
+            "orderId": 300,
+            "descriptionId": "task_31018510",
+            "is_first": 1,
+            "name": "\u90e8\u843d\u8363\u8000",
+            "level": 10,
+            "nextTaskId": 3101852,
+            "buildingId": 1001001,
+            "rewards_int": "3810,4200",
+            "link": 4,
+            "category": 300,
+            "nameId": "task_3101851",
+            "condition_id": 2790,
+            "icon": "icon_3101851"
+        }
+    },
+    {
+        "pk": 3101852,
+        "model": "task.task",
+        "fields": {
+            "orderId": 300,
+            "descriptionId": "task_31018520",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u8363\u8000",
+            "level": 10,
+            "nextTaskId": 3101853,
+            "buildingId": 1001001,
+            "rewards_int": "3820,4200",
+            "link": 4,
+            "category": 300,
+            "nameId": "task_3101852",
+            "condition_id": 2800,
+            "icon": "icon_3101851"
+        }
+    },
+    {
+        "pk": 3101853,
+        "model": "task.task",
+        "fields": {
+            "orderId": 300,
+            "descriptionId": "task_31018530",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u8363\u8000",
+            "level": 10,
+            "nextTaskId": 3101854,
+            "buildingId": 1001001,
+            "rewards_int": "3830,4200",
+            "link": 4,
+            "category": 300,
+            "nameId": "task_3101853",
+            "condition_id": 2810,
+            "icon": "icon_3101851"
+        }
+    },
+    {
+        "pk": 3101854,
+        "model": "task.task",
+        "fields": {
+            "orderId": 300,
+            "descriptionId": "task_31018540",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u8363\u8000",
+            "level": 10,
+            "nextTaskId": 3101855,
+            "buildingId": 1001001,
+            "rewards_int": "3840,4200",
+            "link": 4,
+            "category": 300,
+            "nameId": "task_3101854",
+            "condition_id": 2820,
+            "icon": "icon_3101851"
+        }
+    },
+    {
+        "pk": 3101855,
+        "model": "task.task",
+        "fields": {
+            "orderId": 300,
+            "descriptionId": "task_31018550",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u8363\u8000",
+            "level": 10,
+            "nextTaskId": 3101856,
+            "buildingId": 1001001,
+            "rewards_int": "3850,4200",
+            "link": 4,
+            "category": 300,
+            "nameId": "task_3101855",
+            "condition_id": 2830,
+            "icon": "icon_3101851"
+        }
+    },
+    {
+        "pk": 3101856,
+        "model": "task.task",
+        "fields": {
+            "orderId": 300,
+            "descriptionId": "task_31018560",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u8363\u8000",
+            "level": 10,
+            "nextTaskId": 3101857,
+            "buildingId": 1001001,
+            "rewards_int": "3860,4200",
+            "link": 4,
+            "category": 300,
+            "nameId": "task_3101856",
+            "condition_id": 2840,
+            "icon": "icon_3101851"
+        }
+    },
+    {
+        "pk": 3101857,
+        "model": "task.task",
+        "fields": {
+            "orderId": 300,
+            "descriptionId": "task_31018570",
+            "is_first": 0,
+            "name": "\u90e8\u843d\u8363\u8000",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 1001001,
+            "rewards_int": "3870,4200",
+            "link": 4,
+            "category": 300,
+            "nameId": "task_3101857",
+            "condition_id": 2850,
+            "icon": "icon_3101851"
+        }
+    },
+    {
+        "pk": 3101901,
+        "model": "task.task",
+        "fields": {
+            "orderId": 310,
+            "descriptionId": "task_31019010",
+            "is_first": 1,
+            "name": "\u7edf\u5fa1\u65f6\u7a7a",
+            "level": 100,
+            "nextTaskId": 3101902,
+            "buildingId": 1001014,
+            "rewards_int": "3880,3980",
+            "link": 1018,
+            "category": 310,
+            "nameId": "task_3101901",
+            "condition_id": 2860,
+            "icon": "icon_3101901"
+        }
+    },
+    {
+        "pk": 3101902,
+        "model": "task.task",
+        "fields": {
+            "orderId": 310,
+            "descriptionId": "task_31019020",
+            "is_first": 0,
+            "name": "\u7edf\u5fa1\u65f6\u7a7a",
+            "level": 10,
+            "nextTaskId": 3101903,
+            "buildingId": 1001014,
+            "rewards_int": "3890,3990",
+            "link": 1018,
+            "category": 310,
+            "nameId": "task_3101902",
+            "condition_id": 2870,
+            "icon": "icon_3101901"
+        }
+    },
+    {
+        "pk": 3101903,
+        "model": "task.task",
+        "fields": {
+            "orderId": 310,
+            "descriptionId": "task_31019030",
+            "is_first": 0,
+            "name": "\u7edf\u5fa1\u65f6\u7a7a",
+            "level": 10,
+            "nextTaskId": 3101904,
+            "buildingId": 1001014,
+            "rewards_int": "3900,4000",
+            "link": 1018,
+            "category": 310,
+            "nameId": "task_3101903",
+            "condition_id": 2880,
+            "icon": "icon_3101901"
+        }
+    },
+    {
+        "pk": 3101904,
+        "model": "task.task",
+        "fields": {
+            "orderId": 310,
+            "descriptionId": "task_31019040",
+            "is_first": 0,
+            "name": "\u7edf\u5fa1\u65f6\u7a7a",
+            "level": 10,
+            "nextTaskId": 3101905,
+            "buildingId": 1001014,
+            "rewards_int": "3910,4010",
+            "link": 1018,
+            "category": 310,
+            "nameId": "task_3101904",
+            "condition_id": 2890,
+            "icon": "icon_3101901"
+        }
+    },
+    {
+        "pk": 3101905,
+        "model": "task.task",
+        "fields": {
+            "orderId": 310,
+            "descriptionId": "task_31019050",
+            "is_first": 0,
+            "name": "\u7edf\u5fa1\u65f6\u7a7a",
+            "level": 10,
+            "nextTaskId": 3101906,
+            "buildingId": 1001014,
+            "rewards_int": "3920,4020",
+            "link": 1018,
+            "category": 310,
+            "nameId": "task_3101905",
+            "condition_id": 2900,
+            "icon": "icon_3101901"
+        }
+    },
+    {
+        "pk": 3101906,
+        "model": "task.task",
+        "fields": {
+            "orderId": 310,
+            "descriptionId": "task_31019060",
+            "is_first": 0,
+            "name": "\u7edf\u5fa1\u65f6\u7a7a",
+            "level": 10,
+            "nextTaskId": 3101907,
+            "buildingId": 1001014,
+            "rewards_int": "3930,4030",
+            "link": 1018,
+            "category": 310,
+            "nameId": "task_3101906",
+            "condition_id": 2910,
+            "icon": "icon_3101901"
+        }
+    },
+    {
+        "pk": 3101907,
+        "model": "task.task",
+        "fields": {
+            "orderId": 310,
+            "descriptionId": "task_31019070",
+            "is_first": 0,
+            "name": "\u7edf\u5fa1\u65f6\u7a7a",
+            "level": 10,
+            "nextTaskId": 3101908,
+            "buildingId": 1001014,
+            "rewards_int": "3940,4040",
+            "link": 1018,
+            "category": 310,
+            "nameId": "task_3101907",
+            "condition_id": 2920,
+            "icon": "icon_3101901"
+        }
+    },
+    {
+        "pk": 3101908,
+        "model": "task.task",
+        "fields": {
+            "orderId": 310,
+            "descriptionId": "task_31019080",
+            "is_first": 0,
+            "name": "\u7edf\u5fa1\u65f6\u7a7a",
+            "level": 10,
+            "nextTaskId": 3101909,
+            "buildingId": 1001014,
+            "rewards_int": "3950,4050",
+            "link": 1018,
+            "category": 310,
+            "nameId": "task_3101908",
+            "condition_id": 2930,
+            "icon": "icon_3101901"
+        }
+    },
+    {
+        "pk": 3101909,
+        "model": "task.task",
+        "fields": {
+            "orderId": 310,
+            "descriptionId": "task_31019090",
+            "is_first": 0,
+            "name": "\u7edf\u5fa1\u65f6\u7a7a",
+            "level": 10,
+            "nextTaskId": 3101910,
+            "buildingId": 1001014,
+            "rewards_int": "3960,4060",
+            "link": 1018,
+            "category": 310,
+            "nameId": "task_3101909",
+            "condition_id": 2940,
+            "icon": "icon_3101901"
+        }
+    },
+    {
+        "pk": 3101910,
+        "model": "task.task",
+        "fields": {
+            "orderId": 310,
+            "descriptionId": "task_31019100",
+            "is_first": 0,
+            "name": "\u7edf\u5fa1\u65f6\u7a7a",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 1001014,
+            "rewards_int": "3970,4070",
+            "link": 1018,
+            "category": 310,
+            "nameId": "task_3101910",
+            "condition_id": 2950,
+            "icon": "icon_3101901"
+        }
+    },
+    {
+        "pk": 3102001,
+        "model": "task.task",
+        "fields": {
+            "orderId": 320,
+            "descriptionId": "task_31020010",
+            "is_first": 1,
+            "name": "\u6218\u65e0\u4e0d\u80dc",
+            "level": 10,
+            "nextTaskId": 3102002,
+            "buildingId": 1001016,
+            "rewards_int": 4080.0,
+            "link": 160,
+            "category": 320,
+            "nameId": "task_3102001",
+            "condition_id": 2960,
+            "icon": "icon_3102001"
+        }
+    },
+    {
+        "pk": 3102002,
+        "model": "task.task",
+        "fields": {
+            "orderId": 320,
+            "descriptionId": "task_31020020",
+            "is_first": 0,
+            "name": "\u6218\u65e0\u4e0d\u80dc",
+            "level": 10,
+            "nextTaskId": 3102003,
+            "buildingId": 1001016,
+            "rewards_int": 4090.0,
+            "link": 160,
+            "category": 320,
+            "nameId": "task_3102002",
+            "condition_id": 2970,
+            "icon": "icon_3102001"
+        }
+    },
+    {
+        "pk": 3102003,
+        "model": "task.task",
+        "fields": {
+            "orderId": 320,
+            "descriptionId": "task_31020030",
+            "is_first": 0,
+            "name": "\u6218\u65e0\u4e0d\u80dc",
+            "level": 10,
+            "nextTaskId": 3102004,
+            "buildingId": 1001016,
+            "rewards_int": 4100.0,
+            "link": 160,
+            "category": 320,
+            "nameId": "task_3102003",
+            "condition_id": 2980,
+            "icon": "icon_3102001"
+        }
+    },
+    {
+        "pk": 3102004,
+        "model": "task.task",
+        "fields": {
+            "orderId": 320,
+            "descriptionId": "task_31020040",
+            "is_first": 0,
+            "name": "\u6218\u65e0\u4e0d\u80dc",
+            "level": 10,
+            "nextTaskId": 3102005,
+            "buildingId": 1001016,
+            "rewards_int": 4110.0,
+            "link": 160,
+            "category": 320,
+            "nameId": "task_3102004",
+            "condition_id": 2990,
+            "icon": "icon_3102001"
+        }
+    },
+    {
+        "pk": 3102005,
+        "model": "task.task",
+        "fields": {
+            "orderId": 320,
+            "descriptionId": "task_31020050",
+            "is_first": 0,
+            "name": "\u6218\u65e0\u4e0d\u80dc",
+            "level": 10,
+            "nextTaskId": 3102006,
+            "buildingId": 1001016,
+            "rewards_int": 4120.0,
+            "link": 160,
+            "category": 320,
+            "nameId": "task_3102005",
+            "condition_id": 3000,
+            "icon": "icon_3102001"
+        }
+    },
+    {
+        "pk": 3102006,
+        "model": "task.task",
+        "fields": {
+            "orderId": 320,
+            "descriptionId": "task_31020060",
+            "is_first": 0,
+            "name": "\u6218\u65e0\u4e0d\u80dc",
+            "level": 10,
+            "nextTaskId": 3102007,
+            "buildingId": 1001016,
+            "rewards_int": 4130.0,
+            "link": 160,
+            "category": 320,
+            "nameId": "task_3102006",
+            "condition_id": 3010,
+            "icon": "icon_3102001"
+        }
+    },
+    {
+        "pk": 3102007,
+        "model": "task.task",
+        "fields": {
+            "orderId": 320,
+            "descriptionId": "task_31020070",
+            "is_first": 0,
+            "name": "\u6218\u65e0\u4e0d\u80dc",
+            "level": 10,
+            "nextTaskId": 3102008,
+            "buildingId": 1001016,
+            "rewards_int": 4140.0,
+            "link": 160,
+            "category": 320,
+            "nameId": "task_3102007",
+            "condition_id": 3020,
+            "icon": "icon_3102001"
+        }
+    },
+    {
+        "pk": 3102008,
+        "model": "task.task",
+        "fields": {
+            "orderId": 320,
+            "descriptionId": "task_31020080",
+            "is_first": 0,
+            "name": "\u6218\u65e0\u4e0d\u80dc",
+            "level": 10,
+            "nextTaskId": 3102009,
+            "buildingId": 1001016,
+            "rewards_int": 4150.0,
+            "link": 160,
+            "category": 320,
+            "nameId": "task_3102008",
+            "condition_id": 3030,
+            "icon": "icon_3102001"
+        }
+    },
+    {
+        "pk": 3102009,
+        "model": "task.task",
+        "fields": {
+            "orderId": 320,
+            "descriptionId": "task_31020090",
+            "is_first": 0,
+            "name": "\u6218\u65e0\u4e0d\u80dc",
+            "level": 10,
+            "nextTaskId": 3102010,
+            "buildingId": 1001016,
+            "rewards_int": 4160.0,
+            "link": 160,
+            "category": 320,
+            "nameId": "task_3102009",
+            "condition_id": 3040,
+            "icon": "icon_3102001"
+        }
+    },
+    {
+        "pk": 3102010,
+        "model": "task.task",
+        "fields": {
+            "orderId": 320,
+            "descriptionId": "task_31020100",
+            "is_first": 0,
+            "name": "\u6218\u65e0\u4e0d\u80dc",
+            "level": 10,
+            "nextTaskId": 0,
+            "buildingId": 1001016,
+            "rewards_int": 4170.0,
+            "link": 160,
+            "category": 320,
+            "nameId": "task_3102010",
+            "condition_id": 3050,
+            "icon": "icon_3102001"
+        }
+    }
+]

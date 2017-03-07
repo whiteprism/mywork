@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+{%block content%}
+<!--下载-->
+<table>
+    <tr>
+        <h3>每次更新请务必先下载最新的string_all.txt或Excel文件!</h3>
+    </tr>
+    <tr>
+        <td>
+        <input type="button" onclick="javascript:window.location.href='{{ xls_url }}'" value="点此下载Excel稳定版本">&nbsp;&nbsp;
+        </td>
+        <td>
+        <input type="button" onclick="javascript:window.location.href='{{ xls_update_url }}'" value="点此下载Excel活跃版本">
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <input type="button" onclick="javascript:window.location.href='{{ string_all_url }}'" value="点此下载txt稳定版本">
+        </td>
+        <td>
+        <input type="button" onclick="javascript:window.location.href='{{ string_update_url }}'" value="点此下载txt活跃版本">
+        </td>
+    </tr>
+</table>
+<br> <br>
+
+ <!--上传-->
+    <form id="upload_file" action="/dyy/mix/" method="POST" enctype="multipart/form-data" >
+        <table>
+            <tr>
+                <b>修改好后请上传至服务器，点击上传按钮后会自动将新的数据提交到前端的git:</b>
+            </tr>
+            <tr>
+                <td> <input id = "upload_file1" name="upload_file" type="file"/> </td>
+                <td> <input id="upload_file2" type="submit" value="上传"> </td>
+            </tr>
+        </table>
+    </form>
+ <br>
+ <br>
+{%endblock%}

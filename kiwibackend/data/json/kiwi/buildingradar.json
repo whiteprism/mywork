@@ -1,0 +1,11 @@
+[
+    {
+        "pk": 100101601,
+        "model": "building.buildingradar",
+        "fields": {
+            "count": 5,
+            "building_id": 1001016,
+            "level": 1
+        }
+    }
+]

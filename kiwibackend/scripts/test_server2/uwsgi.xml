@@ -1,0 +1,14 @@
+<uwsgi>
+  <socket>127.0.0.1:9003</socket>
+  <listen>40</listen>
+  <master>true</master>
+  <pidfile>/tmp/uwsgi_9003.pid</pidfile>
+  <processes>4</processes> 
+  <pythonpath>%d</pythonpath>
+  <module>server</module>
+  <profiler>true</profiler>
+  <memory-report>true</memory-report>
+  <enable-threads>true</enable-threads>
+  <logdate>true</logdate>
+  <daemonize>/tmp/uwsg_test_server2.log</daemonize>
+</uwsgi>

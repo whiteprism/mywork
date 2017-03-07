@@ -1,0 +1,38 @@
+[
+    {
+        "pk": 2,
+        "model": "artifact.artifactfragmentgrabprob",
+        "fields": {
+            "robotProb": 66,
+            "playerProb": 100,
+            "robotTenProbs_int": "10,20,10,10,1,1,1,1,1,1"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "artifact.artifactfragmentgrabprob",
+        "fields": {
+            "robotProb": 44,
+            "playerProb": 70,
+            "robotTenProbs_int": "4,4,4,6,3,3,3,3,3,3"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "artifact.artifactfragmentgrabprob",
+        "fields": {
+            "robotProb": 28,
+            "playerProb": 40,
+            "robotTenProbs_int": "5,5,5,5,10,10,10,10,10,10"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "artifact.artifactfragmentgrabprob",
+        "fields": {
+            "robotProb": 16,
+            "playerProb": 25,
+            "robotTenProbs_int": "1,1,2,2,3,3,4,4,10,10"
+        }
+    }
+]

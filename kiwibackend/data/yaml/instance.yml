@@ -1,0 +1,88 @@
+
+table:
+  out-type: json
+  sheet: 章节
+  row: 3
+  model: instance.instance
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: rewardIds_1_int
+      column: rewardIds_1
+      type: char
+      default: ""
+
+    - name: rewardCounts_1_int
+      column: rewardCounts_1
+      type: char
+      default: ""
+
+    - name: rewardIds_2_int
+      column: rewardIds_2
+      type: char
+      default: ""
+
+    - name: rewardCounts_2_int
+      column: rewardCounts_2
+      type: char
+      default: ""
+
+    - name: rewardIds_3_int
+      column: rewardIds_3
+      type: char
+      default: ""
+
+    - name: rewardCounts_3_int
+      column: rewardCounts_3
+      type: char
+      default: ""
+
+    - name: eliteRewardIds_1_int
+      column: eliteRewardIds_1
+      type: char
+      default: ""
+
+    - name: eliteRewardCounts_1_int
+      column: eliteRewardCounts_1
+      type: char
+      default: ""
+
+    - name: eliteRewardIds_2_int
+      column: eliteRewardIds_2
+      type: char
+      default: ""
+
+    - name: eliteRewardCounts_2_int
+      column: eliteRewardCounts_2
+      type: char
+      default: ""
+
+    - name: eliteRewardIds_3_int
+      column: eliteRewardIds_3
+      type: char
+      default: ""
+
+    - name: eliteRewardCounts_3_int
+      column: eliteRewardCounts_3
+      type: char
+      default: ""
+
+    - name: rewardsId_int
+      column: rewardsId
+      type: char
+      default: ""
+
+    - name: counts_int
+      column: counts
+      type: char
+      default: ""
+
+    - name: probability
+      column: probability
+      type: float
+      default: 0.0
+
+

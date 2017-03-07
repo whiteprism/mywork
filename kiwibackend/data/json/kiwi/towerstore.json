@@ -1,0 +1,1164 @@
+[
+    {
+        "pk": 1001,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 10,
+            "name": "\u6f6e\u6c50\u788e\u7247",
+            "item_id": 2010002,
+            "dailyCount": 5,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "hero_2010002",
+            "display": 1
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 20,
+            "name": "\u5c0f\u5a1c\u8fe6\u788e\u7247",
+            "item_id": 2020004,
+            "dailyCount": 5,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "hero_2020004",
+            "display": 1
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 30,
+            "name": "\u62cd\u62cd\u718a\u788e\u7247",
+            "item_id": 2020007,
+            "dailyCount": 5,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "hero_2020007",
+            "display": 1
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 40,
+            "name": "\u5927\u725b\u788e\u7247",
+            "item_id": 2030003,
+            "dailyCount": 5,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "hero_2030003",
+            "display": 1
+        }
+    },
+    {
+        "pk": 1005,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 50,
+            "name": "\u51b0\u5973\u788e\u7247",
+            "item_id": 2040003,
+            "dailyCount": 5,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "hero_2040003",
+            "display": 1
+        }
+    },
+    {
+        "pk": 1006,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 60,
+            "name": "\u5b99\u65af\u788e\u7247",
+            "item_id": 2040005,
+            "dailyCount": 5,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "hero_2040005",
+            "display": 1
+        }
+    },
+    {
+        "pk": 1007,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 70,
+            "name": "\u75db\u82e6\u5973\u738b\u788e\u7247",
+            "item_id": 2040006,
+            "dailyCount": 5,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "hero_2040006",
+            "display": 1
+        }
+    },
+    {
+        "pk": 1008,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 80,
+            "name": "\u672f\u58eb\u788e\u7247",
+            "item_id": 2050004,
+            "dailyCount": 5,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "hero_2050004",
+            "display": 1
+        }
+    },
+    {
+        "pk": 1009,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 90,
+            "name": "\u6697\u5f71\u7267\u5e08\u788e\u7247",
+            "item_id": 2050005,
+            "dailyCount": 5,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "hero_2050005",
+            "display": 1
+        }
+    },
+    {
+        "pk": 1010,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 100,
+            "name": "\u767d\u864e\u788e\u7247",
+            "item_id": 2060003,
+            "dailyCount": 5,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "hero_2060003",
+            "display": 1
+        }
+    },
+    {
+        "pk": 1011,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 110,
+            "name": "\u706b\u67aa\u788e\u7247",
+            "item_id": 2060005,
+            "dailyCount": 5,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "hero_2060005",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2001,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 120,
+            "name": "\u6012\u706b\u4e4b\u5251",
+            "item_id": 2312101,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2312101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2002,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 130,
+            "name": "\u6012\u706b\u6218\u76d4",
+            "item_id": 2312202,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2312202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2003,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 140,
+            "name": "\u6012\u706b\u80f8\u94e0",
+            "item_id": 2312303,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2312303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2004,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 150,
+            "name": "\u6012\u706b\u817f\u94e0",
+            "item_id": 2312404,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2312404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2005,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 160,
+            "name": "\u591c\u5e55\u4e4b\u5203",
+            "item_id": 2322101,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2322101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2006,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 170,
+            "name": "\u591c\u5e55\u9762\u7f69",
+            "item_id": 2322202,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2322202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2007,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 180,
+            "name": "\u591c\u5e55\u8f6f\u7532",
+            "item_id": 2322303,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2322303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2008,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 190,
+            "name": "\u591c\u5e55\u9a6c\u88e4",
+            "item_id": 2322404,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2322404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2009,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 200,
+            "name": "\u88c1\u51b3\u4e4b\u9524",
+            "item_id": 2332101,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2332101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2010,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 210,
+            "name": "\u88c1\u51b3\u5934\u76d4",
+            "item_id": 2332202,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2332202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2011,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 220,
+            "name": "\u88c1\u51b3\u6218\u7532",
+            "item_id": 2332303,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2332303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2012,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 230,
+            "name": "\u88c1\u51b3\u817f\u94e0",
+            "item_id": 2332404,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2332404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2013,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 240,
+            "name": "\u7075\u52a8\u4e4b\u6756",
+            "item_id": 2342101,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2342101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2014,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 250,
+            "name": "\u7075\u52a8\u5934\u51a0",
+            "item_id": 2342202,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2342202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2015,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 260,
+            "name": "\u7075\u52a8\u957f\u888d",
+            "item_id": 2342303,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2342303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2016,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 270,
+            "name": "\u7075\u52a8\u88f9\u817f",
+            "item_id": 2342404,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2342404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2017,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 280,
+            "name": "\u6bd2\u6db2\u5b88\u62a4\u4e4b\u6756",
+            "item_id": 2352101,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2352101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2018,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 290,
+            "name": "\u6bd2\u6db2\u5b88\u62a4\u9762\u7f69",
+            "item_id": 2352202,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2352202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2019,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 300,
+            "name": "\u6bd2\u6db2\u5b88\u62a4\u6cd5\u8863",
+            "item_id": 2352303,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2352303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2020,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 310,
+            "name": "\u6bd2\u6db2\u5b88\u62a4\u957f\u88e4",
+            "item_id": 2352404,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2352404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2021,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 320,
+            "name": "\u5f3a\u51fb\u706b\u70ae",
+            "item_id": 2362101,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2362101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2022,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 330,
+            "name": "\u5f3a\u51fb\u7fbd\u76d4",
+            "item_id": 2362202,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2362202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2023,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 340,
+            "name": "\u5f3a\u51fb\u9cde\u7532",
+            "item_id": 2362303,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2362303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 2024,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 350,
+            "name": "\u5f3a\u51fb\u62a4\u817f",
+            "item_id": 2362404,
+            "dailyCount": 0,
+            "basePrice": 200,
+            "incrPrice": 0,
+            "nameId": "equip_2362404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3001,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 360,
+            "name": "\u6218\u4e89\u4e4b\u77db\u5de8\u5251",
+            "item_id": 2314101,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2314101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3002,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 370,
+            "name": "\u6218\u4e89\u4e4b\u77db\u6218\u76d4",
+            "item_id": 2314202,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2314202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3003,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 380,
+            "name": "\u6218\u4e89\u4e4b\u77db\u80f8\u94e0",
+            "item_id": 2314303,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2314303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3004,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 390,
+            "name": "\u6218\u4e89\u4e4b\u77db\u817f\u94e0",
+            "item_id": 2314404,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2314404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3005,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 400,
+            "name": "\u6b7b\u5f71\u4e4b\u65a7",
+            "item_id": 2324101,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2324101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3006,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 410,
+            "name": "\u6b7b\u5f71\u9762\u7f69",
+            "item_id": 2324202,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2324202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3007,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 420,
+            "name": "\u6b7b\u5f71\u8f6f\u7532",
+            "item_id": 2324303,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2324303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3008,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 430,
+            "name": "\u6b7b\u5f71\u9a6c\u88e4",
+            "item_id": 2324404,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2324404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3009,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 440,
+            "name": "\u5723\u75d5\u4e4b\u9524",
+            "item_id": 2334101,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2334101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3010,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 450,
+            "name": "\u5723\u75d5\u5934\u76d4",
+            "item_id": 2334202,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2334202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3011,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 460,
+            "name": "\u5723\u75d5\u6218\u7532",
+            "item_id": 2334303,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2334303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3012,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 470,
+            "name": "\u5723\u75d5\u817f\u94e0",
+            "item_id": 2334404,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2334404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3013,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 480,
+            "name": "\u6012\u7130\u4e4b\u6756",
+            "item_id": 2344101,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2344101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3014,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 490,
+            "name": "\u6012\u7130\u5934\u51a0",
+            "item_id": 2344202,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2344202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3015,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 500,
+            "name": "\u6012\u7130\u957f\u888d",
+            "item_id": 2344303,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2344303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3016,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 510,
+            "name": "\u6012\u7130\u88f9\u817f",
+            "item_id": 2344404,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2344404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3017,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 520,
+            "name": "\u6218\u5730\u533b\u8005\u4e4b\u7403",
+            "item_id": 2354101,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2354101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3018,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 530,
+            "name": "\u6218\u5730\u533b\u8005\u9762\u7f69",
+            "item_id": 2354202,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2354202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3019,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 540,
+            "name": "\u6218\u5730\u533b\u8005\u6cd5\u8863",
+            "item_id": 2354303,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2354303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3020,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 550,
+            "name": "\u6218\u5730\u533b\u8005\u957f\u88e4",
+            "item_id": 2354404,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2354404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3021,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 560,
+            "name": "\u5de8\u4eba\u6740\u624b\u706b\u70ae",
+            "item_id": 2364101,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2364101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3022,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 570,
+            "name": "\u5de8\u4eba\u6740\u624b\u7fbd\u76d4",
+            "item_id": 2364202,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2364202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3023,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 580,
+            "name": "\u5de8\u4eba\u6740\u624b\u9cde\u7532",
+            "item_id": 2364303,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2364303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 3024,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 590,
+            "name": "\u5de8\u4eba\u6740\u624b\u62a4\u817f",
+            "item_id": 2364404,
+            "dailyCount": 0,
+            "basePrice": 500,
+            "incrPrice": 0,
+            "nameId": "equip_2364404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4001,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 600,
+            "name": "\u7ea2\u9f99\u4e4b\u5fc3\u5de8\u5251",
+            "item_id": 2317101,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2317101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4002,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 610,
+            "name": "\u7ea2\u9f99\u4e4b\u5fc3\u6218\u76d4",
+            "item_id": 2317202,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2317202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4003,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 620,
+            "name": "\u7ea2\u9f99\u4e4b\u5fc3\u80f8\u94e0",
+            "item_id": 2317303,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2317303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4004,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 630,
+            "name": "\u7ea2\u9f99\u4e4b\u5fc3\u817f\u94e0",
+            "item_id": 2317404,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2317404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4005,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 640,
+            "name": "\u5904\u51b3\u8005\u4e4b\u65a7",
+            "item_id": 2327101,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2327101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4006,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 650,
+            "name": "\u5904\u51b3\u8005\u9762\u7f69",
+            "item_id": 2327202,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2327202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4007,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 660,
+            "name": "\u5904\u51b3\u8005\u8f6f\u7532",
+            "item_id": 2327303,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2327303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4008,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 670,
+            "name": "\u5904\u51b3\u8005\u9a6c\u88e4",
+            "item_id": 2327404,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2327404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4009,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 680,
+            "name": "\u7687\u5bb6\u536b\u58eb\u4e4b\u9524",
+            "item_id": 2337101,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2337101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4010,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 690,
+            "name": "\u7687\u5bb6\u536b\u58eb\u5934\u76d4",
+            "item_id": 2337202,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2337202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4011,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 700,
+            "name": "\u7687\u5bb6\u536b\u58eb\u6218\u7532",
+            "item_id": 2337303,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2337303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4012,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 710,
+            "name": "\u7687\u5bb6\u536b\u58eb\u817f\u94e0",
+            "item_id": 2337404,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2337404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4013,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 720,
+            "name": "\u971c\u6708\u4e4b\u6756",
+            "item_id": 2347101,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2347101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4014,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 730,
+            "name": "\u971c\u6708\u5934\u51a0",
+            "item_id": 2347202,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2347202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4015,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 740,
+            "name": "\u971c\u6708\u957f\u888d",
+            "item_id": 2347303,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2347303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4016,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 750,
+            "name": "\u971c\u6708\u88f9\u817f",
+            "item_id": 2347404,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2347404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4017,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 760,
+            "name": "\u5fc3\u7fbd\u4e4b\u6247",
+            "item_id": 2357101,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2357101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4018,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 770,
+            "name": "\u5fc3\u7fbd\u9762\u7f69",
+            "item_id": 2357202,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2357202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4019,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 780,
+            "name": "\u5fc3\u7fbd\u6cd5\u8863",
+            "item_id": 2357303,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2357303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4020,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 790,
+            "name": "\u5fc3\u7fbd\u957f\u88e4",
+            "item_id": 2357404,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2357404",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4021,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 800,
+            "name": "\u5c60\u9f99\u8005\u706b\u70ae",
+            "item_id": 2367101,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2367101",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4022,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 810,
+            "name": "\u5c60\u9f99\u8005\u7fbd\u76d4",
+            "item_id": 2367202,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2367202",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4023,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 820,
+            "name": "\u5c60\u9f99\u8005\u9cde\u7532",
+            "item_id": 2367303,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2367303",
+            "display": 1
+        }
+    },
+    {
+        "pk": 4024,
+        "model": "item.towerstore",
+        "fields": {
+            "orderId": 830,
+            "name": "\u5c60\u9f99\u8005\u62a4\u817f",
+            "item_id": 2367404,
+            "dailyCount": 0,
+            "basePrice": 1500,
+            "incrPrice": 0,
+            "nameId": "equip_2367404",
+            "display": 1
+        }
+    }
+]

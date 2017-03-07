@@ -1,0 +1,712 @@
+[
+    {
+        "pk": 1110001,
+        "model": "hero.card",
+        "fields": {
+            "career": 1,
+            "equipFates_int": "",
+            "warrior_id": 111000100,
+            "name": "\u65a7\u738b"
+        }
+    },
+    {
+        "pk": 1110002,
+        "model": "hero.card",
+        "fields": {
+            "career": 1,
+            "equipFates_int": "",
+            "warrior_id": 111000200,
+            "name": "\u6f6e\u6c50"
+        }
+    },
+    {
+        "pk": 1110003,
+        "model": "hero.card",
+        "fields": {
+            "career": 1,
+            "equipFates_int": "",
+            "warrior_id": 111000300,
+            "name": "\u6b7b\u9a91"
+        }
+    },
+    {
+        "pk": 1110005,
+        "model": "hero.card",
+        "fields": {
+            "career": 1,
+            "equipFates_int": "",
+            "warrior_id": 111000500,
+            "name": "\u672b\u65e5\u4f7f\u8005"
+        }
+    },
+    {
+        "pk": 1130003,
+        "model": "hero.card",
+        "fields": {
+            "career": 3,
+            "equipFates_int": "",
+            "warrior_id": 113000300,
+            "name": "\u5927\u725b"
+        }
+    },
+    {
+        "pk": 1120002,
+        "model": "hero.card",
+        "fields": {
+            "career": 2,
+            "equipFates_int": "",
+            "warrior_id": 112000200,
+            "name": "\u8239\u957f"
+        }
+    },
+    {
+        "pk": 1120004,
+        "model": "hero.card",
+        "fields": {
+            "career": 2,
+            "equipFates_int": "",
+            "warrior_id": 112000400,
+            "name": "\u5c0f\u5a1c\u8fe6"
+        }
+    },
+    {
+        "pk": 1120005,
+        "model": "hero.card",
+        "fields": {
+            "career": 2,
+            "equipFates_int": "",
+            "warrior_id": 112000500,
+            "name": "\u654c\u6cd5"
+        }
+    },
+    {
+        "pk": 1120006,
+        "model": "hero.card",
+        "fields": {
+            "career": 2,
+            "equipFates_int": "",
+            "warrior_id": 112000600,
+            "name": "\u5251\u5723"
+        }
+    },
+    {
+        "pk": 1120007,
+        "model": "hero.card",
+        "fields": {
+            "career": 2,
+            "equipFates_int": "",
+            "warrior_id": 112000700,
+            "name": "\u62cd\u62cd\u718a"
+        }
+    },
+    {
+        "pk": 1130001,
+        "model": "hero.card",
+        "fields": {
+            "career": 3,
+            "equipFates_int": "",
+            "warrior_id": 113000100,
+            "name": "\u5723\u9a91"
+        }
+    },
+    {
+        "pk": 1140002,
+        "model": "hero.card",
+        "fields": {
+            "career": 4,
+            "equipFates_int": "",
+            "warrior_id": 114000200,
+            "name": "\u6c89\u9ed8"
+        }
+    },
+    {
+        "pk": 1140003,
+        "model": "hero.card",
+        "fields": {
+            "career": 4,
+            "equipFates_int": "",
+            "warrior_id": 114000300,
+            "name": "\u51b0\u5973"
+        }
+    },
+    {
+        "pk": 1140004,
+        "model": "hero.card",
+        "fields": {
+            "career": 4,
+            "equipFates_int": "",
+            "warrior_id": 114000400,
+            "name": "\u706b\u5973"
+        }
+    },
+    {
+        "pk": 1140005,
+        "model": "hero.card",
+        "fields": {
+            "career": 4,
+            "equipFates_int": "",
+            "warrior_id": 114000500,
+            "name": "\u5b99\u65af"
+        }
+    },
+    {
+        "pk": 1140006,
+        "model": "hero.card",
+        "fields": {
+            "career": 4,
+            "equipFates_int": "",
+            "warrior_id": 114000600,
+            "name": "\u75db\u82e6\u5973\u738b"
+        }
+    },
+    {
+        "pk": 1150002,
+        "model": "hero.card",
+        "fields": {
+            "career": 5,
+            "equipFates_int": "",
+            "warrior_id": 115000200,
+            "name": "\u5deb\u5996"
+        }
+    },
+    {
+        "pk": 1150003,
+        "model": "hero.card",
+        "fields": {
+            "career": 5,
+            "equipFates_int": "",
+            "warrior_id": 115000300,
+            "name": "\u5c0f\u9e7f"
+        }
+    },
+    {
+        "pk": 1150004,
+        "model": "hero.card",
+        "fields": {
+            "career": 5,
+            "equipFates_int": "",
+            "warrior_id": 115000400,
+            "name": "\u672f\u58eb"
+        }
+    },
+    {
+        "pk": 1150005,
+        "model": "hero.card",
+        "fields": {
+            "career": 5,
+            "equipFates_int": "",
+            "warrior_id": 115000500,
+            "name": "\u6697\u5f71\u7267\u5e08"
+        }
+    },
+    {
+        "pk": 1160001,
+        "model": "hero.card",
+        "fields": {
+            "career": 6,
+            "equipFates_int": "",
+            "warrior_id": 116000100,
+            "name": "\u5f71\u9b54"
+        }
+    },
+    {
+        "pk": 1160002,
+        "model": "hero.card",
+        "fields": {
+            "career": 6,
+            "equipFates_int": "",
+            "warrior_id": 116000200,
+            "name": "\u98ce\u884c"
+        }
+    },
+    {
+        "pk": 1160003,
+        "model": "hero.card",
+        "fields": {
+            "career": 6,
+            "equipFates_int": "",
+            "warrior_id": 116000300,
+            "name": "\u767d\u864e"
+        }
+    },
+    {
+        "pk": 1160004,
+        "model": "hero.card",
+        "fields": {
+            "career": 6,
+            "equipFates_int": "",
+            "warrior_id": 116000400,
+            "name": "\u5c0f\u9ed1"
+        }
+    },
+    {
+        "pk": 1160005,
+        "model": "hero.card",
+        "fields": {
+            "career": 6,
+            "equipFates_int": "",
+            "warrior_id": 116000500,
+            "name": "\u706b\u67aa"
+        }
+    },
+    {
+        "pk": 1140007,
+        "model": "hero.card",
+        "fields": {
+            "career": 4,
+            "equipFates_int": "",
+            "warrior_id": 114000700,
+            "name": "\u8428\u5c14"
+        }
+    },
+    {
+        "pk": 1160007,
+        "model": "hero.card",
+        "fields": {
+            "career": 6,
+            "equipFates_int": "",
+            "warrior_id": 116000700,
+            "name": "\u523a\u86c7"
+        }
+    },
+    {
+        "pk": 1120008,
+        "model": "hero.card",
+        "fields": {
+            "career": 2,
+            "equipFates_int": "",
+            "warrior_id": 112000800,
+            "name": "\u6697\u5802"
+        }
+    },
+    {
+        "pk": 1900001,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190000100,
+            "name": "\u725b\u5934\u4eba\u6218\u58eb"
+        }
+    },
+    {
+        "pk": 1900002,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190000200,
+            "name": "\u517d\u4eba\u6b65\u5175"
+        }
+    },
+    {
+        "pk": 1900003,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190000300,
+            "name": "\u517d\u4eba\u5deb\u5e08"
+        }
+    },
+    {
+        "pk": 1900004,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190000400,
+            "name": "\u517d\u4eba\u8428\u6ee1"
+        }
+    },
+    {
+        "pk": 1900005,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190000500,
+            "name": "\u5de8\u9b54\u730e\u5934\u8005"
+        }
+    },
+    {
+        "pk": 1900006,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190000600,
+            "name": "\u5de8\u9b54\u5deb\u533b"
+        }
+    },
+    {
+        "pk": 1900007,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190000700,
+            "name": "\u5730\u7cbe\u5de5\u7a0b\u5e08"
+        }
+    },
+    {
+        "pk": 1900008,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190000800,
+            "name": "\u5730\u7cbe\u70b8\u5f39\u4eba"
+        }
+    },
+    {
+        "pk": 1900009,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190000900,
+            "name": "\u5730\u7cbe\u6295\u77f3\u8f66"
+        }
+    },
+    {
+        "pk": 1904001,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190400100,
+            "name": "\u9632\u5fa1\u5854"
+        }
+    },
+    {
+        "pk": 1905001,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190500100,
+            "name": "\u9677\u9631"
+        }
+    },
+    {
+        "pk": 1906001,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190600100,
+            "name": "\u7262\u72f1"
+        }
+    },
+    {
+        "pk": 1909001,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190900100,
+            "name": "\u6d4b\u8bd5\u5c0f\u5175"
+        }
+    },
+    {
+        "pk": 1903001,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190300100,
+            "name": "\u57ce\u5899"
+        }
+    },
+    {
+        "pk": 1911001,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191100100,
+            "name": "\u90e8\u843d\u8981\u585e"
+        }
+    },
+    {
+        "pk": 1911002,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191100200,
+            "name": "\u53ec\u5524\u796d\u575b"
+        }
+    },
+    {
+        "pk": 1911003,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191100300,
+            "name": "\u82f1\u96c4\u796d\u575b"
+        }
+    },
+    {
+        "pk": 1911004,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191100400,
+            "name": "\u94c1\u5320\u94fa"
+        }
+    },
+    {
+        "pk": 1911005,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191100500,
+            "name": "\u89d2\u6597\u573a"
+        }
+    },
+    {
+        "pk": 1911006,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191100600,
+            "name": "\u5148\u7956\u796d\u575b"
+        }
+    },
+    {
+        "pk": 1911007,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191100700,
+            "name": "\u5730\u5821"
+        }
+    },
+    {
+        "pk": 1911008,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191100800,
+            "name": "\u4fdd\u9669\u5e93"
+        }
+    },
+    {
+        "pk": 1911009,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191100900,
+            "name": "\u91d1\u77ff"
+        }
+    },
+    {
+        "pk": 1911010,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191101000,
+            "name": "\u4f10\u6728\u573a"
+        }
+    },
+    {
+        "pk": 1911011,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191101100,
+            "name": "\u90e8\u843d\u5175\u8425"
+        }
+    },
+    {
+        "pk": 1911012,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191101200,
+            "name": "\u6218\u4e89\u56fe\u817e"
+        }
+    },
+    {
+        "pk": 1911013,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191101300,
+            "name": "\u4e0a\u53e4\u9057\u8ff9"
+        }
+    },
+    {
+        "pk": 1911014,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191101400,
+            "name": "\u65f6\u7a7a\u4e4b\u95e8"
+        }
+    },
+    {
+        "pk": 1911015,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191101500,
+            "name": "\u5730\u7cbe\u5b9e\u9a8c\u5ba4"
+        }
+    },
+    {
+        "pk": 1912001,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191200100,
+            "name": "\u9632\u5fa1\u58541"
+        }
+    },
+    {
+        "pk": 1912002,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191200200,
+            "name": "\u9632\u5fa1\u58542"
+        }
+    },
+    {
+        "pk": 1912003,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191200300,
+            "name": "\u9632\u5fa1\u58543"
+        }
+    },
+    {
+        "pk": 1911016,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 191101600,
+            "name": "\u96f7\u8fbe"
+        }
+    },
+    {
+        "pk": 1907001,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190700100,
+            "name": "\u6728\u6876"
+        }
+    },
+    {
+        "pk": 1907002,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190700200,
+            "name": "\u6728\u7bb1"
+        }
+    },
+    {
+        "pk": 1907003,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190700300,
+            "name": "\u7f50\u5b50"
+        }
+    },
+    {
+        "pk": 1907004,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190700400,
+            "name": "\u67af\u6811"
+        }
+    },
+    {
+        "pk": 1902031,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190203100,
+            "name": "\u653b\u57ce\u8f66"
+        }
+    },
+    {
+        "pk": 1902041,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190204100,
+            "name": "\u5b88\u57ce\u5175"
+        }
+    },
+    {
+        "pk": 1902051,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190205100,
+            "name": "\u65b0\u624b\u5f15\u5bfc\u5b88\u57ce\u5175"
+        }
+    },
+    {
+        "pk": 1170001,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 117000100,
+            "name": "\u5927\u9b54\u738b"
+        }
+    },
+    {
+        "pk": 1908001,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190800100,
+            "name": "\u6d4b\u8bd5\u5b9d\u7bb1"
+        }
+    },
+    {
+        "pk": 1908002,
+        "model": "hero.card",
+        "fields": {
+            "career": 0,
+            "equipFates_int": "",
+            "warrior_id": 190800200,
+            "name": "\u6d4b\u8bd5\u6c34\u6676"
+        }
+    }
+]

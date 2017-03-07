@@ -1,0 +1,2882 @@
+[
+    {
+        "pk": 1001,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1001,1101",
+            "level": 1,
+            "teamId": 1,
+            "score": 500,
+            "attrList_int": "101,201,301,401",
+            "nextLevelId": 1002
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1002,1102",
+            "level": 2,
+            "teamId": 1,
+            "score": 800,
+            "attrList_int": "102,202,302,402",
+            "nextLevelId": 1003
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1003,1103",
+            "level": 3,
+            "teamId": 1,
+            "score": 1100,
+            "attrList_int": "103,203,303,403",
+            "nextLevelId": 1004
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1004,1104",
+            "level": 4,
+            "teamId": 1,
+            "score": 1400,
+            "attrList_int": "104,204,304,404",
+            "nextLevelId": 1005
+        }
+    },
+    {
+        "pk": 1005,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1005,1105",
+            "level": 5,
+            "teamId": 1,
+            "score": 1700,
+            "attrList_int": "105,205,305,405",
+            "nextLevelId": 1006
+        }
+    },
+    {
+        "pk": 1006,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1006,1106",
+            "level": 6,
+            "teamId": 1,
+            "score": 2000,
+            "attrList_int": "106,206,306,406",
+            "nextLevelId": 1007
+        }
+    },
+    {
+        "pk": 1007,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1007,1107",
+            "level": 7,
+            "teamId": 1,
+            "score": 2300,
+            "attrList_int": "107,207,307,407",
+            "nextLevelId": 1008
+        }
+    },
+    {
+        "pk": 1008,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1008,1108",
+            "level": 8,
+            "teamId": 1,
+            "score": 2600,
+            "attrList_int": "108,208,308,408",
+            "nextLevelId": 1009
+        }
+    },
+    {
+        "pk": 1009,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1009,1109",
+            "level": 9,
+            "teamId": 1,
+            "score": 3200,
+            "attrList_int": "109,209,309,409",
+            "nextLevelId": 1010
+        }
+    },
+    {
+        "pk": 1010,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1010,1110",
+            "level": 10,
+            "teamId": 1,
+            "score": 3900,
+            "attrList_int": "110,210,310,410",
+            "nextLevelId": 1011
+        }
+    },
+    {
+        "pk": 1011,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1011,1111",
+            "level": 11,
+            "teamId": 1,
+            "score": 4700,
+            "attrList_int": "111,211,311,411",
+            "nextLevelId": 1012
+        }
+    },
+    {
+        "pk": 1012,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1012,1112",
+            "level": 12,
+            "teamId": 1,
+            "score": 5600,
+            "attrList_int": "112,212,312,412",
+            "nextLevelId": 1013
+        }
+    },
+    {
+        "pk": 1013,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1013,1113",
+            "level": 13,
+            "teamId": 1,
+            "score": 6600,
+            "attrList_int": "113,213,313,413",
+            "nextLevelId": 1014
+        }
+    },
+    {
+        "pk": 1014,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1014,1114",
+            "level": 14,
+            "teamId": 1,
+            "score": 7700,
+            "attrList_int": "114,214,314,414",
+            "nextLevelId": 1015
+        }
+    },
+    {
+        "pk": 1015,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1015,1115",
+            "level": 15,
+            "teamId": 1,
+            "score": 9000,
+            "attrList_int": "115,215,315,415",
+            "nextLevelId": 1016
+        }
+    },
+    {
+        "pk": 1016,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1016,1116",
+            "level": 16,
+            "teamId": 1,
+            "score": 10500,
+            "attrList_int": "116,216,316,416",
+            "nextLevelId": 1017
+        }
+    },
+    {
+        "pk": 1017,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1017,1117",
+            "level": 17,
+            "teamId": 1,
+            "score": 12500,
+            "attrList_int": "117,217,317,417",
+            "nextLevelId": 1018
+        }
+    },
+    {
+        "pk": 1018,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1018,1118",
+            "level": 18,
+            "teamId": 1,
+            "score": 14500,
+            "attrList_int": "118,218,318,418",
+            "nextLevelId": 1019
+        }
+    },
+    {
+        "pk": 1019,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1019,1119",
+            "level": 19,
+            "teamId": 1,
+            "score": 16500,
+            "attrList_int": "119,219,319,419",
+            "nextLevelId": 1020
+        }
+    },
+    {
+        "pk": 1020,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1020,1120",
+            "level": 20,
+            "teamId": 1,
+            "score": 0,
+            "attrList_int": "120,220,320,420",
+            "nextLevelId": 0
+        }
+    },
+    {
+        "pk": 2001,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1001,1101",
+            "level": 1,
+            "teamId": 2,
+            "score": 500,
+            "attrList_int": "101,201,301,401",
+            "nextLevelId": 2002
+        }
+    },
+    {
+        "pk": 2002,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1002,1102",
+            "level": 2,
+            "teamId": 2,
+            "score": 800,
+            "attrList_int": "102,202,302,402",
+            "nextLevelId": 2003
+        }
+    },
+    {
+        "pk": 2003,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1003,1103",
+            "level": 3,
+            "teamId": 2,
+            "score": 1100,
+            "attrList_int": "103,203,303,403",
+            "nextLevelId": 2004
+        }
+    },
+    {
+        "pk": 2004,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1004,1104",
+            "level": 4,
+            "teamId": 2,
+            "score": 1400,
+            "attrList_int": "104,204,304,404",
+            "nextLevelId": 2005
+        }
+    },
+    {
+        "pk": 2005,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1005,1105",
+            "level": 5,
+            "teamId": 2,
+            "score": 1700,
+            "attrList_int": "105,205,305,405",
+            "nextLevelId": 2006
+        }
+    },
+    {
+        "pk": 2006,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1006,1106",
+            "level": 6,
+            "teamId": 2,
+            "score": 2000,
+            "attrList_int": "106,206,306,406",
+            "nextLevelId": 2007
+        }
+    },
+    {
+        "pk": 2007,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1007,1107",
+            "level": 7,
+            "teamId": 2,
+            "score": 2300,
+            "attrList_int": "107,207,307,407",
+            "nextLevelId": 2008
+        }
+    },
+    {
+        "pk": 2008,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1008,1108",
+            "level": 8,
+            "teamId": 2,
+            "score": 2600,
+            "attrList_int": "108,208,308,408",
+            "nextLevelId": 2009
+        }
+    },
+    {
+        "pk": 2009,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1009,1109",
+            "level": 9,
+            "teamId": 2,
+            "score": 3200,
+            "attrList_int": "109,209,309,409",
+            "nextLevelId": 2010
+        }
+    },
+    {
+        "pk": 2010,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1010,1110",
+            "level": 10,
+            "teamId": 2,
+            "score": 3900,
+            "attrList_int": "110,210,310,410",
+            "nextLevelId": 2011
+        }
+    },
+    {
+        "pk": 2011,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1011,1111",
+            "level": 11,
+            "teamId": 2,
+            "score": 4700,
+            "attrList_int": "111,211,311,411",
+            "nextLevelId": 2012
+        }
+    },
+    {
+        "pk": 2012,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1012,1112",
+            "level": 12,
+            "teamId": 2,
+            "score": 5600,
+            "attrList_int": "112,212,312,412",
+            "nextLevelId": 2013
+        }
+    },
+    {
+        "pk": 2013,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1013,1113",
+            "level": 13,
+            "teamId": 2,
+            "score": 6600,
+            "attrList_int": "113,213,313,413",
+            "nextLevelId": 2014
+        }
+    },
+    {
+        "pk": 2014,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1014,1114",
+            "level": 14,
+            "teamId": 2,
+            "score": 7700,
+            "attrList_int": "114,214,314,414",
+            "nextLevelId": 2015
+        }
+    },
+    {
+        "pk": 2015,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1015,1115",
+            "level": 15,
+            "teamId": 2,
+            "score": 9000,
+            "attrList_int": "115,215,315,415",
+            "nextLevelId": 2016
+        }
+    },
+    {
+        "pk": 2016,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1016,1116",
+            "level": 16,
+            "teamId": 2,
+            "score": 10500,
+            "attrList_int": "116,216,316,416",
+            "nextLevelId": 2017
+        }
+    },
+    {
+        "pk": 2017,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1017,1117",
+            "level": 17,
+            "teamId": 2,
+            "score": 12500,
+            "attrList_int": "117,217,317,417",
+            "nextLevelId": 2018
+        }
+    },
+    {
+        "pk": 2018,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1018,1118",
+            "level": 18,
+            "teamId": 2,
+            "score": 14500,
+            "attrList_int": "118,218,318,418",
+            "nextLevelId": 2019
+        }
+    },
+    {
+        "pk": 2019,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1019,1119",
+            "level": 19,
+            "teamId": 2,
+            "score": 16500,
+            "attrList_int": "119,219,319,419",
+            "nextLevelId": 2020
+        }
+    },
+    {
+        "pk": 2020,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1020,1120",
+            "level": 20,
+            "teamId": 2,
+            "score": 0,
+            "attrList_int": "120,220,320,420",
+            "nextLevelId": 0
+        }
+    },
+    {
+        "pk": 3001,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1001,1101",
+            "level": 1,
+            "teamId": 3,
+            "score": 500,
+            "attrList_int": "101,201,301,401",
+            "nextLevelId": 3002
+        }
+    },
+    {
+        "pk": 3002,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1002,1102",
+            "level": 2,
+            "teamId": 3,
+            "score": 800,
+            "attrList_int": "102,202,302,402",
+            "nextLevelId": 3003
+        }
+    },
+    {
+        "pk": 3003,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1003,1103",
+            "level": 3,
+            "teamId": 3,
+            "score": 1100,
+            "attrList_int": "103,203,303,403",
+            "nextLevelId": 3004
+        }
+    },
+    {
+        "pk": 3004,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1004,1104",
+            "level": 4,
+            "teamId": 3,
+            "score": 1400,
+            "attrList_int": "104,204,304,404",
+            "nextLevelId": 3005
+        }
+    },
+    {
+        "pk": 3005,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1005,1105",
+            "level": 5,
+            "teamId": 3,
+            "score": 1700,
+            "attrList_int": "105,205,305,405",
+            "nextLevelId": 3006
+        }
+    },
+    {
+        "pk": 3006,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1006,1106",
+            "level": 6,
+            "teamId": 3,
+            "score": 2000,
+            "attrList_int": "106,206,306,406",
+            "nextLevelId": 3007
+        }
+    },
+    {
+        "pk": 3007,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1007,1107",
+            "level": 7,
+            "teamId": 3,
+            "score": 2300,
+            "attrList_int": "107,207,307,407",
+            "nextLevelId": 3008
+        }
+    },
+    {
+        "pk": 3008,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1008,1108",
+            "level": 8,
+            "teamId": 3,
+            "score": 2600,
+            "attrList_int": "108,208,308,408",
+            "nextLevelId": 3009
+        }
+    },
+    {
+        "pk": 3009,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1009,1109",
+            "level": 9,
+            "teamId": 3,
+            "score": 3200,
+            "attrList_int": "109,209,309,409",
+            "nextLevelId": 3010
+        }
+    },
+    {
+        "pk": 3010,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1010,1110",
+            "level": 10,
+            "teamId": 3,
+            "score": 3900,
+            "attrList_int": "110,210,310,410",
+            "nextLevelId": 3011
+        }
+    },
+    {
+        "pk": 3011,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1011,1111",
+            "level": 11,
+            "teamId": 3,
+            "score": 4700,
+            "attrList_int": "111,211,311,411",
+            "nextLevelId": 3012
+        }
+    },
+    {
+        "pk": 3012,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1012,1112",
+            "level": 12,
+            "teamId": 3,
+            "score": 5600,
+            "attrList_int": "112,212,312,412",
+            "nextLevelId": 3013
+        }
+    },
+    {
+        "pk": 3013,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1013,1113",
+            "level": 13,
+            "teamId": 3,
+            "score": 6600,
+            "attrList_int": "113,213,313,413",
+            "nextLevelId": 3014
+        }
+    },
+    {
+        "pk": 3014,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1014,1114",
+            "level": 14,
+            "teamId": 3,
+            "score": 7700,
+            "attrList_int": "114,214,314,414",
+            "nextLevelId": 3015
+        }
+    },
+    {
+        "pk": 3015,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1015,1115",
+            "level": 15,
+            "teamId": 3,
+            "score": 9000,
+            "attrList_int": "115,215,315,415",
+            "nextLevelId": 3016
+        }
+    },
+    {
+        "pk": 3016,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1016,1116",
+            "level": 16,
+            "teamId": 3,
+            "score": 10500,
+            "attrList_int": "116,216,316,416",
+            "nextLevelId": 3017
+        }
+    },
+    {
+        "pk": 3017,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1017,1117",
+            "level": 17,
+            "teamId": 3,
+            "score": 12500,
+            "attrList_int": "117,217,317,417",
+            "nextLevelId": 3018
+        }
+    },
+    {
+        "pk": 3018,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1018,1118",
+            "level": 18,
+            "teamId": 3,
+            "score": 14500,
+            "attrList_int": "118,218,318,418",
+            "nextLevelId": 3019
+        }
+    },
+    {
+        "pk": 3019,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1019,1119",
+            "level": 19,
+            "teamId": 3,
+            "score": 16500,
+            "attrList_int": "119,219,319,419",
+            "nextLevelId": 3020
+        }
+    },
+    {
+        "pk": 3020,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1020,1120",
+            "level": 20,
+            "teamId": 3,
+            "score": 0,
+            "attrList_int": "120,220,320,420",
+            "nextLevelId": 0
+        }
+    },
+    {
+        "pk": 4001,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1001,1101",
+            "level": 1,
+            "teamId": 4,
+            "score": 500,
+            "attrList_int": "101,201,301,401",
+            "nextLevelId": 4002
+        }
+    },
+    {
+        "pk": 4002,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1002,1102",
+            "level": 2,
+            "teamId": 4,
+            "score": 800,
+            "attrList_int": "102,202,302,402",
+            "nextLevelId": 4003
+        }
+    },
+    {
+        "pk": 4003,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1003,1103",
+            "level": 3,
+            "teamId": 4,
+            "score": 1100,
+            "attrList_int": "103,203,303,403",
+            "nextLevelId": 4004
+        }
+    },
+    {
+        "pk": 4004,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1004,1104",
+            "level": 4,
+            "teamId": 4,
+            "score": 1400,
+            "attrList_int": "104,204,304,404",
+            "nextLevelId": 4005
+        }
+    },
+    {
+        "pk": 4005,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1005,1105",
+            "level": 5,
+            "teamId": 4,
+            "score": 1700,
+            "attrList_int": "105,205,305,405",
+            "nextLevelId": 4006
+        }
+    },
+    {
+        "pk": 4006,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1006,1106",
+            "level": 6,
+            "teamId": 4,
+            "score": 2000,
+            "attrList_int": "106,206,306,406",
+            "nextLevelId": 4007
+        }
+    },
+    {
+        "pk": 4007,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1007,1107",
+            "level": 7,
+            "teamId": 4,
+            "score": 2300,
+            "attrList_int": "107,207,307,407",
+            "nextLevelId": 4008
+        }
+    },
+    {
+        "pk": 4008,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1008,1108",
+            "level": 8,
+            "teamId": 4,
+            "score": 2600,
+            "attrList_int": "108,208,308,408",
+            "nextLevelId": 4009
+        }
+    },
+    {
+        "pk": 4009,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1009,1109",
+            "level": 9,
+            "teamId": 4,
+            "score": 3200,
+            "attrList_int": "109,209,309,409",
+            "nextLevelId": 4010
+        }
+    },
+    {
+        "pk": 4010,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1010,1110",
+            "level": 10,
+            "teamId": 4,
+            "score": 3900,
+            "attrList_int": "110,210,310,410",
+            "nextLevelId": 4011
+        }
+    },
+    {
+        "pk": 4011,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1011,1111",
+            "level": 11,
+            "teamId": 4,
+            "score": 4700,
+            "attrList_int": "111,211,311,411",
+            "nextLevelId": 4012
+        }
+    },
+    {
+        "pk": 4012,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1012,1112",
+            "level": 12,
+            "teamId": 4,
+            "score": 5600,
+            "attrList_int": "112,212,312,412",
+            "nextLevelId": 4013
+        }
+    },
+    {
+        "pk": 4013,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1013,1113",
+            "level": 13,
+            "teamId": 4,
+            "score": 6600,
+            "attrList_int": "113,213,313,413",
+            "nextLevelId": 4014
+        }
+    },
+    {
+        "pk": 4014,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1014,1114",
+            "level": 14,
+            "teamId": 4,
+            "score": 7700,
+            "attrList_int": "114,214,314,414",
+            "nextLevelId": 4015
+        }
+    },
+    {
+        "pk": 4015,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1015,1115",
+            "level": 15,
+            "teamId": 4,
+            "score": 9000,
+            "attrList_int": "115,215,315,415",
+            "nextLevelId": 4016
+        }
+    },
+    {
+        "pk": 4016,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1016,1116",
+            "level": 16,
+            "teamId": 4,
+            "score": 10500,
+            "attrList_int": "116,216,316,416",
+            "nextLevelId": 4017
+        }
+    },
+    {
+        "pk": 4017,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1017,1117",
+            "level": 17,
+            "teamId": 4,
+            "score": 12500,
+            "attrList_int": "117,217,317,417",
+            "nextLevelId": 4018
+        }
+    },
+    {
+        "pk": 4018,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1018,1118",
+            "level": 18,
+            "teamId": 4,
+            "score": 14500,
+            "attrList_int": "118,218,318,418",
+            "nextLevelId": 4019
+        }
+    },
+    {
+        "pk": 4019,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1019,1119",
+            "level": 19,
+            "teamId": 4,
+            "score": 16500,
+            "attrList_int": "119,219,319,419",
+            "nextLevelId": 4020
+        }
+    },
+    {
+        "pk": 4020,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1020,1120",
+            "level": 20,
+            "teamId": 4,
+            "score": 0,
+            "attrList_int": "120,220,320,420",
+            "nextLevelId": 0
+        }
+    },
+    {
+        "pk": 5001,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1001,1101",
+            "level": 1,
+            "teamId": 5,
+            "score": 500,
+            "attrList_int": "101,201,301,401",
+            "nextLevelId": 5002
+        }
+    },
+    {
+        "pk": 5002,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1002,1102",
+            "level": 2,
+            "teamId": 5,
+            "score": 800,
+            "attrList_int": "102,202,302,402",
+            "nextLevelId": 5003
+        }
+    },
+    {
+        "pk": 5003,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1003,1103",
+            "level": 3,
+            "teamId": 5,
+            "score": 1100,
+            "attrList_int": "103,203,303,403",
+            "nextLevelId": 5004
+        }
+    },
+    {
+        "pk": 5004,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1004,1104",
+            "level": 4,
+            "teamId": 5,
+            "score": 1400,
+            "attrList_int": "104,204,304,404",
+            "nextLevelId": 5005
+        }
+    },
+    {
+        "pk": 5005,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1005,1105",
+            "level": 5,
+            "teamId": 5,
+            "score": 1700,
+            "attrList_int": "105,205,305,405",
+            "nextLevelId": 5006
+        }
+    },
+    {
+        "pk": 5006,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1006,1106",
+            "level": 6,
+            "teamId": 5,
+            "score": 2000,
+            "attrList_int": "106,206,306,406",
+            "nextLevelId": 5007
+        }
+    },
+    {
+        "pk": 5007,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1007,1107",
+            "level": 7,
+            "teamId": 5,
+            "score": 2300,
+            "attrList_int": "107,207,307,407",
+            "nextLevelId": 5008
+        }
+    },
+    {
+        "pk": 5008,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1008,1108",
+            "level": 8,
+            "teamId": 5,
+            "score": 2600,
+            "attrList_int": "108,208,308,408",
+            "nextLevelId": 5009
+        }
+    },
+    {
+        "pk": 5009,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1009,1109",
+            "level": 9,
+            "teamId": 5,
+            "score": 3200,
+            "attrList_int": "109,209,309,409",
+            "nextLevelId": 5010
+        }
+    },
+    {
+        "pk": 5010,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1010,1110",
+            "level": 10,
+            "teamId": 5,
+            "score": 3900,
+            "attrList_int": "110,210,310,410",
+            "nextLevelId": 5011
+        }
+    },
+    {
+        "pk": 5011,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1011,1111",
+            "level": 11,
+            "teamId": 5,
+            "score": 4700,
+            "attrList_int": "111,211,311,411",
+            "nextLevelId": 5012
+        }
+    },
+    {
+        "pk": 5012,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1012,1112",
+            "level": 12,
+            "teamId": 5,
+            "score": 5600,
+            "attrList_int": "112,212,312,412",
+            "nextLevelId": 5013
+        }
+    },
+    {
+        "pk": 5013,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1013,1113",
+            "level": 13,
+            "teamId": 5,
+            "score": 6600,
+            "attrList_int": "113,213,313,413",
+            "nextLevelId": 5014
+        }
+    },
+    {
+        "pk": 5014,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1014,1114",
+            "level": 14,
+            "teamId": 5,
+            "score": 7700,
+            "attrList_int": "114,214,314,414",
+            "nextLevelId": 5015
+        }
+    },
+    {
+        "pk": 5015,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1015,1115",
+            "level": 15,
+            "teamId": 5,
+            "score": 9000,
+            "attrList_int": "115,215,315,415",
+            "nextLevelId": 5016
+        }
+    },
+    {
+        "pk": 5016,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1016,1116",
+            "level": 16,
+            "teamId": 5,
+            "score": 10500,
+            "attrList_int": "116,216,316,416",
+            "nextLevelId": 5017
+        }
+    },
+    {
+        "pk": 5017,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1017,1117",
+            "level": 17,
+            "teamId": 5,
+            "score": 12500,
+            "attrList_int": "117,217,317,417",
+            "nextLevelId": 5018
+        }
+    },
+    {
+        "pk": 5018,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1018,1118",
+            "level": 18,
+            "teamId": 5,
+            "score": 14500,
+            "attrList_int": "118,218,318,418",
+            "nextLevelId": 5019
+        }
+    },
+    {
+        "pk": 5019,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1019,1119",
+            "level": 19,
+            "teamId": 5,
+            "score": 16500,
+            "attrList_int": "119,219,319,419",
+            "nextLevelId": 5020
+        }
+    },
+    {
+        "pk": 5020,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1020,1120",
+            "level": 20,
+            "teamId": 5,
+            "score": 0,
+            "attrList_int": "120,220,320,420",
+            "nextLevelId": 0
+        }
+    },
+    {
+        "pk": 6001,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1001,1101",
+            "level": 1,
+            "teamId": 6,
+            "score": 500,
+            "attrList_int": "101,201,301,401",
+            "nextLevelId": 6002
+        }
+    },
+    {
+        "pk": 6002,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1002,1102",
+            "level": 2,
+            "teamId": 6,
+            "score": 800,
+            "attrList_int": "102,202,302,402",
+            "nextLevelId": 6003
+        }
+    },
+    {
+        "pk": 6003,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1003,1103",
+            "level": 3,
+            "teamId": 6,
+            "score": 1100,
+            "attrList_int": "103,203,303,403",
+            "nextLevelId": 6004
+        }
+    },
+    {
+        "pk": 6004,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1004,1104",
+            "level": 4,
+            "teamId": 6,
+            "score": 1400,
+            "attrList_int": "104,204,304,404",
+            "nextLevelId": 6005
+        }
+    },
+    {
+        "pk": 6005,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1005,1105",
+            "level": 5,
+            "teamId": 6,
+            "score": 1700,
+            "attrList_int": "105,205,305,405",
+            "nextLevelId": 6006
+        }
+    },
+    {
+        "pk": 6006,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1006,1106",
+            "level": 6,
+            "teamId": 6,
+            "score": 2000,
+            "attrList_int": "106,206,306,406",
+            "nextLevelId": 6007
+        }
+    },
+    {
+        "pk": 6007,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1007,1107",
+            "level": 7,
+            "teamId": 6,
+            "score": 2300,
+            "attrList_int": "107,207,307,407",
+            "nextLevelId": 6008
+        }
+    },
+    {
+        "pk": 6008,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1008,1108",
+            "level": 8,
+            "teamId": 6,
+            "score": 2600,
+            "attrList_int": "108,208,308,408",
+            "nextLevelId": 6009
+        }
+    },
+    {
+        "pk": 6009,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1009,1109",
+            "level": 9,
+            "teamId": 6,
+            "score": 3200,
+            "attrList_int": "109,209,309,409",
+            "nextLevelId": 6010
+        }
+    },
+    {
+        "pk": 6010,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1010,1110",
+            "level": 10,
+            "teamId": 6,
+            "score": 3900,
+            "attrList_int": "110,210,310,410",
+            "nextLevelId": 6011
+        }
+    },
+    {
+        "pk": 6011,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1011,1111",
+            "level": 11,
+            "teamId": 6,
+            "score": 4700,
+            "attrList_int": "111,211,311,411",
+            "nextLevelId": 6012
+        }
+    },
+    {
+        "pk": 6012,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1012,1112",
+            "level": 12,
+            "teamId": 6,
+            "score": 5600,
+            "attrList_int": "112,212,312,412",
+            "nextLevelId": 6013
+        }
+    },
+    {
+        "pk": 6013,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1013,1113",
+            "level": 13,
+            "teamId": 6,
+            "score": 6600,
+            "attrList_int": "113,213,313,413",
+            "nextLevelId": 6014
+        }
+    },
+    {
+        "pk": 6014,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1014,1114",
+            "level": 14,
+            "teamId": 6,
+            "score": 7700,
+            "attrList_int": "114,214,314,414",
+            "nextLevelId": 6015
+        }
+    },
+    {
+        "pk": 6015,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1015,1115",
+            "level": 15,
+            "teamId": 6,
+            "score": 9000,
+            "attrList_int": "115,215,315,415",
+            "nextLevelId": 6016
+        }
+    },
+    {
+        "pk": 6016,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1016,1116",
+            "level": 16,
+            "teamId": 6,
+            "score": 10500,
+            "attrList_int": "116,216,316,416",
+            "nextLevelId": 6017
+        }
+    },
+    {
+        "pk": 6017,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1017,1117",
+            "level": 17,
+            "teamId": 6,
+            "score": 12500,
+            "attrList_int": "117,217,317,417",
+            "nextLevelId": 6018
+        }
+    },
+    {
+        "pk": 6018,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1018,1118",
+            "level": 18,
+            "teamId": 6,
+            "score": 14500,
+            "attrList_int": "118,218,318,418",
+            "nextLevelId": 6019
+        }
+    },
+    {
+        "pk": 6019,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1019,1119",
+            "level": 19,
+            "teamId": 6,
+            "score": 16500,
+            "attrList_int": "119,219,319,419",
+            "nextLevelId": 6020
+        }
+    },
+    {
+        "pk": 6020,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1020,1120",
+            "level": 20,
+            "teamId": 6,
+            "score": 0,
+            "attrList_int": "120,220,320,420",
+            "nextLevelId": 0
+        }
+    },
+    {
+        "pk": 8001,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1001,1101",
+            "level": 1,
+            "teamId": 8,
+            "score": 500,
+            "attrList_int": "101,201,301,401",
+            "nextLevelId": 8002
+        }
+    },
+    {
+        "pk": 8002,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1002,1102",
+            "level": 2,
+            "teamId": 8,
+            "score": 800,
+            "attrList_int": "102,202,302,402",
+            "nextLevelId": 8003
+        }
+    },
+    {
+        "pk": 8003,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1003,1103",
+            "level": 3,
+            "teamId": 8,
+            "score": 1100,
+            "attrList_int": "103,203,303,403",
+            "nextLevelId": 8004
+        }
+    },
+    {
+        "pk": 8004,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1004,1104",
+            "level": 4,
+            "teamId": 8,
+            "score": 1400,
+            "attrList_int": "104,204,304,404",
+            "nextLevelId": 8005
+        }
+    },
+    {
+        "pk": 8005,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1005,1105",
+            "level": 5,
+            "teamId": 8,
+            "score": 1700,
+            "attrList_int": "105,205,305,405",
+            "nextLevelId": 8006
+        }
+    },
+    {
+        "pk": 8006,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1006,1106",
+            "level": 6,
+            "teamId": 8,
+            "score": 2000,
+            "attrList_int": "106,206,306,406",
+            "nextLevelId": 8007
+        }
+    },
+    {
+        "pk": 8007,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1007,1107",
+            "level": 7,
+            "teamId": 8,
+            "score": 2300,
+            "attrList_int": "107,207,307,407",
+            "nextLevelId": 8008
+        }
+    },
+    {
+        "pk": 8008,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1008,1108",
+            "level": 8,
+            "teamId": 8,
+            "score": 2600,
+            "attrList_int": "108,208,308,408",
+            "nextLevelId": 8009
+        }
+    },
+    {
+        "pk": 8009,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1009,1109",
+            "level": 9,
+            "teamId": 8,
+            "score": 3200,
+            "attrList_int": "109,209,309,409",
+            "nextLevelId": 8010
+        }
+    },
+    {
+        "pk": 8010,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1010,1110",
+            "level": 10,
+            "teamId": 8,
+            "score": 3900,
+            "attrList_int": "110,210,310,410",
+            "nextLevelId": 8011
+        }
+    },
+    {
+        "pk": 8011,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1011,1111",
+            "level": 11,
+            "teamId": 8,
+            "score": 4700,
+            "attrList_int": "111,211,311,411",
+            "nextLevelId": 8012
+        }
+    },
+    {
+        "pk": 8012,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1012,1112",
+            "level": 12,
+            "teamId": 8,
+            "score": 5600,
+            "attrList_int": "112,212,312,412",
+            "nextLevelId": 8013
+        }
+    },
+    {
+        "pk": 8013,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1013,1113",
+            "level": 13,
+            "teamId": 8,
+            "score": 6600,
+            "attrList_int": "113,213,313,413",
+            "nextLevelId": 8014
+        }
+    },
+    {
+        "pk": 8014,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1014,1114",
+            "level": 14,
+            "teamId": 8,
+            "score": 7700,
+            "attrList_int": "114,214,314,414",
+            "nextLevelId": 8015
+        }
+    },
+    {
+        "pk": 8015,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1015,1115",
+            "level": 15,
+            "teamId": 8,
+            "score": 9000,
+            "attrList_int": "115,215,315,415",
+            "nextLevelId": 8016
+        }
+    },
+    {
+        "pk": 8016,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1016,1116",
+            "level": 16,
+            "teamId": 8,
+            "score": 10500,
+            "attrList_int": "116,216,316,416",
+            "nextLevelId": 8017
+        }
+    },
+    {
+        "pk": 8017,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1017,1117",
+            "level": 17,
+            "teamId": 8,
+            "score": 12500,
+            "attrList_int": "117,217,317,417",
+            "nextLevelId": 8018
+        }
+    },
+    {
+        "pk": 8018,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1018,1118",
+            "level": 18,
+            "teamId": 8,
+            "score": 14500,
+            "attrList_int": "118,218,318,418",
+            "nextLevelId": 8019
+        }
+    },
+    {
+        "pk": 8019,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1019,1119",
+            "level": 19,
+            "teamId": 8,
+            "score": 16500,
+            "attrList_int": "119,219,319,419",
+            "nextLevelId": 8020
+        }
+    },
+    {
+        "pk": 8020,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1020,1120",
+            "level": 20,
+            "teamId": 8,
+            "score": 0,
+            "attrList_int": "120,220,320,420",
+            "nextLevelId": 0
+        }
+    },
+    {
+        "pk": 9001,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1001,1101",
+            "level": 1,
+            "teamId": 9,
+            "score": 500,
+            "attrList_int": "101,201,301,401",
+            "nextLevelId": 9002
+        }
+    },
+    {
+        "pk": 9002,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1002,1102",
+            "level": 2,
+            "teamId": 9,
+            "score": 800,
+            "attrList_int": "102,202,302,402",
+            "nextLevelId": 9003
+        }
+    },
+    {
+        "pk": 9003,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1003,1103",
+            "level": 3,
+            "teamId": 9,
+            "score": 1100,
+            "attrList_int": "103,203,303,403",
+            "nextLevelId": 9004
+        }
+    },
+    {
+        "pk": 9004,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1004,1104",
+            "level": 4,
+            "teamId": 9,
+            "score": 1400,
+            "attrList_int": "104,204,304,404",
+            "nextLevelId": 9005
+        }
+    },
+    {
+        "pk": 9005,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1005,1105",
+            "level": 5,
+            "teamId": 9,
+            "score": 1700,
+            "attrList_int": "105,205,305,405",
+            "nextLevelId": 9006
+        }
+    },
+    {
+        "pk": 9006,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1006,1106",
+            "level": 6,
+            "teamId": 9,
+            "score": 2000,
+            "attrList_int": "106,206,306,406",
+            "nextLevelId": 9007
+        }
+    },
+    {
+        "pk": 9007,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1007,1107",
+            "level": 7,
+            "teamId": 9,
+            "score": 2300,
+            "attrList_int": "107,207,307,407",
+            "nextLevelId": 9008
+        }
+    },
+    {
+        "pk": 9008,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1008,1108",
+            "level": 8,
+            "teamId": 9,
+            "score": 2600,
+            "attrList_int": "108,208,308,408",
+            "nextLevelId": 9009
+        }
+    },
+    {
+        "pk": 9009,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1009,1109",
+            "level": 9,
+            "teamId": 9,
+            "score": 3200,
+            "attrList_int": "109,209,309,409",
+            "nextLevelId": 9010
+        }
+    },
+    {
+        "pk": 9010,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1010,1110",
+            "level": 10,
+            "teamId": 9,
+            "score": 3900,
+            "attrList_int": "110,210,310,410",
+            "nextLevelId": 9011
+        }
+    },
+    {
+        "pk": 9011,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1011,1111",
+            "level": 11,
+            "teamId": 9,
+            "score": 4700,
+            "attrList_int": "111,211,311,411",
+            "nextLevelId": 9012
+        }
+    },
+    {
+        "pk": 9012,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1012,1112",
+            "level": 12,
+            "teamId": 9,
+            "score": 5600,
+            "attrList_int": "112,212,312,412",
+            "nextLevelId": 9013
+        }
+    },
+    {
+        "pk": 9013,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1013,1113",
+            "level": 13,
+            "teamId": 9,
+            "score": 6600,
+            "attrList_int": "113,213,313,413",
+            "nextLevelId": 9014
+        }
+    },
+    {
+        "pk": 9014,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1014,1114",
+            "level": 14,
+            "teamId": 9,
+            "score": 7700,
+            "attrList_int": "114,214,314,414",
+            "nextLevelId": 9015
+        }
+    },
+    {
+        "pk": 9015,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1015,1115",
+            "level": 15,
+            "teamId": 9,
+            "score": 9000,
+            "attrList_int": "115,215,315,415",
+            "nextLevelId": 9016
+        }
+    },
+    {
+        "pk": 9016,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1016,1116",
+            "level": 16,
+            "teamId": 9,
+            "score": 10500,
+            "attrList_int": "116,216,316,416",
+            "nextLevelId": 9017
+        }
+    },
+    {
+        "pk": 9017,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1017,1117",
+            "level": 17,
+            "teamId": 9,
+            "score": 12500,
+            "attrList_int": "117,217,317,417",
+            "nextLevelId": 9018
+        }
+    },
+    {
+        "pk": 9018,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1018,1118",
+            "level": 18,
+            "teamId": 9,
+            "score": 14500,
+            "attrList_int": "118,218,318,418",
+            "nextLevelId": 9019
+        }
+    },
+    {
+        "pk": 9019,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1019,1119",
+            "level": 19,
+            "teamId": 9,
+            "score": 16500,
+            "attrList_int": "119,219,319,419",
+            "nextLevelId": 9020
+        }
+    },
+    {
+        "pk": 9020,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1020,1120",
+            "level": 20,
+            "teamId": 9,
+            "score": 0,
+            "attrList_int": "120,220,320,420",
+            "nextLevelId": 0
+        }
+    },
+    {
+        "pk": 10001,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1001,1101",
+            "level": 1,
+            "teamId": 10,
+            "score": 500,
+            "attrList_int": "101,201,301,401",
+            "nextLevelId": 10002
+        }
+    },
+    {
+        "pk": 10002,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1002,1102",
+            "level": 2,
+            "teamId": 10,
+            "score": 800,
+            "attrList_int": "102,202,302,402",
+            "nextLevelId": 10003
+        }
+    },
+    {
+        "pk": 10003,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1003,1103",
+            "level": 3,
+            "teamId": 10,
+            "score": 1100,
+            "attrList_int": "103,203,303,403",
+            "nextLevelId": 10004
+        }
+    },
+    {
+        "pk": 10004,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1004,1104",
+            "level": 4,
+            "teamId": 10,
+            "score": 1400,
+            "attrList_int": "104,204,304,404",
+            "nextLevelId": 10005
+        }
+    },
+    {
+        "pk": 10005,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1005,1105",
+            "level": 5,
+            "teamId": 10,
+            "score": 1700,
+            "attrList_int": "105,205,305,405",
+            "nextLevelId": 10006
+        }
+    },
+    {
+        "pk": 10006,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1006,1106",
+            "level": 6,
+            "teamId": 10,
+            "score": 2000,
+            "attrList_int": "106,206,306,406",
+            "nextLevelId": 10007
+        }
+    },
+    {
+        "pk": 10007,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1007,1107",
+            "level": 7,
+            "teamId": 10,
+            "score": 2300,
+            "attrList_int": "107,207,307,407",
+            "nextLevelId": 10008
+        }
+    },
+    {
+        "pk": 10008,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1008,1108",
+            "level": 8,
+            "teamId": 10,
+            "score": 2600,
+            "attrList_int": "108,208,308,408",
+            "nextLevelId": 10009
+        }
+    },
+    {
+        "pk": 10009,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1009,1109",
+            "level": 9,
+            "teamId": 10,
+            "score": 3200,
+            "attrList_int": "109,209,309,409",
+            "nextLevelId": 10010
+        }
+    },
+    {
+        "pk": 10010,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1010,1110",
+            "level": 10,
+            "teamId": 10,
+            "score": 3900,
+            "attrList_int": "110,210,310,410",
+            "nextLevelId": 10011
+        }
+    },
+    {
+        "pk": 10011,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1011,1111",
+            "level": 11,
+            "teamId": 10,
+            "score": 4700,
+            "attrList_int": "111,211,311,411",
+            "nextLevelId": 10012
+        }
+    },
+    {
+        "pk": 10012,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1012,1112",
+            "level": 12,
+            "teamId": 10,
+            "score": 5600,
+            "attrList_int": "112,212,312,412",
+            "nextLevelId": 10013
+        }
+    },
+    {
+        "pk": 10013,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1013,1113",
+            "level": 13,
+            "teamId": 10,
+            "score": 6600,
+            "attrList_int": "113,213,313,413",
+            "nextLevelId": 10014
+        }
+    },
+    {
+        "pk": 10014,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1014,1114",
+            "level": 14,
+            "teamId": 10,
+            "score": 7700,
+            "attrList_int": "114,214,314,414",
+            "nextLevelId": 10015
+        }
+    },
+    {
+        "pk": 10015,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1015,1115",
+            "level": 15,
+            "teamId": 10,
+            "score": 9000,
+            "attrList_int": "115,215,315,415",
+            "nextLevelId": 10016
+        }
+    },
+    {
+        "pk": 10016,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1016,1116",
+            "level": 16,
+            "teamId": 10,
+            "score": 10500,
+            "attrList_int": "116,216,316,416",
+            "nextLevelId": 10017
+        }
+    },
+    {
+        "pk": 10017,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1017,1117",
+            "level": 17,
+            "teamId": 10,
+            "score": 12500,
+            "attrList_int": "117,217,317,417",
+            "nextLevelId": 10018
+        }
+    },
+    {
+        "pk": 10018,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1018,1118",
+            "level": 18,
+            "teamId": 10,
+            "score": 14500,
+            "attrList_int": "118,218,318,418",
+            "nextLevelId": 10019
+        }
+    },
+    {
+        "pk": 10019,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1019,1119",
+            "level": 19,
+            "teamId": 10,
+            "score": 16500,
+            "attrList_int": "119,219,319,419",
+            "nextLevelId": 10020
+        }
+    },
+    {
+        "pk": 10020,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1020,1120",
+            "level": 20,
+            "teamId": 10,
+            "score": 0,
+            "attrList_int": "120,220,320,420",
+            "nextLevelId": 0
+        }
+    },
+    {
+        "pk": 11001,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1001,1101",
+            "level": 1,
+            "teamId": 11,
+            "score": 500,
+            "attrList_int": "101,201,301,401",
+            "nextLevelId": 11002
+        }
+    },
+    {
+        "pk": 11002,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1002,1102",
+            "level": 2,
+            "teamId": 11,
+            "score": 800,
+            "attrList_int": "102,202,302,402",
+            "nextLevelId": 11003
+        }
+    },
+    {
+        "pk": 11003,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1003,1103",
+            "level": 3,
+            "teamId": 11,
+            "score": 1100,
+            "attrList_int": "103,203,303,403",
+            "nextLevelId": 11004
+        }
+    },
+    {
+        "pk": 11004,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1004,1104",
+            "level": 4,
+            "teamId": 11,
+            "score": 1400,
+            "attrList_int": "104,204,304,404",
+            "nextLevelId": 11005
+        }
+    },
+    {
+        "pk": 11005,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1005,1105",
+            "level": 5,
+            "teamId": 11,
+            "score": 1700,
+            "attrList_int": "105,205,305,405",
+            "nextLevelId": 11006
+        }
+    },
+    {
+        "pk": 11006,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1006,1106",
+            "level": 6,
+            "teamId": 11,
+            "score": 2000,
+            "attrList_int": "106,206,306,406",
+            "nextLevelId": 11007
+        }
+    },
+    {
+        "pk": 11007,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1007,1107",
+            "level": 7,
+            "teamId": 11,
+            "score": 2300,
+            "attrList_int": "107,207,307,407",
+            "nextLevelId": 11008
+        }
+    },
+    {
+        "pk": 11008,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1008,1108",
+            "level": 8,
+            "teamId": 11,
+            "score": 2600,
+            "attrList_int": "108,208,308,408",
+            "nextLevelId": 11009
+        }
+    },
+    {
+        "pk": 11009,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1009,1109",
+            "level": 9,
+            "teamId": 11,
+            "score": 3200,
+            "attrList_int": "109,209,309,409",
+            "nextLevelId": 11010
+        }
+    },
+    {
+        "pk": 11010,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1010,1110",
+            "level": 10,
+            "teamId": 11,
+            "score": 3900,
+            "attrList_int": "110,210,310,410",
+            "nextLevelId": 11011
+        }
+    },
+    {
+        "pk": 11011,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1011,1111",
+            "level": 11,
+            "teamId": 11,
+            "score": 4700,
+            "attrList_int": "111,211,311,411",
+            "nextLevelId": 11012
+        }
+    },
+    {
+        "pk": 11012,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1012,1112",
+            "level": 12,
+            "teamId": 11,
+            "score": 5600,
+            "attrList_int": "112,212,312,412",
+            "nextLevelId": 11013
+        }
+    },
+    {
+        "pk": 11013,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1013,1113",
+            "level": 13,
+            "teamId": 11,
+            "score": 6600,
+            "attrList_int": "113,213,313,413",
+            "nextLevelId": 11014
+        }
+    },
+    {
+        "pk": 11014,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1014,1114",
+            "level": 14,
+            "teamId": 11,
+            "score": 7700,
+            "attrList_int": "114,214,314,414",
+            "nextLevelId": 11015
+        }
+    },
+    {
+        "pk": 11015,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1015,1115",
+            "level": 15,
+            "teamId": 11,
+            "score": 9000,
+            "attrList_int": "115,215,315,415",
+            "nextLevelId": 11016
+        }
+    },
+    {
+        "pk": 11016,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1016,1116",
+            "level": 16,
+            "teamId": 11,
+            "score": 10500,
+            "attrList_int": "116,216,316,416",
+            "nextLevelId": 11017
+        }
+    },
+    {
+        "pk": 11017,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1017,1117",
+            "level": 17,
+            "teamId": 11,
+            "score": 12500,
+            "attrList_int": "117,217,317,417",
+            "nextLevelId": 11018
+        }
+    },
+    {
+        "pk": 11018,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1018,1118",
+            "level": 18,
+            "teamId": 11,
+            "score": 14500,
+            "attrList_int": "118,218,318,418",
+            "nextLevelId": 11019
+        }
+    },
+    {
+        "pk": 11019,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1019,1119",
+            "level": 19,
+            "teamId": 11,
+            "score": 16500,
+            "attrList_int": "119,219,319,419",
+            "nextLevelId": 11020
+        }
+    },
+    {
+        "pk": 11020,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1020,1120",
+            "level": 20,
+            "teamId": 11,
+            "score": 0,
+            "attrList_int": "120,220,320,420",
+            "nextLevelId": 0
+        }
+    },
+    {
+        "pk": 12001,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1001,1101",
+            "level": 1,
+            "teamId": 12,
+            "score": 500,
+            "attrList_int": "101,201,301,401",
+            "nextLevelId": 12002
+        }
+    },
+    {
+        "pk": 12002,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1002,1102",
+            "level": 2,
+            "teamId": 12,
+            "score": 800,
+            "attrList_int": "102,202,302,402",
+            "nextLevelId": 12003
+        }
+    },
+    {
+        "pk": 12003,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1003,1103",
+            "level": 3,
+            "teamId": 12,
+            "score": 1100,
+            "attrList_int": "103,203,303,403",
+            "nextLevelId": 12004
+        }
+    },
+    {
+        "pk": 12004,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1004,1104",
+            "level": 4,
+            "teamId": 12,
+            "score": 1400,
+            "attrList_int": "104,204,304,404",
+            "nextLevelId": 12005
+        }
+    },
+    {
+        "pk": 12005,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1005,1105",
+            "level": 5,
+            "teamId": 12,
+            "score": 1700,
+            "attrList_int": "105,205,305,405",
+            "nextLevelId": 12006
+        }
+    },
+    {
+        "pk": 12006,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1006,1106",
+            "level": 6,
+            "teamId": 12,
+            "score": 2000,
+            "attrList_int": "106,206,306,406",
+            "nextLevelId": 12007
+        }
+    },
+    {
+        "pk": 12007,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1007,1107",
+            "level": 7,
+            "teamId": 12,
+            "score": 2300,
+            "attrList_int": "107,207,307,407",
+            "nextLevelId": 12008
+        }
+    },
+    {
+        "pk": 12008,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1008,1108",
+            "level": 8,
+            "teamId": 12,
+            "score": 2600,
+            "attrList_int": "108,208,308,408",
+            "nextLevelId": 12009
+        }
+    },
+    {
+        "pk": 12009,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1009,1109",
+            "level": 9,
+            "teamId": 12,
+            "score": 3200,
+            "attrList_int": "109,209,309,409",
+            "nextLevelId": 12010
+        }
+    },
+    {
+        "pk": 12010,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1010,1110",
+            "level": 10,
+            "teamId": 12,
+            "score": 3900,
+            "attrList_int": "110,210,310,410",
+            "nextLevelId": 12011
+        }
+    },
+    {
+        "pk": 12011,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1011,1111",
+            "level": 11,
+            "teamId": 12,
+            "score": 4700,
+            "attrList_int": "111,211,311,411",
+            "nextLevelId": 12012
+        }
+    },
+    {
+        "pk": 12012,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1012,1112",
+            "level": 12,
+            "teamId": 12,
+            "score": 5600,
+            "attrList_int": "112,212,312,412",
+            "nextLevelId": 12013
+        }
+    },
+    {
+        "pk": 12013,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1013,1113",
+            "level": 13,
+            "teamId": 12,
+            "score": 6600,
+            "attrList_int": "113,213,313,413",
+            "nextLevelId": 12014
+        }
+    },
+    {
+        "pk": 12014,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1014,1114",
+            "level": 14,
+            "teamId": 12,
+            "score": 7700,
+            "attrList_int": "114,214,314,414",
+            "nextLevelId": 12015
+        }
+    },
+    {
+        "pk": 12015,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1015,1115",
+            "level": 15,
+            "teamId": 12,
+            "score": 9000,
+            "attrList_int": "115,215,315,415",
+            "nextLevelId": 12016
+        }
+    },
+    {
+        "pk": 12016,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1016,1116",
+            "level": 16,
+            "teamId": 12,
+            "score": 10500,
+            "attrList_int": "116,216,316,416",
+            "nextLevelId": 12017
+        }
+    },
+    {
+        "pk": 12017,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1017,1117",
+            "level": 17,
+            "teamId": 12,
+            "score": 12500,
+            "attrList_int": "117,217,317,417",
+            "nextLevelId": 12018
+        }
+    },
+    {
+        "pk": 12018,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1018,1118",
+            "level": 18,
+            "teamId": 12,
+            "score": 14500,
+            "attrList_int": "118,218,318,418",
+            "nextLevelId": 12019
+        }
+    },
+    {
+        "pk": 12019,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1019,1119",
+            "level": 19,
+            "teamId": 12,
+            "score": 16500,
+            "attrList_int": "119,219,319,419",
+            "nextLevelId": 12020
+        }
+    },
+    {
+        "pk": 12020,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1020,1120",
+            "level": 20,
+            "teamId": 12,
+            "score": 0,
+            "attrList_int": "120,220,320,420",
+            "nextLevelId": 0
+        }
+    },
+    {
+        "pk": 14001,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1001,1101",
+            "level": 1,
+            "teamId": 14,
+            "score": 500,
+            "attrList_int": "101,201,301,401",
+            "nextLevelId": 14002
+        }
+    },
+    {
+        "pk": 14002,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1002,1102",
+            "level": 2,
+            "teamId": 14,
+            "score": 800,
+            "attrList_int": "102,202,302,402",
+            "nextLevelId": 14003
+        }
+    },
+    {
+        "pk": 14003,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1003,1103",
+            "level": 3,
+            "teamId": 14,
+            "score": 1100,
+            "attrList_int": "103,203,303,403",
+            "nextLevelId": 14004
+        }
+    },
+    {
+        "pk": 14004,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1004,1104",
+            "level": 4,
+            "teamId": 14,
+            "score": 1400,
+            "attrList_int": "104,204,304,404",
+            "nextLevelId": 14005
+        }
+    },
+    {
+        "pk": 14005,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1005,1105",
+            "level": 5,
+            "teamId": 14,
+            "score": 1700,
+            "attrList_int": "105,205,305,405",
+            "nextLevelId": 14006
+        }
+    },
+    {
+        "pk": 14006,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1006,1106",
+            "level": 6,
+            "teamId": 14,
+            "score": 2000,
+            "attrList_int": "106,206,306,406",
+            "nextLevelId": 14007
+        }
+    },
+    {
+        "pk": 14007,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1007,1107",
+            "level": 7,
+            "teamId": 14,
+            "score": 2300,
+            "attrList_int": "107,207,307,407",
+            "nextLevelId": 14008
+        }
+    },
+    {
+        "pk": 14008,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1008,1108",
+            "level": 8,
+            "teamId": 14,
+            "score": 2600,
+            "attrList_int": "108,208,308,408",
+            "nextLevelId": 14009
+        }
+    },
+    {
+        "pk": 14009,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1009,1109",
+            "level": 9,
+            "teamId": 14,
+            "score": 3200,
+            "attrList_int": "109,209,309,409",
+            "nextLevelId": 14010
+        }
+    },
+    {
+        "pk": 14010,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1010,1110",
+            "level": 10,
+            "teamId": 14,
+            "score": 3900,
+            "attrList_int": "110,210,310,410",
+            "nextLevelId": 14011
+        }
+    },
+    {
+        "pk": 14011,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1011,1111",
+            "level": 11,
+            "teamId": 14,
+            "score": 4700,
+            "attrList_int": "111,211,311,411",
+            "nextLevelId": 14012
+        }
+    },
+    {
+        "pk": 14012,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1012,1112",
+            "level": 12,
+            "teamId": 14,
+            "score": 5600,
+            "attrList_int": "112,212,312,412",
+            "nextLevelId": 14013
+        }
+    },
+    {
+        "pk": 14013,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1013,1113",
+            "level": 13,
+            "teamId": 14,
+            "score": 6600,
+            "attrList_int": "113,213,313,413",
+            "nextLevelId": 14014
+        }
+    },
+    {
+        "pk": 14014,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1014,1114",
+            "level": 14,
+            "teamId": 14,
+            "score": 7700,
+            "attrList_int": "114,214,314,414",
+            "nextLevelId": 14015
+        }
+    },
+    {
+        "pk": 14015,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1015,1115",
+            "level": 15,
+            "teamId": 14,
+            "score": 9000,
+            "attrList_int": "115,215,315,415",
+            "nextLevelId": 14016
+        }
+    },
+    {
+        "pk": 14016,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1016,1116",
+            "level": 16,
+            "teamId": 14,
+            "score": 10500,
+            "attrList_int": "116,216,316,416",
+            "nextLevelId": 14017
+        }
+    },
+    {
+        "pk": 14017,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1017,1117",
+            "level": 17,
+            "teamId": 14,
+            "score": 12500,
+            "attrList_int": "117,217,317,417",
+            "nextLevelId": 14018
+        }
+    },
+    {
+        "pk": 14018,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1018,1118",
+            "level": 18,
+            "teamId": 14,
+            "score": 14500,
+            "attrList_int": "118,218,318,418",
+            "nextLevelId": 14019
+        }
+    },
+    {
+        "pk": 14019,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1019,1119",
+            "level": 19,
+            "teamId": 14,
+            "score": 16500,
+            "attrList_int": "119,219,319,419",
+            "nextLevelId": 14020
+        }
+    },
+    {
+        "pk": 14020,
+        "model": "hero.heroteamlevel",
+        "fields": {
+            "costs_int": "1020,1120",
+            "level": 20,
+            "teamId": 14,
+            "score": 0,
+            "attrList_int": "120,220,320,420",
+            "nextLevelId": 0
+        }
+    }
+]

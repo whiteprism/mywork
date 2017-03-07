@@ -1,0 +1,58 @@
+[
+    {
+        "pk": 1,
+        "model": "task.sevendayshalfprice",
+        "fields": {
+            "itemCost": 200,
+            "rewardId": "t2610024c1"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "task.sevendayshalfprice",
+        "fields": {
+            "itemCost": 400,
+            "rewardId": "t530000c2000"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "task.sevendayshalfprice",
+        "fields": {
+            "itemCost": 200,
+            "rewardId": "t2444606c20"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "task.sevendayshalfprice",
+        "fields": {
+            "itemCost": 200,
+            "rewardId": "t1504004c10"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "task.sevendayshalfprice",
+        "fields": {
+            "itemCost": 200,
+            "rewardId": "t2610002c1"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "task.sevendayshalfprice",
+        "fields": {
+            "itemCost": 500,
+            "rewardId": "t2621201c50"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "task.sevendayshalfprice",
+        "fields": {
+            "itemCost": 2000,
+            "rewardId": "t2610007c1"
+        }
+    }
+]

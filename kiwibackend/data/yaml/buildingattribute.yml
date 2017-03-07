@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 建筑属性
+  row: 3
+  model: building.buildingattribute
+  columns:
+    - name: attrType
+      column: attrType
+      type: char
+      default: ""
+
+    - name: minValue
+      column: minValue
+      type: float
+      default: 0.0
+
+    - name: maxValue
+      column: maxValue
+      type: float
+      default: 0.0
+
+

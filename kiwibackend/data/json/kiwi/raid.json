@@ -1,0 +1,102 @@
+[
+    {
+        "pk": 1015,
+        "model": "instance.raid",
+        "fields": {
+            "category": 5,
+            "descriptionId": "",
+            "textId": "raid_1015",
+            "maxPlayCount": "0",
+            "openTimeTextId": "raid_10153",
+            "experiment1": "ExperimentActivity2467",
+            "experiment2": "ExperimentActivityDouble",
+            "vocationType": 0,
+            "raidLevelId_int": "150101,150102,150103,150104",
+            "heroId": "raid_10150",
+            "easyTextId": "",
+            "nameId": "raid_10151",
+            "powerCost": 6,
+            "normalTextId": "raid_10152"
+        }
+    },
+    {
+        "pk": 1014,
+        "model": "instance.raid",
+        "fields": {
+            "category": 4,
+            "descriptionId": "",
+            "textId": "raid_1014",
+            "maxPlayCount": "0",
+            "openTimeTextId": "raid_10143",
+            "experiment1": "ExperimentActivity1357",
+            "experiment2": "ExperimentActivityDouble",
+            "vocationType": 0,
+            "raidLevelId_int": "140101,140102,140103,140104",
+            "heroId": "raid_10140",
+            "easyTextId": "",
+            "nameId": "raid_10141",
+            "powerCost": 6,
+            "normalTextId": "raid_10142"
+        }
+    },
+    {
+        "pk": 1012,
+        "model": "instance.raid",
+        "fields": {
+            "category": 2,
+            "descriptionId": "",
+            "textId": "raid_1012",
+            "maxPlayCount": "0",
+            "openTimeTextId": "raid_10123",
+            "experiment1": "ExperimentActivity1357",
+            "experiment2": "ExperimentActivityDouble",
+            "vocationType": 0,
+            "raidLevelId_int": "120101,120102,120103,120104",
+            "heroId": "raid_10120",
+            "easyTextId": "",
+            "nameId": "raid_10121",
+            "powerCost": 6,
+            "normalTextId": "raid_10122"
+        }
+    },
+    {
+        "pk": 1013,
+        "model": "instance.raid",
+        "fields": {
+            "category": 3,
+            "descriptionId": "",
+            "textId": "raid_1013",
+            "maxPlayCount": "0",
+            "openTimeTextId": "raid_10133",
+            "experiment1": "ExperimentActivity2467",
+            "experiment2": "ExperimentActivityDouble",
+            "vocationType": 0,
+            "raidLevelId_int": "130101,130102,130103,130104",
+            "heroId": "raid_10130",
+            "easyTextId": "",
+            "nameId": "raid_10131",
+            "powerCost": 6,
+            "normalTextId": "raid_10132"
+        }
+    },
+    {
+        "pk": 1020,
+        "model": "instance.raid",
+        "fields": {
+            "category": 6,
+            "descriptionId": "",
+            "textId": "raid_1020",
+            "maxPlayCount": "0",
+            "openTimeTextId": "raid_10203",
+            "experiment1": "",
+            "experiment2": "ExperimentActivityDouble",
+            "vocationType": 0,
+            "raidLevelId_int": "102001,102002,102003,102004",
+            "heroId": "raid_10200",
+            "easyTextId": "",
+            "nameId": "raid_10201",
+            "powerCost": 0,
+            "normalTextId": "raid_10202"
+        }
+    }
+]

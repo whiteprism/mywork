@@ -1,0 +1,14 @@
+<uwsgi>
+  <socket>127.0.0.1:9902</socket>
+  <listen>40</listen>
+  <master>true</master>
+  <pidfile>/tmp/uwsgi_9902.pid</pidfile>
+  <processes>4</processes> 
+  <pythonpath>%d</pythonpath>
+  <module>server</module>
+  <profiler>true</profiler>
+  <memory-report>true</memory-report>
+  <enable-threads>true</enable-threads>
+  <logdate>true</logdate>
+  <daemonize>/tmp/stage2.log</daemonize>
+</uwsgi>

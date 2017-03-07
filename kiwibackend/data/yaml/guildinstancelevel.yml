@@ -1,0 +1,78 @@
+
+table:
+  out-type: json
+  sheet: 公会关卡
+  row: 3
+  model: instance.guildinstancelevel
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: monsterId
+      column: monsterId
+      type: int
+      default: 0
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: scene
+      column: scene
+      type: char
+      default: ""
+
+    - name: levelIndex
+      column: levelIndex
+      type: int
+      default: 0
+
+    - name: revisionScale_float
+      column: revisionScale
+      type: char
+      default: ""
+
+    - name: aucRewardIds_int
+      column: aucRewardIds
+      type: char
+      default: ""
+
+    - name: aucRewardMaxCount_int
+      column: aucRewardMaxCount
+      type: char
+      default: ""
+
+    - name: diamondCost
+      column: diamondCost
+      type: int
+      default: 0
+
+    - name: enemyIds_int
+      column: enemyIds
+      type: char
+      default: ""
+
+    - name: zoneIDs_int
+      column: zoneIDs
+      type: char
+      default: ""
+
+    - name: triggerInfos_int
+      column: triggerInfos
+      type: char
+      default: ""
+
+    - name: guildLevelLimit
+      column: guildLevelLimit
+      type: int
+      default: 0
+
+

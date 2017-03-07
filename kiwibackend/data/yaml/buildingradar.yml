@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 雷达
+  row: 3
+  model: building.buildingradar
+  columns:
+    - name: building_id
+      column: building_id
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: count
+      column: count
+      type: int
+      default: 0
+
+

@@ -1,0 +1,13 @@
+
+table:
+  out-type: json
+  sheet: 神秘商店格子定义
+  row: 3
+  model: mysteryshop.mysteryshopgrid
+  columns:
+    - name: categories_int
+      column: categories
+      type: char
+      default: ""
+
+

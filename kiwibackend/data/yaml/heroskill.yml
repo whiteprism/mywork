@@ -1,0 +1,25 @@
+
+table:
+  out-type: json
+  sheet: 英雄技能
+  row: 3
+  model: hero.heroskill
+  columns:
+    - name: maxStar
+      column: maxStar
+      type: int
+
+    - name: skill0
+      column: skill0
+      type: int
+
+    - name: skill0Lv
+      column: skill0Lv
+      type: int
+
+    - name: skillinfo_int
+      column: skillinfo
+      type: char
+      default: ""
+
+

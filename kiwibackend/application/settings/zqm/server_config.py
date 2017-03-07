@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+
+MYSQL_IP = "127.0.0.1"
+MYSQL_PORT = 3306
+MYSQL_USER = "root"
+MYSQL_PASSWD = ""
+MYSQL_DATABASE_NAME = "kiwi_zqm"
+
+MONGO_IP = "127.0.0.1"
+MONGO_PORT = 27017
+MONGO_DB_NAME = "kiwi_zqm"
+
+REDIS_IP = "127.0.0.1"
+REDIS_PORT = 6379
+
+#服务器ID
+SERVERID = 1003
+
+ALL_SERVERS = [0, 1003] #和服列表

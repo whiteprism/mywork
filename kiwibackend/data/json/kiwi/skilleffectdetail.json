@@ -1,0 +1,632 @@
+[
+    {
+        "pk": 180120101,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801201,
+            "followPoint": 0,
+            "startDelay": 0.5,
+            "survivalTime": 1.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "QueenOfPain/fx_Queen_of_Pain_chaoshengchongjibo_range",
+            "socketIndex": 5
+        }
+    },
+    {
+        "pk": 180120102,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801201,
+            "followPoint": 0,
+            "startDelay": 0.0,
+            "survivalTime": 2.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "QueenOfPain/fx_Queen_of_Pain_anyingtuxi_foot",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180121101,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801211,
+            "followPoint": 0,
+            "startDelay": 0.8,
+            "survivalTime": 1.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Mirana/fx_Mirana_qunxingfengbao_foot",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180122102,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801221,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 2.33,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "ShadowFiend/fx_ShadowFiend_hunzhiwange_hand",
+            "socketIndex": 2
+        }
+    },
+    {
+        "pk": 180122103,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801221,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 2.33,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "ShadowFiend/fx_ShadowFiend_hunzhiwange_hand",
+            "socketIndex": 3
+        }
+    },
+    {
+        "pk": 180122201,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801222,
+            "followPoint": 0,
+            "startDelay": 0.66,
+            "survivalTime": 3.33,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "ShadowFiend/fx_ShadowFiend_huimieyinying_range",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180122202,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801222,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 3.33,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "ShadowFiend/fx_ShadowFiend_huimieyinying_hand",
+            "socketIndex": 2
+        }
+    },
+    {
+        "pk": 180122203,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801222,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 3.33,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "ShadowFiend/fx_ShadowFiend_huimieyinying_hand",
+            "socketIndex": 3
+        }
+    },
+    {
+        "pk": 180129201,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801292,
+            "followPoint": 0,
+            "startDelay": 1.0,
+            "survivalTime": 1.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Ursa/fx_Ursa_chaoqingliliang_body",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180110101,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801101,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 2.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Doom/fx_Doom_mori_weapon",
+            "socketIndex": 6
+        }
+    },
+    {
+        "pk": 180109101,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801091,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 2.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Axe/fx_Axe_taotaizhiren_hand",
+            "socketIndex": 2
+        }
+    },
+    {
+        "pk": 180109102,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801091,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 2.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Axe/fx_Axe_taotaizhiren_hand",
+            "socketIndex": 3
+        }
+    },
+    {
+        "pk": 180109103,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801091,
+            "followPoint": 0,
+            "startDelay": 0.0,
+            "survivalTime": 2.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Axe/fx_Axe_taotaizhiren_foot",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180106201,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801062,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "warlock/fx_Warlock_anyanshu_foot",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180104101,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801041,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.66,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Enchantress/fx_Enchantress_ziranzhizhu_range",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180104102,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801041,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.66,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Enchantress/fx_Enchantress_ziranzhizhu",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180134201,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801342,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.7,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Zeratul/fx_Zeratu_shunpizhan_range",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180133301,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801333,
+            "followPoint": 0,
+            "startDelay": 0.66,
+            "survivalTime": 5.3,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Venomancer/fx_Venomancer_wenyishouwei_range",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180108101,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801081,
+            "followPoint": 0,
+            "startDelay": 0.0,
+            "survivalTime": 1.4,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Elder_Titan/fx_Elder_Titan_liedigouhe_range",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180108201,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801082,
+            "followPoint": 0,
+            "startDelay": 0.0,
+            "survivalTime": 1.5,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Elder_Titan/fx_Elder_Titan_huiyinzhongta_range",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180128301,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801283,
+            "followPoint": 0,
+            "startDelay": 0.56,
+            "survivalTime": 5.0,
+            "startPositionY": 0.0,
+            "startPositionX": 1.5,
+            "startPositionZ": 0.0,
+            "startEffectName": "Juggernaut/fx_Juggernaut_zhiliaoshouwei_flag",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180101101,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801011,
+            "followPoint": 1,
+            "startDelay": 1.33,
+            "survivalTime": 1.17,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "OmniKnight/fx_OmniKnight_shouhutianshi_body",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180101102,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801011,
+            "followPoint": 1,
+            "startDelay": 1.33,
+            "survivalTime": 1.17,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "OmniKnight/fx_OmniKnight_shouhutianshi_weapon",
+            "socketIndex": 5
+        }
+    },
+    {
+        "pk": 180115101,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801151,
+            "followPoint": 0,
+            "startDelay": 0.0,
+            "survivalTime": 3.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Silencer/fx_Silencer_quanlingyuchenmo_range",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180115201,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801152,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Silencer/fx_Silencer_jingmozuzhou_weapon",
+            "socketIndex": 6
+        }
+    },
+    {
+        "pk": 180132001,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801320,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Thrall/fx_thralldianqiu",
+            "socketIndex": 5
+        }
+    },
+    {
+        "pk": 180132101,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801321,
+            "followPoint": 0,
+            "startDelay": 0.9,
+            "survivalTime": 1.333,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 1.5,
+            "startEffectName": "Thrall/fx_tianbengdilie",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180132102,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801321,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.333,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Thrall/fx_thralldianqiu",
+            "socketIndex": 5
+        }
+    },
+    {
+        "pk": 180132103,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801321,
+            "followPoint": 0,
+            "startDelay": 0.2,
+            "survivalTime": 0.66,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Thrall/fx_thrallxuli01",
+            "socketIndex": 5
+        }
+    },
+    {
+        "pk": 180132104,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801321,
+            "followPoint": 0,
+            "startDelay": 0.1,
+            "survivalTime": 0.66,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Thrall/fx_thrallxuli02",
+            "socketIndex": 5
+        }
+    },
+    {
+        "pk": 180132201,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801322,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Thrall/fx_thralldianqiu",
+            "socketIndex": 5
+        }
+    },
+    {
+        "pk": 180132301,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801323,
+            "followPoint": 0,
+            "startDelay": 0.8,
+            "survivalTime": 5.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Thrall/fx_fengnututeng",
+            "socketIndex": 4
+        }
+    },
+    {
+        "pk": 180900201,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1809002,
+            "followPoint": 0,
+            "startDelay": 0.0,
+            "survivalTime": 5.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "devil/fx_devil_dazhao",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180900101,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1809001,
+            "followPoint": 0,
+            "startDelay": 1.2,
+            "survivalTime": 5.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "devil/fx_devil_fire",
+            "socketIndex": 5
+        }
+    },
+    {
+        "pk": 180126101,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801261,
+            "followPoint": 0,
+            "startDelay": 0.66,
+            "survivalTime": 1.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Sniper/fx_Sniper_ansha_weapon",
+            "socketIndex": 5
+        }
+    },
+    {
+        "pk": 180126201,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801262,
+            "followPoint": 0,
+            "startDelay": 0.0,
+            "survivalTime": 0.8,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Sniper/fx_Sniper_liuxiandan_wepon",
+            "socketIndex": 5
+        }
+    },
+    {
+        "pk": 180119101,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801191,
+            "followPoint": 0,
+            "startDelay": 0.0,
+            "survivalTime": 1.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Zeus/fx_Zeus_leishenzhinu_body",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180123101,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801231,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 2.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Naga_Siren/fx_Naga_Siren_haiyaozhige",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180128201,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1801282,
+            "followPoint": 1,
+            "startDelay": 0.53,
+            "survivalTime": 1.5,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Juggernaut/fx_Juggernaut_jianrenfengbao_fly",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180305001,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1803050,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.0,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "General/buff/fx_shoujigedang",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180433001,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1804330,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.5,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Missile/fx_daodanfashe",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180434001,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1804340,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.5,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Missile/fx_daodanfashe",
+            "socketIndex": 0
+        }
+    }
+]

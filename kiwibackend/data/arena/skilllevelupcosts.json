@@ -1,0 +1,758 @@
+[
+    {
+        "pk": 262200105,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 5,
+            "type": 2622001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200110,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 10,
+            "type": 2622001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200115,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 15,
+            "type": 2622001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200120,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 20,
+            "type": 2622001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200125,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 25,
+            "type": 2622001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200130,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 30,
+            "type": 2622001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200140,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 40,
+            "type": 2622001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200150,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 50,
+            "type": 2622001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200160,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 60,
+            "type": 2622001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200205,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 5,
+            "type": 2622002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200210,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 10,
+            "type": 2622002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200215,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 15,
+            "type": 2622002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200220,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 20,
+            "type": 2622002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200225,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 25,
+            "type": 2622002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200230,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 30,
+            "type": 2622002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200240,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 40,
+            "type": 2622002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200250,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 50,
+            "type": 2622002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200260,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 60,
+            "type": 2622002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200305,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 5,
+            "type": 2622003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200310,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 10,
+            "type": 2622003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200315,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 15,
+            "type": 2622003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200320,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 20,
+            "type": 2622003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200325,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 25,
+            "type": 2622003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200330,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 30,
+            "type": 2622003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200340,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 40,
+            "type": 2622003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200350,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 50,
+            "type": 2622003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262200360,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 60,
+            "type": 2622003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210105,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 5,
+            "type": 2622101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210110,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 10,
+            "type": 2622101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210115,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 15,
+            "type": 2622101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210120,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 20,
+            "type": 2622101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210125,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 25,
+            "type": 2622101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210130,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 30,
+            "type": 2622101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210140,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 40,
+            "type": 2622101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210150,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 50,
+            "type": 2622101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210160,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 60,
+            "type": 2622101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210205,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 5,
+            "type": 2622102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210210,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 10,
+            "type": 2622102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210215,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 15,
+            "type": 2622102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210220,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 20,
+            "type": 2622102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210225,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 25,
+            "type": 2622102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210230,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 30,
+            "type": 2622102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210240,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 40,
+            "type": 2622102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210250,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 50,
+            "type": 2622102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210260,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 60,
+            "type": 2622102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210305,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 5,
+            "type": 2622103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210310,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 10,
+            "type": 2622103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210315,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 15,
+            "type": 2622103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210320,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 20,
+            "type": 2622103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210325,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 25,
+            "type": 2622103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210330,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 30,
+            "type": 2622103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210340,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 40,
+            "type": 2622103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210350,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 50,
+            "type": 2622103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262210360,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 60,
+            "type": 2622103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220105,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 5,
+            "type": 2622201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220110,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 10,
+            "type": 2622201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220115,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 15,
+            "type": 2622201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220120,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 20,
+            "type": 2622201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220125,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 25,
+            "type": 2622201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220130,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 30,
+            "type": 2622201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220140,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 40,
+            "type": 2622201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220150,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 50,
+            "type": 2622201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220160,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 60,
+            "type": 2622201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220180,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 80,
+            "type": 2622201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220205,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 5,
+            "type": 2622202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220210,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 10,
+            "type": 2622202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220215,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 15,
+            "type": 2622202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220220,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 20,
+            "type": 2622202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220225,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 25,
+            "type": 2622202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220230,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 30,
+            "type": 2622202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220240,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 40,
+            "type": 2622202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220250,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 50,
+            "type": 2622202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220260,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 60,
+            "type": 2622202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220280,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 80,
+            "type": 2622202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220305,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 5,
+            "type": 2622203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220310,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 10,
+            "type": 2622203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220315,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 15,
+            "type": 2622203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220320,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 20,
+            "type": 2622203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220325,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 25,
+            "type": 2622203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220330,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 30,
+            "type": 2622203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220340,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 40,
+            "type": 2622203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220350,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 50,
+            "type": 2622203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220360,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 60,
+            "type": 2622203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 262220380,
+        "model": "skill.skilllevelupcosts",
+        "fields": {
+            "count": 80,
+            "type": 2622203,
+            "level": 0
+        }
+    }
+]

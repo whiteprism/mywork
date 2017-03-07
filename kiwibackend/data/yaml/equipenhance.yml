@@ -1,0 +1,12 @@
+
+table:
+  out-type: json
+  sheet: 装备强化
+  row: 3
+  model: equip.equipenhance
+  columns:
+    - name: gold
+      column: gold
+      type: int
+
+

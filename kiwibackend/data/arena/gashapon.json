@@ -1,0 +1,110 @@
+[
+    {
+        "pk": 1,
+        "model": "gashapon.gashapon",
+        "fields": {
+            "name": "\u91d1\u5e01\u62bd\u5956",
+            "topreward_number": 0,
+            "topreward_quality": 0,
+            "topreward_rarity": 0,
+            "topreward_reset": 0,
+            "description": "\u91d1\u5e01\u62bd\u5956"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "gashapon.gashapon",
+        "fields": {
+            "name": "\u94bb\u77f3\u62bd\u5956",
+            "topreward_number": 10,
+            "topreward_quality": 0,
+            "topreward_rarity": 1,
+            "topreward_reset": 1,
+            "description": "\u94bb\u77f3\u62bd\u5956"
+        }
+    },
+    {
+        "pk": 100,
+        "model": "gashapon.gashapon",
+        "fields": {
+            "name": "\u94dc\u5b9d\u7bb1",
+            "topreward_number": 0,
+            "topreward_quality": 0,
+            "topreward_rarity": 0,
+            "topreward_reset": 0,
+            "description": "\u94dc\u5b9d\u7bb1"
+        }
+    },
+    {
+        "pk": 101,
+        "model": "gashapon.gashapon",
+        "fields": {
+            "name": "\u94f6\u5b9d\u7bb1",
+            "topreward_number": 0,
+            "topreward_quality": 0,
+            "topreward_rarity": 0,
+            "topreward_reset": 0,
+            "description": "\u94f6\u5b9d\u7bb1"
+        }
+    },
+    {
+        "pk": 102,
+        "model": "gashapon.gashapon",
+        "fields": {
+            "name": "\u91d1\u5b9d\u7bb1",
+            "topreward_number": 0,
+            "topreward_quality": 0,
+            "topreward_rarity": 0,
+            "topreward_reset": 0,
+            "description": "\u91d1\u5b9d\u7bb1"
+        }
+    },
+    {
+        "pk": 103,
+        "model": "gashapon.gashapon",
+        "fields": {
+            "name": "\u795e\u79d8\u5b9d\u7bb1",
+            "topreward_number": 0,
+            "topreward_quality": 0,
+            "topreward_rarity": 0,
+            "topreward_reset": 0,
+            "description": "\u795e\u79d8\u5b9d\u7bb1"
+        }
+    },
+    {
+        "pk": 300,
+        "model": "gashapon.gashapon",
+        "fields": {
+            "name": "\u666e\u901a\u9b42\u5323",
+            "topreward_number": 0,
+            "topreward_quality": 0,
+            "topreward_rarity": 0,
+            "topreward_reset": 0,
+            "description": "\u666e\u901a\u9b42\u5323"
+        }
+    },
+    {
+        "pk": 301,
+        "model": "gashapon.gashapon",
+        "fields": {
+            "name": "\u7a00\u6709\u9b42\u5323",
+            "topreward_number": 0,
+            "topreward_quality": 0,
+            "topreward_rarity": 0,
+            "topreward_reset": 0,
+            "description": "\u7a00\u6709\u9b42\u5323"
+        }
+    },
+    {
+        "pk": 302,
+        "model": "gashapon.gashapon",
+        "fields": {
+            "name": "\u53f2\u8bd7\u9b42\u5323",
+            "topreward_number": 0,
+            "topreward_quality": 0,
+            "topreward_rarity": 0,
+            "topreward_reset": 0,
+            "description": "\u53f2\u8bd7\u9b42\u5323"
+        }
+    }
+]

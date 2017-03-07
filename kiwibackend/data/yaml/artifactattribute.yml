@@ -1,0 +1,33 @@
+
+table:
+  out-type: json
+  sheet: 圣物属性
+  row: 3
+  model: artifact.artifactattribute
+  columns:
+    - name: attrType
+      column: attrType
+      type: char
+      default: ""
+
+    - name: enhanceInitValue
+      column: enhanceInitValue
+      type: float
+      default: 0.0
+
+    - name: enhanceAttrGrowth
+      column: enhanceAttrGrowth
+      type: float
+      default: 0.0
+
+    - name: refineInitValue
+      column: refineInitValue
+      type: float
+      default: 0.0
+
+    - name: refineAttrGrowth
+      column: refineAttrGrowth
+      type: float
+      default: 0.0
+
+

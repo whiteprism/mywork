@@ -1,0 +1,68 @@
+
+table:
+  out-type: json
+  sheet: 公会表
+  row: 3
+  model: guild.guild
+  columns:
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: unlockFunction_int
+      column: unlockFunction
+      type: char
+      default: ""
+
+    - name: viceChairmanCount
+      column: viceChairmanCount
+      type: int
+      default: 0
+
+    - name: memberCount
+      column: memberCount
+      type: int
+      default: 0
+
+    - name: xp
+      column: xp
+      type: int
+      default: 0
+
+    - name: speedCount
+      column: speedCount
+      type: int
+      default: 0
+
+    - name: beSpeededCount
+      column: beSpeededCount
+      type: int
+      default: 0
+
+    - name: levelUpCost
+      column: levelUpCost
+      type: int
+      default: 0
+
+    - name: chairmanBouns
+      column: chairmanBouns
+      type: int
+      default: 0
+
+    - name: vichairmanBonus
+      column: vichairmanBonus
+      type: int
+      default: 0
+
+    - name: memberBouns
+      column: memberBouns
+      type: int
+      default: 0
+
+    - name: speedRewards_int
+      column: speedRewards
+      type: char
+      default: ""
+
+

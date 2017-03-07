@@ -1,0 +1,34 @@
+[
+    {
+        "pk": 1,
+        "model": "task.dailytaskactivity",
+        "fields": {
+            "activityValue": 50,
+            "rewards_int": "6330,6300"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "task.dailytaskactivity",
+        "fields": {
+            "activityValue": 100,
+            "rewards_int": "6310,6300"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "task.dailytaskactivity",
+        "fields": {
+            "activityValue": 150,
+            "rewards_int": "6320,6300"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "task.dailytaskactivity",
+        "fields": {
+            "activityValue": 200,
+            "rewards_int": "6311,6300"
+        }
+    }
+]

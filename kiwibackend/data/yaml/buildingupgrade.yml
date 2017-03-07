@@ -1,0 +1,38 @@
+
+table:
+  out-type: json
+  sheet: 建筑升级
+  row: 3
+  model: building.buildingupgrade
+  columns:
+    - name: building_id
+      column: building_id
+      type: int
+      default: 0
+
+    - name: costs_int
+      column: costs
+      type: char
+      default: ""
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: castleLevel
+      column: castleLevel
+      type: int
+      default: 0
+
+    - name: userLevel
+      column: userLevel
+      type: int
+      default: 0
+
+    - name: useTime
+      column: useTime
+      type: int
+      default: 0
+
+

@@ -1,0 +1,602 @@
+[
+    {
+        "pk": 1,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1212101c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 2,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 4000,
+            "rewardId": "t1212202c1",
+            "basePrice": 800
+        }
+    },
+    {
+        "pk": 3,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1212303c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 4,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1212404c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 5,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 4000,
+            "rewardId": "t1222101c1",
+            "basePrice": 800
+        }
+    },
+    {
+        "pk": 6,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 4000,
+            "rewardId": "t1222202c1",
+            "basePrice": 800
+        }
+    },
+    {
+        "pk": 7,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1222303c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 8,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1222404c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 9,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 4000,
+            "rewardId": "t1232101c1",
+            "basePrice": 800
+        }
+    },
+    {
+        "pk": 10,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1232202c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 11,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1232303c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 12,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1232404c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 13,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1242101c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 14,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1242202c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 15,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1242303c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 16,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1242404c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 17,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 4000,
+            "rewardId": "t1252101c1",
+            "basePrice": 800
+        }
+    },
+    {
+        "pk": 18,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1252202c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 19,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1252303c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 20,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1252404c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 21,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1262101c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 22,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1262202c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 23,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1262303c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 24,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 2500,
+            "rewardId": "t1262404c1",
+            "basePrice": 500
+        }
+    },
+    {
+        "pk": 25,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 7500,
+            "rewardId": "t1214101c1",
+            "basePrice": 1500
+        }
+    },
+    {
+        "pk": 26,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1214202c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 27,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1214303c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 28,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1214404c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 29,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1224101c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 30,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1224202c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 31,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1224303c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 32,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1224404c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 33,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1234101c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 34,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 7500,
+            "rewardId": "t1234202c1",
+            "basePrice": 1500
+        }
+    },
+    {
+        "pk": 35,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1234303c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 36,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1234404c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 37,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 7500,
+            "rewardId": "t1244101c1",
+            "basePrice": 1500
+        }
+    },
+    {
+        "pk": 38,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 7500,
+            "rewardId": "t1244202c1",
+            "basePrice": 1500
+        }
+    },
+    {
+        "pk": 39,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1244303c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 40,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1244404c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 41,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1254101c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 42,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 7500,
+            "rewardId": "t1254202c1",
+            "basePrice": 1500
+        }
+    },
+    {
+        "pk": 43,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1254303c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 44,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1254404c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 45,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 7500,
+            "rewardId": "t1264101c1",
+            "basePrice": 1500
+        }
+    },
+    {
+        "pk": 46,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 7500,
+            "rewardId": "t1264202c1",
+            "basePrice": 1500
+        }
+    },
+    {
+        "pk": 47,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1264303c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 48,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 10000,
+            "rewardId": "t1264404c1",
+            "basePrice": 2000
+        }
+    },
+    {
+        "pk": 49,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 20000,
+            "rewardId": "t1217101c1",
+            "basePrice": 4000
+        }
+    },
+    {
+        "pk": 50,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 25000,
+            "rewardId": "t1217202c1",
+            "basePrice": 5000
+        }
+    },
+    {
+        "pk": 51,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 25000,
+            "rewardId": "t1227303c1",
+            "basePrice": 5000
+        }
+    },
+    {
+        "pk": 52,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 25000,
+            "rewardId": "t1227404c1",
+            "basePrice": 5000
+        }
+    },
+    {
+        "pk": 53,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 25000,
+            "rewardId": "t1237101c1",
+            "basePrice": 5000
+        }
+    },
+    {
+        "pk": 54,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 20000,
+            "rewardId": "t1237202c1",
+            "basePrice": 4000
+        }
+    },
+    {
+        "pk": 55,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 25000,
+            "rewardId": "t1247303c1",
+            "basePrice": 5000
+        }
+    },
+    {
+        "pk": 56,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 25000,
+            "rewardId": "t1247404c1",
+            "basePrice": 5000
+        }
+    },
+    {
+        "pk": 57,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 25000,
+            "rewardId": "t1257303c1",
+            "basePrice": 5000
+        }
+    },
+    {
+        "pk": 58,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 20000,
+            "rewardId": "t1257404c1",
+            "basePrice": 4000
+        }
+    },
+    {
+        "pk": 59,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 25000,
+            "rewardId": "t1267303c1",
+            "basePrice": 5000
+        }
+    },
+    {
+        "pk": 60,
+        "model": "guild.guildauctionreward",
+        "fields": {
+            "stepPrice": 50,
+            "maxPrice": 25000,
+            "rewardId": "t1267404c1",
+            "basePrice": 5000
+        }
+    }
+]

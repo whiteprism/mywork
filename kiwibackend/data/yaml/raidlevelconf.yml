@@ -1,0 +1,123 @@
+
+table:
+  out-type: json
+  sheet: 活动副本关卡
+  row: 3
+  model: instance.raidlevelconf
+  columns:
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: difficulty
+      column: difficulty
+      type: int
+      default: 0
+
+    - name: heroExp
+      column: heroExp
+      type: int
+      default: 0
+
+    - name: playerExp
+      column: playerExp
+      type: int
+      default: 0
+
+    - name: minUserLevel
+      column: minUserLevel
+      type: int
+      default: 0
+
+    - name: maxUserLevel
+      column: maxUserLevel
+      type: int
+      default: 0
+
+    - name: monsterId
+      column: monsterId
+      type: int
+      default: 0
+
+    - name: revisionScale
+      column: revisionScale
+      type: float
+      default: 0.0
+
+    - name: scene
+      column: scene
+      type: char
+      default: ""
+
+    - name: gold
+      column: gold
+      type: int
+      default: 0
+
+    - name: rewardId_int
+      column: rewardId
+      type: char
+      default: ""
+
+    - name: probability_float
+      column: probability
+      type: char
+      default: ""
+
+    - name: count_float
+      column: count
+      type: char
+      default: ""
+
+    - name: minCount_float
+      column: minCount
+      type: char
+      default: ""
+
+    - name: enemyIds_int
+      column: enemyIds
+      type: char
+      default: ""
+
+    - name: iconId
+      column: iconId
+      type: char
+      default: ""
+
+    - name: raidLevelName
+      column: raidLevelName
+      type: char
+      default: ""
+
+    - name: zoneIDs_int
+      column: zoneIDs
+      type: char
+      default: ""
+
+    - name: triggerInfos_int
+      column: triggerInfos
+      type: char
+      default: ""
+
+    - name: backImageId
+      column: backImageId
+      type: char
+      default: ""
+
+    - name: extroImageId
+      column: extroImageId
+      type: char
+      default: ""
+
+    - name: suggestHeroIds_int
+      column: suggestHeroIds
+      type: char
+      default: ""
+
+

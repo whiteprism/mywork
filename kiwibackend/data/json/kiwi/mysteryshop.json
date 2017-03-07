@@ -1,0 +1,1994 @@
+[
+    {
+        "pk": 1001,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u65a7\u738b\u788e\u7247",
+            "gold": 90000,
+            "rewardId": "t2010001c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u706b\u5973\u788e\u7247",
+            "gold": 90000,
+            "rewardId": "t2040004c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u5c0f\u9e7f\u788e\u7247",
+            "gold": 90000,
+            "rewardId": "t2050003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u5c0f\u9ed1\u788e\u7247",
+            "gold": 90000,
+            "rewardId": "t2060004c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1005,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u523a\u86c7\u788e\u7247",
+            "gold": 90000,
+            "rewardId": "t2060007c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1006,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u6f6e\u6c50\u788e\u7247",
+            "gold": 300000,
+            "rewardId": "t2010002c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1007,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u5927\u725b\u788e\u7247",
+            "gold": 300000,
+            "rewardId": "t2030003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1008,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u5c0f\u5a1c\u8fe6\u788e\u7247",
+            "gold": 300000,
+            "rewardId": "t2020004c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1009,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u62cd\u62cd\u718a\u788e\u7247",
+            "gold": 300000,
+            "rewardId": "t2020007c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1010,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u51b0\u5973\u788e\u7247",
+            "gold": 300000,
+            "rewardId": "t2040003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1011,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u75db\u82e6\u5973\u738b\u788e\u7247",
+            "gold": 300000,
+            "rewardId": "t2040006c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1012,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u672f\u58eb\u788e\u7247",
+            "gold": 300000,
+            "rewardId": "t2050004c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1013,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u8239\u957f\u788e\u7247",
+            "gold": 90000,
+            "rewardId": "t2020002c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1014,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u6697\u5f71\u7267\u5e08",
+            "gold": 300000,
+            "rewardId": "t2050005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1015,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u5b99\u65af\u788e\u7247",
+            "gold": 300000,
+            "rewardId": "t2040005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1016,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u706b\u67aa\u788e\u7247",
+            "gold": 300000,
+            "rewardId": "t2060005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1017,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 1,
+            "diamond": 0,
+            "name": "\u767d\u864e\u788e\u7247",
+            "gold": 300000,
+            "rewardId": "t2060003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1018,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 30,
+            "name": "\u65a7\u738b\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2010001c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1019,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 30,
+            "name": "\u706b\u5973\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040004c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1020,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 30,
+            "name": "\u5c0f\u9e7f\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2050003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1021,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 30,
+            "name": "\u5c0f\u9ed1\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060004c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1022,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 30,
+            "name": "\u523a\u86c7\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060007c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1023,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 90,
+            "name": "\u6f6e\u6c50\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2010002c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1024,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 150,
+            "name": "\u6b7b\u9a91\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2010003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1025,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 90,
+            "name": "\u5927\u725b\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2030003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1026,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 90,
+            "name": "\u5c0f\u5a1c\u8fe6\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020004c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1027,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 90,
+            "name": "\u62cd\u62cd\u718a\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020007c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1028,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 90,
+            "name": "\u51b0\u5973\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1029,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 90,
+            "name": "\u75db\u82e6\u5973\u738b\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040006c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1030,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 90,
+            "name": "\u672f\u58eb\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2050004c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1031,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 90,
+            "name": "\u767d\u864e\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1032,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 30,
+            "name": "\u8239\u957f\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020002c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1033,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 90,
+            "name": "\u6697\u5f71\u7267\u5e08",
+            "gold": 0,
+            "rewardId": "t2050005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1034,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 90,
+            "name": "\u5b99\u65af\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1035,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 90,
+            "name": "\u706b\u67aa\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1036,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 150,
+            "name": "\u672b\u65e5\u4f7f\u8005\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2010005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1037,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 150,
+            "name": "\u654c\u6cd5\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1038,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 150,
+            "name": "\u5251\u5723\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020006c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1039,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 150,
+            "name": "\u5723\u9a91\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2030001c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1040,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 150,
+            "name": "\u6c89\u9ed8\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040002c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1041,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 150,
+            "name": "\u5deb\u5996\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2050002c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1042,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 150,
+            "name": "\u5f71\u9b54\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060001c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1043,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 150,
+            "name": "\u98ce\u884c\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060002c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1044,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 150,
+            "name": "\u8428\u5c14\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040007c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1045,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 2,
+            "diamond": 150,
+            "name": "\u6697\u5802\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020008c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1046,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 0,
+            "name": "\u521d\u7ea7\u706b\u5143\u7d20",
+            "gold": 10000,
+            "rewardId": "t2621401c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1047,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 0,
+            "name": "\u521d\u7ea7\u6c34\u5143\u7d20",
+            "gold": 10000,
+            "rewardId": "t2621402c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1048,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 0,
+            "name": "\u521d\u7ea7\u571f\u5143\u7d20",
+            "gold": 10000,
+            "rewardId": "t2621403c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1049,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 0,
+            "name": "\u521d\u7ea7\u98ce\u5143\u7d20",
+            "gold": 10000,
+            "rewardId": "t2621404c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1050,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 0,
+            "name": "\u521d\u7ea7\u5149\u5143\u7d20",
+            "gold": 10000,
+            "rewardId": "t2621405c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1051,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 0,
+            "name": "\u521d\u7ea7\u6697\u5143\u7d20",
+            "gold": 10000,
+            "rewardId": "t2621406c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1052,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 15,
+            "name": "\u4e2d\u7ea7\u706b\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621501c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1053,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 15,
+            "name": "\u4e2d\u7ea7\u6c34\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621502c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1054,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 15,
+            "name": "\u4e2d\u7ea7\u571f\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621503c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1055,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 15,
+            "name": "\u4e2d\u7ea7\u98ce\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621504c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1056,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 15,
+            "name": "\u4e2d\u7ea7\u5149\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621505c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1057,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 15,
+            "name": "\u4e2d\u7ea7\u6697\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621506c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1058,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u706b\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621601c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1059,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u6c34\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621602c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1060,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u571f\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621603c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1061,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u98ce\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621604c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1062,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u5149\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621605c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1063,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 3,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u6697\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621606c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1064,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 4,
+            "diamond": 0,
+            "name": "\u521d\u7ea7\u52c7\u6c14\u4e4b\u4e66",
+            "gold": 20000,
+            "rewardId": "t2622001c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1065,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 4,
+            "diamond": 0,
+            "name": "\u521d\u7ea7\u667a\u6167\u4e4b\u4e66",
+            "gold": 20000,
+            "rewardId": "t2622002c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1066,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 4,
+            "diamond": 0,
+            "name": "\u521d\u7ea7\u5e78\u8fd0\u4e4b\u4e66",
+            "gold": 20000,
+            "rewardId": "t2622003c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1067,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 4,
+            "diamond": 25,
+            "name": "\u4e2d\u7ea7\u52c7\u6c14\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622101c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1068,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 4,
+            "diamond": 25,
+            "name": "\u4e2d\u7ea7\u667a\u6167\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622102c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1069,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 4,
+            "diamond": 25,
+            "name": "\u4e2d\u7ea7\u5e78\u8fd0\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622103c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1070,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 4,
+            "diamond": 100,
+            "name": "\u9ad8\u7ea7\u52c7\u6c14\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622201c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1071,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 4,
+            "diamond": 100,
+            "name": "\u9ad8\u7ea7\u667a\u6167\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622202c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1072,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 4,
+            "diamond": 100,
+            "name": "\u9ad8\u7ea7\u5e78\u8fd0\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622203c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1073,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 5,
+            "diamond": 0,
+            "name": "\u7ecf\u9a8c\u836f\u6c34",
+            "gold": 20000,
+            "rewardId": "t2620101c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1074,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 5,
+            "diamond": 0,
+            "name": "\u5f3a\u6548\u7ecf\u9a8c\u836f\u6c34",
+            "gold": 60000,
+            "rewardId": "t2620102c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1075,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 5,
+            "diamond": 100,
+            "name": "\u8d85\u5f3a\u7ecf\u9a8c\u836f\u6c34",
+            "gold": 0,
+            "rewardId": "t2620103c10",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1076,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 30,
+            "name": "\u65a7\u738b\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2010001c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1077,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 30,
+            "name": "\u706b\u5973\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040004c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1078,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 30,
+            "name": "\u5c0f\u9e7f\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2050003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1079,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 30,
+            "name": "\u5c0f\u9ed1\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060004c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1080,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 30,
+            "name": "\u523a\u86c7\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060007c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1081,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 30,
+            "name": "\u8239\u957f\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020002c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1082,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 90,
+            "name": "\u6f6e\u6c50\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2010002c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1083,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 90,
+            "name": "\u5927\u725b\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2030003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1084,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 90,
+            "name": "\u5c0f\u5a1c\u8fe6\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020004c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1085,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 90,
+            "name": "\u62cd\u62cd\u718a\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020007c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1086,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 90,
+            "name": "\u51b0\u5973\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1087,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 90,
+            "name": "\u75db\u82e6\u5973\u738b\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040006c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1088,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 90,
+            "name": "\u672f\u58eb\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2050004c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1089,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 90,
+            "name": "\u767d\u864e\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1090,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 90,
+            "name": "\u6697\u5f71\u7267\u5e08",
+            "gold": 0,
+            "rewardId": "t2050005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1091,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 90,
+            "name": "\u5b99\u65af\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1092,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 11,
+            "diamond": 90,
+            "name": "\u706b\u67aa\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1093,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 90,
+            "name": "\u6f6e\u6c50\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2010002c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1094,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 90,
+            "name": "\u5927\u725b\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2030003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1095,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 90,
+            "name": "\u5c0f\u5a1c\u8fe6\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020004c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1096,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 90,
+            "name": "\u62cd\u62cd\u718a\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020007c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1097,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 90,
+            "name": "\u51b0\u5973\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1098,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 90,
+            "name": "\u75db\u82e6\u5973\u738b\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040006c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1099,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 90,
+            "name": "\u672f\u58eb\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2050004c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1100,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 90,
+            "name": "\u767d\u864e\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1101,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 90,
+            "name": "\u6697\u5f71\u7267\u5e08",
+            "gold": 0,
+            "rewardId": "t2050005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1102,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 90,
+            "name": "\u5b99\u65af\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1103,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 90,
+            "name": "\u706b\u67aa\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1104,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 150,
+            "name": "\u672b\u65e5\u4f7f\u8005\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2010005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1105,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 150,
+            "name": "\u654c\u6cd5\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020005c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1106,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 150,
+            "name": "\u5251\u5723\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020006c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1107,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 150,
+            "name": "\u5723\u9a91\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2030001c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1108,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 150,
+            "name": "\u6c89\u9ed8\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040002c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1109,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 150,
+            "name": "\u5deb\u5996\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2050002c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1110,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 150,
+            "name": "\u6b7b\u9a91\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2010003c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1111,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 150,
+            "name": "\u5f71\u9b54\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060001c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1112,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 150,
+            "name": "\u98ce\u884c\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060002c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1113,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 150,
+            "name": "\u8428\u5c14\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040007c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1114,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 12,
+            "diamond": 150,
+            "name": "\u6697\u5802\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020008c3",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1115,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 13,
+            "diamond": 15,
+            "name": "\u4e2d\u7ea7\u706b\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621501c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1116,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 13,
+            "diamond": 15,
+            "name": "\u4e2d\u7ea7\u6c34\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621502c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1117,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 13,
+            "diamond": 15,
+            "name": "\u4e2d\u7ea7\u571f\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621503c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1118,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 13,
+            "diamond": 15,
+            "name": "\u4e2d\u7ea7\u98ce\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621504c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1119,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 13,
+            "diamond": 15,
+            "name": "\u4e2d\u7ea7\u5149\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621505c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1120,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 13,
+            "diamond": 15,
+            "name": "\u4e2d\u7ea7\u6697\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621506c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1121,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 13,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u706b\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621601c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1122,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 13,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u6c34\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621602c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1123,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 13,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u571f\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621603c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1124,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 13,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u98ce\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621604c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1125,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 13,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u5149\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621605c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1126,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 13,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u6697\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621606c1",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1127,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 14,
+            "diamond": 25,
+            "name": "\u4e2d\u7ea7\u52c7\u6c14\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622101c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1128,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 14,
+            "diamond": 25,
+            "name": "\u4e2d\u7ea7\u667a\u6167\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622102c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1129,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 14,
+            "diamond": 25,
+            "name": "\u4e2d\u7ea7\u5e78\u8fd0\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622103c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1130,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 14,
+            "diamond": 100,
+            "name": "\u9ad8\u7ea7\u52c7\u6c14\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622201c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1131,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 14,
+            "diamond": 100,
+            "name": "\u9ad8\u7ea7\u667a\u6167\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622202c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1132,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 14,
+            "diamond": 100,
+            "name": "\u9ad8\u7ea7\u5e78\u8fd0\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622203c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1133,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 15,
+            "diamond": 20,
+            "name": "\u5f3a\u6548\u7ecf\u9a8c\u836f\u6c34",
+            "gold": 0,
+            "rewardId": "t2620102c5",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1134,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 15,
+            "diamond": 100,
+            "name": "\u8d85\u5f3a\u7ecf\u9a8c\u836f\u6c34",
+            "gold": 0,
+            "rewardId": "t2620103c10",
+            "vipLevelLimit": 0
+        }
+    },
+    {
+        "pk": 1135,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u6f6e\u6c50\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2010002c5",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1136,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u5927\u725b\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2030003c5",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1137,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u5c0f\u5a1c\u8fe6\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020004c5",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1138,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u62cd\u62cd\u718a\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020007c5",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1139,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u51b0\u5973\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040003c5",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1140,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u75db\u82e6\u5973\u738b\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040006c5",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1141,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u672f\u58eb\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2050004c5",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1142,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u767d\u864e\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060003c5",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1143,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u6697\u5f71\u7267\u5e08",
+            "gold": 0,
+            "rewardId": "t2050005c5",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1144,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u5b99\u65af\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040005c5",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1145,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u706b\u67aa\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060005c5",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1146,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u672b\u65e5\u4f7f\u8005\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2010005c3",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1147,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u654c\u6cd5\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020005c3",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1148,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u5251\u5723\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020006c3",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1149,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u5723\u9a91\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2030001c3",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1150,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u6c89\u9ed8\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040002c3",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1151,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u5deb\u5996\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2050002c3",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1152,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u6b7b\u9a91\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2010003c3",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1153,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u5f71\u9b54\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060001c3",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1154,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u98ce\u884c\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2060002c3",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1155,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u8428\u5c14\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2040007c3",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1156,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 21,
+            "diamond": 150,
+            "name": "\u6697\u5802\u788e\u7247",
+            "gold": 0,
+            "rewardId": "t2020008c3",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1157,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 22,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u706b\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621601c1",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1158,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 22,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u6c34\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621602c1",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1159,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 22,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u571f\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621603c1",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1160,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 22,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u98ce\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621604c1",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1161,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 22,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u5149\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621605c1",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1162,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 22,
+            "diamond": 60,
+            "name": "\u9ad8\u7ea7\u6697\u5143\u7d20",
+            "gold": 0,
+            "rewardId": "t2621606c1",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1163,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 23,
+            "diamond": 100,
+            "name": "\u9ad8\u7ea7\u52c7\u6c14\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622201c5",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1164,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 23,
+            "diamond": 100,
+            "name": "\u9ad8\u7ea7\u667a\u6167\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622202c5",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1165,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 23,
+            "diamond": 100,
+            "name": "\u9ad8\u7ea7\u5e78\u8fd0\u4e4b\u4e66",
+            "gold": 0,
+            "rewardId": "t2622203c5",
+            "vipLevelLimit": 10
+        }
+    },
+    {
+        "pk": 1166,
+        "model": "mysteryshop.mysteryshop",
+        "fields": {
+            "show_id": 24,
+            "diamond": 100,
+            "name": "\u8d85\u5f3a\u7ecf\u9a8c\u836f\u6c34",
+            "gold": 0,
+            "rewardId": "t2620103c10",
+            "vipLevelLimit": 10
+        }
+    }
+]

@@ -1,0 +1,38 @@
+
+table:
+  out-type: json
+  sheet: experiment
+  row: 3
+  model: experiment.experiment
+  columns:
+    - name: started_at1
+      column: started_at1
+      type: char
+      default: "2000-01-01 00:00:00"
+
+    - name: ended_at1
+      column: ended_at1
+      type: char
+      default: "2000-01-01 00:00:00"
+
+    - name: started_at2
+      column: started_at2
+      type: char
+      default: "2000-01-01 00:00:00"
+
+    - name: ended_at2
+      column: ended_at2
+      type: char
+      default: "2000-01-01 00:00:00"
+
+    - name: started_at3
+      column: started_at3
+      type: char
+      default: "2000-01-01 00:00:00"
+
+    - name: ended_at3
+      column: ended_at3
+      type: char
+      default: "2000-01-01 00:00:00"
+
+

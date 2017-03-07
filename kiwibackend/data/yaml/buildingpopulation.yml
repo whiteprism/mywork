@@ -1,0 +1,22 @@
+
+table:
+  out-type: json
+  sheet: 建筑人口
+  row: 3
+  model: building.buildingpopulation
+  columns:
+    - name: building
+      column: building
+      type: int
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: popCount
+      column: popCount
+      type: int
+      default: 0
+
+

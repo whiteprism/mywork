@@ -1,0 +1,33 @@
+
+table:
+  out-type: json
+  sheet: 离线奖励
+  row: 3
+  model: offlinebonus.offlinebonusbase
+  columns:
+    - name: count
+      column: count
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: type
+      column: type
+      type: int
+      default: 0
+
+    - name: lev_add
+      column: lev_add
+      type: int
+      default: 0
+
+    - name: day_add
+      column: day_add
+      type: int
+      default: 0
+
+

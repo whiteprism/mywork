@@ -1,0 +1,83 @@
+[
+    {
+        "pk": 1001,
+        "model": "building.buildingattribute",
+        "fields": {
+            "attrType": "extraHp",
+            "maxValue": 0.02,
+            "minValue": 0.01
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "building.buildingattribute",
+        "fields": {
+            "attrType": "extraHp",
+            "maxValue": 0.05,
+            "minValue": 0.02
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "building.buildingattribute",
+        "fields": {
+            "attrType": "extraHp",
+            "maxValue": 0.09,
+            "minValue": 0.05
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "building.buildingattribute",
+        "fields": {
+            "attrType": "extraAttack",
+            "maxValue": 0.025,
+            "minValue": 0.01
+        }
+    },
+    {
+        "pk": 1005,
+        "model": "building.buildingattribute",
+        "fields": {
+            "attrType": "extraAttack",
+            "maxValue": 0.05,
+            "minValue": 0.02
+        }
+    },
+    {
+        "pk": 1006,
+        "model": "building.buildingattribute",
+        "fields": {
+            "attrType": "extraAttack",
+            "maxValue": 0.09,
+            "minValue": 0.05
+        }
+    },
+    {
+        "pk": 1007,
+        "model": "building.buildingattribute",
+        "fields": {
+            "attrType": "extraDamageFree",
+            "maxValue": 0.025,
+            "minValue": 0.01
+        }
+    },
+    {
+        "pk": 1008,
+        "model": "building.buildingattribute",
+        "fields": {
+            "attrType": "extraDamageFree",
+            "maxValue": 0.05,
+            "minValue": 0.02
+        }
+    },
+    {
+        "pk": 1009,
+        "model": "building.buildingattribute",
+        "fields": {
+            "attrType": "extraDamageFree",
+            "maxValue": 0.09,
+            "minValue": 0.05
+        }
+    }
+]

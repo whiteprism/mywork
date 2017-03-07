@@ -1,0 +1,1298 @@
+[
+    {
+        "pk": 20010101,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110001,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20010201,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110002,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20010301,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110005,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200103010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200100,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20010401,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1130003,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20010501,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120004,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20010601,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120005,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200106010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "100100,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20010701,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120006,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20010801,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120007,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20010901,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1130001,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200109010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200101,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20011001,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140002,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20011101,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140003,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20011201,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140002,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200112010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200102,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20011301,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140006,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20011401,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1150002,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20011501,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1150003,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200115010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "100100,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20011601,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120005,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20011701,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120006,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20011801,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120007,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200118010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200103,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20011901,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160007,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20012001,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140002,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20012101,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120008,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200121010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200104,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20012201,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110001,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20012301,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110002,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20012401,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110005,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200124010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "100100,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20012501,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1130003,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20012601,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120004,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20012701,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160001,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200127010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200105,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20012801,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120006,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20012901,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160007,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20013001,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1130001,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200130010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200106,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20013101,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140002,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20013201,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140003,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20013301,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140004,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200133010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "100100,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20013401,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140006,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,50,70"
+        }
+    },
+    {
+        "pk": 20013501,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1150002,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,50,70"
+        }
+    },
+    {
+        "pk": 20013601,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1150003,
+            "rewards_int": "100300,100200",
+            "difficulty_int": "0,50,70"
+        }
+    },
+    {
+        "pk": 200136010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200107,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20020101,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1150004,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20020201,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160001,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20020301,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160007,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200203010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200200,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20020401,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120008,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20020501,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110002,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20020601,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140006,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200206010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "100100,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20020701,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160003,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20020801,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120006,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20020901,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110002,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200209010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200201,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20021001,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110005,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20021101,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1130003,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20021201,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120004,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200212010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200202,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20021301,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1900009,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20021401,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160007,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20021501,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120006,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200215010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "100100,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20021601,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110005,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20021701,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140002,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20021801,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160001,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200218010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200203,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20021901,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140004,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20022001,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1150003,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20022101,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1150004,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200221010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200204,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20022201,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1150003,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20022301,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1150004,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20022401,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160001,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200224010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "100100,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20022501,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140002,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20022601,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1130001,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20022701,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120008,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200227010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200205,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20022801,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110005,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20022901,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120005,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20023001,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160007,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200230010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200206,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20023101,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140002,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20023201,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160007,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20023301,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1130003,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200233010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "100100,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20023401,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140006,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,50,70"
+        }
+    },
+    {
+        "pk": 20023501,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1150002,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,50,70"
+        }
+    },
+    {
+        "pk": 20023601,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110001,
+            "rewards_int": "100301,100201",
+            "difficulty_int": "0,50,70"
+        }
+    },
+    {
+        "pk": 200236010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200207,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20030101,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160007,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20030201,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120007,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20030301,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1130001,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200303010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200300,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20030401,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1150004,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20030501,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140003,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20030601,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120006,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200306010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "100100,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20030701,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1130001,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20030801,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140002,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20030901,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1150002,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200309010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200301,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20031001,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1150004,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20031101,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160001,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20031201,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110002,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200312010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200302,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20031301,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160007,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20031401,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120004,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 20031501,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1130001,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,30,50"
+        }
+    },
+    {
+        "pk": 200315010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "100100,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20031601,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110002,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20031701,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140003,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20031801,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110001,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200318010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200303,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20031901,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120005,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20032001,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120007,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20032101,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160002,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200321010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200304,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20032201,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110001,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20032301,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120005,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20032401,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140005,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200324010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "100100,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20032501,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120007,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20032601,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1130001,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20032701,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140006,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200327010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200305,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20032801,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1140003,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20032901,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110001,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20033001,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120005,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200330010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200306,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20033101,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120007,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20033201,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1160007,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 20033301,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110001,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,40,60"
+        }
+    },
+    {
+        "pk": 200333010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "100100,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    },
+    {
+        "pk": 20033401,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120005,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,50,70"
+        }
+    },
+    {
+        "pk": 20033501,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1110005,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,50,70"
+        }
+    },
+    {
+        "pk": 20033601,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 1120007,
+            "rewards_int": "100302,100202",
+            "difficulty_int": "0,50,70"
+        }
+    },
+    {
+        "pk": 200336010,
+        "model": "instance.raidenemytoreward",
+        "fields": {
+            "monsterId": 0,
+            "rewards_int": "200307,100401,100402,100403,100404,100405",
+            "difficulty_int": ""
+        }
+    }
+]

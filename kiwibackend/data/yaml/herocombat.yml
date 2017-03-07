@@ -1,0 +1,68 @@
+
+table:
+  out-type: json
+  sheet: 英雄战斗力参考表
+  row: 3
+  model: hero.herocombat
+  columns:
+    - name: atk
+      column: atk
+      type: float
+      default: 0.0
+
+    - name: hp
+      column: hp
+      type: float
+      default: 0.0
+
+    - name: armor
+      column: armor
+      type: float
+      default: 0.0
+
+    - name: magArmor
+      column: magArmor
+      type: float
+      default: 0.0
+
+    - name: phyPenetr
+      column: phyPenetr
+      type: float
+      default: 0.0
+
+    - name: magPenetr
+      column: magPenetr
+      type: float
+      default: 0.0
+
+    - name: hitin
+      column: hitin
+      type: float
+      default: 0.0
+
+    - name: dodge
+      column: dodge
+      type: float
+      default: 0.0
+
+    - name: crit
+      column: crit
+      type: float
+      default: 0.0
+
+    - name: toughness
+      column: toughness
+      type: float
+      default: 0.0
+
+    - name: etrAtkReduc
+      column: etrAtkReduc
+      type: float
+      default: 0.0
+
+    - name: energy
+      column: energy
+      type: float
+      default: 0.0
+
+

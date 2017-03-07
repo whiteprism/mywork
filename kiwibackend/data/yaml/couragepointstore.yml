@@ -1,0 +1,28 @@
+
+table:
+  out-type: json
+  sheet: 勇气商店
+  row: 3
+  model: item.couragepointstore
+  columns:
+    - name: couragepoint
+      column: couragepoint
+      type: int
+      default: 0
+
+    - name: item_id
+      column: item_id
+      type: int
+      default: 0
+
+    - name: count
+      column: count
+      type: int
+      default: 0
+
+    - name: orderId
+      column: orderId
+      type: int
+      default: 0
+
+

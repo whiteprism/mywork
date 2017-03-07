@@ -1,0 +1,43 @@
+
+table:
+  out-type: json
+  sheet: 建筑碎片
+  row: 3
+  model: building.buildingfragment
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: "0"
+
+    - name: buildingId
+      column: buildingId
+      type: int
+      default: 0
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: icon
+      column: icon
+      type: char
+      default: ""
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: searchDifficuty_int
+      column: searchDifficuty
+      type: char
+      default: ""
+
+    - name: searchInstances_int
+      column: searchInstances
+      type: char
+      default: ""
+
+

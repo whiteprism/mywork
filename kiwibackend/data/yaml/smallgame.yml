@@ -1,0 +1,18 @@
+
+table:
+  out-type: json
+  sheet: 小游戏
+  row: 3
+  model: instance.smallgame
+  columns:
+    - name: score
+      column: score
+      type: int
+      default: 0
+
+    - name: rewards_int
+      column: rewards
+      type: char
+      default: ""
+
+

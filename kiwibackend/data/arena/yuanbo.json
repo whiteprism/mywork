@@ -1,0 +1,184 @@
+[
+    {
+        "pk": 100100,
+        "model": "yuanbo.yuanbo",
+        "fields": {
+            "reward_amount": 5,
+            "is_ios": 0,
+            "name": "100\u94bb\u77f3",
+            "price": 10,
+            "first_amount": 100,
+            "amount": 100,
+            "iconId": "icon_510001"
+        }
+    },
+    {
+        "pk": 100300,
+        "model": "yuanbo.yuanbo",
+        "fields": {
+            "reward_amount": 15,
+            "is_ios": 0,
+            "name": "300\u94bb\u77f3",
+            "price": 30,
+            "first_amount": 300,
+            "amount": 300,
+            "iconId": "icon_510002"
+        }
+    },
+    {
+        "pk": 100500,
+        "model": "yuanbo.yuanbo",
+        "fields": {
+            "reward_amount": 35,
+            "is_ios": 0,
+            "name": "500\u94bb\u77f3",
+            "price": 50,
+            "first_amount": 500,
+            "amount": 500,
+            "iconId": "icon_510003"
+        }
+    },
+    {
+        "pk": 101000,
+        "model": "yuanbo.yuanbo",
+        "fields": {
+            "reward_amount": 100,
+            "is_ios": 0,
+            "name": "1000\u94bb\u77f3",
+            "price": 100,
+            "first_amount": 1000,
+            "amount": 1000,
+            "iconId": "icon_510004"
+        }
+    },
+    {
+        "pk": 102000,
+        "model": "yuanbo.yuanbo",
+        "fields": {
+            "reward_amount": 200,
+            "is_ios": 0,
+            "name": "2000\u94bb\u77f3",
+            "price": 200,
+            "first_amount": 2000,
+            "amount": 2000,
+            "iconId": "icon_510005"
+        }
+    },
+    {
+        "pk": 105000,
+        "model": "yuanbo.yuanbo",
+        "fields": {
+            "reward_amount": 800,
+            "is_ios": 0,
+            "name": "5000\u94bb\u77f3",
+            "price": 500,
+            "first_amount": 5000,
+            "amount": 5000,
+            "iconId": "icon_510006"
+        }
+    },
+    {
+        "pk": 110000,
+        "model": "yuanbo.yuanbo",
+        "fields": {
+            "reward_amount": 2000,
+            "is_ios": 0,
+            "name": "10000\u94bb\u77f3",
+            "price": 1000,
+            "first_amount": 10000,
+            "amount": 10000,
+            "iconId": "icon_510007"
+        }
+    },
+    {
+        "pk": 120000,
+        "model": "yuanbo.yuanbo",
+        "fields": {
+            "reward_amount": 5000,
+            "is_ios": 0,
+            "name": "20000\u94bb\u77f3",
+            "price": 2000,
+            "first_amount": 20000,
+            "amount": 20000,
+            "iconId": "icon_510008"
+        }
+    },
+    {
+        "pk": 200060,
+        "model": "yuanbo.yuanbo",
+        "fields": {
+            "reward_amount": 3,
+            "is_ios": 1,
+            "name": "60\u94bb\u77f3",
+            "price": 6,
+            "first_amount": 60,
+            "amount": 60,
+            "iconId": "icon_510001"
+        }
+    },
+    {
+        "pk": 200300,
+        "model": "yuanbo.yuanbo",
+        "fields": {
+            "reward_amount": 15,
+            "is_ios": 1,
+            "name": "300\u94bb\u77f3",
+            "price": 30,
+            "first_amount": 300,
+            "amount": 300,
+            "iconId": "icon_510002"
+        }
+    },
+    {
+        "pk": 200980,
+        "model": "yuanbo.yuanbo",
+        "fields": {
+            "reward_amount": 100,
+            "is_ios": 1,
+            "name": "980\u94bb\u77f3",
+            "price": 98,
+            "first_amount": 980,
+            "amount": 980,
+            "iconId": "icon_510003"
+        }
+    },
+    {
+        "pk": 201980,
+        "model": "yuanbo.yuanbo",
+        "fields": {
+            "reward_amount": 200,
+            "is_ios": 1,
+            "name": "1980\u94bb\u77f3",
+            "price": 198,
+            "first_amount": 1980,
+            "amount": 1980,
+            "iconId": "icon_510004"
+        }
+    },
+    {
+        "pk": 203280,
+        "model": "yuanbo.yuanbo",
+        "fields": {
+            "reward_amount": 600,
+            "is_ios": 1,
+            "name": "3280\u94bb\u77f3",
+            "price": 328,
+            "first_amount": 3280,
+            "amount": 3280,
+            "iconId": "icon_510005"
+        }
+    },
+    {
+        "pk": 206480,
+        "model": "yuanbo.yuanbo",
+        "fields": {
+            "reward_amount": 2000,
+            "is_ios": 1,
+            "name": "6480\u94bb\u77f3",
+            "price": 648,
+            "first_amount": 6480,
+            "amount": 6480,
+            "iconId": "icon_510006"
+        }
+    }
+]

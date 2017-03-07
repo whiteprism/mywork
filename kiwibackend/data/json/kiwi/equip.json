@@ -1,0 +1,1922 @@
+[
+    {
+        "pk": 1211101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12111011",
+            "category": 1,
+            "equipSuitId": 1001,
+            "name": "\u82f1\u52c7\u5de8\u5251",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100101,100204,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "1110101,1110102",
+            "nameId": "equip_1211101",
+            "icon": "Equip_1211101"
+        }
+    },
+    {
+        "pk": 1211202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12112021",
+            "category": 2,
+            "equipSuitId": 1001,
+            "name": "\u82f1\u52c7\u5934\u76d4",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100102,100305,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "1120201,1120202",
+            "nameId": "equip_1211202",
+            "icon": "Equip_1211202"
+        }
+    },
+    {
+        "pk": 1211303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12113031",
+            "category": 3,
+            "equipSuitId": 1001,
+            "name": "\u82f1\u52c7\u6218\u7532",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100108,100301,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "1130301,1130302",
+            "nameId": "equip_1211303",
+            "icon": "Equip_1211303"
+        }
+    },
+    {
+        "pk": 1211404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12114041",
+            "category": 4,
+            "equipSuitId": 1001,
+            "name": "\u82f1\u52c7\u817f\u94e0",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100203,100310,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "1140401,1140402",
+            "nameId": "equip_1211404",
+            "icon": "Equip_1211404"
+        }
+    },
+    {
+        "pk": 1212101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12121011",
+            "category": 1,
+            "equipSuitId": 1002,
+            "name": "\u6012\u706b\u4e4b\u5251",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100401,100605,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "1210101,1210102",
+            "nameId": "equip_1212101",
+            "icon": "Equip_1212101"
+        }
+    },
+    {
+        "pk": 1212202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12122021",
+            "category": 2,
+            "equipSuitId": 1002,
+            "name": "\u6012\u706b\u6218\u76d4",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100407,100701,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "1220201,1220202",
+            "nameId": "equip_1212202",
+            "icon": "Equip_1212202"
+        }
+    },
+    {
+        "pk": 1212303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12123031",
+            "category": 3,
+            "equipSuitId": 1002,
+            "name": "\u6012\u706b\u80f8\u94e0",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100503,100707,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "1230301,1230302",
+            "nameId": "equip_1212303",
+            "icon": "Equip_1212303"
+        }
+    },
+    {
+        "pk": 1212404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12124041",
+            "category": 4,
+            "equipSuitId": 1002,
+            "name": "\u6012\u706b\u817f\u94e0",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100509,100806,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "1240401,1240402",
+            "nameId": "equip_1212404",
+            "icon": "Equip_1212404"
+        }
+    },
+    {
+        "pk": 1214101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12141011",
+            "category": 1,
+            "equipSuitId": 1004,
+            "name": "\u6218\u4e89\u4e4b\u77db\u5de8\u5251",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "101001,101206,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "1410101,1410102",
+            "nameId": "equip_1214101",
+            "icon": "Equip_1214101"
+        }
+    },
+    {
+        "pk": 1214202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12142021",
+            "category": 2,
+            "equipSuitId": 1004,
+            "name": "\u6218\u4e89\u4e4b\u77db\u6218\u76d4",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "100708,101103,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "1420201,1420202",
+            "nameId": "equip_1214202",
+            "icon": "Equip_1214202"
+        }
+    },
+    {
+        "pk": 1214303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12143031",
+            "category": 3,
+            "equipSuitId": 1004,
+            "name": "\u6218\u4e89\u4e4b\u77db\u80f8\u94e0",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "100810,101109,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "1430301,1430302",
+            "nameId": "equip_1214303",
+            "icon": "Equip_1214303"
+        }
+    },
+    {
+        "pk": 1214404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12144041",
+            "category": 4,
+            "equipSuitId": 1004,
+            "name": "\u6218\u4e89\u4e4b\u77db\u817f\u94e0",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "101007,101303,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "1440401,1440402",
+            "nameId": "equip_1214404",
+            "icon": "Equip_1214404"
+        }
+    },
+    {
+        "pk": 1217101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12171011",
+            "category": 1,
+            "equipSuitId": 1007,
+            "name": "\u7ea2\u9f99\u4e4b\u5fc3\u5de8\u5251",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101110,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "1710101,1710102",
+            "nameId": "equip_1217101",
+            "icon": "Equip_1217101"
+        }
+    },
+    {
+        "pk": 1217202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12172021",
+            "category": 2,
+            "equipSuitId": 1007,
+            "name": "\u7ea2\u9f99\u4e4b\u5fc3\u6218\u76d4",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101403,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "1720201,1720202",
+            "nameId": "equip_1217202",
+            "icon": "Equip_1217202"
+        }
+    },
+    {
+        "pk": 1217303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12173031",
+            "category": 3,
+            "equipSuitId": 1007,
+            "name": "\u7ea2\u9f99\u4e4b\u5fc3\u80f8\u94e0",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101409,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "1730301,1730302",
+            "nameId": "equip_1217303",
+            "icon": "Equip_1217303"
+        }
+    },
+    {
+        "pk": 1217404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12174041",
+            "category": 4,
+            "equipSuitId": 1007,
+            "name": "\u7ea2\u9f99\u4e4b\u5fc3\u817f\u94e0",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101505,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "1",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "1740401,1740402",
+            "nameId": "equip_1217404",
+            "icon": "Equip_1217404"
+        }
+    },
+    {
+        "pk": 1221101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12211011",
+            "category": 1,
+            "equipSuitId": 1010,
+            "name": "\u8fc5\u51fb\u4e4b\u65a7",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100103,100207,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "2110101,2110102",
+            "nameId": "equip_1221101",
+            "icon": "Equip_1221101"
+        }
+    },
+    {
+        "pk": 1221202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12212021",
+            "category": 2,
+            "equipSuitId": 1010,
+            "name": "\u8fc5\u51fb\u9762\u7f69",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100108,100301,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "2120201,2120202",
+            "nameId": "equip_1221202",
+            "icon": "Equip_1221202"
+        }
+    },
+    {
+        "pk": 1221303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12213031",
+            "category": 3,
+            "equipSuitId": 1010,
+            "name": "\u8fc5\u51fb\u8f6f\u7532",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100203,100305,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "2130301,2130302",
+            "nameId": "equip_1221303",
+            "icon": "Equip_1221303"
+        }
+    },
+    {
+        "pk": 1221404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12214041",
+            "category": 4,
+            "equipSuitId": 1010,
+            "name": "\u8fc5\u51fb\u9a6c\u88e4",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100102,100310,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "2140401,2140402",
+            "nameId": "equip_1221404",
+            "icon": "Equip_1221404"
+        }
+    },
+    {
+        "pk": 1222101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12221011",
+            "category": 1,
+            "equipSuitId": 1011,
+            "name": "\u591c\u5e55\u4e4b\u5203",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100409,100703,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "2210101,2210102",
+            "nameId": "equip_1222101",
+            "icon": "Equip_1222101"
+        }
+    },
+    {
+        "pk": 1222202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12222021",
+            "category": 2,
+            "equipSuitId": 1011,
+            "name": "\u591c\u5e55\u9762\u7f69",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100505,100802,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "2220201,2220202",
+            "nameId": "equip_1222202",
+            "icon": "Equip_1222202"
+        }
+    },
+    {
+        "pk": 1222303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12223031",
+            "category": 3,
+            "equipSuitId": 1011,
+            "name": "\u591c\u5e55\u8f6f\u7532",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100403,100607,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "2230301,2230302",
+            "nameId": "equip_1222303",
+            "icon": "Equip_1222303"
+        }
+    },
+    {
+        "pk": 1222404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12224041",
+            "category": 4,
+            "equipSuitId": 1011,
+            "name": "\u591c\u5e55\u9a6c\u88e4",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100601,100902,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "2240401,2240402",
+            "nameId": "equip_1222404",
+            "icon": "Equip_1222404"
+        }
+    },
+    {
+        "pk": 1224101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12241011",
+            "category": 1,
+            "equipSuitId": 1013,
+            "name": "\u6b7b\u5f71\u4e4b\u65a7",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "100907,101202,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "2410101,2410102",
+            "nameId": "equip_1224101",
+            "icon": "Equip_1224101"
+        }
+    },
+    {
+        "pk": 1224202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12242021",
+            "category": 2,
+            "equipSuitId": 1013,
+            "name": "\u6b7b\u5f71\u9762\u7f69",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "101009,101305,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "2420201,2420202",
+            "nameId": "equip_1224202",
+            "icon": "Equip_1224202"
+        }
+    },
+    {
+        "pk": 1224303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12243031",
+            "category": 3,
+            "equipSuitId": 1013,
+            "name": "\u6b7b\u5f71\u8f6f\u7532",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "100710,101105,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "2430301,2430302",
+            "nameId": "equip_1224303",
+            "icon": "Equip_1224303"
+        }
+    },
+    {
+        "pk": 1224404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12244041",
+            "category": 4,
+            "equipSuitId": 1013,
+            "name": "\u6b7b\u5f71\u9a6c\u88e4",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "101003,101208,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "2440401,2440402",
+            "nameId": "equip_1224404",
+            "icon": "Equip_1224404"
+        }
+    },
+    {
+        "pk": 1227101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12271011",
+            "category": 1,
+            "equipSuitId": 1016,
+            "name": "\u5904\u51b3\u8005\u4e4b\u65a7",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101405,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "2710101,2710102",
+            "nameId": "equip_1227101",
+            "icon": "Equip_1227101"
+        }
+    },
+    {
+        "pk": 1227202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12272021",
+            "category": 2,
+            "equipSuitId": 1016,
+            "name": "\u5904\u51b3\u8005\u9762\u7f69",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101309,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "2720201,2720202",
+            "nameId": "equip_1227202",
+            "icon": "Equip_1227202"
+        }
+    },
+    {
+        "pk": 1227303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12273031",
+            "category": 3,
+            "equipSuitId": 1016,
+            "name": "\u5904\u51b3\u8005\u8f6f\u7532",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101507,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "2730301,2730302",
+            "nameId": "equip_1227303",
+            "icon": "Equip_1227303"
+        }
+    },
+    {
+        "pk": 1227404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12274041",
+            "category": 4,
+            "equipSuitId": 1016,
+            "name": "\u5904\u51b3\u8005\u9a6c\u88e4",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101501,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "2",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "2740401,2740402",
+            "nameId": "equip_1227404",
+            "icon": "Equip_1227404"
+        }
+    },
+    {
+        "pk": 1241101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12411011",
+            "category": 1,
+            "equipSuitId": 1019,
+            "name": "\u535a\u5b66\u4e4b\u6756",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100105,100210,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "4110101,4110102",
+            "nameId": "equip_1241101",
+            "icon": "Equip_1241101"
+        }
+    },
+    {
+        "pk": 1241202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12412021",
+            "category": 2,
+            "equipSuitId": 1019,
+            "name": "\u535a\u5b66\u5934\u51a0",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100110,100307,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "4120201,4120202",
+            "nameId": "equip_1241202",
+            "icon": "Equip_1241202"
+        }
+    },
+    {
+        "pk": 1241303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12413031",
+            "category": 3,
+            "equipSuitId": 1019,
+            "name": "\u535a\u5b66\u957f\u888d",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100104,100208,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "4130301,4130302",
+            "nameId": "equip_1241303",
+            "icon": "Equip_1241303"
+        }
+    },
+    {
+        "pk": 1241404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12414041",
+            "category": 4,
+            "equipSuitId": 1019,
+            "name": "\u535a\u5b66\u88f9\u817f",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100205,100302,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "4140401,4140402",
+            "nameId": "equip_1241404",
+            "icon": "Equip_1241404"
+        }
+    },
+    {
+        "pk": 1242101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12421011",
+            "category": 1,
+            "equipSuitId": 1020,
+            "name": "\u7075\u52a8\u4e4b\u6756",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100402,100606,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "4210101,4210102",
+            "nameId": "equip_1242101",
+            "icon": "Equip_1242101"
+        }
+    },
+    {
+        "pk": 1242202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12422021",
+            "category": 2,
+            "equipSuitId": 1020,
+            "name": "\u7075\u52a8\u5934\u51a0",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100408,100702,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "4220201,4220202",
+            "nameId": "equip_1242202",
+            "icon": "Equip_1242202"
+        }
+    },
+    {
+        "pk": 1242303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12423031",
+            "category": 3,
+            "equipSuitId": 1020,
+            "name": "\u7075\u52a8\u957f\u888d",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100504,100801,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "4230301,4230302",
+            "nameId": "equip_1242303",
+            "icon": "Equip_1242303"
+        }
+    },
+    {
+        "pk": 1242404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12424041",
+            "category": 4,
+            "equipSuitId": 1020,
+            "name": "\u7075\u52a8\u88f9\u817f",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100510,100901,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "4240401,4240402",
+            "nameId": "equip_1242404",
+            "icon": "Equip_1242404"
+        }
+    },
+    {
+        "pk": 1244101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12441011",
+            "category": 1,
+            "equipSuitId": 1022,
+            "name": "\u6012\u7130\u4e4b\u6756",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "100709,101104,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "4410101,4410102",
+            "nameId": "equip_1244101",
+            "icon": "Equip_1244101"
+        }
+    },
+    {
+        "pk": 1244202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12442021",
+            "category": 2,
+            "equipSuitId": 1022,
+            "name": "\u6012\u7130\u5934\u51a0",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "100906,101201,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "4420201,4420202",
+            "nameId": "equip_1244202",
+            "icon": "Equip_1244202"
+        }
+    },
+    {
+        "pk": 1244303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12443031",
+            "category": 3,
+            "equipSuitId": 1022,
+            "name": "\u6012\u7130\u957f\u888d",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "101002,101207,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "4430301,4430302",
+            "nameId": "equip_1244303",
+            "icon": "Equip_1244303"
+        }
+    },
+    {
+        "pk": 1244404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12444041",
+            "category": 4,
+            "equipSuitId": 1022,
+            "name": "\u6012\u7130\u88f9\u817f",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "101008,101304,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "4440401,4440402",
+            "nameId": "equip_1244404",
+            "icon": "Equip_1244404"
+        }
+    },
+    {
+        "pk": 1247101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12471011",
+            "category": 1,
+            "equipSuitId": 1025,
+            "name": "\u971c\u6708\u4e4b\u6756",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101210,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "4710101,4710102",
+            "nameId": "equip_1247101",
+            "icon": "Equip_1247101"
+        }
+    },
+    {
+        "pk": 1247202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12472021",
+            "category": 2,
+            "equipSuitId": 1025,
+            "name": "\u971c\u6708\u5934\u51a0",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101410,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "4720201,4720202",
+            "nameId": "equip_1247202",
+            "icon": "Equip_1247202"
+        }
+    },
+    {
+        "pk": 1247303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12473031",
+            "category": 3,
+            "equipSuitId": 1025,
+            "name": "\u971c\u6708\u957f\u888d",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101404,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "4730301,4730302",
+            "nameId": "equip_1247303",
+            "icon": "Equip_1247303"
+        }
+    },
+    {
+        "pk": 1247404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12474041",
+            "category": 4,
+            "equipSuitId": 1025,
+            "name": "\u971c\u6708\u88f9\u817f",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101506,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "4",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "4740401,4740402",
+            "nameId": "equip_1247404",
+            "icon": "Equip_1247404"
+        }
+    },
+    {
+        "pk": 1261101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12611011",
+            "category": 1,
+            "equipSuitId": 1028,
+            "name": "\u9e70\u773c\u706b\u70ae",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100107,100303,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "6110101,6110102",
+            "nameId": "equip_1261101",
+            "icon": "Equip_1261101"
+        }
+    },
+    {
+        "pk": 1261202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12612021",
+            "category": 2,
+            "equipSuitId": 1028,
+            "name": "\u9e70\u773c\u7fbd\u76d4",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100104,100208,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "6120201,6120202",
+            "nameId": "equip_1261202",
+            "icon": "Equip_1261202"
+        }
+    },
+    {
+        "pk": 1261303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12613031",
+            "category": 3,
+            "equipSuitId": 1028,
+            "name": "\u9e70\u773c\u9cde\u7532",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100110,100302,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "6130301,6130302",
+            "nameId": "equip_1261303",
+            "icon": "Equip_1261303"
+        }
+    },
+    {
+        "pk": 1261404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12614041",
+            "category": 4,
+            "equipSuitId": 1028,
+            "name": "\u9e70\u773c\u62a4\u817f",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100205,100307,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "6140401,6140402",
+            "nameId": "equip_1261404",
+            "icon": "Equip_1261404"
+        }
+    },
+    {
+        "pk": 1262101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12621011",
+            "category": 1,
+            "equipSuitId": 1029,
+            "name": "\u5f3a\u51fb\u706b\u70ae",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100404,100608,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "6210101,6210102",
+            "nameId": "equip_1262101",
+            "icon": "Equip_1262101"
+        }
+    },
+    {
+        "pk": 1262202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12622021",
+            "category": 2,
+            "equipSuitId": 1029,
+            "name": "\u5f3a\u51fb\u7fbd\u76d4",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100602,100903,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "6220201,6220202",
+            "nameId": "equip_1262202",
+            "icon": "Equip_1262202"
+        }
+    },
+    {
+        "pk": 1262303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12623031",
+            "category": 3,
+            "equipSuitId": 1029,
+            "name": "\u5f3a\u51fb\u9cde\u7532",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100506,100803,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "6230301,6230302",
+            "nameId": "equip_1262303",
+            "icon": "Equip_1262303"
+        }
+    },
+    {
+        "pk": 1262404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12624041",
+            "category": 4,
+            "equipSuitId": 1029,
+            "name": "\u5f3a\u51fb\u62a4\u817f",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100410,100704,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "6240401,6240402",
+            "nameId": "equip_1262404",
+            "icon": "Equip_1262404"
+        }
+    },
+    {
+        "pk": 1264101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12641011",
+            "category": 1,
+            "equipSuitId": 1031,
+            "name": "\u5de8\u4eba\u6740\u624b\u706b\u70ae",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "100807,101106,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "6410101,6410102",
+            "nameId": "equip_1264101",
+            "icon": "Equip_1264101"
+        }
+    },
+    {
+        "pk": 1264202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12642021",
+            "category": 2,
+            "equipSuitId": 1031,
+            "name": "\u5de8\u4eba\u6740\u624b\u7fbd\u76d4",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "101004,101209,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "6420201,6420202",
+            "nameId": "equip_1264202",
+            "icon": "Equip_1264202"
+        }
+    },
+    {
+        "pk": 1264303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12643031",
+            "category": 3,
+            "equipSuitId": 1031,
+            "name": "\u5de8\u4eba\u6740\u624b\u9cde\u7532",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "100908,101203,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "6430301,6430302",
+            "nameId": "equip_1264303",
+            "icon": "Equip_1264303"
+        }
+    },
+    {
+        "pk": 1264404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12644041",
+            "category": 4,
+            "equipSuitId": 1031,
+            "name": "\u5de8\u4eba\u6740\u624b\u62a4\u817f",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "101010,101306,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "6440401,6440402",
+            "nameId": "equip_1264404",
+            "icon": "Equip_1264404"
+        }
+    },
+    {
+        "pk": 1267101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12671011",
+            "category": 1,
+            "equipSuitId": 1034,
+            "name": "\u5c60\u9f99\u8005\u706b\u70ae",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101406,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "6710101,6710102",
+            "nameId": "equip_1267101",
+            "icon": "Equip_1267101"
+        }
+    },
+    {
+        "pk": 1267202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12672021",
+            "category": 2,
+            "equipSuitId": 1034,
+            "name": "\u5c60\u9f99\u8005\u7fbd\u76d4",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101508,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "6720201,6720202",
+            "nameId": "equip_1267202",
+            "icon": "Equip_1267202"
+        }
+    },
+    {
+        "pk": 1267303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12673031",
+            "category": 3,
+            "equipSuitId": 1034,
+            "name": "\u5c60\u9f99\u8005\u9cde\u7532",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101502,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "6730301,6730302",
+            "nameId": "equip_1267303",
+            "icon": "Equip_1267303"
+        }
+    },
+    {
+        "pk": 1267404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12674041",
+            "category": 4,
+            "equipSuitId": 1034,
+            "name": "\u5c60\u9f99\u8005\u62a4\u817f",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101310,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "6",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "6740401,6740402",
+            "nameId": "equip_1267404",
+            "icon": "Equip_1267404"
+        }
+    },
+    {
+        "pk": 1231101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12311011",
+            "category": 1,
+            "equipSuitId": 1037,
+            "name": "\u5149\u660e\u4e4b\u9524",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100201,100306,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "3110101,3110102",
+            "nameId": "equip_1231101",
+            "icon": "Equip_1231101"
+        }
+    },
+    {
+        "pk": 1231202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12312021",
+            "category": 2,
+            "equipSuitId": 1037,
+            "name": "\u5149\u660e\u5934\u76d4",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100202,100304,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "3120201,3120202",
+            "nameId": "equip_1231202",
+            "icon": "Equip_1231202"
+        }
+    },
+    {
+        "pk": 1231303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12313031",
+            "category": 3,
+            "equipSuitId": 1037,
+            "name": "\u5149\u660e\u6218\u7532",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100106,100209,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "3130301,3130302",
+            "nameId": "equip_1231303",
+            "icon": "Equip_1231303"
+        }
+    },
+    {
+        "pk": 1231404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12314041",
+            "category": 4,
+            "equipSuitId": 1037,
+            "name": "\u5149\u660e\u817f\u94e0",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100206,100308,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "3140401,3140402",
+            "nameId": "equip_1231404",
+            "icon": "Equip_1231404"
+        }
+    },
+    {
+        "pk": 1232101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12321011",
+            "category": 1,
+            "equipSuitId": 1038,
+            "name": "\u88c1\u51b3\u4e4b\u9524",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100508,100805,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "3210101,3210102",
+            "nameId": "equip_1232101",
+            "icon": "Equip_1232101"
+        }
+    },
+    {
+        "pk": 1232202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12322021",
+            "category": 2,
+            "equipSuitId": 1038,
+            "name": "\u88c1\u51b3\u5934\u76d4",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100502,100706,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "3220201,3220202",
+            "nameId": "equip_1232202",
+            "icon": "Equip_1232202"
+        }
+    },
+    {
+        "pk": 1232303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12323031",
+            "category": 3,
+            "equipSuitId": 1038,
+            "name": "\u88c1\u51b3\u6218\u7532",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100604,100905,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "3230301,3230302",
+            "nameId": "equip_1232303",
+            "icon": "Equip_1232303"
+        }
+    },
+    {
+        "pk": 1232404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12324041",
+            "category": 4,
+            "equipSuitId": 1038,
+            "name": "\u88c1\u51b3\u817f\u94e0",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100406,100610,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "3240401,3240402",
+            "nameId": "equip_1232404",
+            "icon": "Equip_1232404"
+        }
+    },
+    {
+        "pk": 1234101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12341011",
+            "category": 1,
+            "equipSuitId": 1040,
+            "name": "\u5723\u75d5\u4e4b\u9524",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "100809,101108,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "3410101,3410102",
+            "nameId": "equip_1234101",
+            "icon": "Equip_1234101"
+        }
+    },
+    {
+        "pk": 1234202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12342021",
+            "category": 2,
+            "equipSuitId": 1040,
+            "name": "\u5723\u75d5\u5934\u76d4",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "101006,101302,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "3420201,3420202",
+            "nameId": "equip_1234202",
+            "icon": "Equip_1234202"
+        }
+    },
+    {
+        "pk": 1234303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12343031",
+            "category": 3,
+            "equipSuitId": 1040,
+            "name": "\u5723\u75d5\u6218\u7532",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "100910,101205,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "3430301,3430302",
+            "nameId": "equip_1234303",
+            "icon": "Equip_1234303"
+        }
+    },
+    {
+        "pk": 1234404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12344041",
+            "category": 4,
+            "equipSuitId": 1040,
+            "name": "\u5723\u75d5\u817f\u94e0",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "101102,101308,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "3440401,3440402",
+            "nameId": "equip_1234404",
+            "icon": "Equip_1234404"
+        }
+    },
+    {
+        "pk": 1237101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12371011",
+            "category": 1,
+            "equipSuitId": 1043,
+            "name": "\u7687\u5bb6\u536b\u58eb\u4e4b\u9524",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101510,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "3710101,3710102",
+            "nameId": "equip_1237101",
+            "icon": "Equip_1237101"
+        }
+    },
+    {
+        "pk": 1237202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12372021",
+            "category": 2,
+            "equipSuitId": 1043,
+            "name": "\u7687\u5bb6\u536b\u58eb\u5934\u76d4",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101402,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "3720201,3720202",
+            "nameId": "equip_1237202",
+            "icon": "Equip_1237202"
+        }
+    },
+    {
+        "pk": 1237303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12373031",
+            "category": 3,
+            "equipSuitId": 1043,
+            "name": "\u7687\u5bb6\u536b\u58eb\u6218\u7532",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101408,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "3730301,3730302",
+            "nameId": "equip_1237303",
+            "icon": "Equip_1237303"
+        }
+    },
+    {
+        "pk": 1237404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12374041",
+            "category": 4,
+            "equipSuitId": 1043,
+            "name": "\u7687\u5bb6\u536b\u58eb\u817f\u94e0",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101504,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "3",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "3740401,3740402",
+            "nameId": "equip_1237404",
+            "icon": "Equip_1237404"
+        }
+    },
+    {
+        "pk": 1251101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12511011",
+            "category": 1,
+            "equipSuitId": 1046,
+            "name": "\u8654\u8bda\u4e4b\u4e66",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100109,100309,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "5110101,5110102",
+            "nameId": "equip_1251101",
+            "icon": "Equip_1251101"
+        }
+    },
+    {
+        "pk": 1251202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12512021",
+            "category": 2,
+            "equipSuitId": 1046,
+            "name": "\u8654\u8bda\u5934\u73af",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100202,100308,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "5120201,5120202",
+            "nameId": "equip_1251202",
+            "icon": "Equip_1251202"
+        }
+    },
+    {
+        "pk": 1251303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12513031",
+            "category": 3,
+            "equipSuitId": 1046,
+            "name": "\u8654\u8bda\u6cd5\u8863",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100206,100304,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "5130301,5130302",
+            "nameId": "equip_1251303",
+            "icon": "Equip_1251303"
+        }
+    },
+    {
+        "pk": 1251404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12514041",
+            "category": 4,
+            "equipSuitId": 1046,
+            "name": "\u8654\u8bda\u957f\u88e4",
+            "powerRankBase": 200,
+            "quality": 2,
+            "searchInstances_int": "100106,100209,16",
+            "decomposeRefinePoint": 3,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 2,
+            "attrList_int": "5140401,5140402",
+            "nameId": "equip_1251404",
+            "icon": "Equip_1251404"
+        }
+    },
+    {
+        "pk": 1252101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12521011",
+            "category": 1,
+            "equipSuitId": 1047,
+            "name": "\u6bd2\u6db2\u5b88\u62a4\u4e4b\u6756",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100501,100705,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "5210101,5210102",
+            "nameId": "equip_1252101",
+            "icon": "Equip_1252101"
+        }
+    },
+    {
+        "pk": 1252202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12522021",
+            "category": 2,
+            "equipSuitId": 1047,
+            "name": "\u6bd2\u6db2\u5b88\u62a4\u9762\u7f69",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100507,100804,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "5220201,5220202",
+            "nameId": "equip_1252202",
+            "icon": "Equip_1252202"
+        }
+    },
+    {
+        "pk": 1252303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12523031",
+            "category": 3,
+            "equipSuitId": 1047,
+            "name": "\u6bd2\u6db2\u5b88\u62a4\u6cd5\u8863",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100405,100609,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "5230301,5230302",
+            "nameId": "equip_1252303",
+            "icon": "Equip_1252303"
+        }
+    },
+    {
+        "pk": 1252404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12524041",
+            "category": 4,
+            "equipSuitId": 1047,
+            "name": "\u6bd2\u6db2\u5b88\u62a4\u957f\u88e4",
+            "powerRankBase": 300,
+            "quality": 3,
+            "searchInstances_int": "100603,100904,16",
+            "decomposeRefinePoint": 10,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 3,
+            "attrList_int": "5240401,5240402",
+            "nameId": "equip_1252404",
+            "icon": "Equip_1252404"
+        }
+    },
+    {
+        "pk": 1254101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12541011",
+            "category": 1,
+            "equipSuitId": 1049,
+            "name": "\u6218\u5730\u533b\u8005\u4e4b\u7403",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "100909,101204,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "5410101,5410102",
+            "nameId": "equip_1254101",
+            "icon": "Equip_1254101"
+        }
+    },
+    {
+        "pk": 1254202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12542021",
+            "category": 2,
+            "equipSuitId": 1049,
+            "name": "\u6218\u5730\u533b\u8005\u9762\u7f69",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "101101,101307,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "5420201,5420202",
+            "nameId": "equip_1254202",
+            "icon": "Equip_1254202"
+        }
+    },
+    {
+        "pk": 1254303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12543031",
+            "category": 3,
+            "equipSuitId": 1049,
+            "name": "\u6218\u5730\u533b\u8005\u6cd5\u8863",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "100808,101107,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "5430301,5430302",
+            "nameId": "equip_1254303",
+            "icon": "Equip_1254303"
+        }
+    },
+    {
+        "pk": 1254404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12544041",
+            "category": 4,
+            "equipSuitId": 1049,
+            "name": "\u6218\u5730\u533b\u8005\u957f\u88e4",
+            "powerRankBase": 400,
+            "quality": 4,
+            "searchInstances_int": "101005,101301,16",
+            "decomposeRefinePoint": 50,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,1,5",
+            "powerRankIncrease": 4,
+            "attrList_int": "5440401,5440402",
+            "nameId": "equip_1254404",
+            "icon": "Equip_1254404"
+        }
+    },
+    {
+        "pk": 1257101,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12571011",
+            "category": 1,
+            "equipSuitId": 1052,
+            "name": "\u5fc3\u7fbd\u4e4b\u6247",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101503,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "5710101,5710102",
+            "nameId": "equip_1257101",
+            "icon": "Equip_1257101"
+        }
+    },
+    {
+        "pk": 1257202,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12572021",
+            "category": 2,
+            "equipSuitId": 1052,
+            "name": "\u5fc3\u7fbd\u9762\u7f69",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101509,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "5720201,5720202",
+            "nameId": "equip_1257202",
+            "icon": "Equip_1257202"
+        }
+    },
+    {
+        "pk": 1257303,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12573031",
+            "category": 3,
+            "equipSuitId": 1052,
+            "name": "\u5fc3\u7fbd\u6cd5\u8863",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101401,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "5730301,5730302",
+            "nameId": "equip_1257303",
+            "icon": "Equip_1257303"
+        }
+    },
+    {
+        "pk": 1257404,
+        "model": "equip.equip",
+        "fields": {
+            "descriptionId": "equip_12574041",
+            "category": 4,
+            "equipSuitId": 1052,
+            "name": "\u5fc3\u7fbd\u957f\u88e4",
+            "powerRankBase": 500,
+            "quality": 5,
+            "searchInstances_int": "101407,16",
+            "decomposeRefinePoint": 100,
+            "heroTypeList_int": "5",
+            "searchDifficuty_int": "1,5",
+            "powerRankIncrease": 5,
+            "attrList_int": "5740401,5740402",
+            "nameId": "equip_1257404",
+            "icon": "Equip_1257404"
+        }
+    }
+]

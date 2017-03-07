@@ -1,0 +1,38 @@
+
+table:
+  out-type: json
+  sheet: 剧情
+  row: 3
+  model: tutorial.plot
+  columns:
+    - name: gid
+      column: gid
+      type: int
+      default: 0
+
+    - name: roleId
+      column: roleId
+      type: int
+      default: 0
+
+    - name: serialIndex
+      column: serialIndex
+      type: int
+      default: 0
+
+    - name: speakerType
+      column: speakerType
+      type: int
+      default: 0
+
+    - name: dialogId
+      column: dialogId
+      type: char
+      default: ""
+
+    - name: animationType
+      column: animationType
+      type: int
+      default: 0
+
+

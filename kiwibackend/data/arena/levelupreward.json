@@ -1,0 +1,317 @@
+[
+    {
+        "pk": 1001,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 10,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 5000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 10000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1005,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 20000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1006,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1,
+            "type": 1211101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1007,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1,
+            "type": 1241101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1008,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1,
+            "type": 1251101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1009,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 5,
+            "type": 2060004,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1010,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 5,
+            "type": 2622001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1011,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 5,
+            "type": 2622002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1012,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 5,
+            "type": 2622003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1013,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1014,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1,
+            "type": 2621405,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1015,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1,
+            "type": 2621404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1016,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1,
+            "type": 2621406,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1017,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1,
+            "type": 2621403,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1018,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 5,
+            "type": 2620101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1019,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1,
+            "type": 2621401,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1020,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1021,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 2000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1022,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 5000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1023,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 10000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1024,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1,
+            "type": 1221101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1025,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1,
+            "type": 1221202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1026,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1,
+            "type": 1261101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1027,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1,
+            "type": 1241202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1028,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 2,
+            "type": 2621701,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1029,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 2,
+            "type": 2621702,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1030,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 100,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1031,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 5,
+            "type": 2010001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1032,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 5,
+            "type": 2020004,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1033,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 5,
+            "type": 2040007,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1034,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 5,
+            "type": 2060004,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1035,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 1,
+            "type": 24019091,
+            "level": 0
+        }
+    }
+]

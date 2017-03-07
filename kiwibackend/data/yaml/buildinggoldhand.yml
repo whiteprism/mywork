@@ -1,0 +1,38 @@
+
+table:
+  out-type: json
+  sheet: 点金手
+  row: 3
+  model: building.buildinggoldhand
+  columns:
+    - name: critTwo
+      column: critTwo
+      type: int
+      default: 0
+
+    - name: critThree
+      column: critThree
+      type: int
+      default: 0
+
+    - name: critFive
+      column: critFive
+      type: int
+      default: 0
+
+    - name: critTen
+      column: critTen
+      type: int
+      default: 0
+
+    - name: critProperbility
+      column: critProperbility
+      type: int
+      default: 0
+
+    - name: expectGold
+      column: expectGold
+      type: int
+      default: 0
+
+

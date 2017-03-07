@@ -1,0 +1,52 @@
+[
+    {
+        "pk": 10030001,
+        "model": "activity.activity",
+        "fields": {
+            "category": 1003,
+            "iconId": "activity_1003",
+            "nameId": "activity_10030001",
+            "experimentName": ""
+        }
+    },
+    {
+        "pk": 10100001,
+        "model": "activity.activity",
+        "fields": {
+            "category": 1010,
+            "iconId": "activity_1010",
+            "nameId": "activity_10100001",
+            "experimentName": ""
+        }
+    },
+    {
+        "pk": 10070001,
+        "model": "activity.activity",
+        "fields": {
+            "category": 1007,
+            "iconId": "activity_1007",
+            "nameId": "activity_10070001",
+            "experimentName": ""
+        }
+    },
+    {
+        "pk": 10010001,
+        "model": "activity.activity",
+        "fields": {
+            "category": 1001,
+            "iconId": "",
+            "nameId": "activity_10010001",
+            "experimentName": "experimentContinueLogin1"
+        }
+    },
+    {
+        "pk": 10010002,
+        "model": "activity.activity",
+        "fields": {
+            "category": 1001,
+            "iconId": "",
+            "nameId": "activity_10010001",
+            "experimentName": "experimentContinueLogin2"
+        }
+    }
+]

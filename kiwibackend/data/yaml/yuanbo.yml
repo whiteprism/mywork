@@ -1,0 +1,43 @@
+
+table:
+  out-type: json
+  sheet: 钻石商店
+  row: 3
+  model: yuanbo.yuanbo
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: iconId
+      column: iconId
+      type: char
+      default: ""
+
+    - name: price
+      column: price
+      type: int
+      default: 0
+
+    - name: amount
+      column: amount
+      type: int
+      default: 0
+
+    - name: first_amount
+      column: first_amount
+      type: int
+      default: 0
+
+    - name: reward_amount
+      column: reward_amount
+      type: int
+      default: 0
+
+    - name: is_ios
+      column: is_ios
+      type: int
+      default: 0
+
+

@@ -1,0 +1,93 @@
+[
+    {
+        "pk": 2701001,
+        "model": "building.buildingplant",
+        "fields": {
+            "category": 1,
+            "rewardIds_str": "t2632101c1",
+            "harvestInterval": 300,
+            "costRewardId": "t2631101c1",
+            "growthInterval": 120,
+            "harvestTimes": 1,
+            "matureInterval": 120
+        }
+    },
+    {
+        "pk": 2701002,
+        "model": "building.buildingplant",
+        "fields": {
+            "category": 1,
+            "rewardIds_str": "t2632102c1",
+            "harvestInterval": 300,
+            "costRewardId": "t2631102c1",
+            "growthInterval": 120,
+            "harvestTimes": 1,
+            "matureInterval": 120
+        }
+    },
+    {
+        "pk": 2701003,
+        "model": "building.buildingplant",
+        "fields": {
+            "category": 1,
+            "rewardIds_str": "t2632103c1",
+            "harvestInterval": 300,
+            "costRewardId": "t2631103c1",
+            "growthInterval": 120,
+            "harvestTimes": 1,
+            "matureInterval": 120
+        }
+    },
+    {
+        "pk": 2701004,
+        "model": "building.buildingplant",
+        "fields": {
+            "category": 1,
+            "rewardIds_str": "t2632104c1",
+            "harvestInterval": 300,
+            "costRewardId": "t2631104c1",
+            "growthInterval": 120,
+            "harvestTimes": 1,
+            "matureInterval": 120
+        }
+    },
+    {
+        "pk": 2702001,
+        "model": "building.buildingplant",
+        "fields": {
+            "category": 2,
+            "rewardIds_str": "t2632201c1",
+            "harvestInterval": 300,
+            "costRewardId": "t2631201c1",
+            "growthInterval": 120,
+            "harvestTimes": 5,
+            "matureInterval": 120
+        }
+    },
+    {
+        "pk": 2702002,
+        "model": "building.buildingplant",
+        "fields": {
+            "category": 2,
+            "rewardIds_str": "t2632202c1",
+            "harvestInterval": 300,
+            "costRewardId": "t2631202c1",
+            "growthInterval": 120,
+            "harvestTimes": 5,
+            "matureInterval": 120
+        }
+    },
+    {
+        "pk": 2702003,
+        "model": "building.buildingplant",
+        "fields": {
+            "category": 2,
+            "rewardIds_str": "t2632203c1",
+            "harvestInterval": 300,
+            "costRewardId": "t2631203c1",
+            "growthInterval": 120,
+            "harvestTimes": 5,
+            "matureInterval": 120
+        }
+    }
+]

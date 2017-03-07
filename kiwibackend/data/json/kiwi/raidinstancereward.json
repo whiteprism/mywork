@@ -1,0 +1,344 @@
+[
+    {
+        "pk": 100100,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 3,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 100101,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 100200,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 5000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 100201,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 8000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 100202,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 10000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 100300,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 30,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 100301,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 35,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 100302,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 40,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 100400,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 40,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 100401,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 30,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 100402,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 40,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 100403,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 50,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 100404,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 60,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 100405,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 80,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200100,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2312101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200101,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2312202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200102,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2312303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200103,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2312404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200104,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2342101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200105,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2342202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200106,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2342303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200107,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2342404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200200,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2314101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200201,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2314202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200202,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2314303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200203,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2314404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200204,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2317101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200205,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2317202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200206,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2317303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200207,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2317404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200300,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2344101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200301,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2344202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200302,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2344303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200303,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2344404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200304,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2347101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200305,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2347202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200306,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2347303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 200307,
+        "model": "instance.raidinstancereward",
+        "fields": {
+            "count": 1,
+            "type": 2347404,
+            "level": 0
+        }
+    }
+]

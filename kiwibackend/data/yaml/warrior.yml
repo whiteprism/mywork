@@ -1,0 +1,137 @@
+
+table:
+  out-type: json
+  sheet: 小兵
+  row: 3
+  model: hero.warrior
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: cardId
+      column: cardId
+      type: int
+
+    - name: attackedPoint
+      column: attackedPoint
+      type: char
+      default: ""
+
+    - name: attackRange
+      column: attackRange
+      type: int
+      default: 0
+
+    - name: attackSpan
+      column: attackSpan
+      type: int
+      default: 0
+
+    - name: category
+      column: category
+      type: int
+
+    - name: chestPositionX
+      column: chestPositionX
+      type: float
+      default: 0.0
+
+    - name: chestPositionY
+      column: chestPositionY
+      type: float
+      default: 0.0
+
+    - name: chestPositionZ
+      column: chestPositionZ
+      type: float
+      default: 0.0
+
+    - name: deadBonePoint_char
+      column: deadBonePoint_char
+      type: char
+      default: ""
+
+    - name: deadEffect_char
+      column: deadEffect_char
+      type: char
+      default: ""
+
+    - name: deadEffectDelay_float
+      column: deadEffectDelay
+      type: char
+      default: "0"
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: "0"
+
+    - name: height
+      column: height
+      type: int
+
+    - name: hurtRate
+      column: hurtRate
+      type: float
+
+    - name: downRate
+      column: downRate
+      type: float
+      default: 1.0
+
+    - name: icon
+      column: icon
+      type: char
+      default: ""
+
+    - name: modelName
+      column: modelName
+      type: char
+      default: ""
+
+    - name: moveActRate
+      column: moveActRate
+      type: float
+      default: 0.0
+
+    - name: moveSpeed
+      column: moveSpeed
+      type: float
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: population
+      column: population
+      type: int
+      default: 0
+
+    - name: width
+      column: width
+      type: int
+
+    - name: nextWarriorID
+      column: nextWarriorID
+      type: int
+      default: 0
+
+    - name: nextWarriorLevel
+      column: nextWarriorLevel
+      type: int
+      default: 0
+
+    - name: searchRange
+      column: searchRange
+      type: float
+      default: 0.0
+
+    - name: maxCount
+      column: maxCount
+      type: int
+      default: 0
+
+

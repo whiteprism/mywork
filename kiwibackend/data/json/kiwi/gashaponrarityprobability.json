@@ -1,0 +1,422 @@
+[
+    {
+        "pk": 102003,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 3,
+            "gashapon": 1,
+            "probability": 50,
+            "rarity": 2
+        }
+    },
+    {
+        "pk": 102004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 1,
+            "probability": 20,
+            "rarity": 2
+        }
+    },
+    {
+        "pk": 101003,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 3,
+            "gashapon": 1,
+            "probability": 5,
+            "rarity": 1
+        }
+    },
+    {
+        "pk": 104001,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 1,
+            "gashapon": 1,
+            "probability": 315,
+            "rarity": 4
+        }
+    },
+    {
+        "pk": 104002,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 2,
+            "gashapon": 1,
+            "probability": 450,
+            "rarity": 4
+        }
+    },
+    {
+        "pk": 104003,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 3,
+            "gashapon": 1,
+            "probability": 110,
+            "rarity": 4
+        }
+    },
+    {
+        "pk": 104004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 1,
+            "probability": 50,
+            "rarity": 4
+        }
+    },
+    {
+        "pk": 201003,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 3,
+            "gashapon": 2,
+            "probability": 15,
+            "rarity": 1
+        }
+    },
+    {
+        "pk": 201004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 2,
+            "probability": 40,
+            "rarity": 1
+        }
+    },
+    {
+        "pk": 201005,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 5,
+            "gashapon": 2,
+            "probability": 5,
+            "rarity": 1
+        }
+    },
+    {
+        "pk": 202003,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 3,
+            "gashapon": 2,
+            "probability": 150,
+            "rarity": 2
+        }
+    },
+    {
+        "pk": 202004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 2,
+            "probability": 230,
+            "rarity": 2
+        }
+    },
+    {
+        "pk": 202005,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 5,
+            "gashapon": 2,
+            "probability": 130,
+            "rarity": 2
+        }
+    },
+    {
+        "pk": 204003,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 3,
+            "gashapon": 2,
+            "probability": 250,
+            "rarity": 4
+        }
+    },
+    {
+        "pk": 204004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 2,
+            "probability": 100,
+            "rarity": 4
+        }
+    },
+    {
+        "pk": 208004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 2,
+            "probability": 20,
+            "rarity": 8
+        }
+    },
+    {
+        "pk": 208005,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 5,
+            "gashapon": 2,
+            "probability": 20,
+            "rarity": 8
+        }
+    },
+    {
+        "pk": 207003,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 3,
+            "gashapon": 2,
+            "probability": 20,
+            "rarity": 7
+        }
+    },
+    {
+        "pk": 207004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 2,
+            "probability": 10,
+            "rarity": 7
+        }
+    },
+    {
+        "pk": 207005,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 5,
+            "gashapon": 2,
+            "probability": 10,
+            "rarity": 7
+        }
+    },
+    {
+        "pk": 10003003,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 3,
+            "gashapon": 100,
+            "probability": 20,
+            "rarity": 3
+        }
+    },
+    {
+        "pk": 10008003,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 3,
+            "gashapon": 100,
+            "probability": 980,
+            "rarity": 8
+        }
+    },
+    {
+        "pk": 10103004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 101,
+            "probability": 20,
+            "rarity": 3
+        }
+    },
+    {
+        "pk": 10108004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 101,
+            "probability": 980,
+            "rarity": 8
+        }
+    },
+    {
+        "pk": 10203005,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 5,
+            "gashapon": 102,
+            "probability": 20,
+            "rarity": 3
+        }
+    },
+    {
+        "pk": 10208005,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 5,
+            "gashapon": 102,
+            "probability": 980,
+            "rarity": 8
+        }
+    },
+    {
+        "pk": 10303003,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 3,
+            "gashapon": 103,
+            "probability": 600,
+            "rarity": 3
+        }
+    },
+    {
+        "pk": 10303004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 103,
+            "probability": 300,
+            "rarity": 3
+        }
+    },
+    {
+        "pk": 10303005,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 5,
+            "gashapon": 103,
+            "probability": 100,
+            "rarity": 3
+        }
+    },
+    {
+        "pk": 30002003,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 3,
+            "gashapon": 300,
+            "probability": 100,
+            "rarity": 2
+        }
+    },
+    {
+        "pk": 30102004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 301,
+            "probability": 100,
+            "rarity": 2
+        }
+    },
+    {
+        "pk": 30202005,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 5,
+            "gashapon": 302,
+            "probability": 100,
+            "rarity": 2
+        }
+    },
+    {
+        "pk": 301004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 3,
+            "probability": 59,
+            "rarity": 1
+        }
+    },
+    {
+        "pk": 301005,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 5,
+            "gashapon": 3,
+            "probability": 1,
+            "rarity": 1
+        }
+    },
+    {
+        "pk": 302004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 3,
+            "probability": 300,
+            "rarity": 2
+        }
+    },
+    {
+        "pk": 302005,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 5,
+            "gashapon": 3,
+            "probability": 290,
+            "rarity": 2
+        }
+    },
+    {
+        "pk": 304004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 3,
+            "probability": 350,
+            "rarity": 4
+        }
+    },
+    {
+        "pk": 404001,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 1,
+            "gashapon": 4,
+            "probability": 80,
+            "rarity": 4
+        }
+    },
+    {
+        "pk": 404002,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 2,
+            "gashapon": 4,
+            "probability": 360,
+            "rarity": 4
+        }
+    },
+    {
+        "pk": 404003,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 3,
+            "gashapon": 4,
+            "probability": 290,
+            "rarity": 4
+        }
+    },
+    {
+        "pk": 404004,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 4,
+            "gashapon": 4,
+            "probability": 230,
+            "rarity": 4
+        }
+    },
+    {
+        "pk": 404005,
+        "model": "gashapon.gashaponrarityprobability",
+        "fields": {
+            "quality": 5,
+            "gashapon": 4,
+            "probability": 40,
+            "rarity": 4
+        }
+    }
+]

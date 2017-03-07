@@ -1,0 +1,134 @@
+[
+    {
+        "pk": 10001,
+        "model": "pvp.pvprank",
+        "fields": {
+            "score": 2700,
+            "rank": 1,
+            "dailyRewards_int": "11001,12001",
+            "titleID": "PVP_10001",
+            "weeklyRewards_int": "10001,10012",
+            "name": "\u7ade\u6280\u573a1\u6863\u5956\u52b1"
+        }
+    },
+    {
+        "pk": 10002,
+        "model": "pvp.pvprank",
+        "fields": {
+            "score": 2400,
+            "rank": 2,
+            "dailyRewards_int": "11002,12002",
+            "titleID": "PVP_10002",
+            "weeklyRewards_int": "10002,10013",
+            "name": "\u7ade\u6280\u573a2\u6863\u5956\u52b1"
+        }
+    },
+    {
+        "pk": 10003,
+        "model": "pvp.pvprank",
+        "fields": {
+            "score": 2100,
+            "rank": 3,
+            "dailyRewards_int": "11003,12003",
+            "titleID": "PVP_10003",
+            "weeklyRewards_int": "10003,10014",
+            "name": "\u7ade\u6280\u573a3\u6863\u5956\u52b1"
+        }
+    },
+    {
+        "pk": 10004,
+        "model": "pvp.pvprank",
+        "fields": {
+            "score": 1800,
+            "rank": 4,
+            "dailyRewards_int": "11004,12004",
+            "titleID": "PVP_10004",
+            "weeklyRewards_int": "10004,10015",
+            "name": "\u7ade\u6280\u573a4\u6863\u5956\u52b1"
+        }
+    },
+    {
+        "pk": 10005,
+        "model": "pvp.pvprank",
+        "fields": {
+            "score": 1500,
+            "rank": 5,
+            "dailyRewards_int": "11005,12005",
+            "titleID": "PVP_10005",
+            "weeklyRewards_int": "10005,10016",
+            "name": "\u7ade\u6280\u573a5\u6863\u5956\u52b1"
+        }
+    },
+    {
+        "pk": 10006,
+        "model": "pvp.pvprank",
+        "fields": {
+            "score": 1400,
+            "rank": 10,
+            "dailyRewards_int": "11006,12005",
+            "titleID": "PVP_10006",
+            "weeklyRewards_int": "10006,10017",
+            "name": "\u7ade\u6280\u573a6\u6863\u5956\u52b1"
+        }
+    },
+    {
+        "pk": 10007,
+        "model": "pvp.pvprank",
+        "fields": {
+            "score": 1300,
+            "rank": 20,
+            "dailyRewards_int": "11006,12006",
+            "titleID": "PVP_10007",
+            "weeklyRewards_int": "10007,10018",
+            "name": "\u7ade\u6280\u573a7\u6863\u5956\u52b1"
+        }
+    },
+    {
+        "pk": 10008,
+        "model": "pvp.pvprank",
+        "fields": {
+            "score": 1200,
+            "rank": 50,
+            "dailyRewards_int": "11007,12006",
+            "titleID": "PVP_10008",
+            "weeklyRewards_int": "10008,10019",
+            "name": "\u7ade\u6280\u573a8\u6863\u5956\u52b1"
+        }
+    },
+    {
+        "pk": 10009,
+        "model": "pvp.pvprank",
+        "fields": {
+            "score": 1100,
+            "rank": 100,
+            "dailyRewards_int": "11007,12007",
+            "titleID": "PVP_10009",
+            "weeklyRewards_int": "10009,10020",
+            "name": "\u7ade\u6280\u573a9\u6863\u5956\u52b1"
+        }
+    },
+    {
+        "pk": 10010,
+        "model": "pvp.pvprank",
+        "fields": {
+            "score": 1000,
+            "rank": 200,
+            "dailyRewards_int": "11008,12007",
+            "titleID": "PVP_10010",
+            "weeklyRewards_int": "10010,10021",
+            "name": "\u7ade\u6280\u573a10\u6863\u5956\u52b1"
+        }
+    },
+    {
+        "pk": 10011,
+        "model": "pvp.pvprank",
+        "fields": {
+            "score": 800,
+            "rank": 500,
+            "dailyRewards_int": "11008,12008",
+            "titleID": "PVP_10011",
+            "weeklyRewards_int": "10011,10022",
+            "name": "\u7ade\u6280\u573a11\u6863\u5956\u52b1"
+        }
+    }
+]

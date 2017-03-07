@@ -1,0 +1,1298 @@
+[
+    {
+        "pk": 1001,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1001,2001",
+            "castleLevel": 0,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 5,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1001,2001",
+            "castleLevel": 0,
+            "level": 1,
+            "userLevel": 10,
+            "useTime": 1,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1002,2002",
+            "castleLevel": 0,
+            "level": 2,
+            "userLevel": 12,
+            "useTime": 3,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1003,2003",
+            "castleLevel": 0,
+            "level": 3,
+            "userLevel": 14,
+            "useTime": 10,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1005,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1004,2004",
+            "castleLevel": 0,
+            "level": 4,
+            "userLevel": 16,
+            "useTime": 60,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1006,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1005,2005",
+            "castleLevel": 0,
+            "level": 5,
+            "userLevel": 18,
+            "useTime": 300,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1007,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1006,2006",
+            "castleLevel": 0,
+            "level": 6,
+            "userLevel": 21,
+            "useTime": 1800,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1008,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1007,2007",
+            "castleLevel": 0,
+            "level": 7,
+            "userLevel": 24,
+            "useTime": 3600,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1009,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1008,2008",
+            "castleLevel": 0,
+            "level": 8,
+            "userLevel": 27,
+            "useTime": 7200,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1010,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1009,2009",
+            "castleLevel": 0,
+            "level": 9,
+            "userLevel": 30,
+            "useTime": 10800,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1011,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1010,2010",
+            "castleLevel": 0,
+            "level": 10,
+            "userLevel": 33,
+            "useTime": 14400,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1012,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1011,2011",
+            "castleLevel": 0,
+            "level": 11,
+            "userLevel": 36,
+            "useTime": 18000,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1013,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1012,2012",
+            "castleLevel": 0,
+            "level": 12,
+            "userLevel": 39,
+            "useTime": 28800,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1014,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1013,2013",
+            "castleLevel": 0,
+            "level": 13,
+            "userLevel": 42,
+            "useTime": 54000,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1015,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1014,2014",
+            "castleLevel": 0,
+            "level": 14,
+            "userLevel": 45,
+            "useTime": 64800,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1016,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1015,2015",
+            "castleLevel": 0,
+            "level": 15,
+            "userLevel": 48,
+            "useTime": 72000,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1017,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1016,2016",
+            "castleLevel": 0,
+            "level": 16,
+            "userLevel": 51,
+            "useTime": 79200,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1018,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1017,2017",
+            "castleLevel": 0,
+            "level": 17,
+            "userLevel": 54,
+            "useTime": 86400,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1019,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1018,2018",
+            "castleLevel": 0,
+            "level": 18,
+            "userLevel": 57,
+            "useTime": 108000,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1020,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1019,2019",
+            "castleLevel": 0,
+            "level": 19,
+            "userLevel": 60,
+            "useTime": 126000,
+            "building_id": 1001001
+        }
+    },
+    {
+        "pk": 1021,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1001,2001",
+            "castleLevel": 1,
+            "level": 0,
+            "userLevel": 0,
+            "useTime": 5,
+            "building_id": 1001002
+        }
+    },
+    {
+        "pk": 1022,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1001,2001",
+            "castleLevel": 1,
+            "level": 0,
+            "userLevel": 6,
+            "useTime": 5,
+            "building_id": 1001003
+        }
+    },
+    {
+        "pk": 1023,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1001,2001",
+            "castleLevel": 1,
+            "level": 0,
+            "userLevel": 3,
+            "useTime": 5,
+            "building_id": 1001004
+        }
+    },
+    {
+        "pk": 1024,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1002,2002",
+            "castleLevel": 2,
+            "level": 0,
+            "userLevel": 10,
+            "useTime": 5,
+            "building_id": 1001005
+        }
+    },
+    {
+        "pk": 1026,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1003,2003",
+            "castleLevel": 5,
+            "level": 0,
+            "userLevel": 20,
+            "useTime": 5,
+            "building_id": 1001013
+        }
+    },
+    {
+        "pk": 1027,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1005,2005",
+            "castleLevel": 5,
+            "level": 0,
+            "userLevel": 19,
+            "useTime": 5,
+            "building_id": 1001014
+        }
+    },
+    {
+        "pk": 1053,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1020,2020",
+            "castleLevel": 1,
+            "level": 0,
+            "userLevel": 4,
+            "useTime": 1,
+            "building_id": 1001009
+        }
+    },
+    {
+        "pk": 1054,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1021,2021",
+            "castleLevel": 3,
+            "level": 1,
+            "userLevel": 0,
+            "useTime": 90,
+            "building_id": 1001009
+        }
+    },
+    {
+        "pk": 1055,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1022,2022",
+            "castleLevel": 4,
+            "level": 2,
+            "userLevel": 0,
+            "useTime": 600,
+            "building_id": 1001009
+        }
+    },
+    {
+        "pk": 1056,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1023,2023",
+            "castleLevel": 5,
+            "level": 3,
+            "userLevel": 0,
+            "useTime": 1800,
+            "building_id": 1001009
+        }
+    },
+    {
+        "pk": 1057,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1024,2024",
+            "castleLevel": 6,
+            "level": 4,
+            "userLevel": 0,
+            "useTime": 5400,
+            "building_id": 1001009
+        }
+    },
+    {
+        "pk": 1058,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1025,2025",
+            "castleLevel": 8,
+            "level": 5,
+            "userLevel": 0,
+            "useTime": 7200,
+            "building_id": 1001009
+        }
+    },
+    {
+        "pk": 1059,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1026,2026",
+            "castleLevel": 10,
+            "level": 6,
+            "userLevel": 0,
+            "useTime": 9000,
+            "building_id": 1001009
+        }
+    },
+    {
+        "pk": 1060,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1027,2027",
+            "castleLevel": 13,
+            "level": 7,
+            "userLevel": 0,
+            "useTime": 10800,
+            "building_id": 1001009
+        }
+    },
+    {
+        "pk": 1061,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1028,2028",
+            "castleLevel": 16,
+            "level": 8,
+            "userLevel": 0,
+            "useTime": 18000,
+            "building_id": 1001009
+        }
+    },
+    {
+        "pk": 1062,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1029,2029",
+            "castleLevel": 19,
+            "level": 9,
+            "userLevel": 0,
+            "useTime": 36000,
+            "building_id": 1001009
+        }
+    },
+    {
+        "pk": 1063,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1045,2045",
+            "castleLevel": 1,
+            "level": 0,
+            "userLevel": 4,
+            "useTime": 0,
+            "building_id": 1001010
+        }
+    },
+    {
+        "pk": 1064,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1046,2046",
+            "castleLevel": 3,
+            "level": 1,
+            "userLevel": 0,
+            "useTime": 90,
+            "building_id": 1001010
+        }
+    },
+    {
+        "pk": 1065,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1047,2047",
+            "castleLevel": 5,
+            "level": 2,
+            "userLevel": 0,
+            "useTime": 600,
+            "building_id": 1001010
+        }
+    },
+    {
+        "pk": 1066,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1048,2048",
+            "castleLevel": 6,
+            "level": 3,
+            "userLevel": 0,
+            "useTime": 1800,
+            "building_id": 1001010
+        }
+    },
+    {
+        "pk": 1067,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1049,2049",
+            "castleLevel": 7,
+            "level": 4,
+            "userLevel": 0,
+            "useTime": 5400,
+            "building_id": 1001010
+        }
+    },
+    {
+        "pk": 1068,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1050,2050",
+            "castleLevel": 9,
+            "level": 5,
+            "userLevel": 0,
+            "useTime": 7200,
+            "building_id": 1001010
+        }
+    },
+    {
+        "pk": 1069,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1051,2051",
+            "castleLevel": 11,
+            "level": 6,
+            "userLevel": 0,
+            "useTime": 9000,
+            "building_id": 1001010
+        }
+    },
+    {
+        "pk": 1070,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1052,2052",
+            "castleLevel": 14,
+            "level": 7,
+            "userLevel": 0,
+            "useTime": 10800,
+            "building_id": 1001010
+        }
+    },
+    {
+        "pk": 1071,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1053,2053",
+            "castleLevel": 17,
+            "level": 8,
+            "userLevel": 0,
+            "useTime": 18000,
+            "building_id": 1001010
+        }
+    },
+    {
+        "pk": 1072,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1054,2054",
+            "castleLevel": 20,
+            "level": 9,
+            "userLevel": 0,
+            "useTime": 36000,
+            "building_id": 1001010
+        }
+    },
+    {
+        "pk": 1073,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1001,2001",
+            "castleLevel": 1,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 0,
+            "building_id": 1001011
+        }
+    },
+    {
+        "pk": 1074,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1055,2055",
+            "castleLevel": 3,
+            "level": 1,
+            "userLevel": 0,
+            "useTime": 5,
+            "building_id": 1001011
+        }
+    },
+    {
+        "pk": 1075,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1056,2056",
+            "castleLevel": 8,
+            "level": 2,
+            "userLevel": 0,
+            "useTime": 5400,
+            "building_id": 1001011
+        }
+    },
+    {
+        "pk": 1076,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1057,2057",
+            "castleLevel": 10,
+            "level": 3,
+            "userLevel": 0,
+            "useTime": 7200,
+            "building_id": 1001011
+        }
+    },
+    {
+        "pk": 1080,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1062,2062",
+            "castleLevel": 4,
+            "level": 0,
+            "userLevel": 14,
+            "useTime": 1800,
+            "building_id": 1001012
+        }
+    },
+    {
+        "pk": 1081,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1063,2063",
+            "castleLevel": 6,
+            "level": 1,
+            "userLevel": 0,
+            "useTime": 3600,
+            "building_id": 1001012
+        }
+    },
+    {
+        "pk": 1082,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1064,2064",
+            "castleLevel": 8,
+            "level": 2,
+            "userLevel": 0,
+            "useTime": 5400,
+            "building_id": 1001012
+        }
+    },
+    {
+        "pk": 1083,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1065,2065",
+            "castleLevel": 10,
+            "level": 3,
+            "userLevel": 0,
+            "useTime": 7200,
+            "building_id": 1001012
+        }
+    },
+    {
+        "pk": 1084,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1066,2066",
+            "castleLevel": 12,
+            "level": 4,
+            "userLevel": 0,
+            "useTime": 9000,
+            "building_id": 1001012
+        }
+    },
+    {
+        "pk": 1085,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1067,2067",
+            "castleLevel": 14,
+            "level": 5,
+            "userLevel": 0,
+            "useTime": 10800,
+            "building_id": 1001012
+        }
+    },
+    {
+        "pk": 1086,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1068,2068",
+            "castleLevel": 16,
+            "level": 6,
+            "userLevel": 0,
+            "useTime": 14400,
+            "building_id": 1001012
+        }
+    },
+    {
+        "pk": 1087,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1069,2069",
+            "castleLevel": 18,
+            "level": 7,
+            "userLevel": 0,
+            "useTime": 28800,
+            "building_id": 1001012
+        }
+    },
+    {
+        "pk": 1088,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1070,2070",
+            "castleLevel": 20,
+            "level": 8,
+            "userLevel": 0,
+            "useTime": 36000,
+            "building_id": 1001012
+        }
+    },
+    {
+        "pk": 1095,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1020,2020",
+            "castleLevel": 1,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 300,
+            "building_id": 1002001
+        }
+    },
+    {
+        "pk": 1096,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1021,2021",
+            "castleLevel": 4,
+            "level": 1,
+            "userLevel": 0,
+            "useTime": 3600,
+            "building_id": 1002001
+        }
+    },
+    {
+        "pk": 1097,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1022,2022",
+            "castleLevel": 7,
+            "level": 2,
+            "userLevel": 0,
+            "useTime": 7200,
+            "building_id": 1002001
+        }
+    },
+    {
+        "pk": 1098,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1023,2023",
+            "castleLevel": 9,
+            "level": 3,
+            "userLevel": 0,
+            "useTime": 10800,
+            "building_id": 1002001
+        }
+    },
+    {
+        "pk": 1099,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1024,2024",
+            "castleLevel": 11,
+            "level": 4,
+            "userLevel": 0,
+            "useTime": 14400,
+            "building_id": 1002001
+        }
+    },
+    {
+        "pk": 1100,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1025,2025",
+            "castleLevel": 13,
+            "level": 5,
+            "userLevel": 0,
+            "useTime": 18000,
+            "building_id": 1002001
+        }
+    },
+    {
+        "pk": 1101,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1026,2026",
+            "castleLevel": 15,
+            "level": 6,
+            "userLevel": 0,
+            "useTime": 28800,
+            "building_id": 1002001
+        }
+    },
+    {
+        "pk": 1102,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1027,2027",
+            "castleLevel": 17,
+            "level": 7,
+            "userLevel": 0,
+            "useTime": 54000,
+            "building_id": 1002001
+        }
+    },
+    {
+        "pk": 1103,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1028,2028",
+            "castleLevel": 19,
+            "level": 8,
+            "userLevel": 0,
+            "useTime": 64800,
+            "building_id": 1002001
+        }
+    },
+    {
+        "pk": 1104,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1029,2029",
+            "castleLevel": 20,
+            "level": 9,
+            "userLevel": 0,
+            "useTime": 72000,
+            "building_id": 1002001
+        }
+    },
+    {
+        "pk": 1125,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1020,2020",
+            "castleLevel": 4,
+            "level": 0,
+            "userLevel": 14,
+            "useTime": 300,
+            "building_id": 1001016
+        }
+    },
+    {
+        "pk": 1038,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1030,2030",
+            "castleLevel": 5,
+            "level": 0,
+            "userLevel": 16,
+            "useTime": 300,
+            "building_id": 1001007
+        }
+    },
+    {
+        "pk": 1039,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1031,2031",
+            "castleLevel": 6,
+            "level": 1,
+            "userLevel": 0,
+            "useTime": 3600,
+            "building_id": 1001007
+        }
+    },
+    {
+        "pk": 1040,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1032,2032",
+            "castleLevel": 7,
+            "level": 2,
+            "userLevel": 0,
+            "useTime": 5400,
+            "building_id": 1001007
+        }
+    },
+    {
+        "pk": 1041,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1033,2033",
+            "castleLevel": 8,
+            "level": 3,
+            "userLevel": 0,
+            "useTime": 7200,
+            "building_id": 1001007
+        }
+    },
+    {
+        "pk": 1042,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1034,2034",
+            "castleLevel": 10,
+            "level": 4,
+            "userLevel": 0,
+            "useTime": 9000,
+            "building_id": 1001007
+        }
+    },
+    {
+        "pk": 1043,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1035,2035",
+            "castleLevel": 12,
+            "level": 5,
+            "userLevel": 0,
+            "useTime": 10800,
+            "building_id": 1001007
+        }
+    },
+    {
+        "pk": 1044,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1036,2036",
+            "castleLevel": 14,
+            "level": 6,
+            "userLevel": 0,
+            "useTime": 12600,
+            "building_id": 1001007
+        }
+    },
+    {
+        "pk": 1045,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1037,2037",
+            "castleLevel": 16,
+            "level": 7,
+            "userLevel": 0,
+            "useTime": 14400,
+            "building_id": 1001007
+        }
+    },
+    {
+        "pk": 1046,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1038,2038",
+            "castleLevel": 18,
+            "level": 8,
+            "userLevel": 0,
+            "useTime": 16200,
+            "building_id": 1001007
+        }
+    },
+    {
+        "pk": 1047,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1039,2039",
+            "castleLevel": 20,
+            "level": 9,
+            "userLevel": 0,
+            "useTime": 18000,
+            "building_id": 1001007
+        }
+    },
+    {
+        "pk": 1126,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1030,2030",
+            "castleLevel": 5,
+            "level": 0,
+            "userLevel": 16,
+            "useTime": 300,
+            "building_id": 1001015
+        }
+    },
+    {
+        "pk": 1127,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2086.0,
+            "castleLevel": 1,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 300,
+            "building_id": 1003001
+        }
+    },
+    {
+        "pk": 1128,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2087.0,
+            "castleLevel": 1,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 300,
+            "building_id": 1003002
+        }
+    },
+    {
+        "pk": 1129,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2088.0,
+            "castleLevel": 1,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 300,
+            "building_id": 1003003
+        }
+    },
+    {
+        "pk": 1130,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2089.0,
+            "castleLevel": 1,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 300,
+            "building_id": 1003004
+        }
+    },
+    {
+        "pk": 1131,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2090.0,
+            "castleLevel": 1,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 300,
+            "building_id": 1003005
+        }
+    },
+    {
+        "pk": 1132,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2091.0,
+            "castleLevel": 1,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 300,
+            "building_id": 1003006
+        }
+    },
+    {
+        "pk": 1133,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2092.0,
+            "castleLevel": 1,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 300,
+            "building_id": 1003007
+        }
+    },
+    {
+        "pk": 1134,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2077.0,
+            "castleLevel": 4,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 0,
+            "building_id": 1004001
+        }
+    },
+    {
+        "pk": 1135,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "",
+            "castleLevel": 4,
+            "level": 1,
+            "userLevel": 1,
+            "useTime": 10,
+            "building_id": 1004001
+        }
+    },
+    {
+        "pk": 1136,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2078.0,
+            "castleLevel": 4,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 0,
+            "building_id": 1004002
+        }
+    },
+    {
+        "pk": 1137,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "",
+            "castleLevel": 4,
+            "level": 1,
+            "userLevel": 1,
+            "useTime": 10,
+            "building_id": 1004002
+        }
+    },
+    {
+        "pk": 1138,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2079.0,
+            "castleLevel": 4,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 0,
+            "building_id": 1004003
+        }
+    },
+    {
+        "pk": 1139,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "",
+            "castleLevel": 4,
+            "level": 1,
+            "userLevel": 1,
+            "useTime": 10,
+            "building_id": 1004003
+        }
+    },
+    {
+        "pk": 1140,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2080.0,
+            "castleLevel": 4,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 0,
+            "building_id": 1004004
+        }
+    },
+    {
+        "pk": 1141,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "",
+            "castleLevel": 4,
+            "level": 1,
+            "userLevel": 1,
+            "useTime": 10,
+            "building_id": 1004004
+        }
+    },
+    {
+        "pk": 1142,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2081.0,
+            "castleLevel": 4,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 0,
+            "building_id": 1004005
+        }
+    },
+    {
+        "pk": 1143,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "",
+            "castleLevel": 4,
+            "level": 1,
+            "userLevel": 1,
+            "useTime": 10,
+            "building_id": 1004005
+        }
+    },
+    {
+        "pk": 1144,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2082.0,
+            "castleLevel": 4,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 0,
+            "building_id": 1004006
+        }
+    },
+    {
+        "pk": 1145,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "",
+            "castleLevel": 4,
+            "level": 1,
+            "userLevel": 1,
+            "useTime": 10,
+            "building_id": 1004006
+        }
+    },
+    {
+        "pk": 1146,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2083.0,
+            "castleLevel": 4,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 0,
+            "building_id": 1004007
+        }
+    },
+    {
+        "pk": 1147,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "",
+            "castleLevel": 4,
+            "level": 1,
+            "userLevel": 1,
+            "useTime": 10,
+            "building_id": 1004007
+        }
+    },
+    {
+        "pk": 1148,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2084.0,
+            "castleLevel": 4,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 0,
+            "building_id": 1004008
+        }
+    },
+    {
+        "pk": 1149,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "",
+            "castleLevel": 4,
+            "level": 1,
+            "userLevel": 1,
+            "useTime": 10,
+            "building_id": 1004008
+        }
+    },
+    {
+        "pk": 1150,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": 2085.0,
+            "castleLevel": 4,
+            "level": 0,
+            "userLevel": 1,
+            "useTime": 0,
+            "building_id": 1004009
+        }
+    },
+    {
+        "pk": 1151,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "",
+            "castleLevel": 4,
+            "level": 1,
+            "userLevel": 1,
+            "useTime": 10,
+            "building_id": 1004009
+        }
+    },
+    {
+        "pk": 1152,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1001,2001",
+            "castleLevel": 4,
+            "level": 0,
+            "userLevel": 14,
+            "useTime": 0,
+            "building_id": 1002002
+        }
+    },
+    {
+        "pk": 1153,
+        "model": "building.buildingupgrade",
+        "fields": {
+            "costs_int": "1001,2001",
+            "castleLevel": 4,
+            "level": 0,
+            "userLevel": 14,
+            "useTime": 0,
+            "building_id": 1002003
+        }
+    }
+]

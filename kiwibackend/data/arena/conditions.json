@@ -1,0 +1,247 @@
+[
+    {
+        "pk": 10001,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1001.0
+        }
+    },
+    {
+        "pk": 10002,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1002.0
+        }
+    },
+    {
+        "pk": 10003,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1003.0
+        }
+    },
+    {
+        "pk": 10004,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1004.0
+        }
+    },
+    {
+        "pk": 10005,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1005.0
+        }
+    },
+    {
+        "pk": 10006,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1006.0
+        }
+    },
+    {
+        "pk": 10007,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1007.0
+        }
+    },
+    {
+        "pk": 10008,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1008.0
+        }
+    },
+    {
+        "pk": 10009,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1009.0
+        }
+    },
+    {
+        "pk": 10010,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1010.0
+        }
+    },
+    {
+        "pk": 10011,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1011.0
+        }
+    },
+    {
+        "pk": 10012,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1012.0
+        }
+    },
+    {
+        "pk": 10013,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1013.0
+        }
+    },
+    {
+        "pk": 10014,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1014.0
+        }
+    },
+    {
+        "pk": 10015,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1015.0
+        }
+    },
+    {
+        "pk": 10016,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1016.0
+        }
+    },
+    {
+        "pk": 10017,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1017.0
+        }
+    },
+    {
+        "pk": 10018,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1018.0
+        }
+    },
+    {
+        "pk": 10019,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1019.0
+        }
+    },
+    {
+        "pk": 10020,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1020.0
+        }
+    },
+    {
+        "pk": 10021,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1021.0
+        }
+    },
+    {
+        "pk": 10022,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1022.0
+        }
+    },
+    {
+        "pk": 10023,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1023.0
+        }
+    },
+    {
+        "pk": 10024,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1024.0
+        }
+    },
+    {
+        "pk": 10025,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1025.0
+        }
+    },
+    {
+        "pk": 10026,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1026.0
+        }
+    },
+    {
+        "pk": 10027,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1027.0
+        }
+    },
+    {
+        "pk": 10028,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": 1028.0
+        }
+    },
+    {
+        "pk": 11001,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": "1011,1012,1013,1014"
+        }
+    },
+    {
+        "pk": 11002,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": "1001,1025"
+        }
+    },
+    {
+        "pk": 11003,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": "1010,1001,1025"
+        }
+    },
+    {
+        "pk": 11004,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": "1010,1002,1025"
+        }
+    },
+    {
+        "pk": 10029,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": "1029,1005"
+        }
+    },
+    {
+        "pk": 10030,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": "1030,1005"
+        }
+    },
+    {
+        "pk": 11005,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": "1010,1009,1025"
+        }
+    }
+]

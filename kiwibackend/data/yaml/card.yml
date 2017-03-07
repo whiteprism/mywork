@@ -1,0 +1,26 @@
+
+table:
+  out-type: json
+  sheet: 英雄种族
+  row: 3
+  model: hero.card
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: warrior_id
+      column: warrior_id
+      type: int
+
+    - name: career
+      column: career
+      type: int
+
+    - name: equipFates_int
+      column: equipFates
+      type: char
+      default: ""
+
+

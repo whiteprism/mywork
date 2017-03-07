@@ -1,0 +1,29 @@
+[
+    {
+        "pk": 1001,
+        "model": "item.itemreward",
+        "fields": {
+            "count": 5,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "item.itemreward",
+        "fields": {
+            "count": 5,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "item.itemreward",
+        "fields": {
+            "count": 5,
+            "type": 2620303,
+            "level": 0
+        }
+    }
+]

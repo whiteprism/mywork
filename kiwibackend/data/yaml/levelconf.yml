@@ -1,0 +1,73 @@
+
+table:
+  out-type: json
+  sheet: 升级配置
+  row: 3
+  model: levelconf.levelconf
+  columns:
+    - name: battleLeftDownX
+      column: battleLeftDownX
+      type: int
+      default: 0
+
+    - name: battleLeftDownY
+      column: battleLeftDownY
+      type: int
+      default: 0
+
+    - name: battleRightTopX
+      column: battleRightTopX
+      type: int
+      default: 0
+
+    - name: battleRightTopY
+      column: battleRightTopY
+      type: int
+      default: 0
+
+    - name: energy
+      column: energy
+      type: int
+      default: 0
+
+    - name: levelUpRewards_int
+      column: levelUpRewards
+      type: char
+      default: ""
+
+    - name: rewardPower
+      column: rewardPower
+      type: int
+      default: 0
+
+    - name: rewardStamina
+      column: rewardStamina
+      type: int
+      default: 0
+
+    - name: stamina
+      column: stamina
+      type: int
+      default: 0
+
+    - name: battlePoint
+      column: battlePoint
+      type: int
+      default: 0
+
+    - name: wallHp
+      column: wallHp
+      type: int
+      default: 0
+
+    - name: xp
+      column: xp
+      type: int
+      default: 0
+
+    - name: unlockIconId
+      column: unlockIconId
+      type: int
+      default: 0
+
+

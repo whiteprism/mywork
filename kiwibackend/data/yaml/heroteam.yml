@@ -1,0 +1,28 @@
+
+table:
+  out-type: json
+  sheet: 英雄分组
+  row: 3
+  model: hero.heroteam
+  columns:
+    - name: heroCardIds_int
+      column: heroCardIds
+      type: char
+      default: ""
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: "0"
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: "0"
+
+    - name: name
+      column: name
+      type: char
+      default: "0"
+
+

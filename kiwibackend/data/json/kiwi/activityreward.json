@@ -1,0 +1,1127 @@
+[
+    {
+        "pk": 1001,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 100,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 30,
+            "type": 2040003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1005,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2040003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1006,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 100,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1007,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620702,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1008,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1009,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2620102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1010,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2040003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1011,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 200,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1012,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620703,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1013,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1014,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1015,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2040003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1016,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 200,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1017,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620704,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1018,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1019,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1020,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 15,
+            "type": 2040003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1021,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 300,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1022,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620705,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1023,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 15,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1024,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620104,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1025,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 15,
+            "type": 2040003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1026,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 300,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1027,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620705,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1028,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 20,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1029,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2620104,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1030,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 20,
+            "type": 2040003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1031,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 100,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1032,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 30,
+            "type": 2040005,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1033,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1034,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1035,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2040005,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1036,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 100,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1037,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620702,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1038,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1039,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2620102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1040,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2040005,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1041,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 200,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1042,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620703,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1043,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1044,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1045,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2040005,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1046,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 200,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1047,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620704,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1048,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1049,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1050,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 15,
+            "type": 2040005,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1051,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 300,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1052,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620705,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1053,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 15,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1054,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620104,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1055,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 15,
+            "type": 2040005,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1056,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 300,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1057,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620705,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1058,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 20,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1059,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2620104,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1060,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 20,
+            "type": 2040005,
+            "level": 0
+        }
+    },
+    {
+        "pk": 7001,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 120,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10001,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 111,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10002,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 222,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10003,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 333,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10004,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 444,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10005,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 555,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10006,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 666,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10007,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 777,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10008,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 888,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3001,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620702,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3002,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2620702,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3003,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 8,
+            "type": 2620703,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3004,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2620703,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3005,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620704,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3006,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 6,
+            "type": 2620704,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3007,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 7,
+            "type": 2620704,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3008,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 8,
+            "type": 2620704,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3009,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 9,
+            "type": 2620704,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3010,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10,
+            "type": 2620704,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3011,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 11,
+            "type": 2620704,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3012,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 6,
+            "type": 2620705,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3101,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3102,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3103,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3104,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3105,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3106,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3107,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3108,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3109,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3110,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3111,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3112,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3201,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3202,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3203,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3204,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3205,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3206,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3207,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3208,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3209,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3210,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3211,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3212,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3301,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3302,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3303,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3304,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3305,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3306,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3307,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3308,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3309,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3310,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3311,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3312,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 5,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3400,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 10000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3401,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 50000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3402,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 100000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3403,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 300000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3410,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 100,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3411,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 200,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3412,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 400,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3413,
+        "model": "activity.activityreward",
+        "fields": {
+            "count": 600,
+            "type": 510000,
+            "level": 0
+        }
+    }
+]

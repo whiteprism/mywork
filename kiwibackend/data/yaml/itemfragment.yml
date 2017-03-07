@@ -1,0 +1,58 @@
+
+table:
+  out-type: json
+  sheet: 物品碎片
+  row: 3
+  model: item.itemfragment
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: "0"
+
+    - name: pos
+      column: pos
+      type: int
+      default: 0
+
+    - name: searchDifficuty_int
+      column: searchDifficuty
+      type: char
+      default: ""
+
+    - name: searchInstances_int
+      column: searchInstances
+      type: char
+      default: ""
+
+    - name: icon
+      column: icon
+      type: char
+      default: ""
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: itemId
+      column: itemId
+      type: int
+      default: 0
+
+    - name: fragmentId
+      column: fragmentId
+      type: int
+      default: 0
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: num
+      column: num
+      type: int
+      default: 0
+
+

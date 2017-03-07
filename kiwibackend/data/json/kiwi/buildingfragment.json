@@ -1,0 +1,41 @@
+[
+    {
+        "pk": 1504001,
+        "model": "building.buildingfragment",
+        "fields": {
+            "descriptionId": "build_15040010",
+            "name": "\u795e\u50cf\u751f\u547d\u788e\u7247",
+            "searchInstances_int": 12.0,
+            "searchDifficuty_int": 4.0,
+            "nameId": "build_1504001",
+            "buildingId": 1004001,
+            "icon": "icon_1504001"
+        }
+    },
+    {
+        "pk": 1504004,
+        "model": "building.buildingfragment",
+        "fields": {
+            "descriptionId": "build_15040040",
+            "name": "\u795e\u50cf\u653b\u51fb\u788e\u7247",
+            "searchInstances_int": 12.0,
+            "searchDifficuty_int": 4.0,
+            "nameId": "build_1504004",
+            "buildingId": 1004004,
+            "icon": "icon_1504004"
+        }
+    },
+    {
+        "pk": 1504007,
+        "model": "building.buildingfragment",
+        "fields": {
+            "descriptionId": "build_15040070",
+            "name": "\u795e\u50cf\u9632\u62a4\u788e\u7247",
+            "searchInstances_int": 12.0,
+            "searchDifficuty_int": 4.0,
+            "nameId": "build_1504007",
+            "buildingId": 1004007,
+            "icon": "icon_1504007"
+        }
+    }
+]

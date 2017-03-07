@@ -1,0 +1,39 @@
+
+table:
+  out-type: json
+  sheet: 技能标示
+  row: 3
+  model: skill.flag
+  columns:
+    - name: effectName
+      column: effectName
+      type: char
+      default: ""
+
+    - name: effectSpecialShow
+      column: effectSpecialShow
+      type: int
+
+    - name: followBone
+      column: followBone
+      type: int
+
+    - name: mountType
+      column: mountType
+      type: int
+
+    - name: offsetIgnoreType
+      column: offsetIgnoreType
+      type: int
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: specialSkillId
+      column: specialSkillId
+      type: int
+      default: 0
+
+

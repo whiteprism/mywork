@@ -1,0 +1,172 @@
+[
+    {
+        "pk": 1,
+        "model": "pvp.guild",
+        "fields": {
+            "speedCount": 1,
+            "level": 1,
+            "memberCount": 10,
+            "viceChairmanCount": 1,
+            "levelUpCost": 900,
+            "memberBouns": 0,
+            "beSpeededCount": 5,
+            "vichairmanBonus": 0,
+            "unlockFunction_int": "1,2",
+            "xp": 10000,
+            "chairmanBouns": 0
+        }
+    },
+    {
+        "pk": 2,
+        "model": "pvp.guild",
+        "fields": {
+            "speedCount": 2,
+            "level": 2,
+            "memberCount": 20,
+            "viceChairmanCount": 1,
+            "levelUpCost": 1800,
+            "memberBouns": 0,
+            "beSpeededCount": 6,
+            "vichairmanBonus": 0,
+            "unlockFunction_int": "1,2,3",
+            "xp": 20000,
+            "chairmanBouns": 0
+        }
+    },
+    {
+        "pk": 3,
+        "model": "pvp.guild",
+        "fields": {
+            "speedCount": 3,
+            "level": 3,
+            "memberCount": 30,
+            "viceChairmanCount": 2,
+            "levelUpCost": 2700,
+            "memberBouns": 75,
+            "beSpeededCount": 7,
+            "vichairmanBonus": 120,
+            "unlockFunction_int": "1,2,3,4",
+            "xp": 30000,
+            "chairmanBouns": 150
+        }
+    },
+    {
+        "pk": 4,
+        "model": "pvp.guild",
+        "fields": {
+            "speedCount": 4,
+            "level": 4,
+            "memberCount": 40,
+            "viceChairmanCount": 2,
+            "levelUpCost": 3600,
+            "memberBouns": 100,
+            "beSpeededCount": 8,
+            "vichairmanBonus": 160,
+            "unlockFunction_int": "1,2,3,4,5",
+            "xp": 40000,
+            "chairmanBouns": 200
+        }
+    },
+    {
+        "pk": 5,
+        "model": "pvp.guild",
+        "fields": {
+            "speedCount": 5,
+            "level": 5,
+            "memberCount": 50,
+            "viceChairmanCount": 2,
+            "levelUpCost": 4500,
+            "memberBouns": 125,
+            "beSpeededCount": 9,
+            "vichairmanBonus": 200,
+            "unlockFunction_int": "1,2,3,4,5",
+            "xp": 50000,
+            "chairmanBouns": 250
+        }
+    },
+    {
+        "pk": 6,
+        "model": "pvp.guild",
+        "fields": {
+            "speedCount": 6,
+            "level": 6,
+            "memberCount": 60,
+            "viceChairmanCount": 2,
+            "levelUpCost": 5400,
+            "memberBouns": 150,
+            "beSpeededCount": 10,
+            "vichairmanBonus": 240,
+            "unlockFunction_int": "1,2,3,4,5",
+            "xp": 60000,
+            "chairmanBouns": 300
+        }
+    },
+    {
+        "pk": 7,
+        "model": "pvp.guild",
+        "fields": {
+            "speedCount": 7,
+            "level": 7,
+            "memberCount": 70,
+            "viceChairmanCount": 3,
+            "levelUpCost": 6300,
+            "memberBouns": 175,
+            "beSpeededCount": 11,
+            "vichairmanBonus": 280,
+            "unlockFunction_int": "1,2,3,4,5",
+            "xp": 70000,
+            "chairmanBouns": 350
+        }
+    },
+    {
+        "pk": 8,
+        "model": "pvp.guild",
+        "fields": {
+            "speedCount": 8,
+            "level": 8,
+            "memberCount": 80,
+            "viceChairmanCount": 3,
+            "levelUpCost": 7200,
+            "memberBouns": 200,
+            "beSpeededCount": 12,
+            "vichairmanBonus": 320,
+            "unlockFunction_int": "1,2,3,4,5",
+            "xp": 80000,
+            "chairmanBouns": 400
+        }
+    },
+    {
+        "pk": 9,
+        "model": "pvp.guild",
+        "fields": {
+            "speedCount": 9,
+            "level": 9,
+            "memberCount": 90,
+            "viceChairmanCount": 4,
+            "levelUpCost": 8100,
+            "memberBouns": 225,
+            "beSpeededCount": 13,
+            "vichairmanBonus": 360,
+            "unlockFunction_int": "1,2,3,4,5",
+            "xp": 90000,
+            "chairmanBouns": 450
+        }
+    },
+    {
+        "pk": 10,
+        "model": "pvp.guild",
+        "fields": {
+            "speedCount": 10,
+            "level": 10,
+            "memberCount": 100,
+            "viceChairmanCount": 5,
+            "levelUpCost": 0,
+            "memberBouns": 250,
+            "beSpeededCount": 14,
+            "vichairmanBonus": 400,
+            "unlockFunction_int": "1,2,3,4,5",
+            "xp": 0,
+            "chairmanBouns": 500
+        }
+    }
+]

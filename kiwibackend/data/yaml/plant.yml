@@ -1,0 +1,48 @@
+
+table:
+  out-type: json
+  sheet: 植物
+  row: 3
+  model: plant.plant
+  columns:
+    - name: plantType
+      column: plantType
+      type: int
+      default: 0
+
+    - name: seedId
+      column: seedId
+      type: int
+      default: 0
+
+    - name: harvestId
+      column: harvestId
+      type: int
+      default: 0
+
+    - name: output
+      column: output
+      type: int
+      default: 0
+
+    - name: harvestTimes
+      column: harvestTimes
+      type: int
+      default: 0
+
+    - name: harvestInterval
+      column: harvestInterval
+      type: int
+      default: 0
+
+    - name: growthInterval
+      column: growthInterval
+      type: int
+      default: 0
+
+    - name: matureInterval
+      column: matureInterval
+      type: int
+      default: 0
+
+

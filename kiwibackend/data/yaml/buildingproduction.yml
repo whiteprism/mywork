@@ -1,0 +1,43 @@
+
+table:
+  out-type: json
+  sheet: 建筑产物
+  row: 3
+  model: building.buildingproduction
+  columns:
+    - name: building_id
+      column: building_id
+      type: int
+      default: 0
+
+    - name: buildingLevel
+      column: buildingLevel
+      type: int
+      default: 0
+
+    - name: cost_int
+      column: cost
+      type: char
+      default: ""
+
+    - name: productionId
+      column: productionId
+      type: int
+      default: 0
+
+    - name: productionLevel
+      column: productionLevel
+      type: int
+      default: 0
+
+    - name: productionType
+      column: productionType
+      type: int
+      default: 0
+
+    - name: useTime
+      column: useTime
+      type: int
+      default: 0
+
+

@@ -1,0 +1,7690 @@
+[
+    {
+        "pk": 11101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 4.0
+        }
+    },
+    {
+        "pk": 11102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 8.0
+        }
+    },
+    {
+        "pk": 11103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 12.0
+        }
+    },
+    {
+        "pk": 11104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 16.0
+        }
+    },
+    {
+        "pk": 11105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 20.0
+        }
+    },
+    {
+        "pk": 11106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 24.0
+        }
+    },
+    {
+        "pk": 11107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 28.0
+        }
+    },
+    {
+        "pk": 11108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 32.0
+        }
+    },
+    {
+        "pk": 11109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 36.0
+        }
+    },
+    {
+        "pk": 11110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 40.0
+        }
+    },
+    {
+        "pk": 11201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 175.0
+        }
+    },
+    {
+        "pk": 11202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 350.0
+        }
+    },
+    {
+        "pk": 11203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 525.0
+        }
+    },
+    {
+        "pk": 11204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 700.0
+        }
+    },
+    {
+        "pk": 11205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 875.0
+        }
+    },
+    {
+        "pk": 11206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1050.0
+        }
+    },
+    {
+        "pk": 11207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1225.0
+        }
+    },
+    {
+        "pk": 11208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1400.0
+        }
+    },
+    {
+        "pk": 11209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1575.0
+        }
+    },
+    {
+        "pk": 11210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1750.0
+        }
+    },
+    {
+        "pk": 11301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 28.0
+        }
+    },
+    {
+        "pk": 11302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 56.0
+        }
+    },
+    {
+        "pk": 11303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 84.0
+        }
+    },
+    {
+        "pk": 11304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 11305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 140.0
+        }
+    },
+    {
+        "pk": 11306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 168.0
+        }
+    },
+    {
+        "pk": 11307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 196.0
+        }
+    },
+    {
+        "pk": 11308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 224.0
+        }
+    },
+    {
+        "pk": 11309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 252.0
+        }
+    },
+    {
+        "pk": 11310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 280.0
+        }
+    },
+    {
+        "pk": 11401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 33.3333333333
+        }
+    },
+    {
+        "pk": 11402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 66.6666666667
+        }
+    },
+    {
+        "pk": 11403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 100.0
+        }
+    },
+    {
+        "pk": 11404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 133.333333333
+        }
+    },
+    {
+        "pk": 11405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 166.666666667
+        }
+    },
+    {
+        "pk": 11406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 200.0
+        }
+    },
+    {
+        "pk": 11407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 233.333333333
+        }
+    },
+    {
+        "pk": 11408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 266.666666667
+        }
+    },
+    {
+        "pk": 11409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 300.0
+        }
+    },
+    {
+        "pk": 11410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 333.333333333
+        }
+    },
+    {
+        "pk": 12101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 4.0
+        }
+    },
+    {
+        "pk": 12102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 8.0
+        }
+    },
+    {
+        "pk": 12103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 12.0
+        }
+    },
+    {
+        "pk": 12104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 16.0
+        }
+    },
+    {
+        "pk": 12105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 20.0
+        }
+    },
+    {
+        "pk": 12106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 24.0
+        }
+    },
+    {
+        "pk": 12107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 28.0
+        }
+    },
+    {
+        "pk": 12108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 32.0
+        }
+    },
+    {
+        "pk": 12109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 36.0
+        }
+    },
+    {
+        "pk": 12110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 40.0
+        }
+    },
+    {
+        "pk": 12201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 175.0
+        }
+    },
+    {
+        "pk": 12202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 350.0
+        }
+    },
+    {
+        "pk": 12203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 525.0
+        }
+    },
+    {
+        "pk": 12204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 700.0
+        }
+    },
+    {
+        "pk": 12205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 875.0
+        }
+    },
+    {
+        "pk": 12206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1050.0
+        }
+    },
+    {
+        "pk": 12207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1225.0
+        }
+    },
+    {
+        "pk": 12208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1400.0
+        }
+    },
+    {
+        "pk": 12209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1575.0
+        }
+    },
+    {
+        "pk": 12210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1750.0
+        }
+    },
+    {
+        "pk": 12301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 28.0
+        }
+    },
+    {
+        "pk": 12302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 56.0
+        }
+    },
+    {
+        "pk": 12303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 84.0
+        }
+    },
+    {
+        "pk": 12304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 12305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 140.0
+        }
+    },
+    {
+        "pk": 12306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 168.0
+        }
+    },
+    {
+        "pk": 12307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 196.0
+        }
+    },
+    {
+        "pk": 12308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 224.0
+        }
+    },
+    {
+        "pk": 12309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 252.0
+        }
+    },
+    {
+        "pk": 12310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 280.0
+        }
+    },
+    {
+        "pk": 12401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 33.3333333333
+        }
+    },
+    {
+        "pk": 12402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 66.6666666667
+        }
+    },
+    {
+        "pk": 12403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 100.0
+        }
+    },
+    {
+        "pk": 12404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 133.333333333
+        }
+    },
+    {
+        "pk": 12405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 166.666666667
+        }
+    },
+    {
+        "pk": 12406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 200.0
+        }
+    },
+    {
+        "pk": 12407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 233.333333333
+        }
+    },
+    {
+        "pk": 12408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 266.666666667
+        }
+    },
+    {
+        "pk": 12409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 300.0
+        }
+    },
+    {
+        "pk": 12410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 333.333333333
+        }
+    },
+    {
+        "pk": 13101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 5.33333333333
+        }
+    },
+    {
+        "pk": 13102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 10.6666666667
+        }
+    },
+    {
+        "pk": 13103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 16.0
+        }
+    },
+    {
+        "pk": 13104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 21.3333333333
+        }
+    },
+    {
+        "pk": 13105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 26.6666666667
+        }
+    },
+    {
+        "pk": 13106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 32.0
+        }
+    },
+    {
+        "pk": 13107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 37.3333333333
+        }
+    },
+    {
+        "pk": 13108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 42.6666666667
+        }
+    },
+    {
+        "pk": 13109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 48.0
+        }
+    },
+    {
+        "pk": 13110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 53.3333333333
+        }
+    },
+    {
+        "pk": 13201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 233.333333333
+        }
+    },
+    {
+        "pk": 13202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 466.666666667
+        }
+    },
+    {
+        "pk": 13203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 700.0
+        }
+    },
+    {
+        "pk": 13204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 933.333333333
+        }
+    },
+    {
+        "pk": 13205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1166.66666667
+        }
+    },
+    {
+        "pk": 13206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1400.0
+        }
+    },
+    {
+        "pk": 13207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1633.33333333
+        }
+    },
+    {
+        "pk": 13208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1866.66666667
+        }
+    },
+    {
+        "pk": 13209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 2100.0
+        }
+    },
+    {
+        "pk": 13210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 2333.33333333
+        }
+    },
+    {
+        "pk": 13301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 37.3333333333
+        }
+    },
+    {
+        "pk": 13302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 74.6666666667
+        }
+    },
+    {
+        "pk": 13303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 13304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 149.333333333
+        }
+    },
+    {
+        "pk": 13305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 186.666666667
+        }
+    },
+    {
+        "pk": 13306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 224.0
+        }
+    },
+    {
+        "pk": 13307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 261.333333333
+        }
+    },
+    {
+        "pk": 13308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 298.666666667
+        }
+    },
+    {
+        "pk": 13309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 336.0
+        }
+    },
+    {
+        "pk": 13310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 373.333333333
+        }
+    },
+    {
+        "pk": 13401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 44.4444444444
+        }
+    },
+    {
+        "pk": 13402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 88.8888888889
+        }
+    },
+    {
+        "pk": 13403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 133.333333333
+        }
+    },
+    {
+        "pk": 13404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 177.777777778
+        }
+    },
+    {
+        "pk": 13405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 222.222222222
+        }
+    },
+    {
+        "pk": 13406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 266.666666667
+        }
+    },
+    {
+        "pk": 13407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 311.111111111
+        }
+    },
+    {
+        "pk": 13408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 355.555555556
+        }
+    },
+    {
+        "pk": 13409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 400.0
+        }
+    },
+    {
+        "pk": 13410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 444.444444444
+        }
+    },
+    {
+        "pk": 14101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 5.33333333333
+        }
+    },
+    {
+        "pk": 14102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 10.6666666667
+        }
+    },
+    {
+        "pk": 14103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 16.0
+        }
+    },
+    {
+        "pk": 14104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 21.3333333333
+        }
+    },
+    {
+        "pk": 14105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 26.6666666667
+        }
+    },
+    {
+        "pk": 14106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 32.0
+        }
+    },
+    {
+        "pk": 14107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 37.3333333333
+        }
+    },
+    {
+        "pk": 14108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 42.6666666667
+        }
+    },
+    {
+        "pk": 14109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 48.0
+        }
+    },
+    {
+        "pk": 14110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 53.3333333333
+        }
+    },
+    {
+        "pk": 14201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 233.333333333
+        }
+    },
+    {
+        "pk": 14202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 466.666666667
+        }
+    },
+    {
+        "pk": 14203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 700.0
+        }
+    },
+    {
+        "pk": 14204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 933.333333333
+        }
+    },
+    {
+        "pk": 14205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1166.66666667
+        }
+    },
+    {
+        "pk": 14206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1400.0
+        }
+    },
+    {
+        "pk": 14207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1633.33333333
+        }
+    },
+    {
+        "pk": 14208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1866.66666667
+        }
+    },
+    {
+        "pk": 14209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 2100.0
+        }
+    },
+    {
+        "pk": 14210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 2333.33333333
+        }
+    },
+    {
+        "pk": 14301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 37.3333333333
+        }
+    },
+    {
+        "pk": 14302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 74.6666666667
+        }
+    },
+    {
+        "pk": 14303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 14304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 149.333333333
+        }
+    },
+    {
+        "pk": 14305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 186.666666667
+        }
+    },
+    {
+        "pk": 14306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 224.0
+        }
+    },
+    {
+        "pk": 14307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 261.333333333
+        }
+    },
+    {
+        "pk": 14308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 298.666666667
+        }
+    },
+    {
+        "pk": 14309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 336.0
+        }
+    },
+    {
+        "pk": 14310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 373.333333333
+        }
+    },
+    {
+        "pk": 14401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 44.4444444444
+        }
+    },
+    {
+        "pk": 14402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 88.8888888889
+        }
+    },
+    {
+        "pk": 14403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 133.333333333
+        }
+    },
+    {
+        "pk": 14404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 177.777777778
+        }
+    },
+    {
+        "pk": 14405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 222.222222222
+        }
+    },
+    {
+        "pk": 14406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 266.666666667
+        }
+    },
+    {
+        "pk": 14407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 311.111111111
+        }
+    },
+    {
+        "pk": 14408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 355.555555556
+        }
+    },
+    {
+        "pk": 14409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 400.0
+        }
+    },
+    {
+        "pk": 14410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 444.444444444
+        }
+    },
+    {
+        "pk": 21101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 10.0
+        }
+    },
+    {
+        "pk": 21102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 20.0
+        }
+    },
+    {
+        "pk": 21103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 30.0
+        }
+    },
+    {
+        "pk": 21104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 40.0
+        }
+    },
+    {
+        "pk": 21105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 50.0
+        }
+    },
+    {
+        "pk": 21106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 60.0
+        }
+    },
+    {
+        "pk": 21107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 70.0
+        }
+    },
+    {
+        "pk": 21108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 80.0
+        }
+    },
+    {
+        "pk": 21109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 90.0
+        }
+    },
+    {
+        "pk": 21110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 100.0
+        }
+    },
+    {
+        "pk": 21201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 162.5
+        }
+    },
+    {
+        "pk": 21202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 325.0
+        }
+    },
+    {
+        "pk": 21203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 487.5
+        }
+    },
+    {
+        "pk": 21204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 650.0
+        }
+    },
+    {
+        "pk": 21205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 812.5
+        }
+    },
+    {
+        "pk": 21206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 975.0
+        }
+    },
+    {
+        "pk": 21207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1137.5
+        }
+    },
+    {
+        "pk": 21208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1300.0
+        }
+    },
+    {
+        "pk": 21209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1462.5
+        }
+    },
+    {
+        "pk": 21210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1625.0
+        }
+    },
+    {
+        "pk": 21301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 21.4285714286
+        }
+    },
+    {
+        "pk": 21302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 42.8571428571
+        }
+    },
+    {
+        "pk": 21303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 64.2857142857
+        }
+    },
+    {
+        "pk": 21304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 85.7142857143
+        }
+    },
+    {
+        "pk": 21305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 107.142857143
+        }
+    },
+    {
+        "pk": 21306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 128.571428571
+        }
+    },
+    {
+        "pk": 21307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 150.0
+        }
+    },
+    {
+        "pk": 21308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 171.428571429
+        }
+    },
+    {
+        "pk": 21309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 192.857142857
+        }
+    },
+    {
+        "pk": 21310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 214.285714286
+        }
+    },
+    {
+        "pk": 21401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 21.4285714286
+        }
+    },
+    {
+        "pk": 21402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 42.8571428571
+        }
+    },
+    {
+        "pk": 21403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 64.2857142857
+        }
+    },
+    {
+        "pk": 21404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 85.7142857143
+        }
+    },
+    {
+        "pk": 21405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 107.142857143
+        }
+    },
+    {
+        "pk": 21406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 128.571428571
+        }
+    },
+    {
+        "pk": 21407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 150.0
+        }
+    },
+    {
+        "pk": 21408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 171.428571429
+        }
+    },
+    {
+        "pk": 21409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 192.857142857
+        }
+    },
+    {
+        "pk": 21410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 214.285714286
+        }
+    },
+    {
+        "pk": 22101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 10.0
+        }
+    },
+    {
+        "pk": 22102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 20.0
+        }
+    },
+    {
+        "pk": 22103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 30.0
+        }
+    },
+    {
+        "pk": 22104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 40.0
+        }
+    },
+    {
+        "pk": 22105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 50.0
+        }
+    },
+    {
+        "pk": 22106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 60.0
+        }
+    },
+    {
+        "pk": 22107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 70.0
+        }
+    },
+    {
+        "pk": 22108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 80.0
+        }
+    },
+    {
+        "pk": 22109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 90.0
+        }
+    },
+    {
+        "pk": 22110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 100.0
+        }
+    },
+    {
+        "pk": 22201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 162.5
+        }
+    },
+    {
+        "pk": 22202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 325.0
+        }
+    },
+    {
+        "pk": 22203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 487.5
+        }
+    },
+    {
+        "pk": 22204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 650.0
+        }
+    },
+    {
+        "pk": 22205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 812.5
+        }
+    },
+    {
+        "pk": 22206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 975.0
+        }
+    },
+    {
+        "pk": 22207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1137.5
+        }
+    },
+    {
+        "pk": 22208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1300.0
+        }
+    },
+    {
+        "pk": 22209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1462.5
+        }
+    },
+    {
+        "pk": 22210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1625.0
+        }
+    },
+    {
+        "pk": 22301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 21.4285714286
+        }
+    },
+    {
+        "pk": 22302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 42.8571428571
+        }
+    },
+    {
+        "pk": 22303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 64.2857142857
+        }
+    },
+    {
+        "pk": 22304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 85.7142857143
+        }
+    },
+    {
+        "pk": 22305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 107.142857143
+        }
+    },
+    {
+        "pk": 22306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 128.571428571
+        }
+    },
+    {
+        "pk": 22307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 150.0
+        }
+    },
+    {
+        "pk": 22308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 171.428571429
+        }
+    },
+    {
+        "pk": 22309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 192.857142857
+        }
+    },
+    {
+        "pk": 22310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 214.285714286
+        }
+    },
+    {
+        "pk": 22401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 21.4285714286
+        }
+    },
+    {
+        "pk": 22402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 42.8571428571
+        }
+    },
+    {
+        "pk": 22403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 64.2857142857
+        }
+    },
+    {
+        "pk": 22404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 85.7142857143
+        }
+    },
+    {
+        "pk": 22405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 107.142857143
+        }
+    },
+    {
+        "pk": 22406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 128.571428571
+        }
+    },
+    {
+        "pk": 22407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 150.0
+        }
+    },
+    {
+        "pk": 22408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 171.428571429
+        }
+    },
+    {
+        "pk": 22409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 192.857142857
+        }
+    },
+    {
+        "pk": 22410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 214.285714286
+        }
+    },
+    {
+        "pk": 23101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 13.3333333333
+        }
+    },
+    {
+        "pk": 23102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 26.6666666667
+        }
+    },
+    {
+        "pk": 23103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 40.0
+        }
+    },
+    {
+        "pk": 23104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 53.3333333333
+        }
+    },
+    {
+        "pk": 23105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 66.6666666667
+        }
+    },
+    {
+        "pk": 23106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 80.0
+        }
+    },
+    {
+        "pk": 23107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 93.3333333333
+        }
+    },
+    {
+        "pk": 23108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 106.666666667
+        }
+    },
+    {
+        "pk": 23109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 120.0
+        }
+    },
+    {
+        "pk": 23110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 133.333333333
+        }
+    },
+    {
+        "pk": 23201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 216.666666667
+        }
+    },
+    {
+        "pk": 23202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 433.333333333
+        }
+    },
+    {
+        "pk": 23203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 650.0
+        }
+    },
+    {
+        "pk": 23204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 866.666666667
+        }
+    },
+    {
+        "pk": 23205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1083.33333333
+        }
+    },
+    {
+        "pk": 23206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1300.0
+        }
+    },
+    {
+        "pk": 23207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1516.66666667
+        }
+    },
+    {
+        "pk": 23208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1733.33333333
+        }
+    },
+    {
+        "pk": 23209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1950.0
+        }
+    },
+    {
+        "pk": 23210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 2166.66666667
+        }
+    },
+    {
+        "pk": 23301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 28.5714285714
+        }
+    },
+    {
+        "pk": 23302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 57.1428571429
+        }
+    },
+    {
+        "pk": 23303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 85.7142857143
+        }
+    },
+    {
+        "pk": 23304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 114.285714286
+        }
+    },
+    {
+        "pk": 23305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 142.857142857
+        }
+    },
+    {
+        "pk": 23306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 171.428571429
+        }
+    },
+    {
+        "pk": 23307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 200.0
+        }
+    },
+    {
+        "pk": 23308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 228.571428571
+        }
+    },
+    {
+        "pk": 23309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 257.142857143
+        }
+    },
+    {
+        "pk": 23310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 285.714285714
+        }
+    },
+    {
+        "pk": 23401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 28.5714285714
+        }
+    },
+    {
+        "pk": 23402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 57.1428571429
+        }
+    },
+    {
+        "pk": 23403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 85.7142857143
+        }
+    },
+    {
+        "pk": 23404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 114.285714286
+        }
+    },
+    {
+        "pk": 23405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 142.857142857
+        }
+    },
+    {
+        "pk": 23406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 171.428571429
+        }
+    },
+    {
+        "pk": 23407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 200.0
+        }
+    },
+    {
+        "pk": 23408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 228.571428571
+        }
+    },
+    {
+        "pk": 23409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 257.142857143
+        }
+    },
+    {
+        "pk": 23410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 285.714285714
+        }
+    },
+    {
+        "pk": 24101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 13.3333333333
+        }
+    },
+    {
+        "pk": 24102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 26.6666666667
+        }
+    },
+    {
+        "pk": 24103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 40.0
+        }
+    },
+    {
+        "pk": 24104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 53.3333333333
+        }
+    },
+    {
+        "pk": 24105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 66.6666666667
+        }
+    },
+    {
+        "pk": 24106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 80.0
+        }
+    },
+    {
+        "pk": 24107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 93.3333333333
+        }
+    },
+    {
+        "pk": 24108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 106.666666667
+        }
+    },
+    {
+        "pk": 24109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 120.0
+        }
+    },
+    {
+        "pk": 24110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 133.333333333
+        }
+    },
+    {
+        "pk": 24201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 216.666666667
+        }
+    },
+    {
+        "pk": 24202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 433.333333333
+        }
+    },
+    {
+        "pk": 24203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 650.0
+        }
+    },
+    {
+        "pk": 24204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 866.666666667
+        }
+    },
+    {
+        "pk": 24205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1083.33333333
+        }
+    },
+    {
+        "pk": 24206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1300.0
+        }
+    },
+    {
+        "pk": 24207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1516.66666667
+        }
+    },
+    {
+        "pk": 24208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1733.33333333
+        }
+    },
+    {
+        "pk": 24209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1950.0
+        }
+    },
+    {
+        "pk": 24210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 2166.66666667
+        }
+    },
+    {
+        "pk": 24301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 28.5714285714
+        }
+    },
+    {
+        "pk": 24302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 57.1428571429
+        }
+    },
+    {
+        "pk": 24303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 85.7142857143
+        }
+    },
+    {
+        "pk": 24304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 114.285714286
+        }
+    },
+    {
+        "pk": 24305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 142.857142857
+        }
+    },
+    {
+        "pk": 24306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 171.428571429
+        }
+    },
+    {
+        "pk": 24307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 200.0
+        }
+    },
+    {
+        "pk": 24308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 228.571428571
+        }
+    },
+    {
+        "pk": 24309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 257.142857143
+        }
+    },
+    {
+        "pk": 24310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 285.714285714
+        }
+    },
+    {
+        "pk": 24401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 28.5714285714
+        }
+    },
+    {
+        "pk": 24402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 57.1428571429
+        }
+    },
+    {
+        "pk": 24403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 85.7142857143
+        }
+    },
+    {
+        "pk": 24404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 114.285714286
+        }
+    },
+    {
+        "pk": 24405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 142.857142857
+        }
+    },
+    {
+        "pk": 24406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 171.428571429
+        }
+    },
+    {
+        "pk": 24407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 200.0
+        }
+    },
+    {
+        "pk": 24408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 228.571428571
+        }
+    },
+    {
+        "pk": 24409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 257.142857143
+        }
+    },
+    {
+        "pk": 24410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 285.714285714
+        }
+    },
+    {
+        "pk": 31101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 7.2
+        }
+    },
+    {
+        "pk": 31102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 14.4
+        }
+    },
+    {
+        "pk": 31103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 21.6
+        }
+    },
+    {
+        "pk": 31104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 28.8
+        }
+    },
+    {
+        "pk": 31105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 36.0
+        }
+    },
+    {
+        "pk": 31106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 43.2
+        }
+    },
+    {
+        "pk": 31107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 50.4
+        }
+    },
+    {
+        "pk": 31108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 57.6
+        }
+    },
+    {
+        "pk": 31109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 64.8
+        }
+    },
+    {
+        "pk": 31110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 72.0
+        }
+    },
+    {
+        "pk": 31201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 160.0
+        }
+    },
+    {
+        "pk": 31202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 320.0
+        }
+    },
+    {
+        "pk": 31203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 480.0
+        }
+    },
+    {
+        "pk": 31204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 640.0
+        }
+    },
+    {
+        "pk": 31205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 800.0
+        }
+    },
+    {
+        "pk": 31206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 960.0
+        }
+    },
+    {
+        "pk": 31207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1120.0
+        }
+    },
+    {
+        "pk": 31208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1280.0
+        }
+    },
+    {
+        "pk": 31209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1440.0
+        }
+    },
+    {
+        "pk": 31210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1600.0
+        }
+    },
+    {
+        "pk": 31301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 28.5714285714
+        }
+    },
+    {
+        "pk": 31302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 57.1428571429
+        }
+    },
+    {
+        "pk": 31303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 85.7142857143
+        }
+    },
+    {
+        "pk": 31304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 114.285714286
+        }
+    },
+    {
+        "pk": 31305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 142.857142857
+        }
+    },
+    {
+        "pk": 31306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 171.428571429
+        }
+    },
+    {
+        "pk": 31307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 200.0
+        }
+    },
+    {
+        "pk": 31308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 228.571428571
+        }
+    },
+    {
+        "pk": 31309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 257.142857143
+        }
+    },
+    {
+        "pk": 31310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 285.714285714
+        }
+    },
+    {
+        "pk": 31401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 25.5319148936
+        }
+    },
+    {
+        "pk": 31402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 51.0638297872
+        }
+    },
+    {
+        "pk": 31403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 76.5957446809
+        }
+    },
+    {
+        "pk": 31404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 102.127659574
+        }
+    },
+    {
+        "pk": 31405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 127.659574468
+        }
+    },
+    {
+        "pk": 31406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 153.191489362
+        }
+    },
+    {
+        "pk": 31407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 178.723404255
+        }
+    },
+    {
+        "pk": 31408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 204.255319149
+        }
+    },
+    {
+        "pk": 31409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 229.787234043
+        }
+    },
+    {
+        "pk": 31410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 255.319148936
+        }
+    },
+    {
+        "pk": 32101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 7.2
+        }
+    },
+    {
+        "pk": 32102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 14.4
+        }
+    },
+    {
+        "pk": 32103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 21.6
+        }
+    },
+    {
+        "pk": 32104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 28.8
+        }
+    },
+    {
+        "pk": 32105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 36.0
+        }
+    },
+    {
+        "pk": 32106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 43.2
+        }
+    },
+    {
+        "pk": 32107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 50.4
+        }
+    },
+    {
+        "pk": 32108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 57.6
+        }
+    },
+    {
+        "pk": 32109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 64.8
+        }
+    },
+    {
+        "pk": 32110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 72.0
+        }
+    },
+    {
+        "pk": 32201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 160.0
+        }
+    },
+    {
+        "pk": 32202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 320.0
+        }
+    },
+    {
+        "pk": 32203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 480.0
+        }
+    },
+    {
+        "pk": 32204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 640.0
+        }
+    },
+    {
+        "pk": 32205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 800.0
+        }
+    },
+    {
+        "pk": 32206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 960.0
+        }
+    },
+    {
+        "pk": 32207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1120.0
+        }
+    },
+    {
+        "pk": 32208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1280.0
+        }
+    },
+    {
+        "pk": 32209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1440.0
+        }
+    },
+    {
+        "pk": 32210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1600.0
+        }
+    },
+    {
+        "pk": 32301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 28.5714285714
+        }
+    },
+    {
+        "pk": 32302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 57.1428571429
+        }
+    },
+    {
+        "pk": 32303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 85.7142857143
+        }
+    },
+    {
+        "pk": 32304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 114.285714286
+        }
+    },
+    {
+        "pk": 32305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 142.857142857
+        }
+    },
+    {
+        "pk": 32306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 171.428571429
+        }
+    },
+    {
+        "pk": 32307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 200.0
+        }
+    },
+    {
+        "pk": 32308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 228.571428571
+        }
+    },
+    {
+        "pk": 32309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 257.142857143
+        }
+    },
+    {
+        "pk": 32310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 285.714285714
+        }
+    },
+    {
+        "pk": 32401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 25.5319148936
+        }
+    },
+    {
+        "pk": 32402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 51.0638297872
+        }
+    },
+    {
+        "pk": 32403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 76.5957446809
+        }
+    },
+    {
+        "pk": 32404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 102.127659574
+        }
+    },
+    {
+        "pk": 32405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 127.659574468
+        }
+    },
+    {
+        "pk": 32406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 153.191489362
+        }
+    },
+    {
+        "pk": 32407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 178.723404255
+        }
+    },
+    {
+        "pk": 32408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 204.255319149
+        }
+    },
+    {
+        "pk": 32409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 229.787234043
+        }
+    },
+    {
+        "pk": 32410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 255.319148936
+        }
+    },
+    {
+        "pk": 33101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 9.6
+        }
+    },
+    {
+        "pk": 33102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 19.2
+        }
+    },
+    {
+        "pk": 33103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 28.8
+        }
+    },
+    {
+        "pk": 33104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 38.4
+        }
+    },
+    {
+        "pk": 33105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 48.0
+        }
+    },
+    {
+        "pk": 33106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 57.6
+        }
+    },
+    {
+        "pk": 33107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 67.2
+        }
+    },
+    {
+        "pk": 33108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 76.8
+        }
+    },
+    {
+        "pk": 33109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 86.4
+        }
+    },
+    {
+        "pk": 33110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 96.0
+        }
+    },
+    {
+        "pk": 33201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 213.333333333
+        }
+    },
+    {
+        "pk": 33202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 426.666666667
+        }
+    },
+    {
+        "pk": 33203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 640.0
+        }
+    },
+    {
+        "pk": 33204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 853.333333333
+        }
+    },
+    {
+        "pk": 33205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1066.66666667
+        }
+    },
+    {
+        "pk": 33206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1280.0
+        }
+    },
+    {
+        "pk": 33207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1493.33333333
+        }
+    },
+    {
+        "pk": 33208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1706.66666667
+        }
+    },
+    {
+        "pk": 33209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1920.0
+        }
+    },
+    {
+        "pk": 33210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 2133.33333333
+        }
+    },
+    {
+        "pk": 33301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 38.0952380952
+        }
+    },
+    {
+        "pk": 33302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 76.1904761905
+        }
+    },
+    {
+        "pk": 33303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 114.285714286
+        }
+    },
+    {
+        "pk": 33304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 152.380952381
+        }
+    },
+    {
+        "pk": 33305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 190.476190476
+        }
+    },
+    {
+        "pk": 33306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 228.571428571
+        }
+    },
+    {
+        "pk": 33307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 266.666666667
+        }
+    },
+    {
+        "pk": 33308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 304.761904762
+        }
+    },
+    {
+        "pk": 33309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 342.857142857
+        }
+    },
+    {
+        "pk": 33310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 380.952380952
+        }
+    },
+    {
+        "pk": 33401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 34.0425531915
+        }
+    },
+    {
+        "pk": 33402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 68.085106383
+        }
+    },
+    {
+        "pk": 33403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 102.127659574
+        }
+    },
+    {
+        "pk": 33404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 136.170212766
+        }
+    },
+    {
+        "pk": 33405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 170.212765957
+        }
+    },
+    {
+        "pk": 33406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 204.255319149
+        }
+    },
+    {
+        "pk": 33407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 238.29787234
+        }
+    },
+    {
+        "pk": 33408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 272.340425532
+        }
+    },
+    {
+        "pk": 33409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 306.382978723
+        }
+    },
+    {
+        "pk": 33410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 340.425531915
+        }
+    },
+    {
+        "pk": 34101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 9.6
+        }
+    },
+    {
+        "pk": 34102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 19.2
+        }
+    },
+    {
+        "pk": 34103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 28.8
+        }
+    },
+    {
+        "pk": 34104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 38.4
+        }
+    },
+    {
+        "pk": 34105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 48.0
+        }
+    },
+    {
+        "pk": 34106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 57.6
+        }
+    },
+    {
+        "pk": 34107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 67.2
+        }
+    },
+    {
+        "pk": 34108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 76.8
+        }
+    },
+    {
+        "pk": 34109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 86.4
+        }
+    },
+    {
+        "pk": 34110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 96.0
+        }
+    },
+    {
+        "pk": 34201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 213.333333333
+        }
+    },
+    {
+        "pk": 34202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 426.666666667
+        }
+    },
+    {
+        "pk": 34203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 640.0
+        }
+    },
+    {
+        "pk": 34204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 853.333333333
+        }
+    },
+    {
+        "pk": 34205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1066.66666667
+        }
+    },
+    {
+        "pk": 34206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1280.0
+        }
+    },
+    {
+        "pk": 34207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1493.33333333
+        }
+    },
+    {
+        "pk": 34208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1706.66666667
+        }
+    },
+    {
+        "pk": 34209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1920.0
+        }
+    },
+    {
+        "pk": 34210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 2133.33333333
+        }
+    },
+    {
+        "pk": 34301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 38.0952380952
+        }
+    },
+    {
+        "pk": 34302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 76.1904761905
+        }
+    },
+    {
+        "pk": 34303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 114.285714286
+        }
+    },
+    {
+        "pk": 34304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 152.380952381
+        }
+    },
+    {
+        "pk": 34305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 190.476190476
+        }
+    },
+    {
+        "pk": 34306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 228.571428571
+        }
+    },
+    {
+        "pk": 34307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 266.666666667
+        }
+    },
+    {
+        "pk": 34308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 304.761904762
+        }
+    },
+    {
+        "pk": 34309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 342.857142857
+        }
+    },
+    {
+        "pk": 34310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 380.952380952
+        }
+    },
+    {
+        "pk": 34401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 34.0425531915
+        }
+    },
+    {
+        "pk": 34402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 68.085106383
+        }
+    },
+    {
+        "pk": 34403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 102.127659574
+        }
+    },
+    {
+        "pk": 34404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 136.170212766
+        }
+    },
+    {
+        "pk": 34405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 170.212765957
+        }
+    },
+    {
+        "pk": 34406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 204.255319149
+        }
+    },
+    {
+        "pk": 34407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 238.29787234
+        }
+    },
+    {
+        "pk": 34408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 272.340425532
+        }
+    },
+    {
+        "pk": 34409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 306.382978723
+        }
+    },
+    {
+        "pk": 34410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 340.425531915
+        }
+    },
+    {
+        "pk": 41101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 14.0
+        }
+    },
+    {
+        "pk": 41102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 28.0
+        }
+    },
+    {
+        "pk": 41103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 42.0
+        }
+    },
+    {
+        "pk": 41104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 56.0
+        }
+    },
+    {
+        "pk": 41105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 70.0
+        }
+    },
+    {
+        "pk": 41106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 84.0
+        }
+    },
+    {
+        "pk": 41107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 98.0
+        }
+    },
+    {
+        "pk": 41108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 41109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 126.0
+        }
+    },
+    {
+        "pk": 41110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 140.0
+        }
+    },
+    {
+        "pk": 41201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 100.0
+        }
+    },
+    {
+        "pk": 41202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 200.0
+        }
+    },
+    {
+        "pk": 41203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 300.0
+        }
+    },
+    {
+        "pk": 41204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 400.0
+        }
+    },
+    {
+        "pk": 41205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 500.0
+        }
+    },
+    {
+        "pk": 41206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 600.0
+        }
+    },
+    {
+        "pk": 41207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 700.0
+        }
+    },
+    {
+        "pk": 41208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 800.0
+        }
+    },
+    {
+        "pk": 41209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 900.0
+        }
+    },
+    {
+        "pk": 41210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1000.0
+        }
+    },
+    {
+        "pk": 41301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 23.8095238095
+        }
+    },
+    {
+        "pk": 41302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 47.619047619
+        }
+    },
+    {
+        "pk": 41303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 71.4285714286
+        }
+    },
+    {
+        "pk": 41304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 95.2380952381
+        }
+    },
+    {
+        "pk": 41305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 119.047619048
+        }
+    },
+    {
+        "pk": 41306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 142.857142857
+        }
+    },
+    {
+        "pk": 41307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 166.666666667
+        }
+    },
+    {
+        "pk": 41308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 190.476190476
+        }
+    },
+    {
+        "pk": 41309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 214.285714286
+        }
+    },
+    {
+        "pk": 41310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 238.095238095
+        }
+    },
+    {
+        "pk": 41401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 20.0
+        }
+    },
+    {
+        "pk": 41402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 40.0
+        }
+    },
+    {
+        "pk": 41403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 60.0
+        }
+    },
+    {
+        "pk": 41404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 80.0
+        }
+    },
+    {
+        "pk": 41405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 100.0
+        }
+    },
+    {
+        "pk": 41406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 120.0
+        }
+    },
+    {
+        "pk": 41407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 140.0
+        }
+    },
+    {
+        "pk": 41408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 160.0
+        }
+    },
+    {
+        "pk": 41409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 180.0
+        }
+    },
+    {
+        "pk": 41410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 200.0
+        }
+    },
+    {
+        "pk": 42101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 14.0
+        }
+    },
+    {
+        "pk": 42102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 28.0
+        }
+    },
+    {
+        "pk": 42103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 42.0
+        }
+    },
+    {
+        "pk": 42104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 56.0
+        }
+    },
+    {
+        "pk": 42105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 70.0
+        }
+    },
+    {
+        "pk": 42106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 84.0
+        }
+    },
+    {
+        "pk": 42107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 98.0
+        }
+    },
+    {
+        "pk": 42108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 42109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 126.0
+        }
+    },
+    {
+        "pk": 42110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 140.0
+        }
+    },
+    {
+        "pk": 42201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 100.0
+        }
+    },
+    {
+        "pk": 42202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 200.0
+        }
+    },
+    {
+        "pk": 42203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 300.0
+        }
+    },
+    {
+        "pk": 42204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 400.0
+        }
+    },
+    {
+        "pk": 42205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 500.0
+        }
+    },
+    {
+        "pk": 42206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 600.0
+        }
+    },
+    {
+        "pk": 42207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 700.0
+        }
+    },
+    {
+        "pk": 42208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 800.0
+        }
+    },
+    {
+        "pk": 42209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 900.0
+        }
+    },
+    {
+        "pk": 42210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1000.0
+        }
+    },
+    {
+        "pk": 42301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 23.8095238095
+        }
+    },
+    {
+        "pk": 42302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 47.619047619
+        }
+    },
+    {
+        "pk": 42303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 71.4285714286
+        }
+    },
+    {
+        "pk": 42304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 95.2380952381
+        }
+    },
+    {
+        "pk": 42305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 119.047619048
+        }
+    },
+    {
+        "pk": 42306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 142.857142857
+        }
+    },
+    {
+        "pk": 42307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 166.666666667
+        }
+    },
+    {
+        "pk": 42308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 190.476190476
+        }
+    },
+    {
+        "pk": 42309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 214.285714286
+        }
+    },
+    {
+        "pk": 42310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 238.095238095
+        }
+    },
+    {
+        "pk": 42401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 20.0
+        }
+    },
+    {
+        "pk": 42402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 40.0
+        }
+    },
+    {
+        "pk": 42403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 60.0
+        }
+    },
+    {
+        "pk": 42404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 80.0
+        }
+    },
+    {
+        "pk": 42405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 100.0
+        }
+    },
+    {
+        "pk": 42406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 120.0
+        }
+    },
+    {
+        "pk": 42407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 140.0
+        }
+    },
+    {
+        "pk": 42408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 160.0
+        }
+    },
+    {
+        "pk": 42409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 180.0
+        }
+    },
+    {
+        "pk": 42410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 200.0
+        }
+    },
+    {
+        "pk": 43101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 18.6666666667
+        }
+    },
+    {
+        "pk": 43102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 37.3333333333
+        }
+    },
+    {
+        "pk": 43103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 56.0
+        }
+    },
+    {
+        "pk": 43104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 74.6666666667
+        }
+    },
+    {
+        "pk": 43105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 93.3333333333
+        }
+    },
+    {
+        "pk": 43106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 43107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 130.666666667
+        }
+    },
+    {
+        "pk": 43108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 149.333333333
+        }
+    },
+    {
+        "pk": 43109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 168.0
+        }
+    },
+    {
+        "pk": 43110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 186.666666667
+        }
+    },
+    {
+        "pk": 43201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 133.333333333
+        }
+    },
+    {
+        "pk": 43202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 266.666666667
+        }
+    },
+    {
+        "pk": 43203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 400.0
+        }
+    },
+    {
+        "pk": 43204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 533.333333333
+        }
+    },
+    {
+        "pk": 43205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 666.666666667
+        }
+    },
+    {
+        "pk": 43206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 800.0
+        }
+    },
+    {
+        "pk": 43207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 933.333333333
+        }
+    },
+    {
+        "pk": 43208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1066.66666667
+        }
+    },
+    {
+        "pk": 43209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1200.0
+        }
+    },
+    {
+        "pk": 43210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1333.33333333
+        }
+    },
+    {
+        "pk": 43301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 31.746031746
+        }
+    },
+    {
+        "pk": 43302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 63.4920634921
+        }
+    },
+    {
+        "pk": 43303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 95.2380952381
+        }
+    },
+    {
+        "pk": 43304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 126.984126984
+        }
+    },
+    {
+        "pk": 43305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 158.73015873
+        }
+    },
+    {
+        "pk": 43306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 190.476190476
+        }
+    },
+    {
+        "pk": 43307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 222.222222222
+        }
+    },
+    {
+        "pk": 43308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 253.968253968
+        }
+    },
+    {
+        "pk": 43309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 285.714285714
+        }
+    },
+    {
+        "pk": 43310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 317.46031746
+        }
+    },
+    {
+        "pk": 43401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 26.6666666667
+        }
+    },
+    {
+        "pk": 43402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 53.3333333333
+        }
+    },
+    {
+        "pk": 43403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 80.0
+        }
+    },
+    {
+        "pk": 43404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 106.666666667
+        }
+    },
+    {
+        "pk": 43405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 133.333333333
+        }
+    },
+    {
+        "pk": 43406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 160.0
+        }
+    },
+    {
+        "pk": 43407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 186.666666667
+        }
+    },
+    {
+        "pk": 43408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 213.333333333
+        }
+    },
+    {
+        "pk": 43409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 240.0
+        }
+    },
+    {
+        "pk": 43410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 266.666666667
+        }
+    },
+    {
+        "pk": 44101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 18.6666666667
+        }
+    },
+    {
+        "pk": 44102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 37.3333333333
+        }
+    },
+    {
+        "pk": 44103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 56.0
+        }
+    },
+    {
+        "pk": 44104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 74.6666666667
+        }
+    },
+    {
+        "pk": 44105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 93.3333333333
+        }
+    },
+    {
+        "pk": 44106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 44107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 130.666666667
+        }
+    },
+    {
+        "pk": 44108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 149.333333333
+        }
+    },
+    {
+        "pk": 44109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 168.0
+        }
+    },
+    {
+        "pk": 44110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 186.666666667
+        }
+    },
+    {
+        "pk": 44201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 133.333333333
+        }
+    },
+    {
+        "pk": 44202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 266.666666667
+        }
+    },
+    {
+        "pk": 44203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 400.0
+        }
+    },
+    {
+        "pk": 44204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 533.333333333
+        }
+    },
+    {
+        "pk": 44205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 666.666666667
+        }
+    },
+    {
+        "pk": 44206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 800.0
+        }
+    },
+    {
+        "pk": 44207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 933.333333333
+        }
+    },
+    {
+        "pk": 44208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1066.66666667
+        }
+    },
+    {
+        "pk": 44209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1200.0
+        }
+    },
+    {
+        "pk": 44210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1333.33333333
+        }
+    },
+    {
+        "pk": 44301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 31.746031746
+        }
+    },
+    {
+        "pk": 44302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 63.4920634921
+        }
+    },
+    {
+        "pk": 44303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 95.2380952381
+        }
+    },
+    {
+        "pk": 44304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 126.984126984
+        }
+    },
+    {
+        "pk": 44305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 158.73015873
+        }
+    },
+    {
+        "pk": 44306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 190.476190476
+        }
+    },
+    {
+        "pk": 44307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 222.222222222
+        }
+    },
+    {
+        "pk": 44308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 253.968253968
+        }
+    },
+    {
+        "pk": 44309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 285.714285714
+        }
+    },
+    {
+        "pk": 44310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 317.46031746
+        }
+    },
+    {
+        "pk": 44401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 26.6666666667
+        }
+    },
+    {
+        "pk": 44402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 53.3333333333
+        }
+    },
+    {
+        "pk": 44403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 80.0
+        }
+    },
+    {
+        "pk": 44404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 106.666666667
+        }
+    },
+    {
+        "pk": 44405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 133.333333333
+        }
+    },
+    {
+        "pk": 44406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 160.0
+        }
+    },
+    {
+        "pk": 44407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 186.666666667
+        }
+    },
+    {
+        "pk": 44408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 213.333333333
+        }
+    },
+    {
+        "pk": 44409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 240.0
+        }
+    },
+    {
+        "pk": 44410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 266.666666667
+        }
+    },
+    {
+        "pk": 51101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 11.2
+        }
+    },
+    {
+        "pk": 51102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 22.4
+        }
+    },
+    {
+        "pk": 51103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 33.6
+        }
+    },
+    {
+        "pk": 51104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 44.8
+        }
+    },
+    {
+        "pk": 51105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 56.0
+        }
+    },
+    {
+        "pk": 51106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 67.2
+        }
+    },
+    {
+        "pk": 51107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 78.4
+        }
+    },
+    {
+        "pk": 51108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 89.6
+        }
+    },
+    {
+        "pk": 51109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 100.8
+        }
+    },
+    {
+        "pk": 51110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 51201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 150.0
+        }
+    },
+    {
+        "pk": 51202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 300.0
+        }
+    },
+    {
+        "pk": 51203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 450.0
+        }
+    },
+    {
+        "pk": 51204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 600.0
+        }
+    },
+    {
+        "pk": 51205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 750.0
+        }
+    },
+    {
+        "pk": 51206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 900.0
+        }
+    },
+    {
+        "pk": 51207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1050.0
+        }
+    },
+    {
+        "pk": 51208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1200.0
+        }
+    },
+    {
+        "pk": 51209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1350.0
+        }
+    },
+    {
+        "pk": 51210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1500.0
+        }
+    },
+    {
+        "pk": 51301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 20.9523809524
+        }
+    },
+    {
+        "pk": 51302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 41.9047619048
+        }
+    },
+    {
+        "pk": 51303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 62.8571428571
+        }
+    },
+    {
+        "pk": 51304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 83.8095238095
+        }
+    },
+    {
+        "pk": 51305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 104.761904762
+        }
+    },
+    {
+        "pk": 51306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 125.714285714
+        }
+    },
+    {
+        "pk": 51307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 146.666666667
+        }
+    },
+    {
+        "pk": 51308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 167.619047619
+        }
+    },
+    {
+        "pk": 51309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 188.571428571
+        }
+    },
+    {
+        "pk": 51310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 209.523809524
+        }
+    },
+    {
+        "pk": 51401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 18.7234042553
+        }
+    },
+    {
+        "pk": 51402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 37.4468085106
+        }
+    },
+    {
+        "pk": 51403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 56.170212766
+        }
+    },
+    {
+        "pk": 51404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 74.8936170213
+        }
+    },
+    {
+        "pk": 51405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 93.6170212766
+        }
+    },
+    {
+        "pk": 51406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 112.340425532
+        }
+    },
+    {
+        "pk": 51407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 131.063829787
+        }
+    },
+    {
+        "pk": 51408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 149.787234043
+        }
+    },
+    {
+        "pk": 51409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 168.510638298
+        }
+    },
+    {
+        "pk": 51410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 187.234042553
+        }
+    },
+    {
+        "pk": 52101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 11.2
+        }
+    },
+    {
+        "pk": 52102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 22.4
+        }
+    },
+    {
+        "pk": 52103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 33.6
+        }
+    },
+    {
+        "pk": 52104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 44.8
+        }
+    },
+    {
+        "pk": 52105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 56.0
+        }
+    },
+    {
+        "pk": 52106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 67.2
+        }
+    },
+    {
+        "pk": 52107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 78.4
+        }
+    },
+    {
+        "pk": 52108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 89.6
+        }
+    },
+    {
+        "pk": 52109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 100.8
+        }
+    },
+    {
+        "pk": 52110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 52201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 150.0
+        }
+    },
+    {
+        "pk": 52202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 300.0
+        }
+    },
+    {
+        "pk": 52203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 450.0
+        }
+    },
+    {
+        "pk": 52204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 600.0
+        }
+    },
+    {
+        "pk": 52205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 750.0
+        }
+    },
+    {
+        "pk": 52206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 900.0
+        }
+    },
+    {
+        "pk": 52207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1050.0
+        }
+    },
+    {
+        "pk": 52208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1200.0
+        }
+    },
+    {
+        "pk": 52209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1350.0
+        }
+    },
+    {
+        "pk": 52210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1500.0
+        }
+    },
+    {
+        "pk": 52301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 20.9523809524
+        }
+    },
+    {
+        "pk": 52302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 41.9047619048
+        }
+    },
+    {
+        "pk": 52303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 62.8571428571
+        }
+    },
+    {
+        "pk": 52304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 83.8095238095
+        }
+    },
+    {
+        "pk": 52305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 104.761904762
+        }
+    },
+    {
+        "pk": 52306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 125.714285714
+        }
+    },
+    {
+        "pk": 52307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 146.666666667
+        }
+    },
+    {
+        "pk": 52308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 167.619047619
+        }
+    },
+    {
+        "pk": 52309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 188.571428571
+        }
+    },
+    {
+        "pk": 52310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 209.523809524
+        }
+    },
+    {
+        "pk": 52401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 18.7234042553
+        }
+    },
+    {
+        "pk": 52402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 37.4468085106
+        }
+    },
+    {
+        "pk": 52403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 56.170212766
+        }
+    },
+    {
+        "pk": 52404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 74.8936170213
+        }
+    },
+    {
+        "pk": 52405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 93.6170212766
+        }
+    },
+    {
+        "pk": 52406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 112.340425532
+        }
+    },
+    {
+        "pk": 52407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 131.063829787
+        }
+    },
+    {
+        "pk": 52408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 149.787234043
+        }
+    },
+    {
+        "pk": 52409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 168.510638298
+        }
+    },
+    {
+        "pk": 52410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 187.234042553
+        }
+    },
+    {
+        "pk": 53101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 14.9333333333
+        }
+    },
+    {
+        "pk": 53102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 29.8666666667
+        }
+    },
+    {
+        "pk": 53103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 44.8
+        }
+    },
+    {
+        "pk": 53104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 59.7333333333
+        }
+    },
+    {
+        "pk": 53105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 74.6666666667
+        }
+    },
+    {
+        "pk": 53106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 89.6
+        }
+    },
+    {
+        "pk": 53107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 104.533333333
+        }
+    },
+    {
+        "pk": 53108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 119.466666667
+        }
+    },
+    {
+        "pk": 53109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 134.4
+        }
+    },
+    {
+        "pk": 53110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 149.333333333
+        }
+    },
+    {
+        "pk": 53201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 200.0
+        }
+    },
+    {
+        "pk": 53202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 400.0
+        }
+    },
+    {
+        "pk": 53203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 600.0
+        }
+    },
+    {
+        "pk": 53204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 800.0
+        }
+    },
+    {
+        "pk": 53205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1000.0
+        }
+    },
+    {
+        "pk": 53206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1200.0
+        }
+    },
+    {
+        "pk": 53207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1400.0
+        }
+    },
+    {
+        "pk": 53208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1600.0
+        }
+    },
+    {
+        "pk": 53209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1800.0
+        }
+    },
+    {
+        "pk": 53210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 2000.0
+        }
+    },
+    {
+        "pk": 53301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 27.9365079365
+        }
+    },
+    {
+        "pk": 53302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 55.873015873
+        }
+    },
+    {
+        "pk": 53303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 83.8095238095
+        }
+    },
+    {
+        "pk": 53304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 111.746031746
+        }
+    },
+    {
+        "pk": 53305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 139.682539683
+        }
+    },
+    {
+        "pk": 53306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 167.619047619
+        }
+    },
+    {
+        "pk": 53307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 195.555555556
+        }
+    },
+    {
+        "pk": 53308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 223.492063492
+        }
+    },
+    {
+        "pk": 53309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 251.428571429
+        }
+    },
+    {
+        "pk": 53310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 279.365079365
+        }
+    },
+    {
+        "pk": 53401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 24.9645390071
+        }
+    },
+    {
+        "pk": 53402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 49.9290780142
+        }
+    },
+    {
+        "pk": 53403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 74.8936170213
+        }
+    },
+    {
+        "pk": 53404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 99.8581560284
+        }
+    },
+    {
+        "pk": 53405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 124.822695035
+        }
+    },
+    {
+        "pk": 53406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 149.787234043
+        }
+    },
+    {
+        "pk": 53407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 174.75177305
+        }
+    },
+    {
+        "pk": 53408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 199.716312057
+        }
+    },
+    {
+        "pk": 53409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 224.680851064
+        }
+    },
+    {
+        "pk": 53410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 249.645390071
+        }
+    },
+    {
+        "pk": 54101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 14.9333333333
+        }
+    },
+    {
+        "pk": 54102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 29.8666666667
+        }
+    },
+    {
+        "pk": 54103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 44.8
+        }
+    },
+    {
+        "pk": 54104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 59.7333333333
+        }
+    },
+    {
+        "pk": 54105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 74.6666666667
+        }
+    },
+    {
+        "pk": 54106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 89.6
+        }
+    },
+    {
+        "pk": 54107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 104.533333333
+        }
+    },
+    {
+        "pk": 54108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 119.466666667
+        }
+    },
+    {
+        "pk": 54109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 134.4
+        }
+    },
+    {
+        "pk": 54110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 149.333333333
+        }
+    },
+    {
+        "pk": 54201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 200.0
+        }
+    },
+    {
+        "pk": 54202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 400.0
+        }
+    },
+    {
+        "pk": 54203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 600.0
+        }
+    },
+    {
+        "pk": 54204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 800.0
+        }
+    },
+    {
+        "pk": 54205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1000.0
+        }
+    },
+    {
+        "pk": 54206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1200.0
+        }
+    },
+    {
+        "pk": 54207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1400.0
+        }
+    },
+    {
+        "pk": 54208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1600.0
+        }
+    },
+    {
+        "pk": 54209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1800.0
+        }
+    },
+    {
+        "pk": 54210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 2000.0
+        }
+    },
+    {
+        "pk": 54301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 27.9365079365
+        }
+    },
+    {
+        "pk": 54302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 55.873015873
+        }
+    },
+    {
+        "pk": 54303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 83.8095238095
+        }
+    },
+    {
+        "pk": 54304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 111.746031746
+        }
+    },
+    {
+        "pk": 54305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 139.682539683
+        }
+    },
+    {
+        "pk": 54306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 167.619047619
+        }
+    },
+    {
+        "pk": 54307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 195.555555556
+        }
+    },
+    {
+        "pk": 54308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 223.492063492
+        }
+    },
+    {
+        "pk": 54309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 251.428571429
+        }
+    },
+    {
+        "pk": 54310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 279.365079365
+        }
+    },
+    {
+        "pk": 54401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 24.9645390071
+        }
+    },
+    {
+        "pk": 54402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 49.9290780142
+        }
+    },
+    {
+        "pk": 54403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 74.8936170213
+        }
+    },
+    {
+        "pk": 54404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 99.8581560284
+        }
+    },
+    {
+        "pk": 54405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 124.822695035
+        }
+    },
+    {
+        "pk": 54406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 149.787234043
+        }
+    },
+    {
+        "pk": 54407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 174.75177305
+        }
+    },
+    {
+        "pk": 54408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 199.716312057
+        }
+    },
+    {
+        "pk": 54409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 224.680851064
+        }
+    },
+    {
+        "pk": 54410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 249.645390071
+        }
+    },
+    {
+        "pk": 61101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 14.0
+        }
+    },
+    {
+        "pk": 61102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 28.0
+        }
+    },
+    {
+        "pk": 61103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 42.0
+        }
+    },
+    {
+        "pk": 61104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 56.0
+        }
+    },
+    {
+        "pk": 61105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 70.0
+        }
+    },
+    {
+        "pk": 61106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 84.0
+        }
+    },
+    {
+        "pk": 61107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 98.0
+        }
+    },
+    {
+        "pk": 61108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 61109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 126.0
+        }
+    },
+    {
+        "pk": 61110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 140.0
+        }
+    },
+    {
+        "pk": 61201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 125.0
+        }
+    },
+    {
+        "pk": 61202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 250.0
+        }
+    },
+    {
+        "pk": 61203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 375.0
+        }
+    },
+    {
+        "pk": 61204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 500.0
+        }
+    },
+    {
+        "pk": 61205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 625.0
+        }
+    },
+    {
+        "pk": 61206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 750.0
+        }
+    },
+    {
+        "pk": 61207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 875.0
+        }
+    },
+    {
+        "pk": 61208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1000.0
+        }
+    },
+    {
+        "pk": 61209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1125.0
+        }
+    },
+    {
+        "pk": 61210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1250.0
+        }
+    },
+    {
+        "pk": 61301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 16.0
+        }
+    },
+    {
+        "pk": 61302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 32.0
+        }
+    },
+    {
+        "pk": 61303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 48.0
+        }
+    },
+    {
+        "pk": 61304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 64.0
+        }
+    },
+    {
+        "pk": 61305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 80.0
+        }
+    },
+    {
+        "pk": 61306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 96.0
+        }
+    },
+    {
+        "pk": 61307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 61308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 128.0
+        }
+    },
+    {
+        "pk": 61309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 144.0
+        }
+    },
+    {
+        "pk": 61310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 160.0
+        }
+    },
+    {
+        "pk": 61401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 19.0476190476
+        }
+    },
+    {
+        "pk": 61402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 38.0952380952
+        }
+    },
+    {
+        "pk": 61403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 57.1428571429
+        }
+    },
+    {
+        "pk": 61404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 76.1904761905
+        }
+    },
+    {
+        "pk": 61405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 95.2380952381
+        }
+    },
+    {
+        "pk": 61406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 114.285714286
+        }
+    },
+    {
+        "pk": 61407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 133.333333333
+        }
+    },
+    {
+        "pk": 61408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 152.380952381
+        }
+    },
+    {
+        "pk": 61409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 171.428571429
+        }
+    },
+    {
+        "pk": 61410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 190.476190476
+        }
+    },
+    {
+        "pk": 62101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 14.0
+        }
+    },
+    {
+        "pk": 62102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 28.0
+        }
+    },
+    {
+        "pk": 62103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 42.0
+        }
+    },
+    {
+        "pk": 62104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 56.0
+        }
+    },
+    {
+        "pk": 62105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 70.0
+        }
+    },
+    {
+        "pk": 62106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 84.0
+        }
+    },
+    {
+        "pk": 62107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 98.0
+        }
+    },
+    {
+        "pk": 62108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 62109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 126.0
+        }
+    },
+    {
+        "pk": 62110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 140.0
+        }
+    },
+    {
+        "pk": 62201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 125.0
+        }
+    },
+    {
+        "pk": 62202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 250.0
+        }
+    },
+    {
+        "pk": 62203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 375.0
+        }
+    },
+    {
+        "pk": 62204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 500.0
+        }
+    },
+    {
+        "pk": 62205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 625.0
+        }
+    },
+    {
+        "pk": 62206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 750.0
+        }
+    },
+    {
+        "pk": 62207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 875.0
+        }
+    },
+    {
+        "pk": 62208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1000.0
+        }
+    },
+    {
+        "pk": 62209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1125.0
+        }
+    },
+    {
+        "pk": 62210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1250.0
+        }
+    },
+    {
+        "pk": 62301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 16.0
+        }
+    },
+    {
+        "pk": 62302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 32.0
+        }
+    },
+    {
+        "pk": 62303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 48.0
+        }
+    },
+    {
+        "pk": 62304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 64.0
+        }
+    },
+    {
+        "pk": 62305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 80.0
+        }
+    },
+    {
+        "pk": 62306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 96.0
+        }
+    },
+    {
+        "pk": 62307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 62308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 128.0
+        }
+    },
+    {
+        "pk": 62309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 144.0
+        }
+    },
+    {
+        "pk": 62310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 160.0
+        }
+    },
+    {
+        "pk": 62401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 19.0476190476
+        }
+    },
+    {
+        "pk": 62402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 38.0952380952
+        }
+    },
+    {
+        "pk": 62403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 57.1428571429
+        }
+    },
+    {
+        "pk": 62404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 76.1904761905
+        }
+    },
+    {
+        "pk": 62405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 95.2380952381
+        }
+    },
+    {
+        "pk": 62406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 114.285714286
+        }
+    },
+    {
+        "pk": 62407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 133.333333333
+        }
+    },
+    {
+        "pk": 62408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 152.380952381
+        }
+    },
+    {
+        "pk": 62409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 171.428571429
+        }
+    },
+    {
+        "pk": 62410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 190.476190476
+        }
+    },
+    {
+        "pk": 63101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 18.6666666667
+        }
+    },
+    {
+        "pk": 63102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 37.3333333333
+        }
+    },
+    {
+        "pk": 63103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 56.0
+        }
+    },
+    {
+        "pk": 63104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 74.6666666667
+        }
+    },
+    {
+        "pk": 63105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 93.3333333333
+        }
+    },
+    {
+        "pk": 63106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 63107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 130.666666667
+        }
+    },
+    {
+        "pk": 63108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 149.333333333
+        }
+    },
+    {
+        "pk": 63109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 168.0
+        }
+    },
+    {
+        "pk": 63110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 186.666666667
+        }
+    },
+    {
+        "pk": 63201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 166.666666667
+        }
+    },
+    {
+        "pk": 63202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 333.333333333
+        }
+    },
+    {
+        "pk": 63203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 500.0
+        }
+    },
+    {
+        "pk": 63204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 666.666666667
+        }
+    },
+    {
+        "pk": 63205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 833.333333333
+        }
+    },
+    {
+        "pk": 63206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1000.0
+        }
+    },
+    {
+        "pk": 63207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1166.66666667
+        }
+    },
+    {
+        "pk": 63208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1333.33333333
+        }
+    },
+    {
+        "pk": 63209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1500.0
+        }
+    },
+    {
+        "pk": 63210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1666.66666667
+        }
+    },
+    {
+        "pk": 63301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 21.3333333333
+        }
+    },
+    {
+        "pk": 63302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 42.6666666667
+        }
+    },
+    {
+        "pk": 63303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 64.0
+        }
+    },
+    {
+        "pk": 63304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 85.3333333333
+        }
+    },
+    {
+        "pk": 63305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 106.666666667
+        }
+    },
+    {
+        "pk": 63306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 128.0
+        }
+    },
+    {
+        "pk": 63307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 149.333333333
+        }
+    },
+    {
+        "pk": 63308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 170.666666667
+        }
+    },
+    {
+        "pk": 63309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 192.0
+        }
+    },
+    {
+        "pk": 63310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 213.333333333
+        }
+    },
+    {
+        "pk": 63401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 25.3968253968
+        }
+    },
+    {
+        "pk": 63402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 50.7936507937
+        }
+    },
+    {
+        "pk": 63403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 76.1904761905
+        }
+    },
+    {
+        "pk": 63404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 101.587301587
+        }
+    },
+    {
+        "pk": 63405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 126.984126984
+        }
+    },
+    {
+        "pk": 63406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 152.380952381
+        }
+    },
+    {
+        "pk": 63407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 177.777777778
+        }
+    },
+    {
+        "pk": 63408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 203.174603175
+        }
+    },
+    {
+        "pk": 63409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 228.571428571
+        }
+    },
+    {
+        "pk": 63410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 253.968253968
+        }
+    },
+    {
+        "pk": 64101,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 18.6666666667
+        }
+    },
+    {
+        "pk": 64102,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 37.3333333333
+        }
+    },
+    {
+        "pk": 64103,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 56.0
+        }
+    },
+    {
+        "pk": 64104,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 74.6666666667
+        }
+    },
+    {
+        "pk": 64105,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 93.3333333333
+        }
+    },
+    {
+        "pk": 64106,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 112.0
+        }
+    },
+    {
+        "pk": 64107,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 130.666666667
+        }
+    },
+    {
+        "pk": 64108,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 149.333333333
+        }
+    },
+    {
+        "pk": 64109,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 168.0
+        }
+    },
+    {
+        "pk": 64110,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 186.666666667
+        }
+    },
+    {
+        "pk": 64201,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 166.666666667
+        }
+    },
+    {
+        "pk": 64202,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 333.333333333
+        }
+    },
+    {
+        "pk": 64203,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 500.0
+        }
+    },
+    {
+        "pk": 64204,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 666.666666667
+        }
+    },
+    {
+        "pk": 64205,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 833.333333333
+        }
+    },
+    {
+        "pk": 64206,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1000.0
+        }
+    },
+    {
+        "pk": 64207,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1166.66666667
+        }
+    },
+    {
+        "pk": 64208,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1333.33333333
+        }
+    },
+    {
+        "pk": 64209,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1500.0
+        }
+    },
+    {
+        "pk": 64210,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1666.66666667
+        }
+    },
+    {
+        "pk": 64301,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 21.3333333333
+        }
+    },
+    {
+        "pk": 64302,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 42.6666666667
+        }
+    },
+    {
+        "pk": 64303,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 64.0
+        }
+    },
+    {
+        "pk": 64304,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 85.3333333333
+        }
+    },
+    {
+        "pk": 64305,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 106.666666667
+        }
+    },
+    {
+        "pk": 64306,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 128.0
+        }
+    },
+    {
+        "pk": 64307,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 149.333333333
+        }
+    },
+    {
+        "pk": 64308,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 170.666666667
+        }
+    },
+    {
+        "pk": 64309,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 192.0
+        }
+    },
+    {
+        "pk": 64310,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 213.333333333
+        }
+    },
+    {
+        "pk": 64401,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 25.3968253968
+        }
+    },
+    {
+        "pk": 64402,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 50.7936507937
+        }
+    },
+    {
+        "pk": 64403,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 76.1904761905
+        }
+    },
+    {
+        "pk": 64404,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 101.587301587
+        }
+    },
+    {
+        "pk": 64405,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 126.984126984
+        }
+    },
+    {
+        "pk": 64406,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 152.380952381
+        }
+    },
+    {
+        "pk": 64407,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 177.777777778
+        }
+    },
+    {
+        "pk": 64408,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 203.174603175
+        }
+    },
+    {
+        "pk": 64409,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 228.571428571
+        }
+    },
+    {
+        "pk": 64410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 253.968253968
+        }
+    },
+    {
+        "pk": 64410,
+        "model": "hero.heroattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 304.761904762
+        }
+    }
+]

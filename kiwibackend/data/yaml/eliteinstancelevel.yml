@@ -1,0 +1,122 @@
+
+table:
+  out-type: json
+  sheet: 精英关卡
+  row: 3
+  model: instance.eliteinstancelevel
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: instance_id
+      column: instance_id
+      type: int
+
+    - name: eliteMaxPlayCount
+      column: eliteMaxPlayCount
+      type: int
+      default: 0
+
+    - name: monsterId
+      column: monsterId
+      type: int
+      default: 0
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: scene
+      column: scene
+      type: char
+      default: ""
+
+    - name: elitePowerCost
+      column: elitePowerCost
+      type: int
+      default: 0
+
+    - name: levelIndex
+      column: levelIndex
+      type: int
+      default: 0
+
+    - name: eliteMinUserLevel
+      column: eliteMinUserLevel
+      type: int
+      default: 0
+
+    - name: eliteHeroExp
+      column: eliteHeroExp
+      type: int
+      default: 0
+
+    - name: eliteRevisionScale
+      column: eliteRevisionScale
+      type: float
+      default: 0.0
+
+    - name: eliteNextInstanceId
+      column: eliteNextInstanceId
+      type: int
+      default: 0
+
+    - name: eliteGold
+      column: eliteGold
+      type: int
+      default: 0
+
+    - name: elitewoods_int
+      column: elitewoods
+      type: char
+      default: ""
+
+    - name: elitePlayerExp
+      column: elitePlayerExp
+      type: int
+      default: 0
+
+    - name: eliteRewardId_int
+      column: eliteRewardId
+      type: char
+      default: ""
+
+    - name: eliteProbability_float
+      column: eliteProbability
+      type: char
+      default: ""
+
+    - name: eliteCount_int
+      column: eliteCount
+      type: char
+      default: ""
+
+    - name: mustEliteRewardId_int
+      column: mustEliteRewardId
+      type: char
+      default: ""
+
+    - name: eliteEnemyIds_int
+      column: eliteEnemyIds
+      type: char
+      default: ""
+
+    - name: zoneIDs_int
+      column: zoneIDs
+      type: char
+      default: ""
+
+    - name: triggerInfos_int
+      column: triggerInfos
+      type: char
+      default: ""
+
+

@@ -1,0 +1,58 @@
+
+table:
+  out-type: json
+  sheet: 元素之塔关卡
+  row: 3
+  model: instance.elementtowerinstance
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: iconId
+      column: iconId
+      type: char
+      default: ""
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: bgImageId
+      column: bgImageId
+      type: char
+      default: ""
+
+    - name: extroImageId
+      column: extroImageId
+      type: char
+      default: ""
+
+    - name: difficulty
+      column: difficulty
+      type: int
+      default: 0
+
+    - name: minUserLevel
+      column: minUserLevel
+      type: int
+      default: 0
+
+    - name: scene
+      column: scene
+      type: char
+      default: ""
+
+    - name: rewardIds_str
+      column: rewardIds
+      type: char
+      default: ""
+
+    - name: suggestHeroIds_int
+      column: suggestHeroIds
+      type: char
+      default: ""
+
+

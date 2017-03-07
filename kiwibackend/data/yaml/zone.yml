@@ -1,0 +1,28 @@
+
+table:
+  out-type: json
+  sheet: 场景区域
+  row: 3
+  model: instance.zone
+  columns:
+    - name: attackDir
+      column: attackDir
+      type: int
+      default: 0
+
+    - name: zoneID
+      column: zoneID
+      type: int
+      default: 0
+
+    - name: startPoints_int
+      column: startPoints
+      type: char
+      default: ""
+
+    - name: airGatesToActivate_int
+      column: airGatesToActivate
+      type: char
+      default: ""
+
+

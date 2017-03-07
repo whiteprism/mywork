@@ -1,0 +1,344 @@
+[
+    {
+        "pk": 10001,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 4000,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10002,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 3500,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10003,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 3000,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10004,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 2500,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10005,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 2000,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10006,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 1600,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10007,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 1300,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10008,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 1000,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10009,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 750,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10010,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 500,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10011,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 300,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10012,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 1000000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10013,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 900000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10014,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 800000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10015,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 700000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10016,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 600000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10017,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 500000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10018,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 400000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10019,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 300000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10020,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 200000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10021,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 100000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10022,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 50000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11001,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 25,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11002,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 20,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11003,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 18,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11004,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 15,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11005,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 12,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11006,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 10,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11007,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 8,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11008,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 5,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12001,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 666666,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12002,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 500000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12003,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 400000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12004,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 300000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12005,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 250000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12006,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 200000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12007,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 150000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 12008,
+        "model": "pvp.pvpreward",
+        "fields": {
+            "count": 100000,
+            "type": 500000,
+            "level": 0
+        }
+    }
+]

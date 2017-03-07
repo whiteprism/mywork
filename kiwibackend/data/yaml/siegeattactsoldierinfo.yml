@@ -1,0 +1,28 @@
+
+table:
+  out-type: json
+  sheet: 攻城战投放士兵信息
+  row: 3
+  model: pvp.siegeattactsoldierinfo
+  columns:
+    - name: type
+      column: type
+      type: int
+      default: 0
+
+    - name: name
+      column: name
+      type: char
+      default: "0"
+
+    - name: energyConsume
+      column: energyConsume
+      type: int
+      default: 0
+
+    - name: maxCount
+      column: maxCount
+      type: int
+      default: 0
+
+

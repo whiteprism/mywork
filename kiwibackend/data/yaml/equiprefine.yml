@@ -1,0 +1,26 @@
+
+table:
+  out-type: json
+  sheet: 装备精炼
+  row: 3
+  model: equip.equiprefine
+  columns:
+    - name: quality
+      column: quality
+      type: int
+
+    - name: refineLevel
+      column: refineLevel
+      type: int
+      default: 0
+
+    - name: equipLevel
+      column: equipLevel
+      type: int
+      default: 1
+
+    - name: refineXp
+      column: refineXp
+      type: int
+
+

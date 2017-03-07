@@ -1,0 +1,27 @@
+
+table:
+  out-type: json
+  sheet: 抽奖类别概率
+  row: 3
+  model: gashapon.gashaponrarityprobability
+  columns:
+    - name: gashapon
+      column: gashapon
+      type: int
+
+    - name: quality
+      column: quality
+      type: int
+      default: 0
+
+    - name: rarity
+      column: rarity
+      type: int
+      default: 1
+
+    - name: probability
+      column: probability
+      type: int
+      default: 0
+
+

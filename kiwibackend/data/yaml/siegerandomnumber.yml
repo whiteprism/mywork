@@ -1,0 +1,13 @@
+
+table:
+  out-type: json
+  sheet: 攻城战随机数
+  row: 3
+  model: pvp.siegerandomnumber
+  columns:
+    - name: number
+      column: number
+      type: int
+      default: 0
+
+

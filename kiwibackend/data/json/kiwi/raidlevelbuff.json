@@ -1,0 +1,182 @@
+[
+    {
+        "pk": 10101,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 1,
+            "addition": 0.03,
+            "attribute": 5,
+            "iconId": "raidlevelbuff_icon_10101",
+            "mulLangId": "raidlevelbuff_10105",
+            "starCost": 3
+        }
+    },
+    {
+        "pk": 10102,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 2,
+            "addition": 0.06,
+            "attribute": 5,
+            "iconId": "raidlevelbuff_icon_10102",
+            "mulLangId": "raidlevelbuff_10105",
+            "starCost": 6
+        }
+    },
+    {
+        "pk": 10103,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 3,
+            "addition": 0.09,
+            "attribute": 5,
+            "iconId": "raidlevelbuff_icon_10103",
+            "mulLangId": "raidlevelbuff_10105",
+            "starCost": 9
+        }
+    },
+    {
+        "pk": 10201,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 1,
+            "addition": 0.02,
+            "attribute": 2,
+            "iconId": "raidlevelbuff_icon_10201",
+            "mulLangId": "raidlevelbuff_10102",
+            "starCost": 3
+        }
+    },
+    {
+        "pk": 10202,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 2,
+            "addition": 0.04,
+            "attribute": 2,
+            "iconId": "raidlevelbuff_icon_10202",
+            "mulLangId": "raidlevelbuff_10102",
+            "starCost": 6
+        }
+    },
+    {
+        "pk": 10203,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 3,
+            "addition": 0.06,
+            "attribute": 2,
+            "iconId": "raidlevelbuff_icon_10203",
+            "mulLangId": "raidlevelbuff_10102",
+            "starCost": 9
+        }
+    },
+    {
+        "pk": 10301,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 1,
+            "addition": 0.02,
+            "attribute": 4,
+            "iconId": "raidlevelbuff_icon_10301",
+            "mulLangId": "raidlevelbuff_10104",
+            "starCost": 3
+        }
+    },
+    {
+        "pk": 10302,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 2,
+            "addition": 0.04,
+            "attribute": 4,
+            "iconId": "raidlevelbuff_icon_10302",
+            "mulLangId": "raidlevelbuff_10104",
+            "starCost": 6
+        }
+    },
+    {
+        "pk": 10303,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 3,
+            "addition": 0.06,
+            "attribute": 4,
+            "iconId": "raidlevelbuff_icon_10303",
+            "mulLangId": "raidlevelbuff_10104",
+            "starCost": 9
+        }
+    },
+    {
+        "pk": 10401,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 1,
+            "addition": 0.03,
+            "attribute": 12,
+            "iconId": "raidlevelbuff_icon_10401",
+            "mulLangId": "raidlevelbuff_101012",
+            "starCost": 3
+        }
+    },
+    {
+        "pk": 10402,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 2,
+            "addition": 0.06,
+            "attribute": 12,
+            "iconId": "raidlevelbuff_icon_10402",
+            "mulLangId": "raidlevelbuff_101012",
+            "starCost": 6
+        }
+    },
+    {
+        "pk": 10403,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 3,
+            "addition": 0.09,
+            "attribute": 12,
+            "iconId": "raidlevelbuff_icon_10403",
+            "mulLangId": "raidlevelbuff_101012",
+            "starCost": 9
+        }
+    },
+    {
+        "pk": 10501,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 1,
+            "addition": 0.05,
+            "attribute": 1,
+            "iconId": "raidlevelbuff_icon_10501",
+            "mulLangId": "raidlevelbuff_10101",
+            "starCost": 3
+        }
+    },
+    {
+        "pk": 10502,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 2,
+            "addition": 0.1,
+            "attribute": 1,
+            "iconId": "raidlevelbuff_icon_10502",
+            "mulLangId": "raidlevelbuff_10101",
+            "starCost": 6
+        }
+    },
+    {
+        "pk": 10503,
+        "model": "instance.raidlevelbuff",
+        "fields": {
+            "star": 3,
+            "addition": 0.15,
+            "attribute": 1,
+            "iconId": "raidlevelbuff_icon_10503",
+            "mulLangId": "raidlevelbuff_10101",
+            "starCost": 9
+        }
+    }
+]

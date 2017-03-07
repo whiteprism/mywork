@@ -1,0 +1,74 @@
+
+table:
+  out-type: json
+  sheet: 装备
+  row: 3
+  model: equip.equip
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: attrList_int
+      column: attrList
+      type: char
+      default: ""
+
+    - name: decomposeRefinePoint
+      column: decomposeRefinePoint
+      type: int
+      default: 0
+
+    - name: icon
+      column: icon
+      type: char
+      default: ""
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: powerRankBase
+      column: powerRankBase
+      type: int
+
+    - name: powerRankIncrease
+      column: powerRankIncrease
+      type: int
+
+    - name: quality
+      column: quality
+      type: int
+
+    - name: category
+      column: category
+      type: int
+
+    - name: heroTypeList_int
+      column: heroTypeList
+      type: char
+      default: ""
+
+    - name: searchDifficuty_int
+      column: searchDifficuty
+      type: char
+      default: "0"
+
+    - name: searchInstances_int
+      column: searchInstances
+      type: char
+      default: "0"
+
+    - name: equipSuitId
+      column: equipSuitId
+      type: int
+      default: 0
+
+

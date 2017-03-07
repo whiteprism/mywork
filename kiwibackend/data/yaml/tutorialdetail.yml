@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 新手引导详细
+  row: 3
+  model: tutorial.tutorialdetail
+  columns:
+    - name: guideGid
+      column: guideGid
+      type: int
+      default: 0
+
+    - name: scenarioId
+      column: scenarioId
+      type: int
+      default: 0
+
+    - name: step
+      column: step
+      type: int
+      default: 0
+
+

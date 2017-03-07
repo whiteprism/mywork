@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 抽奖消耗
+  row: 3
+  model: gashapon.taverncost
+  columns:
+    - name: count
+      column: count
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: type
+      column: type
+      type: int
+      default: 0
+
+

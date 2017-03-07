@@ -1,0 +1,22 @@
+
+table:
+  out-type: json
+  sheet: 建筑数量配置
+  row: 3
+  model: building.buildingcount
+  columns:
+    - name: building
+      column: building
+      type: int
+
+    - name: count
+      column: count
+      type: int
+      default: 0
+
+    - name: userLevel
+      column: userLevel
+      type: int
+      default: 0
+
+

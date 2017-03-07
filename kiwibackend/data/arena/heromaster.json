@@ -1,0 +1,2402 @@
+[
+    {
+        "pk": 11001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 11,
+            "descriptionId": "master_11001",
+            "attrList_int": "11101,11201,11301,11401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 11002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 11,
+            "descriptionId": "master_11002",
+            "attrList_int": "11102,11202,11302,11402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 11003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 11,
+            "descriptionId": "master_11003",
+            "attrList_int": "11103,11203,11303,11403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 11004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 11,
+            "descriptionId": "master_11004",
+            "attrList_int": "11104,11204,11304,11404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 11005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 11,
+            "descriptionId": "master_11005",
+            "attrList_int": "11105,11205,11305,11405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 11006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 11,
+            "descriptionId": "master_11006",
+            "attrList_int": "11106,11206,11306,11406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 11007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 11,
+            "descriptionId": "master_11007",
+            "attrList_int": "11107,11207,11307,11407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 11008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 11,
+            "descriptionId": "master_11008",
+            "attrList_int": "11108,11208,11308,11408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 11009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 11,
+            "descriptionId": "master_11009",
+            "attrList_int": "11109,11209,11309,11409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 11010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 11,
+            "descriptionId": "master_11010",
+            "attrList_int": "11110,11210,11310,11410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 12001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 12,
+            "descriptionId": "master_12001",
+            "attrList_int": "12101,12201,12301,12401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 12002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 12,
+            "descriptionId": "master_12002",
+            "attrList_int": "12102,12202,12302,12402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 12003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 12,
+            "descriptionId": "master_12003",
+            "attrList_int": "12103,12203,12303,12403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 12004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 12,
+            "descriptionId": "master_12004",
+            "attrList_int": "12104,12204,12304,12404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 12005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 12,
+            "descriptionId": "master_12005",
+            "attrList_int": "12105,12205,12305,12405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 12006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 12,
+            "descriptionId": "master_12006",
+            "attrList_int": "12106,12206,12306,12406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 12007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 12,
+            "descriptionId": "master_12007",
+            "attrList_int": "12107,12207,12307,12407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 12008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 12,
+            "descriptionId": "master_12008",
+            "attrList_int": "12108,12208,12308,12408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 12009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 12,
+            "descriptionId": "master_12009",
+            "attrList_int": "12109,12209,12309,12409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 12010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 12,
+            "descriptionId": "master_12010",
+            "attrList_int": "12110,12210,12310,12410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 13001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 13,
+            "descriptionId": "master_13001",
+            "attrList_int": "13101,13201,13301,13401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 13002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 13,
+            "descriptionId": "master_13002",
+            "attrList_int": "13102,13202,13302,13402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 13003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 13,
+            "descriptionId": "master_13003",
+            "attrList_int": "13103,13203,13303,13403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 13004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 13,
+            "descriptionId": "master_13004",
+            "attrList_int": "13104,13204,13304,13404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 13005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 13,
+            "descriptionId": "master_13005",
+            "attrList_int": "13105,13205,13305,13405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 13006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 13,
+            "descriptionId": "master_13006",
+            "attrList_int": "13106,13206,13306,13406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 13007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 13,
+            "descriptionId": "master_13007",
+            "attrList_int": "13107,13207,13307,13407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 13008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 13,
+            "descriptionId": "master_13008",
+            "attrList_int": "13108,13208,13308,13408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 13009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 13,
+            "descriptionId": "master_13009",
+            "attrList_int": "13109,13209,13309,13409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 13010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 13,
+            "descriptionId": "master_13010",
+            "attrList_int": "13110,13210,13310,13410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 14001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 14,
+            "descriptionId": "master_14001",
+            "attrList_int": "14101,14201,14301,14401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 14002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 14,
+            "descriptionId": "master_14002",
+            "attrList_int": "14102,14202,14302,14402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 14003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 14,
+            "descriptionId": "master_14003",
+            "attrList_int": "14103,14203,14303,14403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 14004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 14,
+            "descriptionId": "master_14004",
+            "attrList_int": "14104,14204,14304,14404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 14005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 14,
+            "descriptionId": "master_14005",
+            "attrList_int": "14105,14205,14305,14405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 14006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 14,
+            "descriptionId": "master_14006",
+            "attrList_int": "14106,14206,14306,14406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 14007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 14,
+            "descriptionId": "master_14007",
+            "attrList_int": "14107,14207,14307,14407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 14008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 14,
+            "descriptionId": "master_14008",
+            "attrList_int": "14108,14208,14308,14408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 14009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 14,
+            "descriptionId": "master_14009",
+            "attrList_int": "14109,14209,14309,14409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 14010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 14,
+            "descriptionId": "master_14010",
+            "attrList_int": "14110,14210,14310,14410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 21001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 21,
+            "descriptionId": "master_21001",
+            "attrList_int": "21101,21201,21301,21401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 21002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 21,
+            "descriptionId": "master_21002",
+            "attrList_int": "21102,21202,21302,21402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 21003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 21,
+            "descriptionId": "master_21003",
+            "attrList_int": "21103,21203,21303,21403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 21004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 21,
+            "descriptionId": "master_21004",
+            "attrList_int": "21104,21204,21304,21404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 21005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 21,
+            "descriptionId": "master_21005",
+            "attrList_int": "21105,21205,21305,21405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 21006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 21,
+            "descriptionId": "master_21006",
+            "attrList_int": "21106,21206,21306,21406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 21007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 21,
+            "descriptionId": "master_21007",
+            "attrList_int": "21107,21207,21307,21407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 21008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 21,
+            "descriptionId": "master_21008",
+            "attrList_int": "21108,21208,21308,21408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 21009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 21,
+            "descriptionId": "master_21009",
+            "attrList_int": "21109,21209,21309,21409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 21010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 21,
+            "descriptionId": "master_21010",
+            "attrList_int": "21110,21210,21310,21410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 22001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 22,
+            "descriptionId": "master_22001",
+            "attrList_int": "22101,22201,22301,22401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 22002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 22,
+            "descriptionId": "master_22002",
+            "attrList_int": "22102,22202,22302,22402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 22003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 22,
+            "descriptionId": "master_22003",
+            "attrList_int": "22103,22203,22303,22403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 22004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 22,
+            "descriptionId": "master_22004",
+            "attrList_int": "22104,22204,22304,22404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 22005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 22,
+            "descriptionId": "master_22005",
+            "attrList_int": "22105,22205,22305,22405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 22006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 22,
+            "descriptionId": "master_22006",
+            "attrList_int": "22106,22206,22306,22406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 22007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 22,
+            "descriptionId": "master_22007",
+            "attrList_int": "22107,22207,22307,22407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 22008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 22,
+            "descriptionId": "master_22008",
+            "attrList_int": "22108,22208,22308,22408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 22009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 22,
+            "descriptionId": "master_22009",
+            "attrList_int": "22109,22209,22309,22409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 22010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 22,
+            "descriptionId": "master_22010",
+            "attrList_int": "22110,22210,22310,22410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 23001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 23,
+            "descriptionId": "master_23001",
+            "attrList_int": "23101,23201,23301,23401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 23002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 23,
+            "descriptionId": "master_23002",
+            "attrList_int": "23102,23202,23302,23402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 23003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 23,
+            "descriptionId": "master_23003",
+            "attrList_int": "23103,23203,23303,23403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 23004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 23,
+            "descriptionId": "master_23004",
+            "attrList_int": "23104,23204,23304,23404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 23005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 23,
+            "descriptionId": "master_23005",
+            "attrList_int": "23105,23205,23305,23405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 23006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 23,
+            "descriptionId": "master_23006",
+            "attrList_int": "23106,23206,23306,23406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 23007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 23,
+            "descriptionId": "master_23007",
+            "attrList_int": "23107,23207,23307,23407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 23008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 23,
+            "descriptionId": "master_23008",
+            "attrList_int": "23108,23208,23308,23408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 23009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 23,
+            "descriptionId": "master_23009",
+            "attrList_int": "23109,23209,23309,23409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 23010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 23,
+            "descriptionId": "master_23010",
+            "attrList_int": "23110,23210,23310,23410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 24001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 24,
+            "descriptionId": "master_24001",
+            "attrList_int": "24101,24201,24301,24401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 24002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 24,
+            "descriptionId": "master_24002",
+            "attrList_int": "24102,24202,24302,24402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 24003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 24,
+            "descriptionId": "master_24003",
+            "attrList_int": "24103,24203,24303,24403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 24004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 24,
+            "descriptionId": "master_24004",
+            "attrList_int": "24104,24204,24304,24404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 24005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 24,
+            "descriptionId": "master_24005",
+            "attrList_int": "24105,24205,24305,24405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 24006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 24,
+            "descriptionId": "master_24006",
+            "attrList_int": "24106,24206,24306,24406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 24007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 24,
+            "descriptionId": "master_24007",
+            "attrList_int": "24107,24207,24307,24407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 24008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 24,
+            "descriptionId": "master_24008",
+            "attrList_int": "24108,24208,24308,24408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 24009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 24,
+            "descriptionId": "master_24009",
+            "attrList_int": "24109,24209,24309,24409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 24010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 24,
+            "descriptionId": "master_24010",
+            "attrList_int": "24110,24210,24310,24410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 31001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 31,
+            "descriptionId": "master_31001",
+            "attrList_int": "31101,31201,31301,31401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 31002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 31,
+            "descriptionId": "master_31002",
+            "attrList_int": "31102,31202,31302,31402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 31003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 31,
+            "descriptionId": "master_31003",
+            "attrList_int": "31103,31203,31303,31403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 31004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 31,
+            "descriptionId": "master_31004",
+            "attrList_int": "31104,31204,31304,31404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 31005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 31,
+            "descriptionId": "master_31005",
+            "attrList_int": "31105,31205,31305,31405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 31006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 31,
+            "descriptionId": "master_31006",
+            "attrList_int": "31106,31206,31306,31406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 31007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 31,
+            "descriptionId": "master_31007",
+            "attrList_int": "31107,31207,31307,31407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 31008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 31,
+            "descriptionId": "master_31008",
+            "attrList_int": "31108,31208,31308,31408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 31009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 31,
+            "descriptionId": "master_31009",
+            "attrList_int": "31109,31209,31309,31409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 31010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 31,
+            "descriptionId": "master_31010",
+            "attrList_int": "31110,31210,31310,31410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 32001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 32,
+            "descriptionId": "master_32001",
+            "attrList_int": "32101,32201,32301,32401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 32002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 32,
+            "descriptionId": "master_32002",
+            "attrList_int": "32102,32202,32302,32402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 32003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 32,
+            "descriptionId": "master_32003",
+            "attrList_int": "32103,32203,32303,32403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 32004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 32,
+            "descriptionId": "master_32004",
+            "attrList_int": "32104,32204,32304,32404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 32005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 32,
+            "descriptionId": "master_32005",
+            "attrList_int": "32105,32205,32305,32405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 32006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 32,
+            "descriptionId": "master_32006",
+            "attrList_int": "32106,32206,32306,32406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 32007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 32,
+            "descriptionId": "master_32007",
+            "attrList_int": "32107,32207,32307,32407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 32008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 32,
+            "descriptionId": "master_32008",
+            "attrList_int": "32108,32208,32308,32408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 32009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 32,
+            "descriptionId": "master_32009",
+            "attrList_int": "32109,32209,32309,32409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 32010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 32,
+            "descriptionId": "master_32010",
+            "attrList_int": "32110,32210,32310,32410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 33001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 33,
+            "descriptionId": "master_33001",
+            "attrList_int": "33101,33201,33301,33401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 33002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 33,
+            "descriptionId": "master_33002",
+            "attrList_int": "33102,33202,33302,33402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 33003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 33,
+            "descriptionId": "master_33003",
+            "attrList_int": "33103,33203,33303,33403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 33004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 33,
+            "descriptionId": "master_33004",
+            "attrList_int": "33104,33204,33304,33404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 33005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 33,
+            "descriptionId": "master_33005",
+            "attrList_int": "33105,33205,33305,33405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 33006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 33,
+            "descriptionId": "master_33006",
+            "attrList_int": "33106,33206,33306,33406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 33007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 33,
+            "descriptionId": "master_33007",
+            "attrList_int": "33107,33207,33307,33407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 33008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 33,
+            "descriptionId": "master_33008",
+            "attrList_int": "33108,33208,33308,33408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 33009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 33,
+            "descriptionId": "master_33009",
+            "attrList_int": "33109,33209,33309,33409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 33010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 33,
+            "descriptionId": "master_33010",
+            "attrList_int": "33110,33210,33310,33410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 34001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 34,
+            "descriptionId": "master_34001",
+            "attrList_int": "34101,34201,34301,34401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 34002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 34,
+            "descriptionId": "master_34002",
+            "attrList_int": "34102,34202,34302,34402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 34003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 34,
+            "descriptionId": "master_34003",
+            "attrList_int": "34103,34203,34303,34403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 34004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 34,
+            "descriptionId": "master_34004",
+            "attrList_int": "34104,34204,34304,34404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 34005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 34,
+            "descriptionId": "master_34005",
+            "attrList_int": "34105,34205,34305,34405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 34006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 34,
+            "descriptionId": "master_34006",
+            "attrList_int": "34106,34206,34306,34406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 34007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 34,
+            "descriptionId": "master_34007",
+            "attrList_int": "34107,34207,34307,34407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 34008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 34,
+            "descriptionId": "master_34008",
+            "attrList_int": "34108,34208,34308,34408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 34009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 34,
+            "descriptionId": "master_34009",
+            "attrList_int": "34109,34209,34309,34409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 34010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 34,
+            "descriptionId": "master_34010",
+            "attrList_int": "34110,34210,34310,34410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 41001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 41,
+            "descriptionId": "master_41001",
+            "attrList_int": "41101,41201,41301,41401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 41002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 41,
+            "descriptionId": "master_41002",
+            "attrList_int": "41102,41202,41302,41402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 41003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 41,
+            "descriptionId": "master_41003",
+            "attrList_int": "41103,41203,41303,41403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 41004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 41,
+            "descriptionId": "master_41004",
+            "attrList_int": "41104,41204,41304,41404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 41005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 41,
+            "descriptionId": "master_41005",
+            "attrList_int": "41105,41205,41305,41405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 41006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 41,
+            "descriptionId": "master_41006",
+            "attrList_int": "41106,41206,41306,41406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 41007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 41,
+            "descriptionId": "master_41007",
+            "attrList_int": "41107,41207,41307,41407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 41008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 41,
+            "descriptionId": "master_41008",
+            "attrList_int": "41108,41208,41308,41408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 41009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 41,
+            "descriptionId": "master_41009",
+            "attrList_int": "41109,41209,41309,41409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 41010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 41,
+            "descriptionId": "master_41010",
+            "attrList_int": "41110,41210,41310,41410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 42001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 42,
+            "descriptionId": "master_42001",
+            "attrList_int": "42101,42201,42301,42401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 42002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 42,
+            "descriptionId": "master_42002",
+            "attrList_int": "42102,42202,42302,42402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 42003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 42,
+            "descriptionId": "master_42003",
+            "attrList_int": "42103,42203,42303,42403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 42004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 42,
+            "descriptionId": "master_42004",
+            "attrList_int": "42104,42204,42304,42404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 42005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 42,
+            "descriptionId": "master_42005",
+            "attrList_int": "42105,42205,42305,42405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 42006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 42,
+            "descriptionId": "master_42006",
+            "attrList_int": "42106,42206,42306,42406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 42007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 42,
+            "descriptionId": "master_42007",
+            "attrList_int": "42107,42207,42307,42407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 42008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 42,
+            "descriptionId": "master_42008",
+            "attrList_int": "42108,42208,42308,42408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 42009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 42,
+            "descriptionId": "master_42009",
+            "attrList_int": "42109,42209,42309,42409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 42010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 42,
+            "descriptionId": "master_42010",
+            "attrList_int": "42110,42210,42310,42410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 43001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 43,
+            "descriptionId": "master_43001",
+            "attrList_int": "43101,43201,43301,43401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 43002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 43,
+            "descriptionId": "master_43002",
+            "attrList_int": "43102,43202,43302,43402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 43003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 43,
+            "descriptionId": "master_43003",
+            "attrList_int": "43103,43203,43303,43403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 43004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 43,
+            "descriptionId": "master_43004",
+            "attrList_int": "43104,43204,43304,43404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 43005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 43,
+            "descriptionId": "master_43005",
+            "attrList_int": "43105,43205,43305,43405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 43006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 43,
+            "descriptionId": "master_43006",
+            "attrList_int": "43106,43206,43306,43406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 43007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 43,
+            "descriptionId": "master_43007",
+            "attrList_int": "43107,43207,43307,43407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 43008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 43,
+            "descriptionId": "master_43008",
+            "attrList_int": "43108,43208,43308,43408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 43009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 43,
+            "descriptionId": "master_43009",
+            "attrList_int": "43109,43209,43309,43409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 43010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 43,
+            "descriptionId": "master_43010",
+            "attrList_int": "43110,43210,43310,43410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 44001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 44,
+            "descriptionId": "master_44001",
+            "attrList_int": "44101,44201,44301,44401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 44002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 44,
+            "descriptionId": "master_44002",
+            "attrList_int": "44102,44202,44302,44402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 44003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 44,
+            "descriptionId": "master_44003",
+            "attrList_int": "44103,44203,44303,44403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 44004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 44,
+            "descriptionId": "master_44004",
+            "attrList_int": "44104,44204,44304,44404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 44005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 44,
+            "descriptionId": "master_44005",
+            "attrList_int": "44105,44205,44305,44405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 44006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 44,
+            "descriptionId": "master_44006",
+            "attrList_int": "44106,44206,44306,44406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 44007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 44,
+            "descriptionId": "master_44007",
+            "attrList_int": "44107,44207,44307,44407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 44008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 44,
+            "descriptionId": "master_44008",
+            "attrList_int": "44108,44208,44308,44408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 44009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 44,
+            "descriptionId": "master_44009",
+            "attrList_int": "44109,44209,44309,44409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 44010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 44,
+            "descriptionId": "master_44010",
+            "attrList_int": "44110,44210,44310,44410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 51001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 51,
+            "descriptionId": "master_51001",
+            "attrList_int": "51101,51201,51301,51401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 51002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 51,
+            "descriptionId": "master_51002",
+            "attrList_int": "51102,51202,51302,51402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 51003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 51,
+            "descriptionId": "master_51003",
+            "attrList_int": "51103,51203,51303,51403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 51004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 51,
+            "descriptionId": "master_51004",
+            "attrList_int": "51104,51204,51304,51404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 51005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 51,
+            "descriptionId": "master_51005",
+            "attrList_int": "51105,51205,51305,51405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 51006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 51,
+            "descriptionId": "master_51006",
+            "attrList_int": "51106,51206,51306,51406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 51007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 51,
+            "descriptionId": "master_51007",
+            "attrList_int": "51107,51207,51307,51407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 51008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 51,
+            "descriptionId": "master_51008",
+            "attrList_int": "51108,51208,51308,51408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 51009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 51,
+            "descriptionId": "master_51009",
+            "attrList_int": "51109,51209,51309,51409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 51010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 51,
+            "descriptionId": "master_51010",
+            "attrList_int": "51110,51210,51310,51410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 52001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 52,
+            "descriptionId": "master_52001",
+            "attrList_int": "52101,52201,52301,52401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 52002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 52,
+            "descriptionId": "master_52002",
+            "attrList_int": "52102,52202,52302,52402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 52003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 52,
+            "descriptionId": "master_52003",
+            "attrList_int": "52103,52203,52303,52403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 52004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 52,
+            "descriptionId": "master_52004",
+            "attrList_int": "52104,52204,52304,52404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 52005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 52,
+            "descriptionId": "master_52005",
+            "attrList_int": "52105,52205,52305,52405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 52006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 52,
+            "descriptionId": "master_52006",
+            "attrList_int": "52106,52206,52306,52406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 52007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 52,
+            "descriptionId": "master_52007",
+            "attrList_int": "52107,52207,52307,52407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 52008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 52,
+            "descriptionId": "master_52008",
+            "attrList_int": "52108,52208,52308,52408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 52009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 52,
+            "descriptionId": "master_52009",
+            "attrList_int": "52109,52209,52309,52409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 52010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 52,
+            "descriptionId": "master_52010",
+            "attrList_int": "52110,52210,52310,52410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 53001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 53,
+            "descriptionId": "master_53001",
+            "attrList_int": "53101,53201,53301,53401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 53002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 53,
+            "descriptionId": "master_53002",
+            "attrList_int": "53102,53202,53302,53402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 53003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 53,
+            "descriptionId": "master_53003",
+            "attrList_int": "53103,53203,53303,53403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 53004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 53,
+            "descriptionId": "master_53004",
+            "attrList_int": "53104,53204,53304,53404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 53005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 53,
+            "descriptionId": "master_53005",
+            "attrList_int": "53105,53205,53305,53405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 53006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 53,
+            "descriptionId": "master_53006",
+            "attrList_int": "53106,53206,53306,53406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 53007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 53,
+            "descriptionId": "master_53007",
+            "attrList_int": "53107,53207,53307,53407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 53008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 53,
+            "descriptionId": "master_53008",
+            "attrList_int": "53108,53208,53308,53408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 53009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 53,
+            "descriptionId": "master_53009",
+            "attrList_int": "53109,53209,53309,53409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 53010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 53,
+            "descriptionId": "master_53010",
+            "attrList_int": "53110,53210,53310,53410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 54001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 54,
+            "descriptionId": "master_54001",
+            "attrList_int": "54101,54201,54301,54401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 54002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 54,
+            "descriptionId": "master_54002",
+            "attrList_int": "54102,54202,54302,54402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 54003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 54,
+            "descriptionId": "master_54003",
+            "attrList_int": "54103,54203,54303,54403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 54004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 54,
+            "descriptionId": "master_54004",
+            "attrList_int": "54104,54204,54304,54404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 54005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 54,
+            "descriptionId": "master_54005",
+            "attrList_int": "54105,54205,54305,54405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 54006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 54,
+            "descriptionId": "master_54006",
+            "attrList_int": "54106,54206,54306,54406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 54007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 54,
+            "descriptionId": "master_54007",
+            "attrList_int": "54107,54207,54307,54407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 54008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 54,
+            "descriptionId": "master_54008",
+            "attrList_int": "54108,54208,54308,54408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 54009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 54,
+            "descriptionId": "master_54009",
+            "attrList_int": "54109,54209,54309,54409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 54010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 54,
+            "descriptionId": "master_54010",
+            "attrList_int": "54110,54210,54310,54410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 61001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 61,
+            "descriptionId": "master_61001",
+            "attrList_int": "61101,61201,61301,61401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 61002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 61,
+            "descriptionId": "master_61002",
+            "attrList_int": "61102,61202,61302,61402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 61003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 61,
+            "descriptionId": "master_61003",
+            "attrList_int": "61103,61203,61303,61403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 61004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 61,
+            "descriptionId": "master_61004",
+            "attrList_int": "61104,61204,61304,61404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 61005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 61,
+            "descriptionId": "master_61005",
+            "attrList_int": "61105,61205,61305,61405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 61006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 61,
+            "descriptionId": "master_61006",
+            "attrList_int": "61106,61206,61306,61406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 61007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 61,
+            "descriptionId": "master_61007",
+            "attrList_int": "61107,61207,61307,61407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 61008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 61,
+            "descriptionId": "master_61008",
+            "attrList_int": "61108,61208,61308,61408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 61009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 61,
+            "descriptionId": "master_61009",
+            "attrList_int": "61109,61209,61309,61409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 61010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 61,
+            "descriptionId": "master_61010",
+            "attrList_int": "61110,61210,61310,61410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 62001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 62,
+            "descriptionId": "master_62001",
+            "attrList_int": "62101,62201,62301,62401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 62002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 62,
+            "descriptionId": "master_62002",
+            "attrList_int": "62102,62202,62302,62402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 62003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 62,
+            "descriptionId": "master_62003",
+            "attrList_int": "62103,62203,62303,62403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 62004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 62,
+            "descriptionId": "master_62004",
+            "attrList_int": "62104,62204,62304,62404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 62005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 62,
+            "descriptionId": "master_62005",
+            "attrList_int": "62105,62205,62305,62405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 62006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 62,
+            "descriptionId": "master_62006",
+            "attrList_int": "62106,62206,62306,62406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 62007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 62,
+            "descriptionId": "master_62007",
+            "attrList_int": "62107,62207,62307,62407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 62008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 62,
+            "descriptionId": "master_62008",
+            "attrList_int": "62108,62208,62308,62408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 62009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 62,
+            "descriptionId": "master_62009",
+            "attrList_int": "62109,62209,62309,62409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 62010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 62,
+            "descriptionId": "master_62010",
+            "attrList_int": "62110,62210,62310,62410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 63001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 63,
+            "descriptionId": "master_63001",
+            "attrList_int": "63101,63201,63301,63401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 63002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 63,
+            "descriptionId": "master_63002",
+            "attrList_int": "63102,63202,63302,63402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 63003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 63,
+            "descriptionId": "master_63003",
+            "attrList_int": "63103,63203,63303,63403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 63004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 63,
+            "descriptionId": "master_63004",
+            "attrList_int": "63104,63204,63304,63404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 63005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 63,
+            "descriptionId": "master_63005",
+            "attrList_int": "63105,63205,63305,63405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 63006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 63,
+            "descriptionId": "master_63006",
+            "attrList_int": "63106,63206,63306,63406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 63007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 63,
+            "descriptionId": "master_63007",
+            "attrList_int": "63107,63207,63307,63407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 63008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 63,
+            "descriptionId": "master_63008",
+            "attrList_int": "63108,63208,63308,63408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 63009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 63,
+            "descriptionId": "master_63009",
+            "attrList_int": "63109,63209,63309,63409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 63010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 63,
+            "descriptionId": "master_63010",
+            "attrList_int": "63110,63210,63310,63410",
+            "level": 10
+        }
+    },
+    {
+        "pk": 64001,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 64,
+            "descriptionId": "master_64001",
+            "attrList_int": "64101,64201,64301,64401",
+            "level": 1
+        }
+    },
+    {
+        "pk": 64002,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 64,
+            "descriptionId": "master_64002",
+            "attrList_int": "64102,64202,64302,64402",
+            "level": 2
+        }
+    },
+    {
+        "pk": 64003,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 64,
+            "descriptionId": "master_64003",
+            "attrList_int": "64103,64203,64303,64403",
+            "level": 3
+        }
+    },
+    {
+        "pk": 64004,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 64,
+            "descriptionId": "master_64004",
+            "attrList_int": "64104,64204,64304,64404",
+            "level": 4
+        }
+    },
+    {
+        "pk": 64005,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 64,
+            "descriptionId": "master_64005",
+            "attrList_int": "64105,64205,64305,64405",
+            "level": 5
+        }
+    },
+    {
+        "pk": 64006,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 64,
+            "descriptionId": "master_64006",
+            "attrList_int": "64106,64206,64306,64406",
+            "level": 6
+        }
+    },
+    {
+        "pk": 64007,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 64,
+            "descriptionId": "master_64007",
+            "attrList_int": "64107,64207,64307,64407",
+            "level": 7
+        }
+    },
+    {
+        "pk": 64008,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 64,
+            "descriptionId": "master_64008",
+            "attrList_int": "64108,64208,64308,64408",
+            "level": 8
+        }
+    },
+    {
+        "pk": 64009,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 64,
+            "descriptionId": "master_64009",
+            "attrList_int": "64109,64209,64309,64409",
+            "level": 9
+        }
+    },
+    {
+        "pk": 64010,
+        "model": "hero.heromaster",
+        "fields": {
+            "category": 64,
+            "descriptionId": "master_64010",
+            "attrList_int": "64110,64210,64310,64410",
+            "level": 10
+        }
+    }
+]

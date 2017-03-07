@@ -1,0 +1,614 @@
+[
+    {
+        "pk": 11010101,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11010101",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110101,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11010102,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11010102",
+            "roleId": 0,
+            "serialIndex": 2,
+            "speakerType": 1,
+            "gid": 110101,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11010201,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11010201",
+            "roleId": 1110001,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110102,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11010301,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11010301",
+            "roleId": 1140007,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110103,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11010401,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11010401",
+            "roleId": 1150003,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110104,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11010501,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11010501",
+            "roleId": 1140007,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110105,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11010601,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11010601",
+            "roleId": 1140007,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110106,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11012101,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11012101",
+            "roleId": 1160001,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110121,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11012201,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11012201",
+            "roleId": 1110005,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110122,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11010701,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11010701",
+            "roleId": 1140007,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110107,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11010801,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11010801",
+            "roleId": 1110001,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110108,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11010802,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11010802",
+            "roleId": 1140007,
+            "serialIndex": 2,
+            "speakerType": 1,
+            "gid": 110108,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11010901,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11010901",
+            "roleId": 1110001,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110109,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11010902,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11010902",
+            "roleId": 1902021,
+            "serialIndex": 2,
+            "speakerType": 2,
+            "gid": 110109,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11011101,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11011101",
+            "roleId": 1110001,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110111,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11011102,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11011102",
+            "roleId": 1140007,
+            "serialIndex": 2,
+            "speakerType": 1,
+            "gid": 110111,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11011201,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11011201",
+            "roleId": 1902021,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110112,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11011202,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11011202",
+            "roleId": 1140007,
+            "serialIndex": 2,
+            "speakerType": 2,
+            "gid": 110112,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11011301,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11011301",
+            "roleId": 1140007,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110113,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11011401,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11011401",
+            "roleId": 1902021,
+            "serialIndex": 1,
+            "speakerType": 2,
+            "gid": 110114,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11011501,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11011501",
+            "roleId": 1150003,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110115,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11011601,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11011601",
+            "roleId": 1110001,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110116,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11011701,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11011701",
+            "roleId": 1140007,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110117,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11011801,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11011801",
+            "roleId": 1902021,
+            "serialIndex": 1,
+            "speakerType": 2,
+            "gid": 110118,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11011802,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11011802",
+            "roleId": 1150003,
+            "serialIndex": 2,
+            "speakerType": 1,
+            "gid": 110118,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11011901,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11011901",
+            "roleId": 1902021,
+            "serialIndex": 1,
+            "speakerType": 2,
+            "gid": 110119,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11020101,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11020101",
+            "roleId": 1140007,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110201,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11020102,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11020102",
+            "roleId": 1150003,
+            "serialIndex": 2,
+            "speakerType": 1,
+            "gid": 110201,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11020103,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11020103",
+            "roleId": 1140007,
+            "serialIndex": 3,
+            "speakerType": 1,
+            "gid": 110201,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11020201,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11020201",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110202,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11020301,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11020301",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110203,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11020401,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11020401",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110204,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11020501,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11020501",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110205,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11020601,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11020601",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110206,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11020701,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11020701",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110207,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11020801,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11020801",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110208,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11020901,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11020901",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110209,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11021001,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11021001",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110210,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11021101,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11021101",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110211,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11021201,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11021201",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110212,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11021301,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11021301",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110213,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11021401,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11021401",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110214,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11030101,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11030101",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110301,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11030201,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11030201",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110302,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11030301,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11030301",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110303,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11030401,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11030401",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110304,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11030501,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11030501",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110305,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11030601,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11030601",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110306,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11030701,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11030701",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110307,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11030801,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11030801",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110308,
+            "animationType": 1
+        }
+    },
+    {
+        "pk": 11030901,
+        "model": "tutorial.plot",
+        "fields": {
+            "dialogId": "story_11030901",
+            "roleId": 0,
+            "serialIndex": 1,
+            "speakerType": 1,
+            "gid": 110309,
+            "animationType": 1
+        }
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "pk": 10001,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 1,
+            "type": 2620202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10002,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 1,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10003,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 1,
+            "type": 2620302,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10004,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 1,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10005,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 2,
+            "type": 2620202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10006,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 2,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10007,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 2,
+            "type": 2620302,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10008,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 2,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10009,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 3,
+            "type": 2620202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10010,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 3,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10011,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 3,
+            "type": 2620302,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10012,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 3,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10013,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 4,
+            "type": 2620202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10014,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 4,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10015,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 4,
+            "type": 2620302,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10016,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 4,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10017,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 5,
+            "type": 2620202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10018,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 5,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10019,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 5,
+            "type": 2620302,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10020,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 5,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10021,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 6,
+            "type": 2620202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10022,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 6,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10023,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 6,
+            "type": 2620302,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10024,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 6,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10025,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 7,
+            "type": 2620202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10026,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 7,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10027,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 7,
+            "type": 2620302,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10028,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 7,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10029,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 8,
+            "type": 2620202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10030,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 8,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10031,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 8,
+            "type": 2620302,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10032,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 8,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10033,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 10,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11001,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 5000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11002,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 8000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11003,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 15000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11004,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 20000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11005,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 40000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11006,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 60000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11007,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 80000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11008,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 100000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11009,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 120000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11010,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 140000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11011,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 160000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11012,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 180000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11013,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 200000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11014,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 220000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 11015,
+        "model": "instance.spacetimereward",
+        "fields": {
+            "count": 240000,
+            "type": 500000,
+            "level": 0
+        }
+    }
+]

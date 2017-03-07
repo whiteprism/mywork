@@ -1,0 +1,26 @@
+[
+    {
+        "pk": 1,
+        "model": "guild.guildfirebuff",
+        "fields": {
+            "buffName": "fytext_301072",
+            "fireIndex_int": "1,2,3"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "guild.guildfirebuff",
+        "fields": {
+            "buffName": "fytext_301074",
+            "fireIndex_int": "1,2,3"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "guild.guildfirebuff",
+        "fields": {
+            "buffName": "fytext_301073",
+            "fireIndex_int": "1,2,3"
+        }
+    }
+]

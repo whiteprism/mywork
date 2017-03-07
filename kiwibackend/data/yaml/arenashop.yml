@@ -1,0 +1,43 @@
+
+table:
+  out-type: json
+  sheet: 荣誉商店
+  row: 3
+  model: arenashop.arenashop
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: itemId
+      column: itemId
+      type: int
+      default: 0
+
+    - name: count
+      column: count
+      type: int
+      default: 0
+
+    - name: score
+      column: score
+      type: int
+      default: 0
+
+    - name: category
+      column: category
+      type: int
+      default: 0
+
+    - name: probability
+      column: probability
+      type: int
+      default: 0
+
+    - name: type
+      column: type
+      type: int
+      default: 0
+
+

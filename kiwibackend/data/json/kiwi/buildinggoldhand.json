@@ -1,0 +1,422 @@
+[
+    {
+        "pk": 1,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 47,
+            "critFive": 43,
+            "critTwo": 20,
+            "critThree": 35,
+            "expectGold": 20000,
+            "critProperbility": 1515
+        }
+    },
+    {
+        "pk": 2,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 58,
+            "critFive": 50,
+            "critTwo": 20,
+            "critThree": 38,
+            "expectGold": 27750,
+            "critProperbility": 3060
+        }
+    },
+    {
+        "pk": 3,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 67,
+            "critFive": 55,
+            "critTwo": 20,
+            "critThree": 40,
+            "expectGold": 34000,
+            "critProperbility": 4635
+        }
+    },
+    {
+        "pk": 4,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 81,
+            "critFive": 63,
+            "critTwo": 20,
+            "critThree": 43,
+            "expectGold": 38750,
+            "critProperbility": 6240
+        }
+    },
+    {
+        "pk": 5,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 100,
+            "critFive": 75,
+            "critTwo": 25,
+            "critThree": 50,
+            "expectGold": 42000,
+            "critProperbility": 7875
+        }
+    },
+    {
+        "pk": 6,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 47,
+            "critFive": 43,
+            "critTwo": 20,
+            "critThree": 35,
+            "expectGold": 45500,
+            "critProperbility": 1590
+        }
+    },
+    {
+        "pk": 7,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 58,
+            "critFive": 50,
+            "critTwo": 20,
+            "critThree": 38,
+            "expectGold": 48000,
+            "critProperbility": 3210
+        }
+    },
+    {
+        "pk": 8,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 67,
+            "critFive": 55,
+            "critTwo": 20,
+            "critThree": 40,
+            "expectGold": 49500,
+            "critProperbility": 4860
+        }
+    },
+    {
+        "pk": 9,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 81,
+            "critFive": 63,
+            "critTwo": 20,
+            "critThree": 43,
+            "expectGold": 50000,
+            "critProperbility": 6540
+        }
+    },
+    {
+        "pk": 10,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 100,
+            "critFive": 75,
+            "critTwo": 25,
+            "critThree": 50,
+            "expectGold": 49500,
+            "critProperbility": 8250
+        }
+    },
+    {
+        "pk": 11,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 47,
+            "critFive": 43,
+            "critTwo": 20,
+            "critThree": 35,
+            "expectGold": 48000,
+            "critProperbility": 1665
+        }
+    },
+    {
+        "pk": 12,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 58,
+            "critFive": 50,
+            "critTwo": 20,
+            "critThree": 38,
+            "expectGold": 52000,
+            "critProperbility": 3360
+        }
+    },
+    {
+        "pk": 13,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 67,
+            "critFive": 55,
+            "critTwo": 20,
+            "critThree": 40,
+            "expectGold": 56000,
+            "critProperbility": 5084
+        }
+    },
+    {
+        "pk": 14,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 81,
+            "critFive": 63,
+            "critTwo": 20,
+            "critThree": 43,
+            "expectGold": 60000,
+            "critProperbility": 6839
+        }
+    },
+    {
+        "pk": 15,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 100,
+            "critFive": 75,
+            "critTwo": 25,
+            "critThree": 50,
+            "expectGold": 64000,
+            "critProperbility": 8625
+        }
+    },
+    {
+        "pk": 16,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 47,
+            "critFive": 43,
+            "critTwo": 20,
+            "critThree": 35,
+            "expectGold": 68000,
+            "critProperbility": 1739
+        }
+    },
+    {
+        "pk": 17,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 58,
+            "critFive": 50,
+            "critTwo": 20,
+            "critThree": 38,
+            "expectGold": 72000,
+            "critProperbility": 3510
+        }
+    },
+    {
+        "pk": 18,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 67,
+            "critFive": 55,
+            "critTwo": 20,
+            "critThree": 40,
+            "expectGold": 76000,
+            "critProperbility": 5310
+        }
+    },
+    {
+        "pk": 19,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 81,
+            "critFive": 63,
+            "critTwo": 20,
+            "critThree": 43,
+            "expectGold": 80000,
+            "critProperbility": 7140
+        }
+    },
+    {
+        "pk": 20,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 100,
+            "critFive": 75,
+            "critTwo": 25,
+            "critThree": 50,
+            "expectGold": 84000,
+            "critProperbility": 9000
+        }
+    },
+    {
+        "pk": 21,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 47,
+            "critFive": 43,
+            "critTwo": 20,
+            "critThree": 35,
+            "expectGold": 88000,
+            "critProperbility": 1815
+        }
+    },
+    {
+        "pk": 22,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 58,
+            "critFive": 50,
+            "critTwo": 20,
+            "critThree": 38,
+            "expectGold": 92000,
+            "critProperbility": 3660
+        }
+    },
+    {
+        "pk": 23,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 67,
+            "critFive": 55,
+            "critTwo": 20,
+            "critThree": 40,
+            "expectGold": 96000,
+            "critProperbility": 5535
+        }
+    },
+    {
+        "pk": 24,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 81,
+            "critFive": 63,
+            "critTwo": 20,
+            "critThree": 43,
+            "expectGold": 100000,
+            "critProperbility": 7440
+        }
+    },
+    {
+        "pk": 25,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 100,
+            "critFive": 75,
+            "critTwo": 25,
+            "critThree": 50,
+            "expectGold": 104000,
+            "critProperbility": 9375
+        }
+    },
+    {
+        "pk": 26,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 47,
+            "critFive": 43,
+            "critTwo": 20,
+            "critThree": 35,
+            "expectGold": 108000,
+            "critProperbility": 1890
+        }
+    },
+    {
+        "pk": 27,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 58,
+            "critFive": 50,
+            "critTwo": 20,
+            "critThree": 38,
+            "expectGold": 112000,
+            "critProperbility": 3810
+        }
+    },
+    {
+        "pk": 28,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 67,
+            "critFive": 55,
+            "critTwo": 20,
+            "critThree": 40,
+            "expectGold": 116000,
+            "critProperbility": 5760
+        }
+    },
+    {
+        "pk": 29,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 81,
+            "critFive": 63,
+            "critTwo": 20,
+            "critThree": 43,
+            "expectGold": 120000,
+            "critProperbility": 7740
+        }
+    },
+    {
+        "pk": 30,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 100,
+            "critFive": 75,
+            "critTwo": 25,
+            "critThree": 50,
+            "expectGold": 124000,
+            "critProperbility": 9750
+        }
+    },
+    {
+        "pk": 31,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 47,
+            "critFive": 43,
+            "critTwo": 20,
+            "critThree": 35,
+            "expectGold": 128000,
+            "critProperbility": 1965
+        }
+    },
+    {
+        "pk": 32,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 58,
+            "critFive": 50,
+            "critTwo": 20,
+            "critThree": 38,
+            "expectGold": 132000,
+            "critProperbility": 3960
+        }
+    },
+    {
+        "pk": 33,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 67,
+            "critFive": 55,
+            "critTwo": 20,
+            "critThree": 40,
+            "expectGold": 136000,
+            "critProperbility": 5985
+        }
+    },
+    {
+        "pk": 34,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 81,
+            "critFive": 63,
+            "critTwo": 20,
+            "critThree": 43,
+            "expectGold": 140000,
+            "critProperbility": 8040
+        }
+    },
+    {
+        "pk": 35,
+        "model": "building.buildinggoldhand",
+        "fields": {
+            "critTen": 100,
+            "critFive": 75,
+            "critTwo": 25,
+            "critThree": 50,
+            "expectGold": 144000,
+            "critProperbility": 10000
+        }
+    }
+]

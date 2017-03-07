@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 触发器
+  row: 3
+  model: instance.trigger
+  columns:
+    - name: triggerType
+      column: triggerType
+      type: int
+      default: 0
+
+    - name: bOnce
+      column: bOnce
+      type: int
+      default: 0
+
+    - name: data_int
+      column: data
+      type: char
+      default: ""
+
+

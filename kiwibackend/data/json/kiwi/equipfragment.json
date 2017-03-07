@@ -1,0 +1,938 @@
+[
+    {
+        "pk": 2312101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23121010",
+            "name": "\u6012\u706b\u4e4b\u5251",
+            "searchInstances_int": "100401,100605,103",
+            "equipId": 1212101,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2312101",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2312202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23122020",
+            "name": "\u6012\u706b\u6218\u76d4",
+            "searchInstances_int": "100407,100701,103",
+            "equipId": 1212202,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2312202",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2312303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23123030",
+            "name": "\u6012\u706b\u80f8\u94e0",
+            "searchInstances_int": "100503,100707,103",
+            "equipId": 1212303,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2312303",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2312404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23124040",
+            "name": "\u6012\u706b\u817f\u94e0",
+            "searchInstances_int": "100509,100806,103",
+            "equipId": 1212404,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2312404",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2314101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23141010",
+            "name": "\u6218\u4e89\u4e4b\u77db\u5de8\u5251",
+            "searchInstances_int": "101001,101206,103",
+            "equipId": 1214101,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2314101",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2314202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23142020",
+            "name": "\u6218\u4e89\u4e4b\u77db\u6218\u76d4",
+            "searchInstances_int": "100708,101103,103",
+            "equipId": 1214202,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2314202",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2314303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23143030",
+            "name": "\u6218\u4e89\u4e4b\u77db\u80f8\u94e0",
+            "searchInstances_int": "100810,101109,103",
+            "equipId": 1214303,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2314303",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2314404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23144040",
+            "name": "\u6218\u4e89\u4e4b\u77db\u817f\u94e0",
+            "searchInstances_int": "101007,101303,103",
+            "equipId": 1214404,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2314404",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2317101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23171010",
+            "name": "\u7ea2\u9f99\u4e4b\u5fc3\u5de8\u5251",
+            "searchInstances_int": "101110,103",
+            "equipId": 1217101,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2317101",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2317202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23172020",
+            "name": "\u7ea2\u9f99\u4e4b\u5fc3\u6218\u76d4",
+            "searchInstances_int": "101403,103",
+            "equipId": 1217202,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2317202",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2317303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23173030",
+            "name": "\u7ea2\u9f99\u4e4b\u5fc3\u80f8\u94e0",
+            "searchInstances_int": "101409,103",
+            "equipId": 1217303,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2317303",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2317404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23174040",
+            "name": "\u7ea2\u9f99\u4e4b\u5fc3\u817f\u94e0",
+            "searchInstances_int": "101505,103",
+            "equipId": 1217404,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2317404",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2322101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23221010",
+            "name": "\u591c\u5e55\u4e4b\u5203",
+            "searchInstances_int": "100409,100703,103",
+            "equipId": 1222101,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2322101",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2322202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23222020",
+            "name": "\u591c\u5e55\u9762\u7f69",
+            "searchInstances_int": "100505,100802,103",
+            "equipId": 1222202,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2322202",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2322303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23223030",
+            "name": "\u591c\u5e55\u8f6f\u7532",
+            "searchInstances_int": "100403,100607,103",
+            "equipId": 1222303,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2322303",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2322404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23224040",
+            "name": "\u591c\u5e55\u9a6c\u88e4",
+            "searchInstances_int": "100601,100902,103",
+            "equipId": 1222404,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2322404",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2324101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23241010",
+            "name": "\u6b7b\u5f71\u4e4b\u65a7",
+            "searchInstances_int": "100907,101202,103",
+            "equipId": 1224101,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2324101",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2324202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23242020",
+            "name": "\u6b7b\u5f71\u9762\u7f69",
+            "searchInstances_int": "101009,101305,103",
+            "equipId": 1224202,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2324202",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2324303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23243030",
+            "name": "\u6b7b\u5f71\u8f6f\u7532",
+            "searchInstances_int": "100710,101105,103",
+            "equipId": 1224303,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2324303",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2324404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23244040",
+            "name": "\u6b7b\u5f71\u9a6c\u88e4",
+            "searchInstances_int": "101003,101208,103",
+            "equipId": 1224404,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2324404",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2327101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23271010",
+            "name": "\u5904\u51b3\u8005\u4e4b\u65a7",
+            "searchInstances_int": "101405,103",
+            "equipId": 1227101,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2327101",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2327202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23272020",
+            "name": "\u5904\u51b3\u8005\u9762\u7f69",
+            "searchInstances_int": "101309,103",
+            "equipId": 1227202,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2327202",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2327303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23273030",
+            "name": "\u5904\u51b3\u8005\u8f6f\u7532",
+            "searchInstances_int": "101507,103",
+            "equipId": 1227303,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2327303",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2327404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23274040",
+            "name": "\u5904\u51b3\u8005\u9a6c\u88e4",
+            "searchInstances_int": "101501,103",
+            "equipId": 1227404,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2327404",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2342101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23421010",
+            "name": "\u7075\u52a8\u4e4b\u6756",
+            "searchInstances_int": "100402,100606,103",
+            "equipId": 1242101,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2342101",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2342202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23422020",
+            "name": "\u7075\u52a8\u5934\u51a0",
+            "searchInstances_int": "100408,100702,103",
+            "equipId": 1242202,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2342202",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2342303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23423030",
+            "name": "\u7075\u52a8\u957f\u888d",
+            "searchInstances_int": "100504,100801,103",
+            "equipId": 1242303,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2342303",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2342404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23424040",
+            "name": "\u7075\u52a8\u88f9\u817f",
+            "searchInstances_int": "100510,100901,103",
+            "equipId": 1242404,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2342404",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2344101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23441010",
+            "name": "\u6012\u7130\u4e4b\u6756",
+            "searchInstances_int": "100709,101104,103",
+            "equipId": 1244101,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2344101",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2344202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23442020",
+            "name": "\u6012\u7130\u5934\u51a0",
+            "searchInstances_int": "100906,101201,103",
+            "equipId": 1244202,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2344202",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2344303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23443030",
+            "name": "\u6012\u7130\u957f\u888d",
+            "searchInstances_int": "101002,101207,103",
+            "equipId": 1244303,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2344303",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2344404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23444040",
+            "name": "\u6012\u7130\u88f9\u817f",
+            "searchInstances_int": "101008,101304,103",
+            "equipId": 1244404,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2344404",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2347101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23471010",
+            "name": "\u971c\u6708\u4e4b\u6756",
+            "searchInstances_int": "101210,103",
+            "equipId": 1247101,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2347101",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2347202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23472020",
+            "name": "\u971c\u6708\u5934\u51a0",
+            "searchInstances_int": "101410,103",
+            "equipId": 1247202,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2347202",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2347303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23473030",
+            "name": "\u971c\u6708\u957f\u888d",
+            "searchInstances_int": "101404,103",
+            "equipId": 1247303,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2347303",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2347404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23474040",
+            "name": "\u971c\u6708\u88f9\u817f",
+            "searchInstances_int": "101506,103",
+            "equipId": 1247404,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2347404",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2362101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23621010",
+            "name": "\u5f3a\u51fb\u706b\u70ae",
+            "searchInstances_int": "100404,100608,103",
+            "equipId": 1262101,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2362101",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2362202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23622020",
+            "name": "\u5f3a\u51fb\u7fbd\u76d4",
+            "searchInstances_int": "100602,100903,103",
+            "equipId": 1262202,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2362202",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2362303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23623030",
+            "name": "\u5f3a\u51fb\u9cde\u7532",
+            "searchInstances_int": "100506,100803,103",
+            "equipId": 1262303,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2362303",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2362404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23624040",
+            "name": "\u5f3a\u51fb\u62a4\u817f",
+            "searchInstances_int": "100410,100704,103",
+            "equipId": 1262404,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2362404",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2364101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23641010",
+            "name": "\u5de8\u4eba\u6740\u624b\u706b\u70ae",
+            "searchInstances_int": "100807,101106,103",
+            "equipId": 1264101,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2364101",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2364202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23642020",
+            "name": "\u5de8\u4eba\u6740\u624b\u7fbd\u76d4",
+            "searchInstances_int": "101004,101209,103",
+            "equipId": 1264202,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2364202",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2364303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23643030",
+            "name": "\u5de8\u4eba\u6740\u624b\u9cde\u7532",
+            "searchInstances_int": "100908,101203,103",
+            "equipId": 1264303,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2364303",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2364404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23644040",
+            "name": "\u5de8\u4eba\u6740\u624b\u62a4\u817f",
+            "searchInstances_int": "101010,101306,103",
+            "equipId": 1264404,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2364404",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2367101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23671010",
+            "name": "\u5c60\u9f99\u8005\u706b\u70ae",
+            "searchInstances_int": "101406,103",
+            "equipId": 1267101,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2367101",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2367202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23672020",
+            "name": "\u5c60\u9f99\u8005\u7fbd\u76d4",
+            "searchInstances_int": "101508,103",
+            "equipId": 1267202,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2367202",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2367303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23673030",
+            "name": "\u5c60\u9f99\u8005\u9cde\u7532",
+            "searchInstances_int": "101502,103",
+            "equipId": 1267303,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2367303",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2367404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23674040",
+            "name": "\u5c60\u9f99\u8005\u62a4\u817f",
+            "searchInstances_int": "101310,103",
+            "equipId": 1267404,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2367404",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2332101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23321010",
+            "name": "\u88c1\u51b3\u4e4b\u9524",
+            "searchInstances_int": "100508,100805,103",
+            "equipId": 1232101,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2332101",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2332202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23322020",
+            "name": "\u88c1\u51b3\u5934\u76d4",
+            "searchInstances_int": "100502,100706,103",
+            "equipId": 1232202,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2332202",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2332303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23323030",
+            "name": "\u88c1\u51b3\u6218\u7532",
+            "searchInstances_int": "100604,100905,103",
+            "equipId": 1232303,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2332303",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2332404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23324040",
+            "name": "\u88c1\u51b3\u817f\u94e0",
+            "searchInstances_int": "100406,100610,103",
+            "equipId": 1232404,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2332404",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2334101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23341010",
+            "name": "\u5723\u75d5\u4e4b\u9524",
+            "searchInstances_int": "100809,101108,103",
+            "equipId": 1234101,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2334101",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2334202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23342020",
+            "name": "\u5723\u75d5\u5934\u76d4",
+            "searchInstances_int": "101006,101302,103",
+            "equipId": 1234202,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2334202",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2334303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23343030",
+            "name": "\u5723\u75d5\u6218\u7532",
+            "searchInstances_int": "100910,101205,103",
+            "equipId": 1234303,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2334303",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2334404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23344040",
+            "name": "\u5723\u75d5\u817f\u94e0",
+            "searchInstances_int": "101102,101308,103",
+            "equipId": 1234404,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2334404",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2337101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23371010",
+            "name": "\u7687\u5bb6\u536b\u58eb\u4e4b\u9524",
+            "searchInstances_int": "101510,103",
+            "equipId": 1237101,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2337101",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2337202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23372020",
+            "name": "\u7687\u5bb6\u536b\u58eb\u5934\u76d4",
+            "searchInstances_int": "101402,103",
+            "equipId": 1237202,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2337202",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2337303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23373030",
+            "name": "\u7687\u5bb6\u536b\u58eb\u6218\u7532",
+            "searchInstances_int": "101408,103",
+            "equipId": 1237303,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2337303",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2337404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23374040",
+            "name": "\u7687\u5bb6\u536b\u58eb\u817f\u94e0",
+            "searchInstances_int": "101504,103",
+            "equipId": 1237404,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2337404",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2352101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23521010",
+            "name": "\u6bd2\u6db2\u5b88\u62a4\u4e4b\u6756",
+            "searchInstances_int": "100501,100705,103",
+            "equipId": 1252101,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2352101",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2352202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23522020",
+            "name": "\u6bd2\u6db2\u5b88\u62a4\u9762\u7f69",
+            "searchInstances_int": "100507,100804,103",
+            "equipId": 1252202,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2352202",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2352303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23523030",
+            "name": "\u6bd2\u6db2\u5b88\u62a4\u6cd5\u8863",
+            "searchInstances_int": "100405,100609,103",
+            "equipId": 1252303,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2352303",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2352404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23524040",
+            "name": "\u6bd2\u6db2\u5b88\u62a4\u957f\u88e4",
+            "searchInstances_int": "100603,100904,103",
+            "equipId": 1252404,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2352404",
+            "composeCount": 10
+        }
+    },
+    {
+        "pk": 2354101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23541010",
+            "name": "\u6218\u5730\u533b\u8005\u4e4b\u7403",
+            "searchInstances_int": "100909,101204,103",
+            "equipId": 1254101,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2354101",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2354202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23542020",
+            "name": "\u6218\u5730\u533b\u8005\u9762\u7f69",
+            "searchInstances_int": "101101,101307,103",
+            "equipId": 1254202,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2354202",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2354303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23543030",
+            "name": "\u6218\u5730\u533b\u8005\u6cd5\u8863",
+            "searchInstances_int": "100808,101107,103",
+            "equipId": 1254303,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2354303",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2354404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23544040",
+            "name": "\u6218\u5730\u533b\u8005\u957f\u88e4",
+            "searchInstances_int": "101005,101301,103",
+            "equipId": 1254404,
+            "searchDifficuty_int": "1,1,5",
+            "nameId": "equip_2354404",
+            "composeCount": 20
+        }
+    },
+    {
+        "pk": 2357101,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23571010",
+            "name": "\u5fc3\u7fbd\u4e4b\u6247",
+            "searchInstances_int": "101503,103",
+            "equipId": 1257101,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2357101",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2357202,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23572020",
+            "name": "\u5fc3\u7fbd\u9762\u7f69",
+            "searchInstances_int": "101509,103",
+            "equipId": 1257202,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2357202",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2357303,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23573030",
+            "name": "\u5fc3\u7fbd\u6cd5\u8863",
+            "searchInstances_int": "101401,103",
+            "equipId": 1257303,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2357303",
+            "composeCount": 30
+        }
+    },
+    {
+        "pk": 2357404,
+        "model": "equip.equipfragment",
+        "fields": {
+            "descriptionId": "equip_23574040",
+            "name": "\u5fc3\u7fbd\u957f\u88e4",
+            "searchInstances_int": "101407,103",
+            "equipId": 1257404,
+            "searchDifficuty_int": "1,5",
+            "nameId": "equip_2357404",
+            "composeCount": 30
+        }
+    }
+]

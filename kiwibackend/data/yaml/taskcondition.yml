@@ -1,0 +1,18 @@
+
+table:
+  out-type: json
+  sheet: 任务条件
+  row: 3
+  model: task.taskcondition
+  columns:
+    - name: c1
+      column: c1
+      type: int
+      default: 0
+
+    - name: count
+      column: count
+      type: int
+      default: 0
+
+

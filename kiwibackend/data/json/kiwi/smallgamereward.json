@@ -1,0 +1,137 @@
+[
+    {
+        "pk": 101,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 10000,
+            "type": 500000,
+            "level": "0"
+        }
+    },
+    {
+        "pk": 102,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 10,
+            "type": 510000,
+            "level": "0"
+        }
+    },
+    {
+        "pk": 103,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 2,
+            "type": 2621201,
+            "level": "0"
+        }
+    },
+    {
+        "pk": 104,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 20000,
+            "type": 500000,
+            "level": "0"
+        }
+    },
+    {
+        "pk": 105,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 20,
+            "type": 510000,
+            "level": "0"
+        }
+    },
+    {
+        "pk": 106,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 5,
+            "type": 2621201,
+            "level": "0"
+        }
+    },
+    {
+        "pk": 107,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 50000,
+            "type": 500000,
+            "level": "0"
+        }
+    },
+    {
+        "pk": 108,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 50,
+            "type": 510000,
+            "level": "0"
+        }
+    },
+    {
+        "pk": 109,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 8,
+            "type": 2621201,
+            "level": "0"
+        }
+    },
+    {
+        "pk": 110,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 100000,
+            "type": 500000,
+            "level": "0"
+        }
+    },
+    {
+        "pk": 111,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 80,
+            "type": 510000,
+            "level": "0"
+        }
+    },
+    {
+        "pk": 112,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 10,
+            "type": 2621201,
+            "level": "0"
+        }
+    },
+    {
+        "pk": 113,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 200000,
+            "type": 500000,
+            "level": "0"
+        }
+    },
+    {
+        "pk": 114,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 100,
+            "type": 510000,
+            "level": "0"
+        }
+    },
+    {
+        "pk": 115,
+        "model": "instance.smallgamereward",
+        "fields": {
+            "count": 15,
+            "type": 2621201,
+            "level": "0"
+        }
+    }
+]

@@ -1,0 +1,62 @@
+
+table:
+  out-type: json
+  sheet: 技能等级特效
+  row: 3
+  model: skill.skilleffect
+  columns:
+    - name: skilllevel_id
+      column: skilllevel_id
+      type: int
+
+    - name: conditionId
+      column: conditionId
+      type: int
+      default: 0
+
+    - name: extra0
+      column: extra0
+      type: float
+
+    - name: extra0Ability
+      column: extra0Ability
+      type: int
+      default: 0
+
+    - name: extra1
+      column: extra1
+      type: float
+      default: 0.0
+
+    - name: extra1Ability
+      column: extra1Ability
+      type: int
+      default: 0
+
+    - name: extra2
+      column: extra2
+      type: float
+      default: 0.0
+
+    - name: flags_int
+      column: flags
+      type: char
+      default: ""
+
+    - name: modifier
+      column: modifier
+      type: int
+
+    - name: registerMoment
+      column: registerMoment
+      type: int
+
+    - name: registerTarget
+      column: registerTarget
+      type: int
+
+    - name: targetSelector
+      column: targetSelector
+      type: int
+
+

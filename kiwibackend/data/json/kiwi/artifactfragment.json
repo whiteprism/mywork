@@ -1,0 +1,100 @@
+[
+    {
+        "pk": 2467505,
+        "model": "artifact.artifactfragment",
+        "fields": {
+            "descriptionId": "art_24675050",
+            "name": "\u8fd8\u9b42\u5370\u7ae0",
+            "searchInstances_int": 13.0,
+            "searchDifficuty_int": "5",
+            "artifactId": 1467505,
+            "nameId": "art_2467505",
+            "composeCount": 30,
+            "icon": "icon_1467505"
+        }
+    },
+    {
+        "pk": 2412505,
+        "model": "artifact.artifactfragment",
+        "fields": {
+            "descriptionId": "art_24125050",
+            "name": "\u6b7b\u795e\u5951\u7ea6",
+            "searchInstances_int": 13.0,
+            "searchDifficuty_int": "5",
+            "artifactId": 1412505,
+            "nameId": "art_2412505",
+            "composeCount": 10,
+            "icon": "icon_1412505"
+        }
+    },
+    {
+        "pk": 2444606,
+        "model": "artifact.artifactfragment",
+        "fields": {
+            "descriptionId": "art_24446060",
+            "name": "\u51b0\u96ea\u9879\u94fe",
+            "searchInstances_int": 13.0,
+            "searchDifficuty_int": "5",
+            "artifactId": 1444606,
+            "nameId": "art_2444606",
+            "composeCount": 20,
+            "icon": "icon_1444606"
+        }
+    },
+    {
+        "pk": 2424606,
+        "model": "artifact.artifactfragment",
+        "fields": {
+            "descriptionId": "art_24246060",
+            "name": "\u60c5\u4eba\u540a\u5760",
+            "searchInstances_int": 13.0,
+            "searchDifficuty_int": "5",
+            "artifactId": 1424606,
+            "nameId": "art_2424606",
+            "composeCount": 20,
+            "icon": "icon_1424606"
+        }
+    },
+    {
+        "pk": 2403909,
+        "model": "artifact.artifactfragment",
+        "fields": {
+            "descriptionId": "art_24039090",
+            "name": "\u94f6\u952d",
+            "searchInstances_int": 13.0,
+            "searchDifficuty_int": "5",
+            "artifactId": 1403909,
+            "nameId": "art_2403909",
+            "composeCount": 10,
+            "icon": "icon_1403909"
+        }
+    },
+    {
+        "pk": 2406909,
+        "model": "artifact.artifactfragment",
+        "fields": {
+            "descriptionId": "art_24069090",
+            "name": "\u91d1\u952d",
+            "searchInstances_int": 13.0,
+            "searchDifficuty_int": "5",
+            "artifactId": 1406909,
+            "nameId": "art_2406909",
+            "composeCount": 20,
+            "icon": "icon_1406909"
+        }
+    },
+    {
+        "pk": 2409909,
+        "model": "artifact.artifactfragment",
+        "fields": {
+            "descriptionId": "art_24099090",
+            "name": "\u4e03\u5f69\u952d",
+            "searchInstances_int": 13.0,
+            "searchDifficuty_int": "5",
+            "artifactId": 1409909,
+            "nameId": "art_2409909",
+            "composeCount": 30,
+            "icon": "icon_1409909"
+        }
+    }
+]

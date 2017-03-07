@@ -1,0 +1,56 @@
+[
+    {
+        "pk": 10101,
+        "model": "instance.elementtowerbuff",
+        "fields": {
+            "iconId": "raidlevelbuff_icon_10101",
+            "extras_float": "0.08,0.1,0.12",
+            "attrTypes_str": "extraHp"
+        }
+    },
+    {
+        "pk": 10201,
+        "model": "instance.elementtowerbuff",
+        "fields": {
+            "iconId": "raidlevelbuff_icon_10201",
+            "extras_float": "0.2,0.3,0.4",
+            "attrTypes_str": "extraAttack"
+        }
+    },
+    {
+        "pk": 10301,
+        "model": "instance.elementtowerbuff",
+        "fields": {
+            "iconId": "raidlevelbuff_icon_10301",
+            "extras_float": "0.4,0.6,0.8",
+            "attrTypes_str": "extraPhysicalArmor,extraMagicArmor"
+        }
+    },
+    {
+        "pk": 10401,
+        "model": "instance.elementtowerbuff",
+        "fields": {
+            "iconId": "raidlevelbuff_icon_10401",
+            "extras_float": "0.006,0.008,0.01",
+            "attrTypes_str": "extraViolenceScale"
+        }
+    },
+    {
+        "pk": 10501,
+        "model": "instance.elementtowerbuff",
+        "fields": {
+            "iconId": "raidlevelbuff_icon_10501",
+            "extras_float": "0.16,0.18,0.2",
+            "attrTypes_str": "extraRealPhysical"
+        }
+    },
+    {
+        "pk": 10601,
+        "model": "instance.elementtowerbuff",
+        "fields": {
+            "iconId": "raidlevelbuff_icon_10601",
+            "extras_float": "0.003,0.004,0.005",
+            "attrTypes_str": "extraDamageFree"
+        }
+    }
+]

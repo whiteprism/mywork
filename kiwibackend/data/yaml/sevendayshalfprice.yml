@@ -1,0 +1,18 @@
+
+table:
+  out-type: json
+  sheet: 七天半价购
+  row: 3
+  model: task.sevendayshalfprice
+  columns:
+    - name: itemCost
+      column: itemCost
+      type: int
+      default: 0
+
+    - name: rewardId
+      column: rewardId
+      type: char
+      default: ""
+
+

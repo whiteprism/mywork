@@ -1,0 +1,1081 @@
+[
+    {
+        "pk": 66000000,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660000000",
+            "iconId": "icon_2610001",
+            "boxNameId": "item_66000000",
+            "suitToItemId": 2610001,
+            "itemIds_int": "",
+            "itemCounts_int": ""
+        }
+    },
+    {
+        "pk": 66000001,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660000010",
+            "iconId": "icon_2610002",
+            "boxNameId": "item_66000001",
+            "suitToItemId": 2610002,
+            "itemIds_int": "2621501,2621502,2621503,2621504,2621505,2621506",
+            "itemCounts_int": "3,3,3,3,3,3"
+        }
+    },
+    {
+        "pk": 66000002,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660000020",
+            "iconId": "icon_2610003",
+            "boxNameId": "item_66000002",
+            "suitToItemId": 2610003,
+            "itemIds_int": "2621601,2621602,2621603,2621604,2621605,2621606",
+            "itemCounts_int": "3,3,3,3,3,3"
+        }
+    },
+    {
+        "pk": 66000003,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660000030",
+            "iconId": "icon_2610002",
+            "boxNameId": "item_66000003",
+            "suitToItemId": 2610004,
+            "itemIds_int": "2621801,2621802,2621803,2621804,2621805,2621806",
+            "itemCounts_int": "1,1,1,1,1,1"
+        }
+    },
+    {
+        "pk": 66000004,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660000040",
+            "iconId": "icon_2610003",
+            "boxNameId": "item_66000004",
+            "suitToItemId": 2610005,
+            "itemIds_int": "2621901,2621902,2621903,2621904,2621905,2621906",
+            "itemCounts_int": "1,1,1,1,1,1"
+        }
+    },
+    {
+        "pk": 66010001,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660100010",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66010001",
+            "suitToItemId": 2610006,
+            "itemIds_int": "111000311,111000511",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66010002,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660100020",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66010002",
+            "suitToItemId": 2610007,
+            "itemIds_int": "112000511,112000611,112000811",
+            "itemCounts_int": "1,1,1"
+        }
+    },
+    {
+        "pk": 66010003,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660100030",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66010003",
+            "suitToItemId": 2610008,
+            "itemIds_int": "113000111",
+            "itemCounts_int": "1"
+        }
+    },
+    {
+        "pk": 66010004,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660100040",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66010004",
+            "suitToItemId": 2610009,
+            "itemIds_int": "114000211,114000711",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66010005,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660100050",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66010005",
+            "suitToItemId": 2610010,
+            "itemIds_int": "115000211",
+            "itemCounts_int": "1"
+        }
+    },
+    {
+        "pk": 66010006,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660100060",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66010006",
+            "suitToItemId": 2610011,
+            "itemIds_int": "116000111,116000211",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66020001,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660200010",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66020001",
+            "suitToItemId": 2610012,
+            "itemIds_int": "111000101,115000406,114000711,112000611",
+            "itemCounts_int": "1,1,1,1"
+        }
+    },
+    {
+        "pk": 66020002,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660200020",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66020002",
+            "suitToItemId": 2610013,
+            "itemIds_int": 115000506.0,
+            "itemCounts_int": "1"
+        }
+    },
+    {
+        "pk": 66020003,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660200030",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66020003",
+            "suitToItemId": 2610014,
+            "itemIds_int": "111000311,115000211,116000111",
+            "itemCounts_int": "1,1,1"
+        }
+    },
+    {
+        "pk": 66020004,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660200040",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66020004",
+            "suitToItemId": 2610015,
+            "itemIds_int": "111000511,114000606",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66020005,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660200050",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66020005",
+            "suitToItemId": 2610016,
+            "itemIds_int": "114000211,116000401,116000211",
+            "itemCounts_int": "1,1,1"
+        }
+    },
+    {
+        "pk": 66020006,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660200060",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66020006",
+            "suitToItemId": 2610017,
+            "itemIds_int": "113000111,114000306,114000401,112000201,116000506",
+            "itemCounts_int": "1,1,1,1,1"
+        }
+    },
+    {
+        "pk": 66020007,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660200070",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66020007",
+            "suitToItemId": 2610018,
+            "itemIds_int": "112000511,116000306",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66020008,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660200080",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66020008",
+            "suitToItemId": 2610019,
+            "itemIds_int": "115000301,112000706",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66020009,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660200090",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66020009",
+            "suitToItemId": 2610020,
+            "itemIds_int": "114000506,112000811",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66020010,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660200100",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66020010",
+            "suitToItemId": 2610021,
+            "itemIds_int": "113000306",
+            "itemCounts_int": "1"
+        }
+    },
+    {
+        "pk": 66020011,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660200110",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66020011",
+            "suitToItemId": 2610022,
+            "itemIds_int": "111000206,112000406",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66020012,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 1,
+            "introduction": "item_660200120",
+            "iconId": "icon_2610006",
+            "boxNameId": "item_66020012",
+            "suitToItemId": 2610023,
+            "itemIds_int": "116000701",
+            "itemCounts_int": "1"
+        }
+    },
+    {
+        "pk": 66030111,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660301110",
+            "iconId": "icon_2610024",
+            "boxNameId": "item_66030111",
+            "suitToItemId": 2610024,
+            "itemIds_int": "1212101,1212202,1212303,1212404",
+            "itemCounts_int": "1,1,1,1"
+        }
+    },
+    {
+        "pk": 66030211,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660302110",
+            "iconId": "icon_2610024",
+            "boxNameId": "item_66030211",
+            "suitToItemId": 2610025,
+            "itemIds_int": "1412505,1412606",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66030121,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660301210",
+            "iconId": "icon_2610026",
+            "boxNameId": "item_66030121",
+            "suitToItemId": 2610026,
+            "itemIds_int": "1214101,1214202,1214303,1214404",
+            "itemCounts_int": "1,1,1,1"
+        }
+    },
+    {
+        "pk": 66030221,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660302210",
+            "iconId": "icon_2610026",
+            "boxNameId": "item_66030221",
+            "suitToItemId": 2610027,
+            "itemIds_int": "1414505,1414606",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66030112,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660301120",
+            "iconId": "icon_2610024",
+            "boxNameId": "item_66030112",
+            "suitToItemId": 2610028,
+            "itemIds_int": "1222101,1222202,1222303,1222404",
+            "itemCounts_int": "1,1,1,1"
+        }
+    },
+    {
+        "pk": 66030212,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660302120",
+            "iconId": "icon_2610024",
+            "boxNameId": "item_66030212",
+            "suitToItemId": 2610029,
+            "itemIds_int": "1422505,1422606",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66030122,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660301220",
+            "iconId": "icon_2610026",
+            "boxNameId": "item_66030122",
+            "suitToItemId": 2610030,
+            "itemIds_int": "1224101,1224202,1224303,1224404",
+            "itemCounts_int": "1,1,1,1"
+        }
+    },
+    {
+        "pk": 66030222,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660302220",
+            "iconId": "icon_2610026",
+            "boxNameId": "item_66030222",
+            "suitToItemId": 2610031,
+            "itemIds_int": "1424505,1424606",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66030113,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660301130",
+            "iconId": "icon_2610024",
+            "boxNameId": "item_66030113",
+            "suitToItemId": 2610032,
+            "itemIds_int": "1232101,1232202,1232303,1232404",
+            "itemCounts_int": "1,1,1,1"
+        }
+    },
+    {
+        "pk": 66030213,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660302130",
+            "iconId": "icon_2610024",
+            "boxNameId": "item_66030213",
+            "suitToItemId": 2610033,
+            "itemIds_int": "1432505,1432606",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66030123,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660301230",
+            "iconId": "icon_2610026",
+            "boxNameId": "item_66030123",
+            "suitToItemId": 2610034,
+            "itemIds_int": "1234101,1234202,1234303,1234404",
+            "itemCounts_int": "1,1,1,1"
+        }
+    },
+    {
+        "pk": 66030223,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660302230",
+            "iconId": "icon_2610026",
+            "boxNameId": "item_66030223",
+            "suitToItemId": 2610035,
+            "itemIds_int": "1434505,1434606",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66030114,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660301140",
+            "iconId": "icon_2610024",
+            "boxNameId": "item_66030114",
+            "suitToItemId": 2610036,
+            "itemIds_int": "1242101,1242202,1242303,1242404",
+            "itemCounts_int": "1,1,1,1"
+        }
+    },
+    {
+        "pk": 66030214,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660302140",
+            "iconId": "icon_2610024",
+            "boxNameId": "item_66030214",
+            "suitToItemId": 2610037,
+            "itemIds_int": "1442505,1442606",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66030124,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660301240",
+            "iconId": "icon_2610026",
+            "boxNameId": "item_66030124",
+            "suitToItemId": 2610038,
+            "itemIds_int": "1244101,1244202,1244303,1244404",
+            "itemCounts_int": "1,1,1,1"
+        }
+    },
+    {
+        "pk": 66030224,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660302240",
+            "iconId": "icon_2610026",
+            "boxNameId": "item_66030224",
+            "suitToItemId": 2610039,
+            "itemIds_int": "1444505,1444606",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66030115,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660301150",
+            "iconId": "icon_2610024",
+            "boxNameId": "item_66030115",
+            "suitToItemId": 2610040,
+            "itemIds_int": "1252101,1252302,1252303,1252404",
+            "itemCounts_int": "1,1,1,1"
+        }
+    },
+    {
+        "pk": 66030215,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660302150",
+            "iconId": "icon_2610024",
+            "boxNameId": "item_66030215",
+            "suitToItemId": 2610041,
+            "itemIds_int": "1452505,1452606",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66030125,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660301250",
+            "iconId": "icon_2610026",
+            "boxNameId": "item_66030125",
+            "suitToItemId": 2610042,
+            "itemIds_int": "1254101,1254202,1254303,1254404",
+            "itemCounts_int": "1,1,1,1"
+        }
+    },
+    {
+        "pk": 66030225,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660302250",
+            "iconId": "icon_2610026",
+            "boxNameId": "item_66030225",
+            "suitToItemId": 2610043,
+            "itemIds_int": "1454505,1454606",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66030116,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660301160",
+            "iconId": "icon_2610024",
+            "boxNameId": "item_66030116",
+            "suitToItemId": 2610044,
+            "itemIds_int": "1262101,1262202,1262303,1262404",
+            "itemCounts_int": "1,1,1,1"
+        }
+    },
+    {
+        "pk": 66030216,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660302160",
+            "iconId": "icon_2610024",
+            "boxNameId": "item_66030216",
+            "suitToItemId": 2610045,
+            "itemIds_int": "1462505,1462606",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66030126,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660301260",
+            "iconId": "icon_2610026",
+            "boxNameId": "item_66030126",
+            "suitToItemId": 2610046,
+            "itemIds_int": "1264101,1264202,1264303,1264404",
+            "itemCounts_int": "1,1,1,1"
+        }
+    },
+    {
+        "pk": 66030226,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660302260",
+            "iconId": "icon_2610026",
+            "boxNameId": "item_66030226",
+            "suitToItemId": 2610047,
+            "itemIds_int": "1464505,1464606",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66041111,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660411110",
+            "iconId": "icon_2610002",
+            "boxNameId": "item_66041111",
+            "suitToItemId": 2610048,
+            "itemIds_int": "2312101,2312202,2312303,2312404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66041112,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660411120",
+            "iconId": "icon_2610002",
+            "boxNameId": "item_66041112",
+            "suitToItemId": 2610049,
+            "itemIds_int": "24125051,24126061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66042111,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660421110",
+            "iconId": "icon_2610002",
+            "boxNameId": "item_66042111",
+            "suitToItemId": 2610050,
+            "itemIds_int": "2322101,2322202,2322303,2322404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66042112,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660421120",
+            "iconId": "icon_2610002",
+            "boxNameId": "item_66042112",
+            "suitToItemId": 2610051,
+            "itemIds_int": "24225051,24226061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66043111,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660431110",
+            "iconId": "icon_2610002",
+            "boxNameId": "item_66043111",
+            "suitToItemId": 2610052,
+            "itemIds_int": "2332101,2332202,2332303,2332404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66043112,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660431120",
+            "iconId": "icon_2610002",
+            "boxNameId": "item_66043112",
+            "suitToItemId": 2610053,
+            "itemIds_int": "24325051,24326061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66044111,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660441110",
+            "iconId": "icon_2610002",
+            "boxNameId": "item_66044111",
+            "suitToItemId": 2610054,
+            "itemIds_int": "2342101,2342202,2342303,2342404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66044112,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660441120",
+            "iconId": "icon_2610002",
+            "boxNameId": "item_66044112",
+            "suitToItemId": 2610055,
+            "itemIds_int": "24425051,24426061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66045111,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660451110",
+            "iconId": "icon_2610002",
+            "boxNameId": "item_66045111",
+            "suitToItemId": 2610056,
+            "itemIds_int": "2352101,2352202,2352303,2352404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66045112,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660451120",
+            "iconId": "icon_2610002",
+            "boxNameId": "item_66045112",
+            "suitToItemId": 2610057,
+            "itemIds_int": "24525051,24526061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66046111,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660461110",
+            "iconId": "icon_2610002",
+            "boxNameId": "item_66046111",
+            "suitToItemId": 2610058,
+            "itemIds_int": "2362101,2362202,2362303,2362404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66046112,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660461120",
+            "iconId": "icon_2610002",
+            "boxNameId": "item_66046112",
+            "suitToItemId": 2610059,
+            "itemIds_int": "24625051,24626061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66041121,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660411210",
+            "iconId": "icon_2610003",
+            "boxNameId": "item_66041121",
+            "suitToItemId": 2610060,
+            "itemIds_int": "2314101,2314202,2314303,2314404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66041122,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660411220",
+            "iconId": "icon_2610003",
+            "boxNameId": "item_66041122",
+            "suitToItemId": 2610061,
+            "itemIds_int": "24145051,24146061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66042121,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660421210",
+            "iconId": "icon_2610003",
+            "boxNameId": "item_66042121",
+            "suitToItemId": 2610062,
+            "itemIds_int": "2324101,2324202,2324303,2324404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66042122,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660421220",
+            "iconId": "icon_2610003",
+            "boxNameId": "item_66042122",
+            "suitToItemId": 2610063,
+            "itemIds_int": "24245051,24246061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66043121,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660431210",
+            "iconId": "icon_2610003",
+            "boxNameId": "item_66043121",
+            "suitToItemId": 2610064,
+            "itemIds_int": "2334101,2334202,2334303,2334404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66043122,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660431220",
+            "iconId": "icon_2610003",
+            "boxNameId": "item_66043122",
+            "suitToItemId": 2610065,
+            "itemIds_int": "24345051,24346061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66044421,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660444210",
+            "iconId": "icon_2610003",
+            "boxNameId": "item_66044421",
+            "suitToItemId": 2610066,
+            "itemIds_int": "2344101,2344202,2344303,2344404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66044222,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660442220",
+            "iconId": "icon_2610003",
+            "boxNameId": "item_66044222",
+            "suitToItemId": 2610067,
+            "itemIds_int": "24445051,24446061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66045121,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660451210",
+            "iconId": "icon_2610003",
+            "boxNameId": "item_66045121",
+            "suitToItemId": 2610068,
+            "itemIds_int": "2354101,2354202,2354303,2354404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66045122,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660451220",
+            "iconId": "icon_2610003",
+            "boxNameId": "item_66045122",
+            "suitToItemId": 2610069,
+            "itemIds_int": "24545051,24546061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66046121,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660461210",
+            "iconId": "icon_2610003",
+            "boxNameId": "item_66046121",
+            "suitToItemId": 2610070,
+            "itemIds_int": "2364101,2364202,2364303,2364404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66046122,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660461220",
+            "iconId": "icon_2610003",
+            "boxNameId": "item_66046122",
+            "suitToItemId": 2610071,
+            "itemIds_int": "24645051,24646061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66041131,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660411310",
+            "iconId": "icon_2610072",
+            "boxNameId": "item_66041131",
+            "suitToItemId": 2610072,
+            "itemIds_int": "2317101,2317202,2317303,2317404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66041132,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660411320",
+            "iconId": "icon_2610072",
+            "boxNameId": "item_66041132",
+            "suitToItemId": 2610073,
+            "itemIds_int": "24175051,24176061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66042131,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660421310",
+            "iconId": "icon_2610072",
+            "boxNameId": "item_66042131",
+            "suitToItemId": 2610074,
+            "itemIds_int": "2327101,2327202,2327303,2327404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66042132,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660421320",
+            "iconId": "icon_2610072",
+            "boxNameId": "item_66042132",
+            "suitToItemId": 2610075,
+            "itemIds_int": "24275051,24276061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66043131,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660431310",
+            "iconId": "icon_2610072",
+            "boxNameId": "item_66043131",
+            "suitToItemId": 2610076,
+            "itemIds_int": "2337101,2337202,2337303,2337404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66043132,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660431320",
+            "iconId": "icon_2610072",
+            "boxNameId": "item_66043132",
+            "suitToItemId": 2610077,
+            "itemIds_int": "24375051,24376061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66044131,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660441310",
+            "iconId": "icon_2610072",
+            "boxNameId": "item_66044131",
+            "suitToItemId": 2610078,
+            "itemIds_int": "2347101,2347202,2347303,2347404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66044132,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660441320",
+            "iconId": "icon_2610072",
+            "boxNameId": "item_66044132",
+            "suitToItemId": 2610079,
+            "itemIds_int": "24475051,24476061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66045131,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660451310",
+            "iconId": "icon_2610072",
+            "boxNameId": "item_66045131",
+            "suitToItemId": 2610080,
+            "itemIds_int": "2357101,2357202,2357303,2357404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66045132,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660451320",
+            "iconId": "icon_2610072",
+            "boxNameId": "item_66045132",
+            "suitToItemId": 2610081,
+            "itemIds_int": "24575051,24576061",
+            "itemCounts_int": "1,1"
+        }
+    },
+    {
+        "pk": 66046131,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660461310",
+            "iconId": "icon_2610072",
+            "boxNameId": "item_66046131",
+            "suitToItemId": 2610082,
+            "itemIds_int": "2367101,2367202,2367303,2367404",
+            "itemCounts_int": "5,5,5,5"
+        }
+    },
+    {
+        "pk": 66046132,
+        "model": "item.itemsuit",
+        "fields": {
+            "isChooseAll": 0,
+            "introduction": "item_660461320",
+            "iconId": "icon_2610072",
+            "boxNameId": "item_66046132",
+            "suitToItemId": 2610083,
+            "itemIds_int": "24675051,24676061",
+            "itemCounts_int": "1,1"
+        }
+    }
+]

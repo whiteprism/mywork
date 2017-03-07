@@ -1,0 +1,4754 @@
+[
+    {
+        "pk": 1110101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 3.2,
+            "enhanceInitValue": 3.6,
+            "enhanceAttrGrowth": 0.57
+        }
+    },
+    {
+        "pk": 1120201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 140.0,
+            "enhanceInitValue": 157.5,
+            "enhanceAttrGrowth": 24.9375
+        }
+    },
+    {
+        "pk": 1130301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 22.4,
+            "enhanceInitValue": 25.2,
+            "enhanceAttrGrowth": 3.99
+        }
+    },
+    {
+        "pk": 1140401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 26.6666666667,
+            "enhanceInitValue": 30.0,
+            "enhanceAttrGrowth": 4.75
+        }
+    },
+    {
+        "pk": 1210101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 5.12,
+            "enhanceInitValue": 5.76,
+            "enhanceAttrGrowth": 0.912
+        }
+    },
+    {
+        "pk": 1220201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 224.0,
+            "enhanceInitValue": 252.0,
+            "enhanceAttrGrowth": 39.9
+        }
+    },
+    {
+        "pk": 1230301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 35.84,
+            "enhanceInitValue": 40.32,
+            "enhanceAttrGrowth": 6.384
+        }
+    },
+    {
+        "pk": 1240401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 42.6666666667,
+            "enhanceInitValue": 48.0,
+            "enhanceAttrGrowth": 7.6
+        }
+    },
+    {
+        "pk": 1310101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 6.4,
+            "enhanceInitValue": 7.2,
+            "enhanceAttrGrowth": 1.14
+        }
+    },
+    {
+        "pk": 1320201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 280.0,
+            "enhanceInitValue": 315.0,
+            "enhanceAttrGrowth": 49.875
+        }
+    },
+    {
+        "pk": 1330301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 44.8,
+            "enhanceInitValue": 50.4,
+            "enhanceAttrGrowth": 7.98
+        }
+    },
+    {
+        "pk": 1340401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 53.3333333333,
+            "enhanceInitValue": 60.0,
+            "enhanceAttrGrowth": 9.5
+        }
+    },
+    {
+        "pk": 1410101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 7.68,
+            "enhanceInitValue": 8.64,
+            "enhanceAttrGrowth": 1.368
+        }
+    },
+    {
+        "pk": 1420201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 336.0,
+            "enhanceInitValue": 378.0,
+            "enhanceAttrGrowth": 59.85
+        }
+    },
+    {
+        "pk": 1430301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 53.76,
+            "enhanceInitValue": 60.48,
+            "enhanceAttrGrowth": 9.576
+        }
+    },
+    {
+        "pk": 1440401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 64.0,
+            "enhanceInitValue": 72.0,
+            "enhanceAttrGrowth": 11.4
+        }
+    },
+    {
+        "pk": 1510101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 8.64,
+            "enhanceInitValue": 9.72,
+            "enhanceAttrGrowth": 1.539
+        }
+    },
+    {
+        "pk": 1520201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 378.0,
+            "enhanceInitValue": 425.25,
+            "enhanceAttrGrowth": 67.33125
+        }
+    },
+    {
+        "pk": 1530301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 60.48,
+            "enhanceInitValue": 68.04,
+            "enhanceAttrGrowth": 10.773
+        }
+    },
+    {
+        "pk": 1540401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 72.0,
+            "enhanceInitValue": 81.0,
+            "enhanceAttrGrowth": 12.825
+        }
+    },
+    {
+        "pk": 1610101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 9.6,
+            "enhanceInitValue": 10.8,
+            "enhanceAttrGrowth": 1.71
+        }
+    },
+    {
+        "pk": 1620201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 420.0,
+            "enhanceInitValue": 472.5,
+            "enhanceAttrGrowth": 74.8125
+        }
+    },
+    {
+        "pk": 1630301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 67.2,
+            "enhanceInitValue": 75.6,
+            "enhanceAttrGrowth": 11.97
+        }
+    },
+    {
+        "pk": 1640401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 80.0,
+            "enhanceInitValue": 90.0,
+            "enhanceAttrGrowth": 14.25
+        }
+    },
+    {
+        "pk": 1710101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 10.24,
+            "enhanceInitValue": 11.52,
+            "enhanceAttrGrowth": 1.824
+        }
+    },
+    {
+        "pk": 1720201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 448.0,
+            "enhanceInitValue": 504.0,
+            "enhanceAttrGrowth": 79.8
+        }
+    },
+    {
+        "pk": 1730301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 71.68,
+            "enhanceInitValue": 80.64,
+            "enhanceAttrGrowth": 12.768
+        }
+    },
+    {
+        "pk": 1740401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 85.3333333333,
+            "enhanceInitValue": 96.0,
+            "enhanceAttrGrowth": 15.2
+        }
+    },
+    {
+        "pk": 1810101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 11.52,
+            "enhanceInitValue": 12.96,
+            "enhanceAttrGrowth": 2.052
+        }
+    },
+    {
+        "pk": 1820201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 504.0,
+            "enhanceInitValue": 567.0,
+            "enhanceAttrGrowth": 89.775
+        }
+    },
+    {
+        "pk": 1830301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 80.64,
+            "enhanceInitValue": 90.72,
+            "enhanceAttrGrowth": 14.364
+        }
+    },
+    {
+        "pk": 1840401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 96.0,
+            "enhanceInitValue": 108.0,
+            "enhanceAttrGrowth": 17.1
+        }
+    },
+    {
+        "pk": 1910101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 12.8,
+            "enhanceInitValue": 14.4,
+            "enhanceAttrGrowth": 2.28
+        }
+    },
+    {
+        "pk": 1920201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 560.0,
+            "enhanceInitValue": 630.0,
+            "enhanceAttrGrowth": 99.75
+        }
+    },
+    {
+        "pk": 1930301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 89.6,
+            "enhanceInitValue": 100.8,
+            "enhanceAttrGrowth": 15.96
+        }
+    },
+    {
+        "pk": 1940401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 106.666666667,
+            "enhanceInitValue": 120.0,
+            "enhanceAttrGrowth": 19.0
+        }
+    },
+    {
+        "pk": 2110101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 8.0,
+            "enhanceInitValue": 9.0,
+            "enhanceAttrGrowth": 1.425
+        }
+    },
+    {
+        "pk": 2120201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 130.0,
+            "enhanceInitValue": 146.25,
+            "enhanceAttrGrowth": 23.15625
+        }
+    },
+    {
+        "pk": 2130301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 17.1428571429,
+            "enhanceInitValue": 19.2857142857,
+            "enhanceAttrGrowth": 3.05357142857
+        }
+    },
+    {
+        "pk": 2140401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 17.1428571429,
+            "enhanceInitValue": 19.2857142857,
+            "enhanceAttrGrowth": 3.05357142857
+        }
+    },
+    {
+        "pk": 2210101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 12.8,
+            "enhanceInitValue": 14.4,
+            "enhanceAttrGrowth": 2.28
+        }
+    },
+    {
+        "pk": 2220201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 208.0,
+            "enhanceInitValue": 234.0,
+            "enhanceAttrGrowth": 37.05
+        }
+    },
+    {
+        "pk": 2230301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 27.4285714286,
+            "enhanceInitValue": 30.8571428571,
+            "enhanceAttrGrowth": 4.88571428571
+        }
+    },
+    {
+        "pk": 2240401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 27.4285714286,
+            "enhanceInitValue": 30.8571428571,
+            "enhanceAttrGrowth": 4.88571428571
+        }
+    },
+    {
+        "pk": 2310101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 16.0,
+            "enhanceInitValue": 18.0,
+            "enhanceAttrGrowth": 2.85
+        }
+    },
+    {
+        "pk": 2320201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 260.0,
+            "enhanceInitValue": 292.5,
+            "enhanceAttrGrowth": 46.3125
+        }
+    },
+    {
+        "pk": 2330301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 34.2857142857,
+            "enhanceInitValue": 38.5714285714,
+            "enhanceAttrGrowth": 6.10714285714
+        }
+    },
+    {
+        "pk": 2340401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 34.2857142857,
+            "enhanceInitValue": 38.5714285714,
+            "enhanceAttrGrowth": 6.10714285714
+        }
+    },
+    {
+        "pk": 2410101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 19.2,
+            "enhanceInitValue": 21.6,
+            "enhanceAttrGrowth": 3.42
+        }
+    },
+    {
+        "pk": 2420201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 312.0,
+            "enhanceInitValue": 351.0,
+            "enhanceAttrGrowth": 55.575
+        }
+    },
+    {
+        "pk": 2430301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 41.1428571429,
+            "enhanceInitValue": 46.2857142857,
+            "enhanceAttrGrowth": 7.32857142857
+        }
+    },
+    {
+        "pk": 2440401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 41.1428571429,
+            "enhanceInitValue": 46.2857142857,
+            "enhanceAttrGrowth": 7.32857142857
+        }
+    },
+    {
+        "pk": 2510101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 21.6,
+            "enhanceInitValue": 24.3,
+            "enhanceAttrGrowth": 3.8475
+        }
+    },
+    {
+        "pk": 2520201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 351.0,
+            "enhanceInitValue": 394.875,
+            "enhanceAttrGrowth": 62.521875
+        }
+    },
+    {
+        "pk": 2530301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 46.2857142857,
+            "enhanceInitValue": 52.0714285714,
+            "enhanceAttrGrowth": 8.24464285714
+        }
+    },
+    {
+        "pk": 2540401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 46.2857142857,
+            "enhanceInitValue": 52.0714285714,
+            "enhanceAttrGrowth": 8.24464285714
+        }
+    },
+    {
+        "pk": 2610101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 24.0,
+            "enhanceInitValue": 27.0,
+            "enhanceAttrGrowth": 4.275
+        }
+    },
+    {
+        "pk": 2620201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 390.0,
+            "enhanceInitValue": 438.75,
+            "enhanceAttrGrowth": 69.46875
+        }
+    },
+    {
+        "pk": 2630301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 51.4285714286,
+            "enhanceInitValue": 57.8571428571,
+            "enhanceAttrGrowth": 9.16071428571
+        }
+    },
+    {
+        "pk": 2640401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 51.4285714286,
+            "enhanceInitValue": 57.8571428571,
+            "enhanceAttrGrowth": 9.16071428571
+        }
+    },
+    {
+        "pk": 2710101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 25.6,
+            "enhanceInitValue": 28.8,
+            "enhanceAttrGrowth": 4.56
+        }
+    },
+    {
+        "pk": 2720201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 416.0,
+            "enhanceInitValue": 468.0,
+            "enhanceAttrGrowth": 74.1
+        }
+    },
+    {
+        "pk": 2730301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 54.8571428571,
+            "enhanceInitValue": 61.7142857143,
+            "enhanceAttrGrowth": 9.77142857143
+        }
+    },
+    {
+        "pk": 2740401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 54.8571428571,
+            "enhanceInitValue": 61.7142857143,
+            "enhanceAttrGrowth": 9.77142857143
+        }
+    },
+    {
+        "pk": 2810101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 28.8,
+            "enhanceInitValue": 32.4,
+            "enhanceAttrGrowth": 5.13
+        }
+    },
+    {
+        "pk": 2820201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 468.0,
+            "enhanceInitValue": 526.5,
+            "enhanceAttrGrowth": 83.3625
+        }
+    },
+    {
+        "pk": 2830301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 61.7142857143,
+            "enhanceInitValue": 69.4285714286,
+            "enhanceAttrGrowth": 10.9928571429
+        }
+    },
+    {
+        "pk": 2840401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 61.7142857143,
+            "enhanceInitValue": 69.4285714286,
+            "enhanceAttrGrowth": 10.9928571429
+        }
+    },
+    {
+        "pk": 2910101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 32.0,
+            "enhanceInitValue": 36.0,
+            "enhanceAttrGrowth": 5.7
+        }
+    },
+    {
+        "pk": 2920201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 520.0,
+            "enhanceInitValue": 585.0,
+            "enhanceAttrGrowth": 92.625
+        }
+    },
+    {
+        "pk": 2930301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 68.5714285714,
+            "enhanceInitValue": 77.1428571429,
+            "enhanceAttrGrowth": 12.2142857143
+        }
+    },
+    {
+        "pk": 2940401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 68.5714285714,
+            "enhanceInitValue": 77.1428571429,
+            "enhanceAttrGrowth": 12.2142857143
+        }
+    },
+    {
+        "pk": 4110101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 11.2,
+            "enhanceInitValue": 12.6,
+            "enhanceAttrGrowth": 1.995
+        }
+    },
+    {
+        "pk": 4120201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 80.0,
+            "enhanceInitValue": 90.0,
+            "enhanceAttrGrowth": 14.25
+        }
+    },
+    {
+        "pk": 4130301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 19.0476190476,
+            "enhanceInitValue": 21.4285714286,
+            "enhanceAttrGrowth": 3.39285714286
+        }
+    },
+    {
+        "pk": 4140401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 16.0,
+            "enhanceInitValue": 18.0,
+            "enhanceAttrGrowth": 2.85
+        }
+    },
+    {
+        "pk": 4210101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 17.92,
+            "enhanceInitValue": 20.16,
+            "enhanceAttrGrowth": 3.192
+        }
+    },
+    {
+        "pk": 4220201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 128.0,
+            "enhanceInitValue": 144.0,
+            "enhanceAttrGrowth": 22.8
+        }
+    },
+    {
+        "pk": 4230301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 30.4761904762,
+            "enhanceInitValue": 34.2857142857,
+            "enhanceAttrGrowth": 5.42857142857
+        }
+    },
+    {
+        "pk": 4240401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 25.6,
+            "enhanceInitValue": 28.8,
+            "enhanceAttrGrowth": 4.56
+        }
+    },
+    {
+        "pk": 4310101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 22.4,
+            "enhanceInitValue": 25.2,
+            "enhanceAttrGrowth": 3.99
+        }
+    },
+    {
+        "pk": 4320201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 160.0,
+            "enhanceInitValue": 180.0,
+            "enhanceAttrGrowth": 28.5
+        }
+    },
+    {
+        "pk": 4330301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 38.0952380952,
+            "enhanceInitValue": 42.8571428571,
+            "enhanceAttrGrowth": 6.78571428571
+        }
+    },
+    {
+        "pk": 4340401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 32.0,
+            "enhanceInitValue": 36.0,
+            "enhanceAttrGrowth": 5.7
+        }
+    },
+    {
+        "pk": 4410101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 26.88,
+            "enhanceInitValue": 30.24,
+            "enhanceAttrGrowth": 4.788
+        }
+    },
+    {
+        "pk": 4420201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 192.0,
+            "enhanceInitValue": 216.0,
+            "enhanceAttrGrowth": 34.2
+        }
+    },
+    {
+        "pk": 4430301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 45.7142857143,
+            "enhanceInitValue": 51.4285714286,
+            "enhanceAttrGrowth": 8.14285714286
+        }
+    },
+    {
+        "pk": 4440401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 38.4,
+            "enhanceInitValue": 43.2,
+            "enhanceAttrGrowth": 6.84
+        }
+    },
+    {
+        "pk": 4510101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 30.24,
+            "enhanceInitValue": 34.02,
+            "enhanceAttrGrowth": 5.3865
+        }
+    },
+    {
+        "pk": 4520201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 216.0,
+            "enhanceInitValue": 243.0,
+            "enhanceAttrGrowth": 38.475
+        }
+    },
+    {
+        "pk": 4530301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 51.4285714286,
+            "enhanceInitValue": 57.8571428571,
+            "enhanceAttrGrowth": 9.16071428571
+        }
+    },
+    {
+        "pk": 4540401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 43.2,
+            "enhanceInitValue": 48.6,
+            "enhanceAttrGrowth": 7.695
+        }
+    },
+    {
+        "pk": 4610101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 33.6,
+            "enhanceInitValue": 37.8,
+            "enhanceAttrGrowth": 5.985
+        }
+    },
+    {
+        "pk": 4620201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 240.0,
+            "enhanceInitValue": 270.0,
+            "enhanceAttrGrowth": 42.75
+        }
+    },
+    {
+        "pk": 4630301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 57.1428571429,
+            "enhanceInitValue": 64.2857142857,
+            "enhanceAttrGrowth": 10.1785714286
+        }
+    },
+    {
+        "pk": 4640401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 48.0,
+            "enhanceInitValue": 54.0,
+            "enhanceAttrGrowth": 8.55
+        }
+    },
+    {
+        "pk": 4710101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 35.84,
+            "enhanceInitValue": 40.32,
+            "enhanceAttrGrowth": 6.384
+        }
+    },
+    {
+        "pk": 4720201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 256.0,
+            "enhanceInitValue": 288.0,
+            "enhanceAttrGrowth": 45.6
+        }
+    },
+    {
+        "pk": 4730301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 60.9523809524,
+            "enhanceInitValue": 68.5714285714,
+            "enhanceAttrGrowth": 10.8571428571
+        }
+    },
+    {
+        "pk": 4740401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 51.2,
+            "enhanceInitValue": 57.6,
+            "enhanceAttrGrowth": 9.12
+        }
+    },
+    {
+        "pk": 4810101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 40.32,
+            "enhanceInitValue": 45.36,
+            "enhanceAttrGrowth": 7.182
+        }
+    },
+    {
+        "pk": 4820201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 288.0,
+            "enhanceInitValue": 324.0,
+            "enhanceAttrGrowth": 51.3
+        }
+    },
+    {
+        "pk": 4830301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 68.5714285714,
+            "enhanceInitValue": 77.1428571429,
+            "enhanceAttrGrowth": 12.2142857143
+        }
+    },
+    {
+        "pk": 4840401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 57.6,
+            "enhanceInitValue": 64.8,
+            "enhanceAttrGrowth": 10.26
+        }
+    },
+    {
+        "pk": 4910101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 44.8,
+            "enhanceInitValue": 50.4,
+            "enhanceAttrGrowth": 7.98
+        }
+    },
+    {
+        "pk": 4920201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 320.0,
+            "enhanceInitValue": 360.0,
+            "enhanceAttrGrowth": 57.0
+        }
+    },
+    {
+        "pk": 4930301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 76.1904761905,
+            "enhanceInitValue": 85.7142857143,
+            "enhanceAttrGrowth": 13.5714285714
+        }
+    },
+    {
+        "pk": 4940401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 64.0,
+            "enhanceInitValue": 72.0,
+            "enhanceAttrGrowth": 11.4
+        }
+    },
+    {
+        "pk": 6110101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 11.2,
+            "enhanceInitValue": 12.6,
+            "enhanceAttrGrowth": 1.995
+        }
+    },
+    {
+        "pk": 6120201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 100.0,
+            "enhanceInitValue": 112.5,
+            "enhanceAttrGrowth": 17.8125
+        }
+    },
+    {
+        "pk": 6130301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 12.8,
+            "enhanceInitValue": 14.4,
+            "enhanceAttrGrowth": 2.28
+        }
+    },
+    {
+        "pk": 6140401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 15.2380952381,
+            "enhanceInitValue": 17.1428571429,
+            "enhanceAttrGrowth": 2.71428571429
+        }
+    },
+    {
+        "pk": 6210101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 17.92,
+            "enhanceInitValue": 20.16,
+            "enhanceAttrGrowth": 3.192
+        }
+    },
+    {
+        "pk": 6220201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 160.0,
+            "enhanceInitValue": 180.0,
+            "enhanceAttrGrowth": 28.5
+        }
+    },
+    {
+        "pk": 6230301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 20.48,
+            "enhanceInitValue": 23.04,
+            "enhanceAttrGrowth": 3.648
+        }
+    },
+    {
+        "pk": 6240401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 24.380952381,
+            "enhanceInitValue": 27.4285714286,
+            "enhanceAttrGrowth": 4.34285714286
+        }
+    },
+    {
+        "pk": 6310101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 22.4,
+            "enhanceInitValue": 25.2,
+            "enhanceAttrGrowth": 3.99
+        }
+    },
+    {
+        "pk": 6320201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 200.0,
+            "enhanceInitValue": 225.0,
+            "enhanceAttrGrowth": 35.625
+        }
+    },
+    {
+        "pk": 6330301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 25.6,
+            "enhanceInitValue": 28.8,
+            "enhanceAttrGrowth": 4.56
+        }
+    },
+    {
+        "pk": 6340401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 30.4761904762,
+            "enhanceInitValue": 34.2857142857,
+            "enhanceAttrGrowth": 5.42857142857
+        }
+    },
+    {
+        "pk": 6410101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 26.88,
+            "enhanceInitValue": 30.24,
+            "enhanceAttrGrowth": 4.788
+        }
+    },
+    {
+        "pk": 6420201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 240.0,
+            "enhanceInitValue": 270.0,
+            "enhanceAttrGrowth": 42.75
+        }
+    },
+    {
+        "pk": 6430301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 30.72,
+            "enhanceInitValue": 34.56,
+            "enhanceAttrGrowth": 5.472
+        }
+    },
+    {
+        "pk": 6440401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 36.5714285714,
+            "enhanceInitValue": 41.1428571429,
+            "enhanceAttrGrowth": 6.51428571429
+        }
+    },
+    {
+        "pk": 6510101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 30.24,
+            "enhanceInitValue": 34.02,
+            "enhanceAttrGrowth": 5.3865
+        }
+    },
+    {
+        "pk": 6520201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 270.0,
+            "enhanceInitValue": 303.75,
+            "enhanceAttrGrowth": 48.09375
+        }
+    },
+    {
+        "pk": 6530301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 34.56,
+            "enhanceInitValue": 38.88,
+            "enhanceAttrGrowth": 6.156
+        }
+    },
+    {
+        "pk": 6540401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 41.1428571429,
+            "enhanceInitValue": 46.2857142857,
+            "enhanceAttrGrowth": 7.32857142857
+        }
+    },
+    {
+        "pk": 6610101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 33.6,
+            "enhanceInitValue": 37.8,
+            "enhanceAttrGrowth": 5.985
+        }
+    },
+    {
+        "pk": 6620201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 300.0,
+            "enhanceInitValue": 337.5,
+            "enhanceAttrGrowth": 53.4375
+        }
+    },
+    {
+        "pk": 6630301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 38.4,
+            "enhanceInitValue": 43.2,
+            "enhanceAttrGrowth": 6.84
+        }
+    },
+    {
+        "pk": 6640401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 45.7142857143,
+            "enhanceInitValue": 51.4285714286,
+            "enhanceAttrGrowth": 8.14285714286
+        }
+    },
+    {
+        "pk": 6710101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 35.84,
+            "enhanceInitValue": 40.32,
+            "enhanceAttrGrowth": 6.384
+        }
+    },
+    {
+        "pk": 6720201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 320.0,
+            "enhanceInitValue": 360.0,
+            "enhanceAttrGrowth": 57.0
+        }
+    },
+    {
+        "pk": 6730301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 40.96,
+            "enhanceInitValue": 46.08,
+            "enhanceAttrGrowth": 7.296
+        }
+    },
+    {
+        "pk": 6740401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 48.7619047619,
+            "enhanceInitValue": 54.8571428571,
+            "enhanceAttrGrowth": 8.68571428571
+        }
+    },
+    {
+        "pk": 6810101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 40.32,
+            "enhanceInitValue": 45.36,
+            "enhanceAttrGrowth": 7.182
+        }
+    },
+    {
+        "pk": 6820201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 360.0,
+            "enhanceInitValue": 405.0,
+            "enhanceAttrGrowth": 64.125
+        }
+    },
+    {
+        "pk": 6830301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 46.08,
+            "enhanceInitValue": 51.84,
+            "enhanceAttrGrowth": 8.208
+        }
+    },
+    {
+        "pk": 6840401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 54.8571428571,
+            "enhanceInitValue": 61.7142857143,
+            "enhanceAttrGrowth": 9.77142857143
+        }
+    },
+    {
+        "pk": 6910101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 44.8,
+            "enhanceInitValue": 50.4,
+            "enhanceAttrGrowth": 7.98
+        }
+    },
+    {
+        "pk": 6920201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 400.0,
+            "enhanceInitValue": 450.0,
+            "enhanceAttrGrowth": 71.25
+        }
+    },
+    {
+        "pk": 6930301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 51.2,
+            "enhanceInitValue": 57.6,
+            "enhanceAttrGrowth": 9.12
+        }
+    },
+    {
+        "pk": 6940401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 60.9523809524,
+            "enhanceInitValue": 68.5714285714,
+            "enhanceAttrGrowth": 10.8571428571
+        }
+    },
+    {
+        "pk": 3110101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 5.76,
+            "enhanceInitValue": 6.48,
+            "enhanceAttrGrowth": 1.026
+        }
+    },
+    {
+        "pk": 3120201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 128.0,
+            "enhanceInitValue": 144.0,
+            "enhanceAttrGrowth": 22.8
+        }
+    },
+    {
+        "pk": 3130301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 22.8571428571,
+            "enhanceInitValue": 25.7142857143,
+            "enhanceAttrGrowth": 4.07142857143
+        }
+    },
+    {
+        "pk": 3140401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 20.4255319149,
+            "enhanceInitValue": 22.9787234043,
+            "enhanceAttrGrowth": 3.63829787234
+        }
+    },
+    {
+        "pk": 3210101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 9.216,
+            "enhanceInitValue": 10.368,
+            "enhanceAttrGrowth": 1.6416
+        }
+    },
+    {
+        "pk": 3220201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 204.8,
+            "enhanceInitValue": 230.4,
+            "enhanceAttrGrowth": 36.48
+        }
+    },
+    {
+        "pk": 3230301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 36.5714285714,
+            "enhanceInitValue": 41.1428571429,
+            "enhanceAttrGrowth": 6.51428571429
+        }
+    },
+    {
+        "pk": 3240401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 32.6808510638,
+            "enhanceInitValue": 36.7659574468,
+            "enhanceAttrGrowth": 5.82127659574
+        }
+    },
+    {
+        "pk": 3310101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 11.52,
+            "enhanceInitValue": 12.96,
+            "enhanceAttrGrowth": 2.052
+        }
+    },
+    {
+        "pk": 3320201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 256.0,
+            "enhanceInitValue": 288.0,
+            "enhanceAttrGrowth": 45.6
+        }
+    },
+    {
+        "pk": 3330301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 45.7142857143,
+            "enhanceInitValue": 51.4285714286,
+            "enhanceAttrGrowth": 8.14285714286
+        }
+    },
+    {
+        "pk": 3340401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 40.8510638298,
+            "enhanceInitValue": 45.9574468085,
+            "enhanceAttrGrowth": 7.27659574468
+        }
+    },
+    {
+        "pk": 3410101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 13.824,
+            "enhanceInitValue": 15.552,
+            "enhanceAttrGrowth": 2.4624
+        }
+    },
+    {
+        "pk": 3420201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 307.2,
+            "enhanceInitValue": 345.6,
+            "enhanceAttrGrowth": 54.72
+        }
+    },
+    {
+        "pk": 3430301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 54.8571428571,
+            "enhanceInitValue": 61.7142857143,
+            "enhanceAttrGrowth": 9.77142857143
+        }
+    },
+    {
+        "pk": 3440401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 49.0212765957,
+            "enhanceInitValue": 55.1489361702,
+            "enhanceAttrGrowth": 8.73191489362
+        }
+    },
+    {
+        "pk": 3510101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 15.552,
+            "enhanceInitValue": 17.496,
+            "enhanceAttrGrowth": 2.7702
+        }
+    },
+    {
+        "pk": 3520201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 345.6,
+            "enhanceInitValue": 388.8,
+            "enhanceAttrGrowth": 61.56
+        }
+    },
+    {
+        "pk": 3530301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 61.7142857143,
+            "enhanceInitValue": 69.4285714286,
+            "enhanceAttrGrowth": 10.9928571429
+        }
+    },
+    {
+        "pk": 3540401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 55.1489361702,
+            "enhanceInitValue": 62.0425531915,
+            "enhanceAttrGrowth": 9.82340425532
+        }
+    },
+    {
+        "pk": 3610101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 17.28,
+            "enhanceInitValue": 19.44,
+            "enhanceAttrGrowth": 3.078
+        }
+    },
+    {
+        "pk": 3620201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 384.0,
+            "enhanceInitValue": 432.0,
+            "enhanceAttrGrowth": 68.4
+        }
+    },
+    {
+        "pk": 3630301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 68.5714285714,
+            "enhanceInitValue": 77.1428571429,
+            "enhanceAttrGrowth": 12.2142857143
+        }
+    },
+    {
+        "pk": 3640401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 61.2765957447,
+            "enhanceInitValue": 68.9361702128,
+            "enhanceAttrGrowth": 10.914893617
+        }
+    },
+    {
+        "pk": 3710101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 18.432,
+            "enhanceInitValue": 20.736,
+            "enhanceAttrGrowth": 3.2832
+        }
+    },
+    {
+        "pk": 3720201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 409.6,
+            "enhanceInitValue": 460.8,
+            "enhanceAttrGrowth": 72.96
+        }
+    },
+    {
+        "pk": 3730301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 73.1428571429,
+            "enhanceInitValue": 82.2857142857,
+            "enhanceAttrGrowth": 13.0285714286
+        }
+    },
+    {
+        "pk": 3740401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 65.3617021277,
+            "enhanceInitValue": 73.5319148936,
+            "enhanceAttrGrowth": 11.6425531915
+        }
+    },
+    {
+        "pk": 3810101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 20.736,
+            "enhanceInitValue": 23.328,
+            "enhanceAttrGrowth": 3.6936
+        }
+    },
+    {
+        "pk": 3820201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 460.8,
+            "enhanceInitValue": 518.4,
+            "enhanceAttrGrowth": 82.08
+        }
+    },
+    {
+        "pk": 3830301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 82.2857142857,
+            "enhanceInitValue": 92.5714285714,
+            "enhanceAttrGrowth": 14.6571428571
+        }
+    },
+    {
+        "pk": 3840401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 73.5319148936,
+            "enhanceInitValue": 82.7234042553,
+            "enhanceAttrGrowth": 13.0978723404
+        }
+    },
+    {
+        "pk": 3910101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 23.04,
+            "enhanceInitValue": 25.92,
+            "enhanceAttrGrowth": 4.104
+        }
+    },
+    {
+        "pk": 3920201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 512.0,
+            "enhanceInitValue": 576.0,
+            "enhanceAttrGrowth": 91.2
+        }
+    },
+    {
+        "pk": 3930301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 91.4285714286,
+            "enhanceInitValue": 102.857142857,
+            "enhanceAttrGrowth": 16.2857142857
+        }
+    },
+    {
+        "pk": 3940401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 81.7021276596,
+            "enhanceInitValue": 91.914893617,
+            "enhanceAttrGrowth": 14.5531914894
+        }
+    },
+    {
+        "pk": 5110101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 8.96,
+            "enhanceInitValue": 10.08,
+            "enhanceAttrGrowth": 1.596
+        }
+    },
+    {
+        "pk": 5120201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 120.0,
+            "enhanceInitValue": 135.0,
+            "enhanceAttrGrowth": 21.375
+        }
+    },
+    {
+        "pk": 5130301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 16.7619047619,
+            "enhanceInitValue": 18.8571428571,
+            "enhanceAttrGrowth": 2.98571428571
+        }
+    },
+    {
+        "pk": 5140401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 14.9787234043,
+            "enhanceInitValue": 16.8510638298,
+            "enhanceAttrGrowth": 2.66808510638
+        }
+    },
+    {
+        "pk": 5210101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 14.336,
+            "enhanceInitValue": 16.128,
+            "enhanceAttrGrowth": 2.5536
+        }
+    },
+    {
+        "pk": 5220201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 192.0,
+            "enhanceInitValue": 216.0,
+            "enhanceAttrGrowth": 34.2
+        }
+    },
+    {
+        "pk": 5230301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 26.819047619,
+            "enhanceInitValue": 30.1714285714,
+            "enhanceAttrGrowth": 4.77714285714
+        }
+    },
+    {
+        "pk": 5240401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 23.9659574468,
+            "enhanceInitValue": 26.9617021277,
+            "enhanceAttrGrowth": 4.26893617021
+        }
+    },
+    {
+        "pk": 5310101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 17.92,
+            "enhanceInitValue": 20.16,
+            "enhanceAttrGrowth": 3.192
+        }
+    },
+    {
+        "pk": 5320201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 240.0,
+            "enhanceInitValue": 270.0,
+            "enhanceAttrGrowth": 42.75
+        }
+    },
+    {
+        "pk": 5330301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 33.5238095238,
+            "enhanceInitValue": 37.7142857143,
+            "enhanceAttrGrowth": 5.97142857143
+        }
+    },
+    {
+        "pk": 5340401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 29.9574468085,
+            "enhanceInitValue": 33.7021276596,
+            "enhanceAttrGrowth": 5.33617021277
+        }
+    },
+    {
+        "pk": 5410101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 21.504,
+            "enhanceInitValue": 24.192,
+            "enhanceAttrGrowth": 3.8304
+        }
+    },
+    {
+        "pk": 5420201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 288.0,
+            "enhanceInitValue": 324.0,
+            "enhanceAttrGrowth": 51.3
+        }
+    },
+    {
+        "pk": 5430301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 40.2285714286,
+            "enhanceInitValue": 45.2571428571,
+            "enhanceAttrGrowth": 7.16571428571
+        }
+    },
+    {
+        "pk": 5440401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 35.9489361702,
+            "enhanceInitValue": 40.4425531915,
+            "enhanceAttrGrowth": 6.40340425532
+        }
+    },
+    {
+        "pk": 5510101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 24.192,
+            "enhanceInitValue": 27.216,
+            "enhanceAttrGrowth": 4.3092
+        }
+    },
+    {
+        "pk": 5520201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 324.0,
+            "enhanceInitValue": 364.5,
+            "enhanceAttrGrowth": 57.7125
+        }
+    },
+    {
+        "pk": 5530301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 45.2571428571,
+            "enhanceInitValue": 50.9142857143,
+            "enhanceAttrGrowth": 8.06142857143
+        }
+    },
+    {
+        "pk": 5540401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 40.4425531915,
+            "enhanceInitValue": 45.4978723404,
+            "enhanceAttrGrowth": 7.20382978723
+        }
+    },
+    {
+        "pk": 5610101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 26.88,
+            "enhanceInitValue": 30.24,
+            "enhanceAttrGrowth": 4.788
+        }
+    },
+    {
+        "pk": 5620201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 360.0,
+            "enhanceInitValue": 405.0,
+            "enhanceAttrGrowth": 64.125
+        }
+    },
+    {
+        "pk": 5630301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 50.2857142857,
+            "enhanceInitValue": 56.5714285714,
+            "enhanceAttrGrowth": 8.95714285714
+        }
+    },
+    {
+        "pk": 5640401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 44.9361702128,
+            "enhanceInitValue": 50.5531914894,
+            "enhanceAttrGrowth": 8.00425531915
+        }
+    },
+    {
+        "pk": 5710101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 28.672,
+            "enhanceInitValue": 32.256,
+            "enhanceAttrGrowth": 5.1072
+        }
+    },
+    {
+        "pk": 5720201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 384.0,
+            "enhanceInitValue": 432.0,
+            "enhanceAttrGrowth": 68.4
+        }
+    },
+    {
+        "pk": 5730301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 53.6380952381,
+            "enhanceInitValue": 60.3428571429,
+            "enhanceAttrGrowth": 9.55428571429
+        }
+    },
+    {
+        "pk": 5740401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 47.9319148936,
+            "enhanceInitValue": 53.9234042553,
+            "enhanceAttrGrowth": 8.53787234043
+        }
+    },
+    {
+        "pk": 5810101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 32.256,
+            "enhanceInitValue": 36.288,
+            "enhanceAttrGrowth": 5.7456
+        }
+    },
+    {
+        "pk": 5820201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 432.0,
+            "enhanceInitValue": 486.0,
+            "enhanceAttrGrowth": 76.95
+        }
+    },
+    {
+        "pk": 5830301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 60.3428571429,
+            "enhanceInitValue": 67.8857142857,
+            "enhanceAttrGrowth": 10.7485714286
+        }
+    },
+    {
+        "pk": 5840401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 53.9234042553,
+            "enhanceInitValue": 60.6638297872,
+            "enhanceAttrGrowth": 9.60510638298
+        }
+    },
+    {
+        "pk": 5910101,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 35.84,
+            "enhanceInitValue": 40.32,
+            "enhanceAttrGrowth": 6.384
+        }
+    },
+    {
+        "pk": 5920201,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 480.0,
+            "enhanceInitValue": 540.0,
+            "enhanceAttrGrowth": 85.5
+        }
+    },
+    {
+        "pk": 5930301,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 67.0476190476,
+            "enhanceInitValue": 75.4285714286,
+            "enhanceAttrGrowth": 11.9428571429
+        }
+    },
+    {
+        "pk": 5940401,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 59.914893617,
+            "enhanceInitValue": 67.4042553191,
+            "enhanceAttrGrowth": 10.6723404255
+        }
+    },
+    {
+        "pk": 1110102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 17.4418604651,
+            "attrType": "miss",
+            "refineAttrGrowth": 11.0465116279,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1120202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 10.4651162791,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 6.62790697674,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1130302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 2.83018867925,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 1.79245283019,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1140402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 33.6,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 21.28,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1210102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 27.9069767442,
+            "attrType": "miss",
+            "refineAttrGrowth": 17.6744186047,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1220202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 16.7441860465,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 10.6046511628,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1230302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 4.52830188679,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 2.8679245283,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1240402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 53.76,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 34.048,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1310102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 34.8837209302,
+            "attrType": "miss",
+            "refineAttrGrowth": 22.0930232558,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1320202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 20.9302325581,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 13.2558139535,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1330302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 5.66037735849,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 3.58490566038,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1340402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 67.2,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 42.56,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1410102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 41.8604651163,
+            "attrType": "miss",
+            "refineAttrGrowth": 26.511627907,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1420202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 25.1162790698,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 15.9069767442,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1430302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 6.79245283019,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 4.30188679245,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1440402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 80.64,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 51.072,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1510102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 47.0930232558,
+            "attrType": "miss",
+            "refineAttrGrowth": 29.8255813953,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1520202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 28.2558139535,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 17.8953488372,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1530302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 7.64150943396,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 4.83962264151,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1540402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 90.72,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 57.456,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1610102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 52.3255813953,
+            "attrType": "miss",
+            "refineAttrGrowth": 33.1395348837,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1620202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 31.3953488372,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 19.8837209302,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1630302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 8.49056603774,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 5.37735849057,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1640402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 100.8,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 63.84,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1710102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 55.8139534884,
+            "attrType": "miss",
+            "refineAttrGrowth": 35.3488372093,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1720202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 33.488372093,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 21.2093023256,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1730302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 9.05660377358,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 5.7358490566,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1740402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 107.52,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 68.096,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1810102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 62.7906976744,
+            "attrType": "miss",
+            "refineAttrGrowth": 39.7674418605,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1820202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 37.6744186047,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 23.8604651163,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1830302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 10.1886792453,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 6.45283018868,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1840402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 120.96,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 76.608,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1910102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 69.7674418605,
+            "attrType": "miss",
+            "refineAttrGrowth": 44.1860465116,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1920202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 41.8604651163,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 26.511627907,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1930302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 11.320754717,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 7.16981132075,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1940402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 134.4,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 85.12,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2110102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 10.4651162791,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 6.62790697674,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2120202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 5.08474576271,
+            "attrType": "critical",
+            "refineAttrGrowth": 3.22033898305,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2130302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 9.90566037736,
+            "attrType": "shoot",
+            "refineAttrGrowth": 6.27358490566,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2140402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 12.3820754717,
+            "attrType": "miss",
+            "refineAttrGrowth": 7.84198113208,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2210102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 16.7441860465,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 10.6046511628,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2220202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 8.13559322034,
+            "attrType": "critical",
+            "refineAttrGrowth": 5.15254237288,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2230302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 15.8490566038,
+            "attrType": "shoot",
+            "refineAttrGrowth": 10.0377358491,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2240402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 19.8113207547,
+            "attrType": "miss",
+            "refineAttrGrowth": 12.5471698113,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2310102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 20.9302325581,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 13.2558139535,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2320202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 10.1694915254,
+            "attrType": "critical",
+            "refineAttrGrowth": 6.4406779661,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2330302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 19.8113207547,
+            "attrType": "shoot",
+            "refineAttrGrowth": 12.5471698113,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2340402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 24.7641509434,
+            "attrType": "miss",
+            "refineAttrGrowth": 15.6839622642,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2410102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 25.1162790698,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 15.9069767442,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2420202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 12.2033898305,
+            "attrType": "critical",
+            "refineAttrGrowth": 7.72881355932,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2430302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 23.7735849057,
+            "attrType": "shoot",
+            "refineAttrGrowth": 15.0566037736,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2440402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 29.7169811321,
+            "attrType": "miss",
+            "refineAttrGrowth": 18.820754717,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2510102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 28.2558139535,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 17.8953488372,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2520202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 13.7288135593,
+            "attrType": "critical",
+            "refineAttrGrowth": 8.69491525424,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2530302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 26.7452830189,
+            "attrType": "shoot",
+            "refineAttrGrowth": 16.9386792453,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2540402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 33.4316037736,
+            "attrType": "miss",
+            "refineAttrGrowth": 21.1733490566,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2610102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 31.3953488372,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 19.8837209302,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2620202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 15.2542372881,
+            "attrType": "critical",
+            "refineAttrGrowth": 9.66101694915,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2630302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 29.7169811321,
+            "attrType": "shoot",
+            "refineAttrGrowth": 18.820754717,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2640402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 37.1462264151,
+            "attrType": "miss",
+            "refineAttrGrowth": 23.5259433962,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2710102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 33.488372093,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 21.2093023256,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2720202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 16.2711864407,
+            "attrType": "critical",
+            "refineAttrGrowth": 10.3050847458,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2730302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 31.6981132075,
+            "attrType": "shoot",
+            "refineAttrGrowth": 20.0754716981,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2740402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 39.6226415094,
+            "attrType": "miss",
+            "refineAttrGrowth": 25.0943396226,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2810102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 37.6744186047,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 23.8604651163,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2820202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 18.3050847458,
+            "attrType": "critical",
+            "refineAttrGrowth": 11.593220339,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2830302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 35.6603773585,
+            "attrType": "shoot",
+            "refineAttrGrowth": 22.5849056604,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2840402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 44.5754716981,
+            "attrType": "miss",
+            "refineAttrGrowth": 28.2311320755,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2910102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 41.8604651163,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 26.511627907,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2920202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 20.3389830508,
+            "attrType": "critical",
+            "refineAttrGrowth": 12.8813559322,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2930302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 39.6226415094,
+            "attrType": "shoot",
+            "refineAttrGrowth": 25.0943396226,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2940402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 49.5283018868,
+            "attrType": "miss",
+            "refineAttrGrowth": 31.3679245283,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4110102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 7.62711864407,
+            "attrType": "realMagic",
+            "refineAttrGrowth": 4.83050847458,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4120202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 10.4651162791,
+            "attrType": "shoot",
+            "refineAttrGrowth": 6.62790697674,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4130302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 7.78301886792,
+            "attrType": "critical",
+            "refineAttrGrowth": 4.92924528302,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4140402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 3.48837209302,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.20930232558,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4210102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 12.2033898305,
+            "attrType": "realMagic",
+            "refineAttrGrowth": 7.72881355932,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4220202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 16.7441860465,
+            "attrType": "shoot",
+            "refineAttrGrowth": 10.6046511628,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4230302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 12.4528301887,
+            "attrType": "critical",
+            "refineAttrGrowth": 7.88679245283,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4240402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 5.58139534884,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 3.53488372093,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4310102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 15.2542372881,
+            "attrType": "realMagic",
+            "refineAttrGrowth": 9.66101694915,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4320202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 20.9302325581,
+            "attrType": "shoot",
+            "refineAttrGrowth": 13.2558139535,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4330302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 15.5660377358,
+            "attrType": "critical",
+            "refineAttrGrowth": 9.85849056604,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4340402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 6.97674418605,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 4.41860465116,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4410102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 18.3050847458,
+            "attrType": "realMagic",
+            "refineAttrGrowth": 11.593220339,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4420202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 25.1162790698,
+            "attrType": "shoot",
+            "refineAttrGrowth": 15.9069767442,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4430302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 18.679245283,
+            "attrType": "critical",
+            "refineAttrGrowth": 11.8301886792,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4440402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 8.37209302326,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 5.3023255814,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4510102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 20.593220339,
+            "attrType": "realMagic",
+            "refineAttrGrowth": 13.0423728814,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4520202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 28.2558139535,
+            "attrType": "shoot",
+            "refineAttrGrowth": 17.8953488372,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4530302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 21.0141509434,
+            "attrType": "critical",
+            "refineAttrGrowth": 13.3089622642,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4540402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 9.41860465116,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 5.96511627907,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4610102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 22.8813559322,
+            "attrType": "realMagic",
+            "refineAttrGrowth": 14.4915254237,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4620202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 31.3953488372,
+            "attrType": "shoot",
+            "refineAttrGrowth": 19.8837209302,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4630302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 23.3490566038,
+            "attrType": "critical",
+            "refineAttrGrowth": 14.7877358491,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4640402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 10.4651162791,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 6.62790697674,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4710102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 24.406779661,
+            "attrType": "realMagic",
+            "refineAttrGrowth": 15.4576271186,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4720202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 33.488372093,
+            "attrType": "shoot",
+            "refineAttrGrowth": 21.2093023256,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4730302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 24.9056603774,
+            "attrType": "critical",
+            "refineAttrGrowth": 15.7735849057,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4740402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 11.1627906977,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 7.06976744186,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4810102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 27.4576271186,
+            "attrType": "realMagic",
+            "refineAttrGrowth": 17.3898305085,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4820202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 37.6744186047,
+            "attrType": "shoot",
+            "refineAttrGrowth": 23.8604651163,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4830302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 28.0188679245,
+            "attrType": "critical",
+            "refineAttrGrowth": 17.7452830189,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4840402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 12.5581395349,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 7.95348837209,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4910102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 30.5084745763,
+            "attrType": "realMagic",
+            "refineAttrGrowth": 19.3220338983,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4920202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 41.8604651163,
+            "attrType": "shoot",
+            "refineAttrGrowth": 26.511627907,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4930302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 31.1320754717,
+            "attrType": "critical",
+            "refineAttrGrowth": 19.7169811321,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4940402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 13.9534883721,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 8.83720930233,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6110102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 5.08474576271,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 3.22033898305,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6120202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 17.4418604651,
+            "attrType": "shoot",
+            "refineAttrGrowth": 11.0465116279,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6130302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 7.07547169811,
+            "attrType": "critical",
+            "refineAttrGrowth": 4.48113207547,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6140402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 2.09302325581,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 1.32558139535,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6210102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 8.13559322034,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 5.15254237288,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6220202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 27.9069767442,
+            "attrType": "shoot",
+            "refineAttrGrowth": 17.6744186047,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6230302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 11.320754717,
+            "attrType": "critical",
+            "refineAttrGrowth": 7.16981132075,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6240402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 3.3488372093,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.12093023256,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6310102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 10.1694915254,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 6.4406779661,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6320202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 34.8837209302,
+            "attrType": "shoot",
+            "refineAttrGrowth": 22.0930232558,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6330302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 14.1509433962,
+            "attrType": "critical",
+            "refineAttrGrowth": 8.96226415094,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6340402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 4.18604651163,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.6511627907,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6410102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 12.2033898305,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 7.72881355932,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6420202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 41.8604651163,
+            "attrType": "shoot",
+            "refineAttrGrowth": 26.511627907,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6430302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 16.9811320755,
+            "attrType": "critical",
+            "refineAttrGrowth": 10.7547169811,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6440402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 5.02325581395,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 3.18139534884,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6510102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 13.7288135593,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 8.69491525424,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6520202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 47.0930232558,
+            "attrType": "shoot",
+            "refineAttrGrowth": 29.8255813953,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6530302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 19.1037735849,
+            "attrType": "critical",
+            "refineAttrGrowth": 12.0990566038,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6540402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 5.6511627907,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 3.57906976744,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6610102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 15.2542372881,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 9.66101694915,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6620202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 52.3255813953,
+            "attrType": "shoot",
+            "refineAttrGrowth": 33.1395348837,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6630302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 21.2264150943,
+            "attrType": "critical",
+            "refineAttrGrowth": 13.4433962264,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6640402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 6.27906976744,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 3.97674418605,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6710102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 16.2711864407,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 10.3050847458,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6720202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 55.8139534884,
+            "attrType": "shoot",
+            "refineAttrGrowth": 35.3488372093,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6730302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 22.641509434,
+            "attrType": "critical",
+            "refineAttrGrowth": 14.3396226415,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6740402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 6.6976744186,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 4.24186046512,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6810102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 18.3050847458,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 11.593220339,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6820202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 62.7906976744,
+            "attrType": "shoot",
+            "refineAttrGrowth": 39.7674418605,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6830302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 25.4716981132,
+            "attrType": "critical",
+            "refineAttrGrowth": 16.1320754717,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6840402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 7.53488372093,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 4.77209302326,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6910102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 20.3389830508,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 12.8813559322,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6920202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 69.7674418605,
+            "attrType": "shoot",
+            "refineAttrGrowth": 44.1860465116,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6930302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 28.3018867925,
+            "attrType": "critical",
+            "refineAttrGrowth": 17.9245283019,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6940402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 8.37209302326,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 5.3023255814,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3110102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 8.72093023256,
+            "attrType": "shoot",
+            "refineAttrGrowth": 5.52325581395,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3120202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 8.72093023256,
+            "attrType": "miss",
+            "refineAttrGrowth": 5.52325581395,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3130302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 8.72093023256,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 5.52325581395,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3140402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 2.28813559322,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 1.44915254237,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3210102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 13.9534883721,
+            "attrType": "shoot",
+            "refineAttrGrowth": 8.83720930233,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3220202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 13.9534883721,
+            "attrType": "miss",
+            "refineAttrGrowth": 8.83720930233,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3230302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 13.9534883721,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 8.83720930233,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3240402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 3.66101694915,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.3186440678,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3310102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 17.4418604651,
+            "attrType": "shoot",
+            "refineAttrGrowth": 11.0465116279,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3320202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 17.4418604651,
+            "attrType": "miss",
+            "refineAttrGrowth": 11.0465116279,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3330302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 17.4418604651,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 11.0465116279,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3340402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 4.57627118644,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.89830508475,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3410102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 20.9302325581,
+            "attrType": "shoot",
+            "refineAttrGrowth": 13.2558139535,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3420202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 20.9302325581,
+            "attrType": "miss",
+            "refineAttrGrowth": 13.2558139535,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3430302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 20.9302325581,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 13.2558139535,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3440402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 5.49152542373,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 3.47796610169,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3510102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 23.5465116279,
+            "attrType": "shoot",
+            "refineAttrGrowth": 14.9127906977,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3520202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 23.5465116279,
+            "attrType": "miss",
+            "refineAttrGrowth": 14.9127906977,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3530302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 23.5465116279,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 14.9127906977,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3540402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 6.17796610169,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 3.91271186441,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3610102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 26.1627906977,
+            "attrType": "shoot",
+            "refineAttrGrowth": 16.5697674419,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3620202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 26.1627906977,
+            "attrType": "miss",
+            "refineAttrGrowth": 16.5697674419,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3630302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 26.1627906977,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 16.5697674419,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3640402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 6.86440677966,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 4.34745762712,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3710102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 27.9069767442,
+            "attrType": "shoot",
+            "refineAttrGrowth": 17.6744186047,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3720202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 27.9069767442,
+            "attrType": "miss",
+            "refineAttrGrowth": 17.6744186047,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3730302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 27.9069767442,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 17.6744186047,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3740402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 7.32203389831,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 4.63728813559,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3810102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 31.3953488372,
+            "attrType": "shoot",
+            "refineAttrGrowth": 19.8837209302,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3820202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 31.3953488372,
+            "attrType": "miss",
+            "refineAttrGrowth": 19.8837209302,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3830302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 31.3953488372,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 19.8837209302,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3840402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 8.23728813559,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 5.21694915254,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3910102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 34.8837209302,
+            "attrType": "shoot",
+            "refineAttrGrowth": 22.0930232558,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3920202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 34.8837209302,
+            "attrType": "miss",
+            "refineAttrGrowth": 22.0930232558,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3930302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 34.8837209302,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 22.0930232558,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3940402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 9.15254237288,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 5.79661016949,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5110102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 13.9534883721,
+            "attrType": "shoot",
+            "refineAttrGrowth": 8.83720930233,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5120202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 3.53773584906,
+            "attrType": "critical",
+            "refineAttrGrowth": 2.24056603774,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5130302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 10.9011627907,
+            "attrType": "miss",
+            "refineAttrGrowth": 6.90406976744,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5140402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 3.05084745763,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 1.93220338983,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5210102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 22.3255813953,
+            "attrType": "shoot",
+            "refineAttrGrowth": 14.1395348837,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5220202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 5.66037735849,
+            "attrType": "critical",
+            "refineAttrGrowth": 3.58490566038,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5230302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 17.4418604651,
+            "attrType": "miss",
+            "refineAttrGrowth": 11.0465116279,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5240402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 4.8813559322,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 3.09152542373,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5310102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 27.9069767442,
+            "attrType": "shoot",
+            "refineAttrGrowth": 17.6744186047,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5320202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 7.07547169811,
+            "attrType": "critical",
+            "refineAttrGrowth": 4.48113207547,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5330302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 21.8023255814,
+            "attrType": "miss",
+            "refineAttrGrowth": 13.8081395349,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5340402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 6.10169491525,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 3.86440677966,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5410102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 33.488372093,
+            "attrType": "shoot",
+            "refineAttrGrowth": 21.2093023256,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5420202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 8.49056603774,
+            "attrType": "critical",
+            "refineAttrGrowth": 5.37735849057,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5430302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 26.1627906977,
+            "attrType": "miss",
+            "refineAttrGrowth": 16.5697674419,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5440402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 7.32203389831,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 4.63728813559,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5510102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 37.6744186047,
+            "attrType": "shoot",
+            "refineAttrGrowth": 23.8604651163,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5520202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 9.55188679245,
+            "attrType": "critical",
+            "refineAttrGrowth": 6.04952830189,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5530302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 29.4331395349,
+            "attrType": "miss",
+            "refineAttrGrowth": 18.6409883721,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5540402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 8.23728813559,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 5.21694915254,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5610102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 41.8604651163,
+            "attrType": "shoot",
+            "refineAttrGrowth": 26.511627907,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5620202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 10.6132075472,
+            "attrType": "critical",
+            "refineAttrGrowth": 6.72169811321,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5630302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 32.7034883721,
+            "attrType": "miss",
+            "refineAttrGrowth": 20.7122093023,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5640402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 9.15254237288,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 5.79661016949,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5710102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 44.6511627907,
+            "attrType": "shoot",
+            "refineAttrGrowth": 28.2790697674,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5720202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 11.320754717,
+            "attrType": "critical",
+            "refineAttrGrowth": 7.16981132075,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5730302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 34.8837209302,
+            "attrType": "miss",
+            "refineAttrGrowth": 22.0930232558,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5740402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 9.76271186441,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 6.18305084746,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5810102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 50.2325581395,
+            "attrType": "shoot",
+            "refineAttrGrowth": 31.8139534884,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5820202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 12.7358490566,
+            "attrType": "critical",
+            "refineAttrGrowth": 8.06603773585,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5830302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 39.2441860465,
+            "attrType": "miss",
+            "refineAttrGrowth": 24.8546511628,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5840402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 10.9830508475,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 6.95593220339,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5910102,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 55.8139534884,
+            "attrType": "shoot",
+            "refineAttrGrowth": 35.3488372093,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5920202,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 14.1509433962,
+            "attrType": "critical",
+            "refineAttrGrowth": 8.96226415094,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5930302,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 43.6046511628,
+            "attrType": "miss",
+            "refineAttrGrowth": 27.6162790698,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5940402,
+        "model": "equip.equipattribute",
+        "fields": {
+            "refineInitValue": 12.2033898305,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 7.72881355932,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    }
+]

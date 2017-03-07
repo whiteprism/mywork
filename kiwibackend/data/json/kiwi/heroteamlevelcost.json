@@ -1,0 +1,362 @@
+[
+    {
+        "pk": 1001,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 10000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 30000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 50000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 70000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1005,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 100000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1006,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 150000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1007,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 200000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1008,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 250000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1009,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 300000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1010,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 400000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1011,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 500000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1012,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 600000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1013,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 700000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1014,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 800000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1015,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 900000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1016,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 1000000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1017,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 1500000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1018,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 2000000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1019,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 2500000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1020,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 3000000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1101,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 1,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1102,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 2,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1103,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 3,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1104,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 4,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1105,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 5,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1106,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 6,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1107,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 8,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1108,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 10,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1109,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 12,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1110,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 14,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1111,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 16,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1112,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 18,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1113,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 20,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1114,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 22,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1115,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 24,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1116,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 26,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1117,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 28,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1118,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 30,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1119,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 35,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1120,
+        "model": "hero.heroteamlevelcost",
+        "fields": {
+            "count": 40,
+            "type": 2621201,
+            "level": 0
+        }
+    }
+]

@@ -1,0 +1,100 @@
+
+table:
+  out-type: json
+  sheet: 技能等级
+  row: 3
+  model: skill.skilllevel
+  columns:
+    - name: skill_id
+      column: skill_id
+      type: int
+
+    - name: affectHeight
+      column: affectHeight
+      type: float
+
+    - name: affectWidth
+      column: affectWidth
+      type: float
+
+    - name: apRate
+      column: apRate
+      type: float
+
+    - name: attackRate
+      column: attackRate
+      type: float
+
+    - name: bounceCount
+      column: bounceCount
+      type: int
+      default: 0
+
+    - name: bouncePower
+      column: bouncePower
+      type: float
+      default: 0.0
+
+    - name: bounceRadius
+      column: bounceRadius
+      type: float
+      default: 0.0
+
+    - name: bounceTypeEnum
+      column: bounceTypeEnum
+      type: int
+      default: 0
+
+    - name: costGold
+      column: costGold
+      type: int
+      default: 0
+
+    - name: costs_int
+      column: costs
+      type: char
+      default: ""
+
+    - name: extraDamage
+      column: extraDamage
+      type: float
+      default: 0.0
+
+    - name: extraShoot
+      column: extraShoot
+      type: float
+
+    - name: heroLevel
+      column: heroLevel
+      type: int
+
+    - name: initCD
+      column: initCD
+      type: float
+
+    - name: level
+      column: level
+      type: int
+
+    - name: splashRadius
+      column: splashRadius
+      type: float
+
+    - name: weaponRepeatDelayTime
+      column: weaponRepeatDelayTime
+      type: float
+
+    - name: weaponRepeatType
+      column: weaponRepeatType
+      type: int
+
+    - name: weaponsCount
+      column: weaponsCount
+      type: int
+
+    - name: powerRank
+      column: powerRank
+      type: int
+      default: 0
+
+

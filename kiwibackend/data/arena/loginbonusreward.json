@@ -1,0 +1,191 @@
+[
+    {
+        "pk": 1001,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 100,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 150,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 200,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 250,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1005,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 300,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1006,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 400,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1007,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 500,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1101,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 1,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1102,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 1,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1103,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 1,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1104,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1105,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1106,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1107,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 3,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1201,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 1,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1202,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 1,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1203,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 1,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1204,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 2,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1205,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 2,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1206,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 2,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1207,
+        "model": "loginbonus.loginbonusreward",
+        "fields": {
+            "count": 3,
+            "type": 2620601,
+            "level": 0
+        }
+    }
+]

@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 礼包奖励
+  row: 3
+  model: package.packagereward
+  columns:
+    - name: count
+      column: count
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: type
+      column: type
+      type: int
+      default: 0
+
+

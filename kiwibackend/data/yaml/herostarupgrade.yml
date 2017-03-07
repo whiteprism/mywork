@@ -1,0 +1,21 @@
+
+table:
+  out-type: json
+  sheet: 英雄升星
+  row: 3
+  model: hero.herostarupgrade
+  columns:
+    - name: soulCount
+      column: soulCount
+      type: int
+
+    - name: costs_int
+      column: costs
+      type: char
+      default: ""
+
+    - name: sepecialItemMaxCount
+      column: sepecialItemMaxCount
+      type: int
+
+

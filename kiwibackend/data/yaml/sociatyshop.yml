@@ -1,0 +1,38 @@
+
+table:
+  out-type: json
+  sheet: 公会商店表
+  row: 3
+  model: pvp.guildshop
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: itemId
+      column: itemId
+      type: int
+      default: 0
+
+    - name: count
+      column: count
+      type: int
+      default: 0
+
+    - name: cost
+      column: cost
+      type: int
+      default: 0
+
+    - name: category
+      column: category
+      type: int
+      default: 0
+
+    - name: show_id
+      column: show_id
+      type: int
+      default: 0
+
+

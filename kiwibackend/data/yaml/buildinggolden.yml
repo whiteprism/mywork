@@ -1,0 +1,33 @@
+
+table:
+  out-type: json
+  sheet: 金矿
+  row: 3
+  model: building.buildinggolden
+  columns:
+    - name: building_id
+      column: building_id
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: minHarvestScale
+      column: minHarvestScale
+      type: int
+      default: 0
+
+    - name: productionPerHour
+      column: productionPerHour
+      type: int
+      default: 0
+
+    - name: storage
+      column: storage
+      type: int
+      default: 0
+
+

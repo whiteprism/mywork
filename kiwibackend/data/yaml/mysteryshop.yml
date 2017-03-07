@@ -1,0 +1,38 @@
+
+table:
+  out-type: json
+  sheet: 神秘商店
+  row: 3
+  model: mysteryshop.mysteryshop
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: rewardId
+      column: rewardId
+      type: char
+      default: ""
+
+    - name: gold
+      column: gold
+      type: int
+      default: 0
+
+    - name: diamond
+      column: diamond
+      type: int
+      default: 0
+
+    - name: show_id
+      column: show_id
+      type: int
+      default: 0
+
+    - name: vipLevelLimit
+      column: vipLevelLimit
+      type: int
+      default: 0
+
+

@@ -1,0 +1,88 @@
+
+table:
+  out-type: json
+  sheet: 建筑
+  row: 3
+  model: building.building
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: buildCamera
+      column: buildCamera
+      type: int
+      default: 0
+
+    - name: buildingToastId
+      column: buildingToastId
+      type: char
+      default: ""
+
+    - name: category
+      column: category
+      type: int
+      default: 0
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: orderId
+      column: orderId
+      type: int
+      default: 0
+
+    - name: model
+      column: model
+      type: char
+      default: ""
+
+    - name: summaryId
+      column: summaryId
+      type: char
+      default: ""
+
+    - name: buildingToWarriorId
+      column: buildingToWarriorId
+      type: int
+      default: 0
+
+    - name: levelCount_int
+      column: levelCount
+      type: char
+      default: ""
+
+    - name: unlockUserLevel
+      column: unlockUserLevel
+      type: int
+      default: 0
+
+    - name: attrList_int
+      column: attrList
+      type: char
+      default: ""
+
+    - name: removeRewardIds_str
+      column: removeRewardIds
+      type: char
+      default: ""
+
+    - name: canRemove
+      column: canRemove
+      type: int
+      default: 0
+
+    - name: buildingPlantId
+      column: buildingPlantId
+      type: int
+      default: 0
+
+

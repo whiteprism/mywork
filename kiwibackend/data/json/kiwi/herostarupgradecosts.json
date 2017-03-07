@@ -1,0 +1,236 @@
+[
+    {
+        "pk": 10001,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621301,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10002,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621301,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10003,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621301,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10004,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621301,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10005,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621301,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10006,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621301,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10007,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621302,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10008,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621302,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10009,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621302,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10010,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621302,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10011,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621302,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10012,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621302,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10013,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 1,
+            "type": 2621303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10014,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 2,
+            "type": 2621303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10015,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 3,
+            "type": 2621303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10016,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 4,
+            "type": 2621303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10017,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 5,
+            "type": 2621303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10018,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 6,
+            "type": 2621303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10019,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 7,
+            "type": 2621303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10020,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 10,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10021,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 20,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10022,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 30,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10023,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 40,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10024,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 50,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10025,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 60,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 10026,
+        "model": "hero.herostarupgradecosts",
+        "fields": {
+            "count": 70,
+            "type": 2621304,
+            "level": 0
+        }
+    }
+]

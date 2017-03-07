@@ -1,0 +1,48 @@
+
+table:
+  out-type: json
+  sheet: 圣物碎片
+  row: 3
+  model: artifact.artifactfragment
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: "0"
+
+    - name: artifactId
+      column: artifactId
+      type: int
+      default: 0
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: icon
+      column: icon
+      type: char
+      default: ""
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: composeCount
+      column: composeCount
+      type: int
+      default: 0
+
+    - name: searchDifficuty_int
+      column: searchDifficuty
+      type: char
+      default: ""
+
+    - name: searchInstances_int
+      column: searchInstances
+      type: char
+      default: ""
+
+

@@ -1,0 +1,470 @@
+[
+    {
+        "pk": 200001,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2010001,
+            "count": 5,
+            "name": "\u65a7\u738b\u788e\u7247",
+            "probability": 1,
+            "score": 250,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200002,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2040004,
+            "count": 5,
+            "name": "\u706b\u5973\u788e\u7247",
+            "probability": 1,
+            "score": 250,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200003,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2050003,
+            "count": 5,
+            "name": "\u5c0f\u9e7f\u788e\u7247",
+            "probability": 1,
+            "score": 250,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200004,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2060004,
+            "count": 5,
+            "name": "\u5c0f\u9ed1\u788e\u7247",
+            "probability": 1,
+            "score": 250,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200005,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2060007,
+            "count": 5,
+            "name": "\u523a\u86c7\u788e\u7247",
+            "probability": 1,
+            "score": 250,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200006,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2010002,
+            "count": 5,
+            "name": "\u6f6e\u6c50\u788e\u7247",
+            "probability": 1,
+            "score": 750,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200007,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2010003,
+            "count": 5,
+            "name": "\u6b7b\u9a91\u788e\u7247",
+            "probability": 0,
+            "score": 2500,
+            "category": 20,
+            "type": 0
+        }
+    },
+    {
+        "pk": 200008,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2030003,
+            "count": 5,
+            "name": "\u5927\u725b\u788e\u7247",
+            "probability": 1,
+            "score": 750,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200009,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2020004,
+            "count": 5,
+            "name": "\u5c0f\u5a1c\u8fe6\u788e\u7247",
+            "probability": 1,
+            "score": 750,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200010,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2020007,
+            "count": 5,
+            "name": "\u62cd\u62cd\u718a\u788e\u7247",
+            "probability": 1,
+            "score": 750,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200011,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2040003,
+            "count": 5,
+            "name": "\u51b0\u5973\u788e\u7247",
+            "probability": 1,
+            "score": 750,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200012,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2040006,
+            "count": 5,
+            "name": "\u75db\u82e6\u5973\u738b\u788e\u7247",
+            "probability": 1,
+            "score": 750,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200013,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2050004,
+            "count": 5,
+            "name": "\u672f\u58eb\u788e\u7247",
+            "probability": 1,
+            "score": 750,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200014,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2060003,
+            "count": 5,
+            "name": "\u767d\u864e\u788e\u7247",
+            "probability": 1,
+            "score": 750,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200015,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2020002,
+            "count": 5,
+            "name": "\u8239\u957f\u788e\u7247",
+            "probability": 1,
+            "score": 250,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200016,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2050005,
+            "count": 5,
+            "name": "\u6697\u5f71\u7267\u5e08",
+            "probability": 1,
+            "score": 750,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200017,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2040005,
+            "count": 5,
+            "name": "\u5b99\u65af\u788e\u7247",
+            "probability": 1,
+            "score": 750,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200018,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2060005,
+            "count": 5,
+            "name": "\u706b\u67aa\u788e\u7247",
+            "probability": 1,
+            "score": 750,
+            "category": 20,
+            "type": 1
+        }
+    },
+    {
+        "pk": 200019,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621801,
+            "count": 1,
+            "name": "\u7cbe\u826f\u706b\u7130\u7cbe\u534e",
+            "probability": 1,
+            "score": 450,
+            "category": 26,
+            "type": 3
+        }
+    },
+    {
+        "pk": 200020,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621802,
+            "count": 1,
+            "name": "\u7cbe\u826f\u51b0\u971c\u7cbe\u534e",
+            "probability": 1,
+            "score": 450,
+            "category": 26,
+            "type": 3
+        }
+    },
+    {
+        "pk": 200021,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621803,
+            "count": 1,
+            "name": "\u7cbe\u826f\u7a7a\u6c14\u7cbe\u534e",
+            "probability": 1,
+            "score": 850,
+            "category": 26,
+            "type": 3
+        }
+    },
+    {
+        "pk": 200022,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621804,
+            "count": 1,
+            "name": "\u7cbe\u826f\u5927\u5730\u7cbe\u534e",
+            "probability": 1,
+            "score": 850,
+            "category": 26,
+            "type": 3
+        }
+    },
+    {
+        "pk": 200023,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621805,
+            "count": 1,
+            "name": "\u7cbe\u826f\u751f\u547d\u7cbe\u534e",
+            "probability": 1,
+            "score": 850,
+            "category": 26,
+            "type": 3
+        }
+    },
+    {
+        "pk": 200024,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621806,
+            "count": 1,
+            "name": "\u7cbe\u826f\u6697\u5f71\u7cbe\u534e",
+            "probability": 1,
+            "score": 850,
+            "category": 26,
+            "type": 3
+        }
+    },
+    {
+        "pk": 200025,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621901,
+            "count": 1,
+            "name": "\u7a00\u6709\u706b\u7130\u7cbe\u534e",
+            "probability": 1,
+            "score": 1000,
+            "category": 26,
+            "type": 4
+        }
+    },
+    {
+        "pk": 200026,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621902,
+            "count": 1,
+            "name": "\u7a00\u6709\u51b0\u971c\u7cbe\u534e",
+            "probability": 1,
+            "score": 1000,
+            "category": 26,
+            "type": 4
+        }
+    },
+    {
+        "pk": 200027,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621903,
+            "count": 1,
+            "name": "\u7a00\u6709\u7a7a\u6c14\u7cbe\u534e",
+            "probability": 1,
+            "score": 1700,
+            "category": 26,
+            "type": 4
+        }
+    },
+    {
+        "pk": 200028,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621904,
+            "count": 1,
+            "name": "\u7a00\u6709\u5927\u5730\u7cbe\u534e",
+            "probability": 1,
+            "score": 1700,
+            "category": 26,
+            "type": 4
+        }
+    },
+    {
+        "pk": 200029,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621905,
+            "count": 1,
+            "name": "\u7a00\u6709\u751f\u547d\u7cbe\u534e",
+            "probability": 1,
+            "score": 1700,
+            "category": 26,
+            "type": 4
+        }
+    },
+    {
+        "pk": 200030,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621906,
+            "count": 1,
+            "name": "\u7a00\u6709\u6697\u5f71\u7cbe\u534e",
+            "probability": 1,
+            "score": 1700,
+            "category": 26,
+            "type": 4
+        }
+    },
+    {
+        "pk": 200031,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621701,
+            "count": 1,
+            "name": "\u4f18\u79c0\u706b\u7130\u7cbe\u534e",
+            "probability": 1,
+            "score": 100,
+            "category": 26,
+            "type": 2
+        }
+    },
+    {
+        "pk": 200032,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621702,
+            "count": 1,
+            "name": "\u4f18\u79c0\u51b0\u971c\u7cbe\u534e",
+            "probability": 1,
+            "score": 100,
+            "category": 26,
+            "type": 2
+        }
+    },
+    {
+        "pk": 200033,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621703,
+            "count": 1,
+            "name": "\u4f18\u79c0\u7a7a\u6c14\u7cbe\u534e",
+            "probability": 1,
+            "score": 150,
+            "category": 26,
+            "type": 2
+        }
+    },
+    {
+        "pk": 200034,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621704,
+            "count": 1,
+            "name": "\u4f18\u79c0\u5927\u5730\u7cbe\u534e",
+            "probability": 1,
+            "score": 150,
+            "category": 26,
+            "type": 2
+        }
+    },
+    {
+        "pk": 200035,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621705,
+            "count": 1,
+            "name": "\u4f18\u79c0\u751f\u547d\u7cbe\u534e",
+            "probability": 1,
+            "score": 150,
+            "category": 26,
+            "type": 2
+        }
+    },
+    {
+        "pk": 200036,
+        "model": "arenashop.arenashop",
+        "fields": {
+            "itemId": 2621706,
+            "count": 1,
+            "name": "\u4f18\u79c0\u6697\u5f71\u7cbe\u534e",
+            "probability": 1,
+            "score": 150,
+            "category": 26,
+            "type": 2
+        }
+    }
+]

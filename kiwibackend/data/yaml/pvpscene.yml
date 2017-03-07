@@ -1,0 +1,28 @@
+
+table:
+  out-type: json
+  sheet: PVP场景
+  row: 3
+  model: pvp.pvpscene
+  columns:
+    - name: scene
+      column: scene
+      type: char
+      default: ""
+
+    - name: startPoints_int
+      column: startPoints
+      type: char
+      default: ""
+
+    - name: zoneID
+      column: zoneID
+      type: int
+      default: 0
+
+    - name: triggerInfos_int
+      column: triggerInfos
+      type: char
+      default: ""
+
+

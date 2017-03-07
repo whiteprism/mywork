@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 连续登陆
+  row: 3
+  model: loginbonus.loginbonus
+  columns:
+    - name: rewards_int
+      column: rewards
+      type: char
+      default: "0"
+
+    - name: gift_title
+      column: gift_title
+      type: char
+      default: "0"
+
+    - name: gift_body
+      column: gift_body
+      type: char
+      default: "0"
+
+

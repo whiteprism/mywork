@@ -1,0 +1,110 @@
+[
+    {
+        "pk": 1,
+        "model": "hero.herocombat",
+        "fields": {
+            "dodge": 2.0,
+            "toughness": 3.0,
+            "energy": 1.0,
+            "armor": 3.5,
+            "hp": 3.5,
+            "atk": 1.0,
+            "crit": 0.5,
+            "phyPenetr": 0.5,
+            "magPenetr": 0.0,
+            "etrAtkReduc": 2.0,
+            "magArmor": 3.5,
+            "hitin": 1.0
+        }
+    },
+    {
+        "pk": 2,
+        "model": "hero.herocombat",
+        "fields": {
+            "dodge": 1.75,
+            "toughness": 1.25,
+            "energy": 0.5,
+            "armor": 2.25,
+            "hp": 3.25,
+            "atk": 2.5,
+            "crit": 2.0,
+            "phyPenetr": 1.5,
+            "magPenetr": 0.0,
+            "etrAtkReduc": 1.25,
+            "magArmor": 2.25,
+            "hitin": 1.75
+        }
+    },
+    {
+        "pk": 3,
+        "model": "hero.herocombat",
+        "fields": {
+            "dodge": 1.0,
+            "toughness": 2.5,
+            "energy": 2.25,
+            "armor": 3.0,
+            "hp": 3.2,
+            "atk": 1.8,
+            "crit": 0.75,
+            "phyPenetr": 0.0,
+            "magPenetr": 0.5,
+            "etrAtkReduc": 1.75,
+            "magArmor": 3.0,
+            "hitin": 1.25
+        }
+    },
+    {
+        "pk": 4,
+        "model": "hero.herocombat",
+        "fields": {
+            "dodge": 0.5,
+            "toughness": 0.75,
+            "energy": 2.5,
+            "armor": 2.5,
+            "hp": 2.0,
+            "atk": 3.5,
+            "crit": 2.75,
+            "phyPenetr": 0.0,
+            "magPenetr": 1.5,
+            "etrAtkReduc": 0.5,
+            "magArmor": 2.5,
+            "hitin": 1.5
+        }
+    },
+    {
+        "pk": 5,
+        "model": "hero.herocombat",
+        "fields": {
+            "dodge": 1.25,
+            "toughness": 0.5,
+            "energy": 3.0,
+            "armor": 2.2,
+            "hp": 3.0,
+            "atk": 2.8,
+            "crit": 1.25,
+            "phyPenetr": 0.0,
+            "magPenetr": 1.0,
+            "etrAtkReduc": 1.0,
+            "magArmor": 2.2,
+            "hitin": 2.0
+        }
+    },
+    {
+        "pk": 6,
+        "model": "hero.herocombat",
+        "fields": {
+            "dodge": 0.75,
+            "toughness": 1.0,
+            "energy": 1.5,
+            "armor": 2.0,
+            "hp": 2.5,
+            "atk": 3.5,
+            "crit": 2.5,
+            "phyPenetr": 1.0,
+            "magPenetr": 0.0,
+            "etrAtkReduc": 0.75,
+            "magArmor": 2.0,
+            "hitin": 2.5
+        }
+    }
+]

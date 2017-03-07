@@ -1,0 +1,28 @@
+
+table:
+  out-type: json
+  sheet: 活动
+  row: 3
+  model: activity.activity
+  columns:
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: iconId
+      column: iconId
+      type: char
+      default: ""
+
+    - name: category
+      column: category
+      type: int
+      default: 0
+
+    - name: experimentName
+      column: experimentName
+      type: char
+      default: ""
+
+

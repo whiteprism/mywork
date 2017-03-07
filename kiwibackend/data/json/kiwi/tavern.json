@@ -1,0 +1,32 @@
+[
+    {
+        "pk": 1,
+        "model": "gashapon.tavern",
+        "fields": {
+            "maxDailyCount": 5,
+            "tenCost": 1002,
+            "level": 0,
+            "tenRewardId": "t2620101c10",
+            "gashapon_id": 1,
+            "discount": 0,
+            "cost": 1001,
+            "cdTime": 10,
+            "rewardId": "t2620101c1"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "gashapon.tavern",
+        "fields": {
+            "maxDailyCount": 1,
+            "tenCost": 1004,
+            "level": 1,
+            "tenRewardId": "t2620701c10",
+            "gashapon_id": 2,
+            "discount": 9,
+            "cost": 1003,
+            "cdTime": 2880,
+            "rewardId": "t2620701c1"
+        }
+    }
+]

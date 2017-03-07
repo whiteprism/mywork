@@ -1,0 +1,48 @@
+
+table:
+  out-type: json
+  sheet: 活动规则
+  row: 3
+  model: activity.activityrule
+  columns:
+    - name: activityId
+      column: activityId
+      type: int
+      default: 0
+
+    - name: giftBagId
+      column: giftBagId
+      type: int
+      default: 0
+
+    - name: value1
+      column: value1
+      type: int
+      default: 0
+
+    - name: value2
+      column: value2
+      type: int
+      default: 0
+
+    - name: value3
+      column: value3
+      type: int
+      default: 0
+
+    - name: value4
+      column: value4
+      type: int
+      default: 0
+
+    - name: value5
+      column: value5
+      type: int
+      default: 0
+
+    - name: value6
+      column: value6
+      type: int
+      default: 0
+
+

@@ -1,0 +1,534 @@
+[
+    {
+        "pk": 2010001,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20100010",
+            "breakCost": 8,
+            "warrior_id": 111000101,
+            "name": "\u65a7\u738b\u788e\u7247",
+            "gold": 1000,
+            "nameId": "hero_2010001",
+            "searchInstances_int": "110101,110205,110405,110905,111505,6,8",
+            "recruitCost": 10,
+            "searchDifficuty_int": "4,4,4,4,4,5,5",
+            "couragePoint": 10,
+            "quality": 3,
+            "recruitHeroId": 1110001,
+            "icon": "icon_1110001"
+        }
+    },
+    {
+        "pk": 2010002,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20100020",
+            "breakCost": 24,
+            "warrior_id": 111000206,
+            "name": "\u6f6e\u6c50\u788e\u7247",
+            "gold": 3000,
+            "nameId": "hero_2010002",
+            "searchInstances_int": "110105,110402,110702,111006,111504,6,8",
+            "recruitCost": 30,
+            "searchDifficuty_int": "4,4,4,4,4,5,5",
+            "couragePoint": 30,
+            "quality": 4,
+            "recruitHeroId": 1110002,
+            "icon": "icon_1110002"
+        }
+    },
+    {
+        "pk": 2010003,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20100030",
+            "breakCost": 64,
+            "warrior_id": 111000311,
+            "name": "\u6b7b\u9a91\u788e\u7247",
+            "gold": 5000,
+            "nameId": "hero_2010003",
+            "searchInstances_int": "6,8",
+            "recruitCost": 80,
+            "searchDifficuty_int": "5,5",
+            "couragePoint": 50,
+            "quality": 5,
+            "recruitHeroId": 1110003,
+            "icon": "icon_1110003"
+        }
+    },
+    {
+        "pk": 2010005,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20100050",
+            "breakCost": 64,
+            "warrior_id": 111000511,
+            "name": "\u672b\u65e5\u4f7f\u8005\u788e\u7247",
+            "gold": 5000,
+            "nameId": "hero_2010005",
+            "searchInstances_int": "6,8",
+            "recruitCost": 80,
+            "searchDifficuty_int": "5,5",
+            "couragePoint": 50,
+            "quality": 5,
+            "recruitHeroId": 1110005,
+            "icon": "icon_1110005"
+        }
+    },
+    {
+        "pk": 2030003,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20300030",
+            "breakCost": 24,
+            "warrior_id": 113000306,
+            "name": "\u5927\u725b\u788e\u7247",
+            "gold": 3000,
+            "nameId": "hero_2030003",
+            "searchInstances_int": "110504,110705,111005,111205,6,8",
+            "recruitCost": 30,
+            "searchDifficuty_int": "4,4,4,4,5,5",
+            "couragePoint": 30,
+            "quality": 4,
+            "recruitHeroId": 1130003,
+            "icon": "icon_1130003"
+        }
+    },
+    {
+        "pk": 2020002,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20200020",
+            "breakCost": 8,
+            "warrior_id": 112000201,
+            "name": "\u8239\u957f\u788e\u7247",
+            "gold": 1000,
+            "nameId": "hero_2020002",
+            "searchInstances_int": "110202,110505,111004,111404,6,8",
+            "recruitCost": 10,
+            "searchDifficuty_int": "4,4,4,4,5,5",
+            "couragePoint": 10,
+            "quality": 3,
+            "recruitHeroId": 1120002,
+            "icon": "icon_1120002"
+        }
+    },
+    {
+        "pk": 2020004,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20200040",
+            "breakCost": 24,
+            "warrior_id": 112000406,
+            "name": "\u5c0f\u5a1c\u8fe6\u788e\u7247",
+            "gold": 3000,
+            "nameId": "hero_2020004",
+            "searchInstances_int": "110201,110406,110906,111406,6,8",
+            "recruitCost": 30,
+            "searchDifficuty_int": "4,4,4,4,5,5",
+            "couragePoint": 30,
+            "quality": 4,
+            "recruitHeroId": 1120004,
+            "icon": "icon_1120004"
+        }
+    },
+    {
+        "pk": 2020005,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20200050",
+            "breakCost": 64,
+            "warrior_id": 112000511,
+            "name": "\u654c\u6cd5\u788e\u7247",
+            "gold": 5000,
+            "nameId": "hero_2020005",
+            "searchInstances_int": "6,8",
+            "recruitCost": 80,
+            "searchDifficuty_int": "5,5",
+            "couragePoint": 50,
+            "quality": 5,
+            "recruitHeroId": 1120005,
+            "icon": "icon_1120005"
+        }
+    },
+    {
+        "pk": 2020006,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20200060",
+            "breakCost": 64,
+            "warrior_id": 112000611,
+            "name": "\u5251\u5723\u788e\u7247",
+            "gold": 5000,
+            "nameId": "hero_2020006",
+            "searchInstances_int": "6,8",
+            "recruitCost": 80,
+            "searchDifficuty_int": "5,5",
+            "couragePoint": 50,
+            "quality": 5,
+            "recruitHeroId": 1120006,
+            "icon": "icon_1120006"
+        }
+    },
+    {
+        "pk": 2020007,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20200070",
+            "breakCost": 24,
+            "warrior_id": 112000706,
+            "name": "\u62cd\u62cd\u718a\u788e\u7247",
+            "gold": 3000,
+            "nameId": "hero_2020007",
+            "searchInstances_int": "110204,110805,111102,111305,111506,6,8",
+            "recruitCost": 30,
+            "searchDifficuty_int": "4,4,4,4,4,5,5",
+            "couragePoint": 30,
+            "quality": 4,
+            "recruitHeroId": 1120007,
+            "icon": "icon_1120007"
+        }
+    },
+    {
+        "pk": 2030001,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20300010",
+            "breakCost": 64,
+            "warrior_id": 113000111,
+            "name": "\u5723\u9a91\u788e\u7247",
+            "gold": 5000,
+            "nameId": "hero_2030001",
+            "searchInstances_int": "6,8",
+            "recruitCost": 80,
+            "searchDifficuty_int": "5,5",
+            "couragePoint": 50,
+            "quality": 5,
+            "recruitHeroId": 1130001,
+            "icon": "icon_1130001"
+        }
+    },
+    {
+        "pk": 2040002,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20400020",
+            "breakCost": 64,
+            "warrior_id": 114000211,
+            "name": "\u6c89\u9ed8\u788e\u7247",
+            "gold": 5000,
+            "nameId": "hero_2040002",
+            "searchInstances_int": "6,8",
+            "recruitCost": 80,
+            "searchDifficuty_int": "5,5",
+            "couragePoint": 50,
+            "quality": 5,
+            "recruitHeroId": 1140002,
+            "icon": "icon_1140002"
+        }
+    },
+    {
+        "pk": 2040003,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20400030",
+            "breakCost": 24,
+            "warrior_id": 114000306,
+            "name": "\u51b0\u5973\u788e\u7247",
+            "gold": 3000,
+            "nameId": "hero_2040003",
+            "searchInstances_int": "110102,110506,110904,111201,111402,6,8",
+            "recruitCost": 30,
+            "searchDifficuty_int": "4,4,4,4,4,5,5",
+            "couragePoint": 30,
+            "quality": 4,
+            "recruitHeroId": 1140003,
+            "icon": "icon_1140003"
+        }
+    },
+    {
+        "pk": 2040004,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20400040",
+            "breakCost": 8,
+            "warrior_id": 114000401,
+            "name": "\u706b\u5973\u788e\u7247",
+            "gold": 1000,
+            "nameId": "hero_2040004",
+            "searchInstances_int": "110104,110304,110601,110902,111202,6,8",
+            "recruitCost": 10,
+            "searchDifficuty_int": "4,4,4,4,4,5,5",
+            "couragePoint": 10,
+            "quality": 3,
+            "recruitHeroId": 1140004,
+            "icon": "icon_1140004"
+        }
+    },
+    {
+        "pk": 2040005,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20400050",
+            "breakCost": 24,
+            "warrior_id": 114000506,
+            "name": "\u5b99\u65af\u788e\u7247",
+            "gold": 3000,
+            "nameId": "hero_2040005",
+            "searchInstances_int": "110206,110404,110704,111101,111304,6,8",
+            "recruitCost": 30,
+            "searchDifficuty_int": "4,4,4,4,4,5,5",
+            "couragePoint": 30,
+            "quality": 4,
+            "recruitHeroId": 1140005,
+            "icon": "icon_1140005"
+        }
+    },
+    {
+        "pk": 2040006,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20400060",
+            "breakCost": 24,
+            "warrior_id": 114000606,
+            "name": "\u75db\u82e6\u5973\u738b\u788e\u7247",
+            "gold": 3000,
+            "nameId": "hero_2040006",
+            "searchInstances_int": "110606,110802,111001,111206,6,8",
+            "recruitCost": 30,
+            "searchDifficuty_int": "4,4,4,4,5,5",
+            "couragePoint": 30,
+            "quality": 4,
+            "recruitHeroId": 1140006,
+            "icon": "icon_1140006"
+        }
+    },
+    {
+        "pk": 2050002,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20500020",
+            "breakCost": 64,
+            "warrior_id": 115000211,
+            "name": "\u5deb\u5996\u788e\u7247",
+            "gold": 5000,
+            "nameId": "hero_2050002",
+            "searchInstances_int": "6,8",
+            "recruitCost": 80,
+            "searchDifficuty_int": "5,5",
+            "couragePoint": 50,
+            "quality": 5,
+            "recruitHeroId": 1150002,
+            "icon": "icon_1150002"
+        }
+    },
+    {
+        "pk": 2050003,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20500030",
+            "breakCost": 8,
+            "warrior_id": 115000301,
+            "name": "\u5c0f\u9e7f\u788e\u7247",
+            "gold": 1000,
+            "nameId": "hero_2050003",
+            "searchInstances_int": "110401,110701,111106,111405,6,8",
+            "recruitCost": 10,
+            "searchDifficuty_int": "4,4,4,4,5,5",
+            "couragePoint": 10,
+            "quality": 3,
+            "recruitHeroId": 1150003,
+            "icon": "icon_1150003"
+        }
+    },
+    {
+        "pk": 2050004,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20500040",
+            "breakCost": 24,
+            "warrior_id": 115000406,
+            "name": "\u672f\u58eb\u788e\u7247",
+            "gold": 3000,
+            "nameId": "hero_2050004",
+            "searchInstances_int": "110501,111002,111204,111501,6,8",
+            "recruitCost": 30,
+            "searchDifficuty_int": "4,4,4,4,5,5",
+            "couragePoint": 30,
+            "quality": 4,
+            "recruitHeroId": 1150004,
+            "icon": "icon_1150004"
+        }
+    },
+    {
+        "pk": 2050005,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20500050",
+            "breakCost": 24,
+            "warrior_id": 115000506,
+            "name": "\u6697\u5f71\u7267\u5e08\u788e\u7247",
+            "gold": 3000,
+            "nameId": "hero_2050005",
+            "searchInstances_int": "110301,110602,110806,111401,6,8",
+            "recruitCost": 30,
+            "searchDifficuty_int": "4,4,4,4,5,5",
+            "couragePoint": 30,
+            "quality": 4,
+            "recruitHeroId": 1150005,
+            "icon": "icon_1150005"
+        }
+    },
+    {
+        "pk": 2060001,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20600010",
+            "breakCost": 64,
+            "warrior_id": 116000111,
+            "name": "\u5f71\u9b54\u788e\u7247",
+            "gold": 5000,
+            "nameId": "hero_2060001",
+            "searchInstances_int": "6,8",
+            "recruitCost": 80,
+            "searchDifficuty_int": "5,5",
+            "couragePoint": 50,
+            "quality": 5,
+            "recruitHeroId": 1160001,
+            "icon": "icon_1160001"
+        }
+    },
+    {
+        "pk": 2060002,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20600020",
+            "breakCost": 64,
+            "warrior_id": 116000211,
+            "name": "\u98ce\u884c\u788e\u7247",
+            "gold": 5000,
+            "nameId": "hero_2060002",
+            "searchInstances_int": "6,8",
+            "recruitCost": 80,
+            "searchDifficuty_int": "5,5",
+            "couragePoint": 50,
+            "quality": 5,
+            "recruitHeroId": 1160002,
+            "icon": "icon_1160002"
+        }
+    },
+    {
+        "pk": 2060003,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20600030",
+            "breakCost": 24,
+            "warrior_id": 116000306,
+            "name": "\u767d\u864e\u788e\u7247",
+            "gold": 3000,
+            "nameId": "hero_2060003",
+            "searchInstances_int": "110305,110605,110901,111302,6,8",
+            "recruitCost": 30,
+            "searchDifficuty_int": "4,4,4,4,5,5",
+            "couragePoint": 30,
+            "quality": 4,
+            "recruitHeroId": 1160003,
+            "icon": "icon_1160003"
+        }
+    },
+    {
+        "pk": 2060004,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20600040",
+            "breakCost": 8,
+            "warrior_id": 116000401,
+            "name": "\u5c0f\u9ed1\u788e\u7247",
+            "gold": 1000,
+            "nameId": "hero_2060004",
+            "searchInstances_int": "110106,110302,110604,110804,111104,6,8",
+            "recruitCost": 10,
+            "searchDifficuty_int": "4,4,4,4,4,5,5",
+            "couragePoint": 10,
+            "quality": 3,
+            "recruitHeroId": 1160004,
+            "icon": "icon_1160004"
+        }
+    },
+    {
+        "pk": 2060005,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20600050",
+            "breakCost": 24,
+            "warrior_id": 116000506,
+            "name": "\u706b\u67aa\u788e\u7247",
+            "gold": 3000,
+            "nameId": "hero_2060005",
+            "searchInstances_int": "110801,111105,111301,111502,6,8",
+            "recruitCost": 30,
+            "searchDifficuty_int": "4,4,4,4,5,5",
+            "couragePoint": 30,
+            "quality": 4,
+            "recruitHeroId": 1160005,
+            "icon": "icon_1160005"
+        }
+    },
+    {
+        "pk": 2040007,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20400070",
+            "breakCost": 64,
+            "warrior_id": 114000711,
+            "name": "\u8428\u5c14\u788e\u7247",
+            "gold": 5000,
+            "nameId": "hero_2040007",
+            "searchInstances_int": "6,8",
+            "recruitCost": 80,
+            "searchDifficuty_int": "5,5",
+            "couragePoint": 50,
+            "quality": 5,
+            "recruitHeroId": 1140007,
+            "icon": "icon_1140007"
+        }
+    },
+    {
+        "pk": 2060007,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20600070",
+            "breakCost": 8,
+            "warrior_id": 116000701,
+            "name": "\u523a\u86c7\u788e\u7247",
+            "gold": 1000,
+            "nameId": "hero_2060007",
+            "searchInstances_int": "110306,110502,110706,111306,6,8",
+            "recruitCost": 10,
+            "searchDifficuty_int": "4,4,4,4,5,5",
+            "couragePoint": 10,
+            "quality": 3,
+            "recruitHeroId": 1160007,
+            "icon": "icon_1160007"
+        }
+    },
+    {
+        "pk": 2020008,
+        "model": "soul.soul",
+        "fields": {
+            "descriptionId": "hero_20200080",
+            "breakCost": 64,
+            "warrior_id": 112000811,
+            "name": "\u6697\u5802\u788e\u7247",
+            "gold": 5000,
+            "nameId": "hero_2020008",
+            "searchInstances_int": "6,8",
+            "recruitCost": 80,
+            "searchDifficuty_int": "5,5",
+            "couragePoint": 50,
+            "quality": 5,
+            "recruitHeroId": 1120008,
+            "icon": "icon_1120008"
+        }
+    }
+]

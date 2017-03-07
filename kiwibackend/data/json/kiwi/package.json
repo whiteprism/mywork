@@ -1,0 +1,34 @@
+[
+    {
+        "pk": "AAAA",
+        "model": "package.package",
+        "fields": {
+            "rewards_int": "1001,1002,1006",
+            "tag": "kiwi",
+            "batch": "AA",
+            "gift_title": "\u73a9\u5bb6\u5185\u6d4b\u793c\u5305",
+            "code_count": 1010,
+            "serverids_int": 1.0,
+            "expire_date": "2016-12-31 23:59:59",
+            "gift_body": "1000\u94bb\u77f3,20\u4e07\u91d1\u5e01,\u626b\u8361\u5238*100",
+            "channels_str": 1.0,
+            "name": "AA"
+        }
+    },
+    {
+        "pk": "ABAA",
+        "model": "package.package",
+        "fields": {
+            "rewards_int": "1003,1004,1005",
+            "tag": "kiwi",
+            "batch": "AA",
+            "gift_title": "\u4e13\u5bb6\u6d4b\u8bc4\u793c\u5305",
+            "code_count": 110,
+            "serverids_int": 1.0,
+            "expire_date": "2016-12-31 23:59:59",
+            "gift_body": "3000\u94bb\u77f3,100\u4e07\u91d1\u5e01,\u51b0\u5973\u788e\u7247*50",
+            "channels_str": 1.0,
+            "name": "AB"
+        }
+    }
+]

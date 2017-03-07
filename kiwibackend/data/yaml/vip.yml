@@ -1,0 +1,103 @@
+
+table:
+  out-type: json
+  sheet: VIP
+  row: 3
+  model: vip.vip
+  columns:
+    - name: diamond
+      column: diamond
+      type: int
+      default: 0
+
+    - name: sweepCount
+      column: sweepCount
+      type: int
+      default: 0
+
+    - name: refreshMysteryShopCount
+      column: refreshMysteryShopCount
+      type: int
+      default: 0
+
+    - name: buyPowerCount
+      column: buyPowerCount
+      type: int
+      default: 0
+
+    - name: buyGoldBoxCount
+      column: buyGoldBoxCount
+      type: int
+      default: 0
+
+    - name: buyStaminaCount
+      column: buyStaminaCount
+      type: int
+      default: 0
+
+    - name: goldHandCount
+      column: goldHandCount
+      type: int
+      default: 0
+
+    - name: resetElitInstanceCount
+      column: resetElitInstanceCount
+      type: int
+      default: 0
+
+    - name: titanCount
+      column: titanCount
+      type: int
+      default: 0
+
+    - name: timeGateCount
+      column: timeGateCount
+      type: int
+      default: 0
+
+    - name: giftBagNameId
+      column: giftBagNameId
+      type: char
+      default: ""
+
+    - name: giftBagDiamond
+      column: giftBagDiamond
+      type: int
+      default: 0
+
+    - name: giftRewards_int
+      column: giftRewards
+      type: char
+      default: ""
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: growthFund
+      column: growthFund
+      type: int
+      default: 0
+
+    - name: resetPVPCount
+      column: resetPVPCount
+      type: int
+      default: 0
+
+    - name: dailyRewards_str
+      column: dailyRewards
+      type: char
+      default: ""
+
+    - name: statueCount
+      column: statueCount
+      type: int
+      default: 0
+
+    - name: plantCount
+      column: plantCount
+      type: int
+      default: 0
+
+

@@ -1,0 +1,93 @@
+
+table:
+  out-type: json
+  sheet: 物品
+  row: 3
+  model: item.item
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: "0"
+
+    - name: boxId
+      column: boxId
+      type: int
+      default: 0
+
+    - name: boxKeyId
+      column: boxKeyId
+      type: int
+      default: 0
+
+    - name: gashapon_id
+      column: gashapon_id
+      type: int
+      default: 0
+
+    - name: canUse
+      column: canUse
+      type: int
+      default: 0
+
+    - name: description
+      column: description
+      type: char
+      default: "0"
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: rewardIds_str
+      column: rewardIds
+      type: char
+      default: ""
+
+    - name: icon
+      column: icon
+      type: char
+      default: ""
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: quality
+      column: quality
+      type: int
+      default: 0
+
+    - name: orderId
+      column: orderId
+      type: int
+      default: 0
+
+    - name: category
+      column: category
+      type: int
+      default: 0
+
+    - name: searchDifficuty_int
+      column: searchDifficuty
+      type: char
+      default: ""
+
+    - name: searchInstances_int
+      column: searchInstances
+      type: char
+      default: ""
+
+    - name: number
+      column: number
+      type: int
+      default: 0
+
+    - name: isChapter
+      column: isChapter
+      type: int
+      default: 0
+
+

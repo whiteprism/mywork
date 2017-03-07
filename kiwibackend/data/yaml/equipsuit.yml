@@ -1,0 +1,44 @@
+
+table:
+  out-type: json
+  sheet: 装备套装
+  row: 3
+  model: equip.equipsuit
+  columns:
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: pos1Id
+      column: pos1Id
+      type: int
+
+    - name: pos2Id
+      column: pos2Id
+      type: int
+
+    - name: pos3Id
+      column: pos3Id
+      type: int
+
+    - name: pos4Id
+      column: pos4Id
+      type: int
+
+    - name: attr2List_int
+      column: attr2List
+      type: char
+      default: ""
+
+    - name: attr3List_int
+      column: attr3List
+      type: char
+      default: ""
+
+    - name: attr4List_int
+      column: attr4List
+      type: char
+      default: ""
+
+

@@ -1,0 +1,135 @@
+[
+    {
+        "pk": 1,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 6,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 10000
+        }
+    },
+    {
+        "pk": 11,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 15000
+        }
+    },
+    {
+        "pk": 16,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 20000
+        }
+    },
+    {
+        "pk": 21,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 25000
+        }
+    },
+    {
+        "pk": 26,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 35000
+        }
+    },
+    {
+        "pk": 31,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 45000
+        }
+    },
+    {
+        "pk": 36,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 55000
+        }
+    },
+    {
+        "pk": 41,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 65000
+        }
+    },
+    {
+        "pk": 46,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 75000
+        }
+    },
+    {
+        "pk": 51,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 90000
+        }
+    },
+    {
+        "pk": 56,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 105000
+        }
+    },
+    {
+        "pk": 61,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 120000
+        }
+    },
+    {
+        "pk": 66,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 135000
+        }
+    },
+    {
+        "pk": 71,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 150000
+        }
+    },
+    {
+        "pk": 76,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 170000
+        }
+    },
+    {
+        "pk": 81,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 190000
+        }
+    },
+    {
+        "pk": 86,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 210000
+        }
+    },
+    {
+        "pk": 91,
+        "model": "instance.raidinstancecost",
+        "fields": {
+            "gold": 230000
+        }
+    }
+]

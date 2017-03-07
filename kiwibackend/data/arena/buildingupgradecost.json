@@ -1,0 +1,1370 @@
+[
+    {
+        "pk": 1001,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 600,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1900,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 5900,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 13000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1005,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 25000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1006,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 33000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1007,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 49000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1008,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 81000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1009,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 126000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1010,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 197000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1011,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 268000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1012,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 400000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1013,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 570000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1014,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 790000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1015,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1350000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1016,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1900000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1017,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 2690000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1018,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 3330000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1019,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 3700000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1020,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 150,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1021,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 350,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1022,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1140,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1023,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 3840,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1024,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 7800,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1025,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 19800,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1026,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 57000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1027,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 227000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1028,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 760000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1029,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1480000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1030,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 10000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1031,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 30000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1032,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 50000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1033,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 70000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1034,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 100000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1035,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 165000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1036,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 240000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1037,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 340000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1038,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 400000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1039,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 590000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1040,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 850000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1041,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1240000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1042,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1550000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1043,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1780000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1044,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 2060000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1045,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 50,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1046,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 200,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1047,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 600,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1048,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 3500,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1049,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 10000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1050,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 20000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1051,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 60000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1052,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 300000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1053,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 800000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1054,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1600000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1055,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 150,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1056,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 745,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1057,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 3840,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1058,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 13800,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1059,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 57000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1060,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 493500,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1061,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1480000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1062,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 2600,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1063,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 19800,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1064,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 49000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1065,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 118000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1066,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 261000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1067,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 550000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1068,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1420000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1069,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 2630000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1070,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 3300000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1071,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 100000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1072,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 320000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1073,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 670000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1074,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1710000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1075,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 3060000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1076,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 3900000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2001,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 900,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2002,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 2850,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2003,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 8850,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2004,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 19500,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2005,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 37500,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2006,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 49500,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2007,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 73500,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2008,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 121500,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2009,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 189000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2010,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 295500,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2011,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 402000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2012,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 600000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2013,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 855000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2014,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1185000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2015,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 2025000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2016,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 2850000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2017,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 4035000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2018,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 4995000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2019,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 5550000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2020,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 225,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2021,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 525,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2022,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1710,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2023,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 5760,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2024,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 11700,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2025,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 29700,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2026,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 85500,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2027,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 340500,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2028,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1140000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2029,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 2220000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2030,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 15000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2031,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 45000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2032,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 75000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2033,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 105000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2034,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 150000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2035,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 247500,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2036,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 360000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2037,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 510000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2038,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 600000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2039,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 885000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2040,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1275000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2041,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1860000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2042,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 2325000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2043,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 2670000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2044,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 3090000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2045,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 75,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2046,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 300,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2047,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 900,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2048,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 5250,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2049,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 15000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2050,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 30000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2051,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 90000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2052,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 450000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2053,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1200000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2054,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 2400000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2055,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 225,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2056,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1120,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2057,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 5760,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2058,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 20700,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2059,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 85500,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2060,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 740250,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2061,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 2220000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2062,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 3900,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2063,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 29700,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2064,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 73500,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2065,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 177000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2066,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 391500,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2067,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 825000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2068,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 2130000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2069,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 3945000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2070,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 4950000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2071,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 150000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2072,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 480000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2073,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 1005000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2074,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 2565000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2075,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 4590000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 2076,
+        "model": "building.buildingupgradecost",
+        "fields": {
+            "count": 5850000,
+            "type": 500000,
+            "level": 0
+        }
+    }
+]

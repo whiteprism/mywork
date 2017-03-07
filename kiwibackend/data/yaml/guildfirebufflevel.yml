@@ -1,0 +1,33 @@
+
+table:
+  out-type: json
+  sheet: 公会火堆BUFF等级
+  row: 3
+  model: guild.guildfirebufflevel
+  columns:
+    - name: fireLevel
+      column: fireLevel
+      type: int
+      default: 0
+
+    - name: buffType
+      column: buffType
+      type: int
+      default: 0
+
+    - name: buffValue
+      column: buffValue
+      type: float
+      default: 0.0
+
+    - name: buffLevel
+      column: buffLevel
+      type: int
+      default: 0
+
+    - name: woodCost
+      column: woodCost
+      type: int
+      default: 0
+
+

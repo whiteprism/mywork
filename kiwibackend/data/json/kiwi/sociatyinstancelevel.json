@@ -1,0 +1,317 @@
+[
+    {
+        "pk": 160101,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1601010",
+            "monsterId": 1110001,
+            "price_int": "500,800,500,500",
+            "name": 1.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 0.4,
+            "rewardId_int": "2312101,2312202,1412505,1412606",
+            "scene": "level_desert",
+            "enemyIds_int": 16010101.0,
+            "zoneIDs_int": 16010101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_160101",
+            "powerCost": 200
+        }
+    },
+    {
+        "pk": 160201,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1602010",
+            "monsterId": 1110003,
+            "price_int": "800,800,500,500",
+            "name": 2.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 0.4,
+            "rewardId_int": "2312303,2312404,1422505,1422606",
+            "scene": "level_snow",
+            "enemyIds_int": 16020101.0,
+            "zoneIDs_int": 16020101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_160201",
+            "powerCost": 250
+        }
+    },
+    {
+        "pk": 160301,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1603010",
+            "monsterId": 1110001,
+            "price_int": "800,500,500,500",
+            "name": 3.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 0.42,
+            "rewardId_int": "2342101,2342202,1442505,1442606",
+            "scene": "level_town",
+            "enemyIds_int": 16030101.0,
+            "zoneIDs_int": 16030101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_160301",
+            "powerCost": 300
+        }
+    },
+    {
+        "pk": 160401,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1604010",
+            "monsterId": 1110002,
+            "price_int": "500,500,500,500",
+            "name": 4.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 0.54,
+            "rewardId_int": "2342303,2342404,1462505,1462606",
+            "scene": "level_lava",
+            "enemyIds_int": 16040101.0,
+            "zoneIDs_int": 16040101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_160401",
+            "powerCost": 350
+        }
+    },
+    {
+        "pk": 160501,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1605010",
+            "monsterId": 1130001,
+            "price_int": "800,500,500,500",
+            "name": 5.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 0.58,
+            "rewardId_int": "2362101,2362202,1432505,1432606",
+            "scene": "level_crypt",
+            "enemyIds_int": 16050101.0,
+            "zoneIDs_int": 16050101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_160501",
+            "powerCost": 400
+        }
+    },
+    {
+        "pk": 160601,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1606010",
+            "monsterId": 1160005,
+            "price_int": "1500,2000,2000,2000",
+            "name": 6.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 0.59,
+            "rewardId_int": "2314101,2314202,1414505,1414606",
+            "scene": "level_desert",
+            "enemyIds_int": 16060101.0,
+            "zoneIDs_int": 16060101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_160601",
+            "powerCost": 450
+        }
+    },
+    {
+        "pk": 160701,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1607010",
+            "monsterId": 1150004,
+            "price_int": "2000,2000,2000,2000",
+            "name": 7.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 0.6,
+            "rewardId_int": "2314303,2314404,1424505,1424606",
+            "scene": "level_lost_temple",
+            "enemyIds_int": 16070101.0,
+            "zoneIDs_int": 16070101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_160701",
+            "powerCost": 500
+        }
+    },
+    {
+        "pk": 160801,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1608010",
+            "monsterId": 1120006,
+            "price_int": "2000,1500,2000,2000",
+            "name": 8.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 0.8,
+            "rewardId_int": "2344101,2344202,1444505,1444606",
+            "scene": "level_snow",
+            "enemyIds_int": 16080101.0,
+            "zoneIDs_int": 16080101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_160801",
+            "powerCost": 550
+        }
+    },
+    {
+        "pk": 160901,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1609010",
+            "monsterId": 1150003,
+            "price_int": "1500,1500,2000,2000",
+            "name": 9.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 0.84,
+            "rewardId_int": "2344303,2344404,1464505,1464606",
+            "scene": "level_town",
+            "enemyIds_int": 16090101.0,
+            "zoneIDs_int": 16090101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_160901",
+            "powerCost": 600
+        }
+    },
+    {
+        "pk": 161001,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1610010",
+            "monsterId": 1140003,
+            "price_int": "2000,1500,2000,2000",
+            "name": 10.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 0.85,
+            "rewardId_int": "2364101,2364202,1434505,1434606",
+            "scene": "level_desert",
+            "enemyIds_int": 16100101.0,
+            "zoneIDs_int": 16100101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_161001",
+            "powerCost": 650
+        }
+    },
+    {
+        "pk": 161101,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1611010",
+            "monsterId": 1140005,
+            "price_int": "1500,1500,5000,5000",
+            "name": 11.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 1.04,
+            "rewardId_int": "2364303,2364404,1417505,1417606",
+            "scene": "level_lava",
+            "enemyIds_int": 16110101.0,
+            "zoneIDs_int": 16110101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_161101",
+            "powerCost": 700
+        }
+    },
+    {
+        "pk": 161201,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1612010",
+            "monsterId": 1150002,
+            "price_int": "2000,2000,5000,5000",
+            "name": 12.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 1.17,
+            "rewardId_int": "2324101,2324202,1427505,1427606",
+            "scene": "level_snow",
+            "enemyIds_int": 16120101.0,
+            "zoneIDs_int": 16120101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_161201",
+            "powerCost": 750
+        }
+    },
+    {
+        "pk": 161301,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1613010",
+            "monsterId": 1130003,
+            "price_int": "1500,1500,5000,5000",
+            "name": 13.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 1.18,
+            "rewardId_int": "2334101,2334202,1447505,1447606",
+            "scene": "level_lava",
+            "enemyIds_int": 16130101.0,
+            "zoneIDs_int": 16130101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_161301",
+            "powerCost": 800
+        }
+    },
+    {
+        "pk": 161401,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1614010",
+            "monsterId": 1110003,
+            "price_int": "2000,1500,5000,5000",
+            "name": 14.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 1.18,
+            "rewardId_int": "2354101,2354202,1467505,1467606",
+            "scene": "level_snow",
+            "enemyIds_int": 16140101.0,
+            "zoneIDs_int": 16140101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_161401",
+            "powerCost": 850
+        }
+    },
+    {
+        "pk": 161501,
+        "model": "instance.guildinstancelevel",
+        "fields": {
+            "descriptionId": "raid_1615010",
+            "monsterId": 1110005,
+            "price_int": "4000,5000,5000,5000",
+            "name": 15.0,
+            "probability_float": "1,1,1,1",
+            "triggerInfos_int": "",
+            "revisionScale_float": 1.18,
+            "rewardId_int": "2317101,2317202,1437505,1437606",
+            "scene": "level_crypt",
+            "enemyIds_int": 16150101.0,
+            "zoneIDs_int": 16150101.0,
+            "count_int": "20,20,1,1",
+            "levelIndex": 1,
+            "nameId": "raid_161501",
+            "powerCost": 900
+        }
+    }
+]

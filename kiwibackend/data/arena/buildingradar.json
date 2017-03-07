@@ -1,0 +1,29 @@
+[
+    {
+        "pk": 100101601,
+        "model": "building.buildingradar",
+        "fields": {
+            "building": 1001016,
+            "count": 3,
+            "level": 1
+        }
+    },
+    {
+        "pk": 100101602,
+        "model": "building.buildingradar",
+        "fields": {
+            "building": 1001016,
+            "count": 4,
+            "level": 2
+        }
+    },
+    {
+        "pk": 100101603,
+        "model": "building.buildingradar",
+        "fields": {
+            "building": 1001016,
+            "count": 5,
+            "level": 3
+        }
+    }
+]

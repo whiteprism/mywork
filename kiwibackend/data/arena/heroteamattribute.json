@@ -1,0 +1,642 @@
+[
+    {
+        "pk": 101,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.025
+        }
+    },
+    {
+        "pk": 102,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.05
+        }
+    },
+    {
+        "pk": 103,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.075
+        }
+    },
+    {
+        "pk": 104,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.1
+        }
+    },
+    {
+        "pk": 105,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.125
+        }
+    },
+    {
+        "pk": 106,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.15
+        }
+    },
+    {
+        "pk": 107,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.175
+        }
+    },
+    {
+        "pk": 108,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.2
+        }
+    },
+    {
+        "pk": 109,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.225
+        }
+    },
+    {
+        "pk": 110,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.25
+        }
+    },
+    {
+        "pk": 111,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.275
+        }
+    },
+    {
+        "pk": 112,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.3
+        }
+    },
+    {
+        "pk": 113,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.325
+        }
+    },
+    {
+        "pk": 114,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.35
+        }
+    },
+    {
+        "pk": 115,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.375
+        }
+    },
+    {
+        "pk": 116,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.4
+        }
+    },
+    {
+        "pk": 117,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.425
+        }
+    },
+    {
+        "pk": 118,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.45
+        }
+    },
+    {
+        "pk": 119,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.475
+        }
+    },
+    {
+        "pk": 120,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "attack",
+            "extra": 0.5
+        }
+    },
+    {
+        "pk": 201,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.025
+        }
+    },
+    {
+        "pk": 202,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.05
+        }
+    },
+    {
+        "pk": 203,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.075
+        }
+    },
+    {
+        "pk": 204,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.1
+        }
+    },
+    {
+        "pk": 205,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.125
+        }
+    },
+    {
+        "pk": 206,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.15
+        }
+    },
+    {
+        "pk": 207,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.175
+        }
+    },
+    {
+        "pk": 208,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.2
+        }
+    },
+    {
+        "pk": 209,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.225
+        }
+    },
+    {
+        "pk": 210,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.25
+        }
+    },
+    {
+        "pk": 211,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.275
+        }
+    },
+    {
+        "pk": 212,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.3
+        }
+    },
+    {
+        "pk": 213,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.325
+        }
+    },
+    {
+        "pk": 214,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.35
+        }
+    },
+    {
+        "pk": 215,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.375
+        }
+    },
+    {
+        "pk": 216,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.4
+        }
+    },
+    {
+        "pk": 217,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.425
+        }
+    },
+    {
+        "pk": 218,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.45
+        }
+    },
+    {
+        "pk": 219,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.475
+        }
+    },
+    {
+        "pk": 220,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "hp",
+            "extra": 0.5
+        }
+    },
+    {
+        "pk": 301,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.025
+        }
+    },
+    {
+        "pk": 302,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.05
+        }
+    },
+    {
+        "pk": 303,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.075
+        }
+    },
+    {
+        "pk": 304,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.1
+        }
+    },
+    {
+        "pk": 305,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.125
+        }
+    },
+    {
+        "pk": 306,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.15
+        }
+    },
+    {
+        "pk": 307,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.175
+        }
+    },
+    {
+        "pk": 308,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.2
+        }
+    },
+    {
+        "pk": 309,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.225
+        }
+    },
+    {
+        "pk": 310,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.25
+        }
+    },
+    {
+        "pk": 311,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.275
+        }
+    },
+    {
+        "pk": 312,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.3
+        }
+    },
+    {
+        "pk": 313,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.325
+        }
+    },
+    {
+        "pk": 314,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.35
+        }
+    },
+    {
+        "pk": 315,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.375
+        }
+    },
+    {
+        "pk": 316,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.4
+        }
+    },
+    {
+        "pk": 317,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.425
+        }
+    },
+    {
+        "pk": 318,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.45
+        }
+    },
+    {
+        "pk": 319,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.475
+        }
+    },
+    {
+        "pk": 320,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 0.5
+        }
+    },
+    {
+        "pk": 401,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.025
+        }
+    },
+    {
+        "pk": 402,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.05
+        }
+    },
+    {
+        "pk": 403,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.075
+        }
+    },
+    {
+        "pk": 404,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.1
+        }
+    },
+    {
+        "pk": 405,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.125
+        }
+    },
+    {
+        "pk": 406,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.15
+        }
+    },
+    {
+        "pk": 407,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.175
+        }
+    },
+    {
+        "pk": 408,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.2
+        }
+    },
+    {
+        "pk": 409,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.225
+        }
+    },
+    {
+        "pk": 410,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.25
+        }
+    },
+    {
+        "pk": 411,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.275
+        }
+    },
+    {
+        "pk": 412,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.3
+        }
+    },
+    {
+        "pk": 413,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.325
+        }
+    },
+    {
+        "pk": 414,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.35
+        }
+    },
+    {
+        "pk": 415,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.375
+        }
+    },
+    {
+        "pk": 416,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.4
+        }
+    },
+    {
+        "pk": 417,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.425
+        }
+    },
+    {
+        "pk": 418,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.45
+        }
+    },
+    {
+        "pk": 419,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.475
+        }
+    },
+    {
+        "pk": 420,
+        "model": "hero.heroteamattribute",
+        "fields": {
+            "attrType": "magicArmor",
+            "extra": 0.5
+        }
+    }
+]

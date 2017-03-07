@@ -1,0 +1,17 @@
+class PBViewDelete():
+    def __init__(self):
+        self.artfacts = []
+        self.buildings = []
+        self.equipFragments = []
+        self.equips = []
+        self.fragments = []
+        self.friends = []
+        self.gemFragment = []
+        self.gems = []
+        self.gifts = []
+        self.heroes = []
+        self.invites = []
+        self.items = []
+        self.scrolls = []
+        self.soulFragments = []
+        self.tasks = []

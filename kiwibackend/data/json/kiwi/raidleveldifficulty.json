@@ -1,0 +1,1190 @@
+[
+    {
+        "pk": 20010101,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20010201,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20010301,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20010401,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20010501,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20010601,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20010701,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20010801,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20010901,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20011001,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20011101,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20011201,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20011301,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20011401,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20011501,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20011601,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20011701,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20011801,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20011901,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20012001,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20012101,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20012201,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20012301,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20012401,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20012501,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20012601,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20012701,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20012801,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20012901,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20013001,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20013101,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20013201,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20013301,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20013401,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20013501,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20013601,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20020101,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20020201,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20020301,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20020401,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20020501,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20020601,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20020701,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20020801,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20020901,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20021001,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20021101,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20021201,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20021301,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20021401,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20021501,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20021601,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20021701,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20021801,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20021901,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20022001,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20022101,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20022201,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20022301,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20022401,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20022501,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20022601,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20022701,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20022801,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20022901,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20023001,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20023101,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20023201,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20023301,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20023401,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20023501,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20023601,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20030101,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20030201,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20030301,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20030401,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20030501,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20030601,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20030701,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20030801,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20030901,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20031001,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20031101,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20031201,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20031301,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20031401,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20031501,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20031601,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20031701,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20031801,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20031901,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20032001,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20032101,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20032201,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20032301,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20032401,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20032501,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20032601,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20032701,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20032801,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20032901,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20033001,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20033101,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20033201,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20033301,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20033401,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20033501,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    },
+    {
+        "pk": 20033601,
+        "model": "instance.raidleveldifficulty",
+        "fields": {
+            "difficulty2": 2,
+            "difficulty3": 3,
+            "difficulty1": 1,
+            "towerGold": 30,
+            "gold": 5000
+        }
+    }
+]

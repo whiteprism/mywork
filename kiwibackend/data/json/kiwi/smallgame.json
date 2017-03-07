@@ -1,0 +1,42 @@
+[
+    {
+        "pk": 1,
+        "model": "instance.smallgame",
+        "fields": {
+            "score": 80,
+            "rewards_int": "101,102,103"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "instance.smallgame",
+        "fields": {
+            "score": 120,
+            "rewards_int": "104,105,106"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "instance.smallgame",
+        "fields": {
+            "score": 180,
+            "rewards_int": "107,108,109"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "instance.smallgame",
+        "fields": {
+            "score": 250,
+            "rewards_int": "110,111,112"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "instance.smallgame",
+        "fields": {
+            "score": 999,
+            "rewards_int": "113,114,115"
+        }
+    }
+]

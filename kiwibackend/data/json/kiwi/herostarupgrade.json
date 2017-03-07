@@ -1,0 +1,227 @@
+[
+    {
+        "pk": 1,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 2,
+            "soulCount": 4
+        }
+    },
+    {
+        "pk": 2,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 2,
+            "soulCount": 4
+        }
+    },
+    {
+        "pk": 3,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 2,
+            "soulCount": 4
+        }
+    },
+    {
+        "pk": 4,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 2,
+            "soulCount": 4
+        }
+    },
+    {
+        "pk": 5,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": 10001.0,
+            "sepecialItemMaxCount": 2,
+            "soulCount": 4
+        }
+    },
+    {
+        "pk": 6,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 5,
+            "soulCount": 10
+        }
+    },
+    {
+        "pk": 7,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 5,
+            "soulCount": 10
+        }
+    },
+    {
+        "pk": 8,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 5,
+            "soulCount": 10
+        }
+    },
+    {
+        "pk": 9,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 5,
+            "soulCount": 10
+        }
+    },
+    {
+        "pk": 10,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": 10007.0,
+            "sepecialItemMaxCount": 5,
+            "soulCount": 10
+        }
+    },
+    {
+        "pk": 11,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 10,
+            "soulCount": 20
+        }
+    },
+    {
+        "pk": 12,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 10,
+            "soulCount": 20
+        }
+    },
+    {
+        "pk": 13,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 10,
+            "soulCount": 20
+        }
+    },
+    {
+        "pk": 14,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 10,
+            "soulCount": 20
+        }
+    },
+    {
+        "pk": 15,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": 10013.0,
+            "sepecialItemMaxCount": 10,
+            "soulCount": 20
+        }
+    },
+    {
+        "pk": 16,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 20,
+            "soulCount": 40
+        }
+    },
+    {
+        "pk": 17,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 20,
+            "soulCount": 40
+        }
+    },
+    {
+        "pk": 18,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 20,
+            "soulCount": 40
+        }
+    },
+    {
+        "pk": 19,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 20,
+            "soulCount": 40
+        }
+    },
+    {
+        "pk": 20,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": 10014.0,
+            "sepecialItemMaxCount": 20,
+            "soulCount": 40
+        }
+    },
+    {
+        "pk": 21,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 40,
+            "soulCount": 80
+        }
+    },
+    {
+        "pk": 22,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 40,
+            "soulCount": 80
+        }
+    },
+    {
+        "pk": 23,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 40,
+            "soulCount": 80
+        }
+    },
+    {
+        "pk": 24,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": "",
+            "sepecialItemMaxCount": 40,
+            "soulCount": 80
+        }
+    },
+    {
+        "pk": 25,
+        "model": "hero.herostarupgrade",
+        "fields": {
+            "costs_int": 10015.0,
+            "sepecialItemMaxCount": 40,
+            "soulCount": 80
+        }
+    }
+]

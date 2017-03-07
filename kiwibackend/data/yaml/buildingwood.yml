@@ -1,0 +1,32 @@
+
+table:
+  out-type: json
+  sheet: 木材
+  row: 3
+  model: building.buildingwood
+  columns:
+    - name: building
+      column: building
+      type: int
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: minHarvestScale
+      column: minHarvestScale
+      type: int
+      default: 0
+
+    - name: productionPerHour
+      column: productionPerHour
+      type: int
+      default: 0
+
+    - name: storage
+      column: storage
+      type: int
+      default: 0
+
+

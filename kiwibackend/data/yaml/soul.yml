@@ -1,0 +1,66 @@
+
+table:
+  out-type: json
+  sheet: 灵魂碎片
+  row: 3
+  model: soul.soul
+  columns:
+    - name: warrior_id
+      column: warrior_id
+      type: int
+
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: couragePoint
+      column: couragePoint
+      type: int
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: searchDifficuty_int
+      column: searchDifficuty
+      type: char
+      default: ""
+
+    - name: searchInstances_int
+      column: searchInstances
+      type: char
+      default: ""
+
+    - name: gold
+      column: gold
+      type: int
+
+    - name: icon
+      column: icon
+      type: char
+      default: ""
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: quality
+      column: quality
+      type: int
+
+    - name: recruitCost
+      column: recruitCost
+      type: int
+
+    - name: breakCost
+      column: breakCost
+      type: int
+
+    - name: recruitHeroId
+      column: recruitHeroId
+      type: int
+
+

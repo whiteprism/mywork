@@ -1,0 +1,43 @@
+
+table:
+  out-type: json
+  sheet: 建筑植物
+  row: 3
+  model: building.buildingplant
+  columns:
+    - name: costRewardId
+      column: costRewardId
+      type: char
+      default: ""
+
+    - name: rewardIds_str
+      column: rewardIds
+      type: char
+      default: ""
+
+    - name: harvestTimes
+      column: harvestTimes
+      type: int
+      default: 0
+
+    - name: harvestInterval
+      column: harvestInterval
+      type: int
+      default: 0
+
+    - name: growthInterval
+      column: growthInterval
+      type: int
+      default: 0
+
+    - name: matureInterval
+      column: matureInterval
+      type: int
+      default: 0
+
+    - name: category
+      column: category
+      type: int
+      default: 0
+
+

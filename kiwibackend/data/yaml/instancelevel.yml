@@ -1,0 +1,132 @@
+
+table:
+  out-type: json
+  sheet: 关卡
+  row: 3
+  model: instance.instancelevel
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: instance_id
+      column: instance_id
+      type: int
+
+    - name: maxPlayCount
+      column: maxPlayCount
+      type: int
+      default: 0
+
+    - name: monsterId
+      column: monsterId
+      type: int
+      default: 0
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: playerExp
+      column: playerExp
+      type: int
+      default: 0
+
+    - name: scene
+      column: scene
+      type: char
+      default: ""
+
+    - name: powerCost
+      column: powerCost
+      type: int
+      default: 0
+
+    - name: levelIndex
+      column: levelIndex
+      type: int
+      default: 0
+
+    - name: minUserLevel
+      column: minUserLevel
+      type: int
+      default: 0
+
+    - name: nextInstanceId
+      column: nextInstanceId
+      type: int
+      default: 0
+
+    - name: heroExp_int
+      column: heroExp
+      type: char
+      default: ""
+
+    - name: golds_int
+      column: golds
+      type: char
+      default: ""
+
+    - name: woods_int
+      column: woods
+      type: char
+      default: ""
+
+    - name: revisionScale_float
+      column: revisionScale
+      type: char
+      default: ""
+
+    - name: rewardId_int
+      column: rewardId
+      type: char
+      default: ""
+
+    - name: probability_float
+      column: probability
+      type: char
+      default: ""
+
+    - name: count_int
+      column: count
+      type: char
+      default: ""
+
+    - name: mustRewardId_int
+      column: mustRewardId
+      type: char
+      default: ""
+
+    - name: enemyIds_int
+      column: enemyIds
+      type: char
+      default: ""
+
+    - name: zoneIDs_int
+      column: zoneIDs
+      type: char
+      default: ""
+
+    - name: triggerInfos_int
+      column: triggerInfos
+      type: char
+      default: ""
+
+    - name: instanceStartDialogID
+      column: instanceStartDialogID
+      type: int
+      default: 0
+
+    - name: instanceEndDialogID
+      column: instanceEndDialogID
+      type: int
+      default: 0
+
+

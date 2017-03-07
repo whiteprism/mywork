@@ -1,0 +1,38 @@
+[
+    {
+        "pk": 1001,
+        "model": "gashapon.taverncost",
+        "fields": {
+            "count": 10000,
+            "type": 500000,
+            "level": 1
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "gashapon.taverncost",
+        "fields": {
+            "count": 100000,
+            "type": 500000,
+            "level": 1
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "gashapon.taverncost",
+        "fields": {
+            "count": 188,
+            "type": 510000,
+            "level": 1
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "gashapon.taverncost",
+        "fields": {
+            "count": 1680,
+            "type": 510000,
+            "level": 1
+        }
+    }
+]

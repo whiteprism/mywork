@@ -1,0 +1,18 @@
+
+table:
+  out-type: json
+  sheet: 日常任务活跃度
+  row: 3
+  model: task.dailytaskactivity
+  columns:
+    - name: activityValue
+      column: activityValue
+      type: int
+      default: 0
+
+    - name: rewards_int
+      column: rewards
+      type: char
+      default: ""
+
+

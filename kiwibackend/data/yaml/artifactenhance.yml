@@ -1,0 +1,25 @@
+
+table:
+  out-type: json
+  sheet: 圣物强化
+  row: 3
+  model: artifact.artifactenhance
+  columns:
+    - name: xp
+      column: xp
+      type: int
+
+    - name: quality
+      column: quality
+      type: int
+
+    - name: level
+      column: level
+      type: int
+
+    - name: playerLevel
+      column: playerLevel
+      type: int
+      default: 1
+
+

@@ -1,0 +1,429 @@
+[
+    {
+        "pk": 1,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 5
+        }
+    },
+    {
+        "pk": 2,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 10
+        }
+    },
+    {
+        "pk": 3,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 15
+        }
+    },
+    {
+        "pk": 4,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 20
+        }
+    },
+    {
+        "pk": 5,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 25
+        }
+    },
+    {
+        "pk": 6,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 30
+        }
+    },
+    {
+        "pk": 7,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 40
+        }
+    },
+    {
+        "pk": 8,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 60
+        }
+    },
+    {
+        "pk": 9,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 80
+        }
+    },
+    {
+        "pk": 10,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 100
+        }
+    },
+    {
+        "pk": 11,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 150
+        }
+    },
+    {
+        "pk": 12,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 200
+        }
+    },
+    {
+        "pk": 13,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 220
+        }
+    },
+    {
+        "pk": 14,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 240
+        }
+    },
+    {
+        "pk": 15,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 260
+        }
+    },
+    {
+        "pk": 16,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 280
+        }
+    },
+    {
+        "pk": 17,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 300
+        }
+    },
+    {
+        "pk": 18,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 310
+        }
+    },
+    {
+        "pk": 19,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 320
+        }
+    },
+    {
+        "pk": 20,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 330
+        }
+    },
+    {
+        "pk": 21,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 340
+        }
+    },
+    {
+        "pk": 22,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 350
+        }
+    },
+    {
+        "pk": 23,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 360
+        }
+    },
+    {
+        "pk": 24,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 370
+        }
+    },
+    {
+        "pk": 25,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 380
+        }
+    },
+    {
+        "pk": 26,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 390
+        }
+    },
+    {
+        "pk": 27,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 400
+        }
+    },
+    {
+        "pk": 28,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 500
+        }
+    },
+    {
+        "pk": 29,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 600
+        }
+    },
+    {
+        "pk": 30,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 700
+        }
+    },
+    {
+        "pk": 31,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 800
+        }
+    },
+    {
+        "pk": 32,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 900
+        }
+    },
+    {
+        "pk": 33,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 1000
+        }
+    },
+    {
+        "pk": 34,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 1100
+        }
+    },
+    {
+        "pk": 35,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 1400
+        }
+    },
+    {
+        "pk": 36,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 1700
+        }
+    },
+    {
+        "pk": 37,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 2000
+        }
+    },
+    {
+        "pk": 38,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 2500
+        }
+    },
+    {
+        "pk": 39,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 3000
+        }
+    },
+    {
+        "pk": 40,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 3500
+        }
+    },
+    {
+        "pk": 41,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 4000
+        }
+    },
+    {
+        "pk": 42,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 4500
+        }
+    },
+    {
+        "pk": 43,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 5000
+        }
+    },
+    {
+        "pk": 44,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 5500
+        }
+    },
+    {
+        "pk": 45,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 6000
+        }
+    },
+    {
+        "pk": 46,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 6500
+        }
+    },
+    {
+        "pk": 47,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 7000
+        }
+    },
+    {
+        "pk": 48,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 7500
+        }
+    },
+    {
+        "pk": 49,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 8000
+        }
+    },
+    {
+        "pk": 50,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 8500
+        }
+    },
+    {
+        "pk": 51,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 9000
+        }
+    },
+    {
+        "pk": 52,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 9500
+        }
+    },
+    {
+        "pk": 53,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 10000
+        }
+    },
+    {
+        "pk": 54,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 10500
+        }
+    },
+    {
+        "pk": 55,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 11000
+        }
+    },
+    {
+        "pk": 56,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 11500
+        }
+    },
+    {
+        "pk": 57,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 12000
+        }
+    },
+    {
+        "pk": 58,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 12500
+        }
+    },
+    {
+        "pk": 59,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 13000
+        }
+    },
+    {
+        "pk": 60,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 13500
+        }
+    },
+    {
+        "pk": 61,
+        "model": "hero.herolevel",
+        "fields": {
+            "xp": 14000
+        }
+    }
+]

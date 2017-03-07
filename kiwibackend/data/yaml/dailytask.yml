@@ -1,0 +1,78 @@
+
+table:
+  out-type: json
+  sheet: 日常任务
+  row: 3
+  model: task.dailytask
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: condition_id
+      column: condition_id
+      type: int
+      default: 0
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: "0"
+
+    - name: rewards_int
+      column: rewards
+      type: char
+      default: ""
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: icon
+      column: icon
+      type: char
+      default: ""
+
+    - name: link
+      column: link
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: orderId
+      column: orderId
+      type: int
+      default: 0
+
+    - name: category
+      column: category
+      type: int
+      default: 0
+
+    - name: nextTaskId
+      column: nextTaskId
+      type: int
+      default: 0
+
+    - name: is_first
+      column: is_first
+      type: int
+      default: 0
+
+    - name: buildingId
+      column: buildingId
+      type: int
+      default: 0
+
+    - name: activityGet
+      column: activityGet
+      type: int
+      default: 0
+
+

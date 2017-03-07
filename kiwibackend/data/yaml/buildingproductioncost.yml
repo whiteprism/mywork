@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 建筑产物消耗
+  row: 3
+  model: building.buildingproductioncost
+  columns:
+    - name: count
+      column: count
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: type
+      column: type
+      type: int
+      default: 0
+
+

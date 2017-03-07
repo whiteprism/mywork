@@ -1,0 +1,684 @@
+# -*- encoding:utf8 -*-
+
+from decorators import require_player, handle_common
+
+from module.gashapon.api import get_gashapon, get_tavern
+from module.common.static import Static, AlertID
+from module.playerhero.api import  acquire_hero
+from module.soul.api import get_soul
+from module.hero.api import get_card, get_warrior
+from module.skill.api import get_skilllevel, get_skilllevels_by_skill
+from module.rewards.api import reward_cost_check, reward_cost, reward_send
+from module.common.middleware import ErrorException, AlertHandler
+from module.common.actionlog import ActionLogWriter
+from module.hero.api import get_heroskill, get_herostarupgrade, get_herodestiny, get_herotrain
+from module.mail.api import send_system_mail
+from module.utils import random_item_pick
+
+@handle_common
+@require_player
+def heroGacha(request, response):
+
+    player = request.player
+    player.get_playerdata("gashapons")
+
+    is_ten = getattr(request.logic_request, "isTen", False)
+    tavernId = getattr(request.logic_request, "tavernId", 0)
+    rewards = []
+
+    tavern = get_tavern(tavernId)
+
+    if not tavern:
+        raise ErrorException(player, u"heroGacha:no tavern(%s)" % tavernId)
+
+    if player.tutorial_id  in [ Static.TUTORIAL_ID_GASHAPON_1, Static.TUTORIAL_ID_GASHAPON_2]:
+        if player.tutorial_id == Static.TUTORIAL_ID_GASHAPON_1:
+            playerhero = acquire_hero(player, 111020100, u"新手引导",star=1)
+            player.armies.lost(1900005, 10)
+            player.armies.lost(1900007, 10)
+            player.armies_need_save = True
+            response.common_response.player.set("soldiers", player.armies.to_dict())
+        elif player.tutorial_id == Static.TUTORIAL_ID_GASHAPON_2:
+            playerhero = acquire_hero(player, 116020700, u"新手引导")
+
+        player.tutorial_complete()
+        player.next_tutorial_open()
+        playerhero.gashapon_number = 1
+        units = [playerhero]
+    else:
+        gashapon = get_gashapon(tavern.gashapon_id)
+        is_new, playergashapon = player.gashapons.get_or_create(gashapon.pk)
+
+        if tavern.is_gold:
+            if not is_ten:
+                if not player.gashapon_is_gold_free and not reward_cost_check(player, tavern.tavern_cost):
+                    AlertHandler(player, response, AlertID.ALERT_GOLD_NOT_ENOUGH, u"heroGacha:tavern(%s) needGold(%s) playerGold(%s)" % (tavern.pk, tavern.tavern_cost.count , player.gold))
+                    return response
+            else:
+                if not reward_cost_check(player, tavern.tavern_tencost):
+                    AlertHandler(player, response, AlertID.ALERT_GOLD_NOT_ENOUGH, u"heroGacha:tavern(%s) needGold(%s) playerGold(%s)" % (tavern.pk, tavern.tavern_tencost.count, player.gold))
+                    return response
+        else:
+            if not is_ten:
+                if not player.gashapon_is_yuanbo_free and not reward_cost_check(player, tavern.tavern_cost):
+                    AlertHandler(player, response, AlertID.ALERT_DIAMOND_NOT_ENOUGH, u"heroGacha:tavern(%s) needYuanbo(%s) playerYuanbo(%s)" % (tavern.pk, tavern.tavern_cost.count , player.yuanbo))
+                    return response
+            else:
+                if  not reward_cost_check(player, tavern.tavern_tencost):
+                    AlertHandler(player, response, AlertID.ALERT_DIAMOND_NOT_ENOUGH, u"heroGacha:tavern(%s) needYuanbo(%s) playerYuanbo(%s)" % (tavern.pk, tavern.tavern_tencost.count , player.yuanbo))
+                    return response
+
+        if tavern.is_gold:
+            if not is_ten and player.gashapon_is_gold_free:
+                player.use_gashapon_gold_free()
+            else:
+                if is_ten:
+                    reward_cost(player, tavern.tavern_tencost, info=u"抽奖:%s:%s" % (gashapon.name, is_ten))
+                else:
+                    reward_cost(player, tavern.tavern_cost, info=u"抽奖:%s:%s" % (gashapon.name, is_ten))
+
+        else:
+            if not is_ten and player.gashapon_is_yuanbo_free:
+                player.use_gashapon_yuanbo_free()
+            else:
+                if is_ten:
+                    reward_cost(player, tavern.tavern_tencost, info=u"抽奖:%s:%s" % (gashapon.name, is_ten))
+                else:
+                    reward_cost(player, tavern.tavern_cost, info=u"抽奖:%s:%s" % (gashapon.name, is_ten))
+
+        if is_ten:
+            gashapon_count = 10
+        else:
+            gashapon_count = 1
+        units = playergashapon.acquire(player, gashapon, count=gashapon_count)
+        player.gashapons.update(playergashapon)
+        player.dailytask_going(Static.DAILYTASK_CATEGORY_GASHAPON, number=len(units), is_incr=True, is_series=True)#召唤大师
+
+    for unit in units:
+        reward = {"count":unit.gashapon_number, "type": unit.obj_id}
+        if hasattr(unit, "from_hero"):
+            reward["fromHero"] = unit.from_hero
+        else:
+            reward["fromHero"] = False
+
+        rewards.append(reward)
+
+    response.common_response.player.set("tavern", player.tavern)
+    response.logic_response.set("rewards", rewards)
+
+    return response
+
+@handle_common
+@require_player
+def heroDecompose(request, response):
+    """
+    献祭
+    """
+    player = request.player
+    player.get_playerdata("souls")
+    soul_ids = getattr(request.logic_request, "soulIds", [])
+
+    info = u"献祭"
+
+    soul_ids_len = len(soul_ids)
+
+    soul_ids = dict(zip(soul_ids[0:soul_ids_len:2], soul_ids[1:soul_ids_len:2]))
+
+    for pk, number in soul_ids.items():
+        playersoul = player.souls.get(pk)
+        if playersoul and playersoul.can_sub(number):
+            soul = get_soul(pk)
+            player.add_couragepoint(soul.couragePoint*number, info=info)
+            player.add_gold(soul.gold*number, info=info)
+            playersoul.sub(number, info=info)
+
+    return response
+
+@handle_common
+@require_player
+def heroCompose(request, response):
+    """
+    灵魂碎片合成英雄
+    """
+    player = request.player
+    player.get_playerdata("heroes", "souls")
+    soul_id = getattr(request.logic_request, "soulId", 0)
+    info = u"灵魂碎片合成英雄"
+
+    soul = get_soul(soul_id)
+
+    playersoul = player.souls.get(soul_id)
+    if not playersoul or not playersoul.can_sub(soul.recruitCost):
+        if not playersoul:
+            player.delete_soul(soul_id)
+        else:
+            player.update_soul(playersoul)
+        AlertHandler(player, response, AlertID.ALERT_HERO_COMPOSE_SOUL_NUMBER_NOT_ENOUGH, u"heroCompose:soul(%s) soulNumber(%s) recruitCost(%s)" % (soul_id, soul_number, soul.recruitCost))
+        return response
+
+    playerhero = player.heroes.get(soul.recruitHeroId)
+    if playerhero:
+        player.add_hero(playerhero)
+        AlertHandler(player, response, AlertID.ALERT_HERO_ALREADY_EXSIT, u"heroCompose:soul(%s) recruitHeroId(%s) existed" % (soul_id, soul.recruitHeroId))
+        return response
+
+    playersoul.sub(soul.recruitCost, info=info)
+
+    if player.tutorial_id == Static.TUTORIAL_ID_COMPOSE_HERO:
+        player.tutorial_complete()
+
+    acquire_hero(player, soul.warrior_id, info=info)
+    return response
+
+
+@handle_common
+@require_player
+def heroUpgrade(request, response):
+    """
+    进阶
+    """
+    player = request.player
+    player.get_playerdata("heroes", "rewards_cost")
+    playerhero_id = getattr(request.logic_request, "playerHeroId", 0)
+
+    playerhero = player.heroes.get(playerhero_id)
+    hero = playerhero.warrior.hero
+
+    if playerhero.level < hero.evolveLevel:
+        player.update_hero(playerhero)
+        AlertHandler(player,response, AlertID.ALERT_HERO_UPGRADE_LEVEL_NOT_ENOUGH, u"evolveHero:hero(%s) playerhero(%s) level(%s) evolveLevel(%s)" % (playerhero.warrior_id, playerhero_id, playerhero.level , hero.evolveLevel))
+        return response
+
+    _warrior = get_warrior(hero.evolveHero_id)
+    for cost in hero.evolveCosts:
+        if not reward_cost_check(player, cost):
+            AlertHandler(player, response, AlertID.ALERT_HERO_UPGRADE_MATERIAL_NOT_ENOUGH, u"evolveHero:hero(%s) playerhero(%s) cost(%s) is error" % (playerhero.warrior_id, playerhero_id, cost.pk))
+            return response
+
+    _info =u"进阶:%s,%s" % (playerhero.pk, playerhero.upgrade)
+
+    for cost in hero.evolveCosts:
+        reward_cost(player, cost)
+
+    if _warrior.hero.is_green:
+        player.task_going(Static.TASK_CATEGORY_HERO_EVOLVE_UPGRADE_GREEN, number=1, c1=_warrior.hero.upgrade, is_incr=True, is_series=True)
+    elif _warrior.hero.is_blue:
+        player.task_going(Static.TASK_CATEGORY_HERO_EVOLVE_UPGRADE_BLUE, number=1, c1=_warrior.hero.upgrade, is_incr=True, is_series=True)
+    elif _warrior.hero.is_purple:
+        player.task_going(Static.TASK_CATEGORY_HERO_EVOLVE_UPGRADE_PURPLE, number=1, c1=_warrior.hero.upgrade, is_incr=True, is_series=True)
+
+
+    ActionLogWriter.hero_evolve(player, playerhero.pk, playerhero.warrior_id, _warrior.pk, playerhero.upgrade , _warrior.hero.upgrade, playerhero.warrior.cardId, _info)
+
+    playerhero.warrior_id = _warrior.pk
+    playerhero.upgrade = _warrior.hero.upgrade
+
+    #检查是否开启新技能
+    skillhero = get_heroskill(_warrior.cardId)
+    for i in range(0, len(skillhero.skillinfo)/3):
+        skillGild,_,upgrade = skillhero.skillinfo[i*3:(i+1)*3]
+        if upgrade == playerhero.upgrade:
+            setattr(playerhero, "skill%sLevel" %(i+1), 0)
+
+    player.update_hero(playerhero, True)
+
+
+    if player.tutorial_id == Static.TUTORIAL_ID_HERO_UPGRADE:
+        player.tutorial_complete()
+        player.next_tutorial_open()
+
+        rewards = []
+        rewards.append({
+            "type": 500000,
+            "count": 100000,
+        })
+        rewards.append({
+            "type": 510000,
+            "count": 500,
+        })
+        rewards.append({
+            "type": 2620603,
+            "count": 20,
+        })
+        send_system_mail(player, None, u"新手引导礼包", u"恭喜您获得此份新手奖励，可作为冒险生涯的起步资金。", rewards)
+
+    return response
+
+
+@handle_common
+@require_player
+def heroSkillLevelUp(request, response):
+    """
+    技能升级
+    """
+    player = request.player
+    player.get_playerdata("heroes", "rewards_cost")
+    playerhero_id = getattr(request.logic_request, "playerHeroId", 0)
+    skill_pos = getattr(request.logic_request, "pos", -1)
+    #skill_pos = int(skill_pos) + 1
+
+    playerhero = player.heroes.get(playerhero_id)
+
+    if not playerhero:
+        raise ErrorException(player, u"heroSkillLevelUp:no playerhero(%s)" % (playerhero_id))
+
+    if not playerhero.skill_can_levelup(skill_pos):
+        player.update_hero(playerhero)
+        AlertHandler(player, response, AlertID.ALERT_HERO_SKILL_LEVELUP_ERROR, u"heroSkillLevelUp:hero(%s) playerhero(%s) pos(%s) can not levelup " % (playerhero.warrior_id, playerhero_id, skill_pos))
+        return response
+
+    if skill_pos <= 0 or skill_pos > 4:
+        raise ErrorException(player, u"heroSkillLevelUp:hero(%s) playerhero(%s) pos(%s) " % (playerhero.warrior_id, playerhero_id, skill_pos))
+
+
+    skill_id, skill_level = playerhero.get_skill_info(skill_pos)
+
+    skilllevel = get_skilllevel(skill_id, skill_level)
+    next_skilllevel = get_skilllevel(skill_id, skill_level+1)
+
+    if not skilllevel:
+        raise ErrorException(player, u"heroSkillLevelUp:hero(%s) playerhero(%s) skilllevel(%s)" % (playerhero.warrior_id, playerhero_id, skill_level))
+    if not  next_skilllevel:
+        raise ErrorException(player, u"heroSkillLevelUp:hero(%s) playerhero(%s) nextskilllevel(%s)" % (playerhero.warrior_id, playerhero_id, skill_level+1))
+
+    if playerhero.level <= skilllevel.level:
+        player.update_hero(playerhero)
+        AlertHandler(player, response, AlertID.ALERT_HERO_SKILL_LEVELUP_LEVEL_NOT_ENOUGH, u"heroSkillLevelUp:hero(%s) playerhero(%s) level(%s) skilllevel(%s)" % (playerhero.warrior_id, playerhero_id, playerhero.level, skilllevel.level))
+        return response
+
+    _gold = skilllevel.costGold
+
+    if player.gold < _gold:
+        AlertHandler(player, response, AlertID.ALERT_GOLD_NOT_ENOUGH , u"heroSkillLevelUp:hero(%s) playerhero(%s) needGold(%s) playerGold(%s)" % (playerhero.warrior_id, playerhero_id, _gold, player.gold))
+        return response
+
+    for cost in skilllevel.costs:
+        if not reward_cost_check(player, cost):
+            AlertHandler(player, response, AlertID.ALERT_HERO_SKILL_LEVELUP_MATERIAL_NOT_ENOUGH, u"heroSkillLevelUp:hero(%s) playerhero(%s) cost(%s) is error" % (playerhero.warrior_id, playerhero_id, cost.pk))
+            return response
+
+    for cost in skilllevel.costs:
+        reward_cost(player, cost)
+
+    _info =u"技能升级:%s" % (playerhero.pk)
+    player.sub_gold(_gold, _info)
+    skill_id, before_level = playerhero.get_skill_info(skill_pos)
+    playerhero.skill_levelup(skill_pos)
+    _, after_level = playerhero.get_skill_info(skill_pos)
+    ActionLogWriter.hero_skilllevelup(player, playerhero.pk, playerhero.warrior_id, skill_pos, skill_id, before_level, after_level, playerhero.warrior.cardId,_info)
+    player.update_hero(playerhero, True)
+
+    #player.dailytask_going(Static.DAILYTASK_ID_HERO_LEVELUP_3) #技能升级3次
+    player.dailytask_going(Static.DAILYTASK_CATEGORY_HERO_LEVELUP, number=1, is_incr=True, is_series=True)
+    if player.tutorial_id == Static.TUTORIAL_ID_SKILL_LEVELUP:
+        player.tutorial_complete()
+        player.next_tutorial_open()
+
+    return response
+
+@handle_common
+@require_player
+def heroStarUpgrade(request, response):
+    """
+    英雄升星
+    """
+    playerhero_id = getattr(request.logic_request, "playerHeroId", 0)
+    useSoulFirst = getattr(request.logic_request, "useSoulFirst", True)
+    player = request.player
+    player.get_playerdata("heroes", "rewards_cost", "items")
+
+    playerhero = player.heroes.get(playerhero_id)
+
+    if not playerhero:
+        raise ErrorException(player, u"heroStarUpgrade:no playerhero(%s)" % (playerhero_id))
+
+    herostarupgrade = get_herostarupgrade(playerhero.star)
+    if not herostarupgrade:
+        raise ErrorException(player, u"heroStarUpgrade:no herostarupgrade(%s)" % (playerhero.star))
+
+
+    soul_id = playerhero.warrior.hero.soulId
+    playersoul = player.souls.get(soul_id)
+    soul_number = playersoul.count if playersoul else 0
+    soul_number = soul_number if soul_number <= herostarupgrade.soulCount else herostarupgrade.soulCount
+
+    player_soulitem = player.items.get(Static.ITEM_HERO_UPGRADE_ID)
+    player_soulitem_number = player_soulitem.count if player_soulitem else 0
+    soulitem_number = player_soulitem_number if player_soulitem_number < herostarupgrade.sepecialItemMaxCount else herostarupgrade.sepecialItemMaxCount
+
+    if soul_number + soulitem_number < herostarupgrade.soulCount:
+        AlertHandler(player, response, AlertID.ALERT_SOUL_NOT_ENOUGH, u"heroStarUpgrade: playerheroId(%s) soulNumber(%) soulitemNumber(%) star(%s)" % (playerhero_id, soul_number, player_soulitem_number, playerhero.star))
+        return response
+
+    for cost in herostarupgrade.costs:
+        if not reward_cost_check(player, cost):
+            AlertHandler(player, response, AlertID.ALERT_HERO_STAR_UPGRADE_MATERIAL_NOT_ENOUGH, u"heroStarUpgrade: playerheroId(%s) cost(%s) is not enough star(%s)" % (playerhero_id, cost.id,playerhero.star))
+            return response
+
+    info = u"英雄(%s)升星(%s)" % (playerhero_id, playerhero.star)
+    #优先使用灵魂碎片
+    if useSoulFirst:
+        playersoul.sub(soul_number, info)
+        extra_soulitem_number =  herostarupgrade.soulCount - soul_number
+        if extra_soulitem_number > 0:
+            player_soulitem.sub(extra_soulitem_number, info)
+    else:
+        player_soulitem.sub(soulitem_number, info)
+        playersoul.sub(soul_number, info)
+
+    for cost in herostarupgrade.costs:
+        reward_cost(player, cost)
+
+    playerhero.star += 1
+    if playerhero.star == 3:
+        player.task_going(Static.TASK_CATEGORY_HERO_STAR3_UPGRADE, number=1, c1=playerhero.star, is_incr=True, is_series=True)
+    elif playerhero.star == 5:
+        player.task_going(Static.TASK_CATEGORY_HERO_STAR5_UPGRADE, number=1, c1=playerhero.star, is_incr=True, is_series=True)
+    elif playerhero.star == 7:
+        player.task_going(Static.TASK_CATEGORY_HERO_STAR7_UPGRADE, number=1, c1=playerhero.star, is_incr=True, is_series=True)
+    player.update_hero(playerhero, True)
+    return response
+
+@handle_common
+@require_player
+def heroDestiny(request, response):
+    """
+    英雄天命
+    """
+    playerhero_id = getattr(request.logic_request, "playerHeroId", 0)
+
+    player = request.player
+    player.get_playerdata("heroes", "items")
+
+    playerhero = player.heroes.get(playerhero_id)
+    if not playerhero:
+        raise ErrorException(player, u"heroDestiny:playerhero(%s) is not existed" % (playerhero_id))
+
+    herodestiny = get_herodestiny(playerhero.destinyLevel)
+    if not herodestiny:
+        raise ErrorException(player, u"heroDestiny:no herodestiny(%s)" % (playerhero.destinyLevel))
+
+    #英雄等级不够
+    if playerhero.level < herodestiny.heroLevel:
+        AlertHandler(player, response, AlertID.ALERT_LEVEL_NOT_ENOUGH, u"heroDestiny:playerhero(%s) herolevel(%s) < destinyHeroLevel(%s)" % (playerhero_id,  playerhero.level, herodestiny.heroLevel))
+        return response
+
+    #取得现有所有天命石头
+    item_id = Static.HERO_DESTINY_LIST[0]
+    player_destinystone = player.items.get(item_id)
+    if not player_destinystone:
+        raise ErrorException(player, u"heroDestiny:no player_destinystone(%s)" % (item_id))
+
+    #计算这些石头能够提供的所有经验
+    player_destinystonexp = player_destinystone.count * player_destinystone.item.number
+
+    #提供的经验不够
+    if playerhero.destinyLevel <= Static.HERO_DESTINY_LEVEL:
+        if player_destinystonexp < herodestiny.stoneCost:
+            AlertHandler(player, response, AlertID.ALERT_ITEM_NOT_ENOUGH, u"heroDestiny:item_id(%s) number is not enough" % item_id)
+            return response
+        else:
+            cost_count = herodestiny.stoneCost/player_destinystone.item.number
+    else:
+        if player_destinystonexp < playerhero.destinyLevel * Static.HERO_DESTINY_COST_RATIO:
+            AlertHandler(player, response, AlertID.ALERT_ITEM_NOT_ENOUGH, u"heroDestiny:item_id(%s) number is not enough" % item_id)
+            return response
+        else:
+            cost_count = playerhero.destinyLevel * Static.HERO_DESTINY_COST_RATIO/player_destinystone.item.number
+
+    info = u"英雄天命:%s" % playerhero_id
+
+    #进行天命
+    playerhero.destiny(herodestiny.id)
+    player_destinystone.sub(cost_count, info=info)
+    player.update_hero(playerhero, True)
+    return response
+
+@handle_common
+@require_player
+def heroTrain(request, response):
+    """
+    英雄培养
+    """
+    playerhero_id = getattr(request.logic_request, "playerHeroId", 0)
+    train_type = getattr(request.logic_request, "trainType", 0)
+    #培养次数
+    train_counts = getattr(request.logic_request, "count", 0)
+
+
+    player = request.player
+    player.get_playerdata("heroes", "items")
+
+    playerhero = player.heroes.get(playerhero_id)
+
+    train_id = playerhero.warrior.cardId
+
+    if not playerhero:
+        raise ErrorException(player, u"heroTrain:playerhero(%s) is not existed" % (playerhero_id))
+
+    herotrain = get_herotrain(train_id)
+    if not herotrain:
+        raise ErrorException(player, u"heroTrain:train_id(%s) is not existed" % (train_id))
+
+    playeritem = player.items.get(Static.ITEM_TRAIN_ID)
+    if not playeritem:
+        raise ErrorException(player, u"heroTrain:playeritem(%s) is not existed" % (playeritem.item_id))
+
+    #培养丹数量不够
+    if not playeritem.can_sub(herotrain.count * train_counts):
+        AlertHandler(player, response, AlertID.ALERT_ITEM_NOT_ENOUGH,  u"heroTrain:item(%s) playeritem(%s) useCount(%s) count(%s)" % (playeritem.item_id, Static.ITEM_TRAIN_ID, herotrain.count * train_counts, playeritem.count))
+        return response
+
+    if herotrain.goldCost > 0 and player.gold < herotrain.goldCost * train_counts:
+        AlertHandler(player, response, AlertID.ALERT_ITEM_NOT_ENOUGH,  u"heroTrain: playgold(%s) <  count(%s)" % (player.gold, herotrain.goldCost * train_counts))
+        return response
+    if herotrain.diamond_cost > 0 and player.yuanbo < herotrain.diamond_cost * train_counts:
+        AlertHandler(player, response, AlertID.ALERT_ITEM_NOT_ENOUGH,  u"heroTrain: playyuanbo(%s) <  count(%s)" % (player.yuanbo, herotrain.diamond_cost * train_counts))
+        return response
+
+    attack = 0
+    physicalArmor = 0
+    magicArmor = 0
+    hp = 0
+
+    if train_type == 1:
+
+        for i in range(0, train_counts):
+
+            trainattack, _ = random_item_pick(herotrain.train_attackvalues_item)
+            trainphysicalArmor, _ = random_item_pick(herotrain.train_physicalvalues_item)
+            trainmagicArmor, _ = random_item_pick(herotrain.train_magicvalues_item)
+            trainhp, _ = random_item_pick(herotrain.train_hpvalues_item)
+
+        attack += trainattack
+        physicalArmor += trainphysicalArmor
+        magicArmor += trainmagicArmor
+        hp += hp
+
+    elif train_type == 2:
+
+        for i in range(0, train_counts):
+
+            trainattack, _ = random_item_pick(herotrain.train_attackvalues_gold)
+            trainphysicalArmor, _ = random_item_pick(herotrain.train_physicalvalues_gold)
+            trainmagicArmor, _ = random_item_pick(herotrain.train_magicvalues_gold)
+            trainhp, _ = random_item_pick(herotrain.train_hpvalues_gold)
+
+        attack += trainattack
+        physicalArmor += trainphysicalArmor
+        magicArmor += trainmagicArmor
+        hp += hp
+
+    elif train_type == 3:
+
+        for i in range(0, train_counts):
+
+            trainattack, _ = random_item_pick(herotrain.train_attackvalues_diamond)
+            trainphysicalArmor, _ = random_item_pick(herotrain.train_physicalvalues_diamond)
+            trainmagicArmor, _ = random_item_pick(herotrain.train_magicvalues_diamond)
+            trainhp, _ = random_item_pick(herotrain.train_hpvalues_diamond)
+
+        attack += trainattack
+        physicalArmor += trainphysicalArmor
+        magicArmor += trainmagicArmor
+        hp += hp
+
+    else:
+        raise ErrorException(player, u"heroTrain:trainType(%s) is not existed" % (train_type))
+
+    playerhero.addHp = hp
+    playerhero.addAttack = attack
+    playerhero.addMagicArmor = magicArmor
+    playerhero.addPhysicalArmor = physicalArmor
+
+
+    info = u"英雄培养(%s)" % playerhero_id
+    #扣除物品
+    playeritem.sub(herotrain.count * train_counts, info=info)
+
+    if herotrain.gold_cost > 0:
+        player.sub_gold(herotrain.gold_cost * train_counts, info)
+    if herotrain.diamond_cost > 0:
+        player.sub_yuanbo(herotrain.diamond_cost * train_counts, info)
+    rewards = []
+
+    rewards.append({"attrType": "hp", "count": hp})
+    rewards.append({"attrType": "attack", "count": attack})
+    rewards.append({"attrType": "magicArmor", "count": magicArmor})
+    rewards.append({"attrType": "physicalArmor", "count": physicalArmor})
+
+
+    response.logic_response.set("rewards", rewards)
+    return response
+
+
+
+@handle_common
+@require_player
+def heroTrainConfirm(request, response):
+    """
+    英雄培养确认
+    """
+
+
+    player = request.player
+    playerhero_id = getattr(request.logic_request, "playerHeroId", 0)
+    playerhero = player.heroes.get(playerhero_id)
+
+
+    if not playerhero:
+        raise ErrorException(player, u"heroTrain:playerhero(%s) is not existed" % (playerhero_id))
+
+    playerhero.train_hp(playerhero.addHp)
+    playerhero.train_attack(playerhero.addAttack)
+    playerhero.train_PhysicalArmor(playerhero.addPhysicalArmor)
+    playerhero.train_MagicArmor(playerhero.addMagicArmor)
+
+
+    playerhero.addHp = 0
+    playerhero.addAttack = 0
+    playerhero.addMagicArmor = 0
+    playerhero.addPhysicalArmor = 0
+
+    return response
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@handle_common
+@require_player
+def heroLevelUp(request, response):
+    """
+    英雄升级
+    """
+    playerhero_id = getattr(request.logic_request, "playerHeroId", 0)
+    item_ids = getattr(request.logic_request, "itemIds", 0)
+
+    player = request.player
+    player.get_playerdata("heroes", "items")
+    info = u"英雄升级:%s" % playerhero_id
+
+    playerhero = player.heroes.get(playerhero_id)
+
+    if not playerhero:
+        raise ErrorException(player, u"heroLevelUp:playerhero(%s) is not existed" % (playerhero_id))
+
+    items = dict(zip(item_ids[0:len(item_ids):2], item_ids[1:len(item_ids):2]))
+
+    total_xp = 0
+
+    for item_id, count in items.items():
+        playeritem = player.items.get(item_id)
+        if not playeritem:
+            raise ErrorException(player, u"heroLevelUp:playeritem(%s) no existed" % (item_id))
+
+        if not playeritem.can_sub(count):
+            #更新数据
+            player.update_item(playeritem)
+            AlertHandler(player, response, AlertID.ALERT_ITEM_NOT_ENOUGH,  u"heroLevelUp:item(%s) playeritem(%s) useCount(%s) count(%s)" % (playeritem.item_id, item_id, count, playeritem.count))
+            return response
+
+        total_xp += playeritem.item.number * count
+
+    playerhero.add_xp(total_xp)
+    player.update_hero(playerhero, True)
+
+    for item_id, count in items.items():
+        playeritem = player.items.get(item_id)
+        playeritem.sub(count, info=info)
+
+    return response
+
+

@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 建筑升级消耗
+  row: 3
+  model: building.buildingupgradecost
+  columns:
+    - name: count
+      column: count
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: type
+      column: type
+      type: int
+      default: 0
+
+

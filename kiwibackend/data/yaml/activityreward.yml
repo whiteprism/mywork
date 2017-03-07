@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 活动奖励列表
+  row: 3
+  model: activity.activityreward
+  columns:
+    - name: count
+      column: count
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: type
+      column: type
+      type: int
+      default: 0
+
+

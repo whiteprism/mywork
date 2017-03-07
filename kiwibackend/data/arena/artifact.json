@@ -1,0 +1,938 @@
+[
+    {
+        "pk": 1411505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14115050",
+            "orderId": 20,
+            "attrList_int": "1150501,1150502,1150503",
+            "upgradeXp": 100,
+            "nameId": "art_1411505",
+            "name": "\u94c1\u94f8\u91cd\u6212",
+            "heroTypeList_int": 1.0,
+            "skillId": 0,
+            "composeFragmentIds_int": "24115051,24115052,24115053",
+            "category": 5,
+            "quality": 2,
+            "icon": "icon_1411505"
+        }
+    },
+    {
+        "pk": 1411606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14116060",
+            "orderId": 20,
+            "attrList_int": "1160601,1160602,1160603",
+            "upgradeXp": 100,
+            "nameId": "art_1411606",
+            "name": "\u94c1\u94f8\u9879\u94fe",
+            "heroTypeList_int": "1",
+            "skillId": 0,
+            "composeFragmentIds_int": "24116061,24116062,24116063",
+            "category": 6,
+            "quality": 2,
+            "icon": "icon_1411606"
+        }
+    },
+    {
+        "pk": 1412505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14125050",
+            "orderId": 30,
+            "attrList_int": "1250501,1250502,1250503",
+            "upgradeXp": 200,
+            "nameId": "art_1412505",
+            "name": "\u5e73\u8861\u91cd\u6212",
+            "heroTypeList_int": "1",
+            "skillId": 0,
+            "composeFragmentIds_int": "24125051,24125052,24125053,24125054",
+            "category": 5,
+            "quality": 3,
+            "icon": "icon_1412505"
+        }
+    },
+    {
+        "pk": 1412606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14126060",
+            "orderId": 30,
+            "attrList_int": "1260601,1260602,1260603",
+            "upgradeXp": 200,
+            "nameId": "art_1412606",
+            "name": "\u5e73\u8861\u9879\u94fe",
+            "heroTypeList_int": "1",
+            "skillId": 0,
+            "composeFragmentIds_int": "24126061,24126062,24126063,24126064",
+            "category": 6,
+            "quality": 3,
+            "icon": "icon_1412606"
+        }
+    },
+    {
+        "pk": 1414505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14145050",
+            "orderId": 40,
+            "attrList_int": "1450501,1450502,1450503",
+            "upgradeXp": 500,
+            "nameId": "art_1414505",
+            "name": "\u7a33\u56fa\u91cd\u6212",
+            "heroTypeList_int": "1",
+            "skillId": 0,
+            "composeFragmentIds_int": "24145051,24145052,24145053,24145054,24145055",
+            "category": 5,
+            "quality": 4,
+            "icon": "icon_1414505"
+        }
+    },
+    {
+        "pk": 1414606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14146060",
+            "orderId": 40,
+            "attrList_int": "1460601,1460602,1460603",
+            "upgradeXp": 500,
+            "nameId": "art_1414606",
+            "name": "\u7a33\u56fa\u9879\u94fe",
+            "heroTypeList_int": "1",
+            "skillId": 0,
+            "composeFragmentIds_int": "24146061,24146062,24146063,24146064,24146065",
+            "category": 6,
+            "quality": 4,
+            "icon": "icon_1414606"
+        }
+    },
+    {
+        "pk": 1417505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14175050",
+            "orderId": 50,
+            "attrList_int": "1750501,1750502,1750503",
+            "upgradeXp": 1000,
+            "nameId": "art_1417505",
+            "name": "\u78d0\u77f3\u91cd\u6212",
+            "heroTypeList_int": "1",
+            "skillId": 0,
+            "composeFragmentIds_int": "24175051,24175052,24175053,24175054,24175055,24175056",
+            "category": 5,
+            "quality": 5,
+            "icon": "icon_1417505"
+        }
+    },
+    {
+        "pk": 1417606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14176060",
+            "orderId": 50,
+            "attrList_int": "1760601,1760602,1760603",
+            "upgradeXp": 1000,
+            "nameId": "art_1417606",
+            "name": "\u78d0\u77f3\u9879\u94fe",
+            "heroTypeList_int": "1",
+            "skillId": 0,
+            "composeFragmentIds_int": "24176061,24176062,24176063,24176064,24176065,24176066",
+            "category": 6,
+            "quality": 5,
+            "icon": "icon_1417606"
+        }
+    },
+    {
+        "pk": 1421505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14215050",
+            "orderId": 20,
+            "attrList_int": "2150501,2150502,2150503",
+            "upgradeXp": 100,
+            "nameId": "art_1421505",
+            "name": "\u8fc5\u6377\u4e4b\u6212",
+            "heroTypeList_int": "2",
+            "skillId": 0,
+            "composeFragmentIds_int": "24215051,24215052,24215053",
+            "category": 5,
+            "quality": 2,
+            "icon": "icon_1421505"
+        }
+    },
+    {
+        "pk": 1421606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14216060",
+            "orderId": 20,
+            "attrList_int": "2160601,2160602,2160603",
+            "upgradeXp": 100,
+            "nameId": "art_1421606",
+            "name": "\u8fc5\u6377\u9879\u94fe",
+            "heroTypeList_int": "2",
+            "skillId": 0,
+            "composeFragmentIds_int": "24216061,24216062,24216063",
+            "category": 6,
+            "quality": 2,
+            "icon": "icon_1421606"
+        }
+    },
+    {
+        "pk": 1422505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14225050",
+            "orderId": 30,
+            "attrList_int": "2250501,2250502,2250503",
+            "upgradeXp": 200,
+            "nameId": "art_1422505",
+            "name": "\u654f\u9510\u4e4b\u6212",
+            "heroTypeList_int": "2",
+            "skillId": 0,
+            "composeFragmentIds_int": "24225051,24225052,24225053,24225054",
+            "category": 5,
+            "quality": 3,
+            "icon": "icon_1422505"
+        }
+    },
+    {
+        "pk": 1422606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14226060",
+            "orderId": 30,
+            "attrList_int": "2260601,2260602,2260603",
+            "upgradeXp": 200,
+            "nameId": "art_1422606",
+            "name": "\u654f\u9510\u9879\u94fe",
+            "heroTypeList_int": "2",
+            "skillId": 0,
+            "composeFragmentIds_int": "24226061,24226062,24226063,24226064",
+            "category": 6,
+            "quality": 3,
+            "icon": "icon_1422606"
+        }
+    },
+    {
+        "pk": 1424505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14245050",
+            "orderId": 40,
+            "attrList_int": "2450501,2450502,2450503",
+            "upgradeXp": 500,
+            "nameId": "art_1424505",
+            "name": "\u72e1\u8bc8\u4e4b\u6212",
+            "heroTypeList_int": "2",
+            "skillId": 0,
+            "composeFragmentIds_int": "24245051,24245052,24245053,24245054,24245055",
+            "category": 5,
+            "quality": 4,
+            "icon": "icon_1424505"
+        }
+    },
+    {
+        "pk": 1424606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14246060",
+            "orderId": 40,
+            "attrList_int": "2460601,2460602,2460603",
+            "upgradeXp": 500,
+            "nameId": "art_1424606",
+            "name": "\u72e1\u8bc8\u9879\u94fe",
+            "heroTypeList_int": "2",
+            "skillId": 0,
+            "composeFragmentIds_int": "24246061,24246062,24246063,24246064,24246065",
+            "category": 6,
+            "quality": 4,
+            "icon": "icon_1424606"
+        }
+    },
+    {
+        "pk": 1427505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14275050",
+            "orderId": 50,
+            "attrList_int": "2750501,2750502,2750503",
+            "upgradeXp": 1000,
+            "nameId": "art_1427505",
+            "name": "\u6b8b\u5fcd\u4e4b\u6212",
+            "heroTypeList_int": "2",
+            "skillId": 0,
+            "composeFragmentIds_int": "24275051,24275052,24275053,24275054,24275055,24275056",
+            "category": 5,
+            "quality": 5,
+            "icon": "icon_1427505"
+        }
+    },
+    {
+        "pk": 1427606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14276060",
+            "orderId": 50,
+            "attrList_int": "2760601,2760602,2760603",
+            "upgradeXp": 1000,
+            "nameId": "art_1427606",
+            "name": "\u6b8b\u5fcd\u9879\u94fe",
+            "heroTypeList_int": "2",
+            "skillId": 0,
+            "composeFragmentIds_int": "24276061,24276062,24276063,24276064,24276065,24276066",
+            "category": 6,
+            "quality": 5,
+            "icon": "icon_1427606"
+        }
+    },
+    {
+        "pk": 1441505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14415050",
+            "orderId": 20,
+            "attrList_int": "4150501,4150502,4150503",
+            "upgradeXp": 100,
+            "nameId": "art_1441505",
+            "name": "\u5e7d\u84dd\u6307\u73af",
+            "heroTypeList_int": "4",
+            "skillId": 0,
+            "composeFragmentIds_int": "24415051,24415052,24415053",
+            "category": 5,
+            "quality": 2,
+            "icon": "icon_1441505"
+        }
+    },
+    {
+        "pk": 1441606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14416060",
+            "orderId": 20,
+            "attrList_int": "4160601,4160602,4160603",
+            "upgradeXp": 100,
+            "nameId": "art_1441606",
+            "name": "\u5e7d\u5170\u9888\u9970",
+            "heroTypeList_int": "4",
+            "skillId": 0,
+            "composeFragmentIds_int": "24416061,24416062,24416063",
+            "category": 6,
+            "quality": 2,
+            "icon": "icon_1441606"
+        }
+    },
+    {
+        "pk": 1442505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14425050",
+            "orderId": 30,
+            "attrList_int": "4250501,4250502,4250503",
+            "upgradeXp": 200,
+            "nameId": "art_1442505",
+            "name": "\u601d\u7eea\u6307\u73af",
+            "heroTypeList_int": "4",
+            "skillId": 0,
+            "composeFragmentIds_int": "24425051,24425052,24425053,24425054",
+            "category": 5,
+            "quality": 3,
+            "icon": "icon_1442505"
+        }
+    },
+    {
+        "pk": 1442606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14426060",
+            "orderId": 30,
+            "attrList_int": "4260601,4260602,4260603",
+            "upgradeXp": 200,
+            "nameId": "art_1442606",
+            "name": "\u601d\u7eea\u9888\u9970",
+            "heroTypeList_int": "4",
+            "skillId": 0,
+            "composeFragmentIds_int": "24426061,24426062,24426063,24426064",
+            "category": 6,
+            "quality": 3,
+            "icon": "icon_1442606"
+        }
+    },
+    {
+        "pk": 1444505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14445050",
+            "orderId": 40,
+            "attrList_int": "4450501,4450502,4450503",
+            "upgradeXp": 500,
+            "nameId": "art_1444505",
+            "name": "\u5bd2\u51b0\u6307\u73af",
+            "heroTypeList_int": "4",
+            "skillId": 0,
+            "composeFragmentIds_int": "24445051,24445052,24445053,24445054,24445055",
+            "category": 5,
+            "quality": 4,
+            "icon": "icon_1444505"
+        }
+    },
+    {
+        "pk": 1444606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14446060",
+            "orderId": 40,
+            "attrList_int": "4460601,4460602,4460603",
+            "upgradeXp": 500,
+            "nameId": "art_1444606",
+            "name": "\u5bd2\u51b0\u9888\u9970",
+            "heroTypeList_int": "4",
+            "skillId": 0,
+            "composeFragmentIds_int": "24446061,24446062,24446063,24446064,24446065",
+            "category": 6,
+            "quality": 4,
+            "icon": "icon_1444606"
+        }
+    },
+    {
+        "pk": 1447505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14475050",
+            "orderId": 50,
+            "attrList_int": "4750501,4750502,4750503",
+            "upgradeXp": 1000,
+            "nameId": "art_1447505",
+            "name": "\u8f89\u714c\u6307\u73af",
+            "heroTypeList_int": "4",
+            "skillId": 0,
+            "composeFragmentIds_int": "24475051,24475052,24475053,24475054,24475055,24475056",
+            "category": 5,
+            "quality": 5,
+            "icon": "icon_1447505"
+        }
+    },
+    {
+        "pk": 1447606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14476060",
+            "orderId": 50,
+            "attrList_int": "4760601,4760602,4760603",
+            "upgradeXp": 1000,
+            "nameId": "art_1447606",
+            "name": "\u8f89\u714c\u9888\u9970",
+            "heroTypeList_int": "4",
+            "skillId": 0,
+            "composeFragmentIds_int": "24476061,24476062,24476063,24476064,24476065,24476066",
+            "category": 6,
+            "quality": 5,
+            "icon": "icon_1447606"
+        }
+    },
+    {
+        "pk": 1461505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14615050",
+            "orderId": 20,
+            "attrList_int": "6150501,6150502,6150503",
+            "upgradeXp": 100,
+            "nameId": "art_1461505",
+            "name": "\u7fe1\u7fe0\u4e4b\u6212",
+            "heroTypeList_int": "6",
+            "skillId": 0,
+            "composeFragmentIds_int": "24615051,24615052,24615053",
+            "category": 5,
+            "quality": 2,
+            "icon": "icon_1461505"
+        }
+    },
+    {
+        "pk": 1461606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14616060",
+            "orderId": 20,
+            "attrList_int": "6160601,6160602,6160603",
+            "upgradeXp": 100,
+            "nameId": "art_1461606",
+            "name": "\u7fe1\u7fe0\u9879\u94fe",
+            "heroTypeList_int": "6",
+            "skillId": 0,
+            "composeFragmentIds_int": "24616061,24616062,24616063",
+            "category": 6,
+            "quality": 2,
+            "icon": "icon_1461606"
+        }
+    },
+    {
+        "pk": 1462505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14625050",
+            "orderId": 30,
+            "attrList_int": "6250501,6250502,6250503",
+            "upgradeXp": 200,
+            "nameId": "art_1462505",
+            "name": "\u72c2\u98ce\u4e4b\u6212",
+            "heroTypeList_int": "6",
+            "skillId": 0,
+            "composeFragmentIds_int": "24625051,24625052,24625053,24625054",
+            "category": 5,
+            "quality": 3,
+            "icon": "icon_1462505"
+        }
+    },
+    {
+        "pk": 1462606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14626060",
+            "orderId": 30,
+            "attrList_int": "6260601,6260602,6260603",
+            "upgradeXp": 200,
+            "nameId": "art_1462606",
+            "name": "\u72c2\u98ce\u9879\u94fe",
+            "heroTypeList_int": "6",
+            "skillId": 0,
+            "composeFragmentIds_int": "24626061,24626062,24626063,24626064",
+            "category": 6,
+            "quality": 3,
+            "icon": "icon_1462606"
+        }
+    },
+    {
+        "pk": 1464505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14645050",
+            "orderId": 40,
+            "attrList_int": "6450501,6450502,6450503",
+            "upgradeXp": 500,
+            "nameId": "art_1464505",
+            "name": "\u730e\u5fc3\u4e4b\u6212",
+            "heroTypeList_int": "6",
+            "skillId": 0,
+            "composeFragmentIds_int": "24645051,24645052,24645053,24645054,24645055",
+            "category": 5,
+            "quality": 4,
+            "icon": "icon_1464505"
+        }
+    },
+    {
+        "pk": 1464606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14646060",
+            "orderId": 40,
+            "attrList_int": "6460601,6460602,6460603",
+            "upgradeXp": 500,
+            "nameId": "art_1464606",
+            "name": "\u730e\u5fc3\u9879\u94fe",
+            "heroTypeList_int": "6",
+            "skillId": 0,
+            "composeFragmentIds_int": "24646061,24646062,24646063,24646064,24646065",
+            "category": 6,
+            "quality": 4,
+            "icon": "icon_1464606"
+        }
+    },
+    {
+        "pk": 1467505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14675050",
+            "orderId": 50,
+            "attrList_int": "6750501,6750502,6750503",
+            "upgradeXp": 1000,
+            "nameId": "art_1467505",
+            "name": "\u9f99\u7259\u4e4b\u6212",
+            "heroTypeList_int": "6",
+            "skillId": 0,
+            "composeFragmentIds_int": "24675051,24675052,24675053,24675054,24675055,24675056",
+            "category": 5,
+            "quality": 5,
+            "icon": "icon_1467505"
+        }
+    },
+    {
+        "pk": 1467606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14676060",
+            "orderId": 50,
+            "attrList_int": "6760601,6760602,6760603",
+            "upgradeXp": 1000,
+            "nameId": "art_1467606",
+            "name": "\u9f99\u7259\u9879\u94fe",
+            "heroTypeList_int": "6",
+            "skillId": 0,
+            "composeFragmentIds_int": "24676061,24676062,24676063,24676064,24676065,24676066",
+            "category": 6,
+            "quality": 5,
+            "icon": "icon_1467606"
+        }
+    },
+    {
+        "pk": 1431505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14315050",
+            "orderId": 20,
+            "attrList_int": "3150501,3150502,3150503",
+            "upgradeXp": 100,
+            "nameId": "art_1431505",
+            "name": "\u5b88\u62a4\u91cd\u6212",
+            "heroTypeList_int": "3",
+            "skillId": 0,
+            "composeFragmentIds_int": "24315051,24315052,24315053",
+            "category": 5,
+            "quality": 2,
+            "icon": "icon_1431505"
+        }
+    },
+    {
+        "pk": 1431606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14316060",
+            "orderId": 20,
+            "attrList_int": "3160601,3160602,3160603",
+            "upgradeXp": 100,
+            "nameId": "art_1431606",
+            "name": "\u5b88\u62a4\u9879\u94fe",
+            "heroTypeList_int": "3",
+            "skillId": 0,
+            "composeFragmentIds_int": "24316061,24316062,24316063",
+            "category": 6,
+            "quality": 2,
+            "icon": "icon_1431606"
+        }
+    },
+    {
+        "pk": 1432505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14325050",
+            "orderId": 30,
+            "attrList_int": "3250501,3250502,3250503",
+            "upgradeXp": 200,
+            "nameId": "art_1432505",
+            "name": "\u575a\u97e7\u91cd\u6212",
+            "heroTypeList_int": "3",
+            "skillId": 0,
+            "composeFragmentIds_int": "24325051,24325052,24325053,24325054",
+            "category": 5,
+            "quality": 3,
+            "icon": "icon_1432505"
+        }
+    },
+    {
+        "pk": 1432606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14326060",
+            "orderId": 30,
+            "attrList_int": "3260601,3260602,3260603",
+            "upgradeXp": 200,
+            "nameId": "art_1432606",
+            "name": "\u575a\u97e7\u9879\u94fe",
+            "heroTypeList_int": "3",
+            "skillId": 0,
+            "composeFragmentIds_int": "24326061,24326062,24326063,24326064",
+            "category": 6,
+            "quality": 3,
+            "icon": "icon_1432606"
+        }
+    },
+    {
+        "pk": 1434505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14345050",
+            "orderId": 40,
+            "attrList_int": "3450501,3450502,3450503",
+            "upgradeXp": 500,
+            "nameId": "art_1434505",
+            "name": "\u7cbe\u91d1\u91cd\u6212",
+            "heroTypeList_int": "3",
+            "skillId": 0,
+            "composeFragmentIds_int": "24345051,24345052,24345053,24345054,24345055",
+            "category": 5,
+            "quality": 4,
+            "icon": "icon_1434505"
+        }
+    },
+    {
+        "pk": 1434606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14346060",
+            "orderId": 40,
+            "attrList_int": "3460601,3460602,3460603",
+            "upgradeXp": 500,
+            "nameId": "art_1434606",
+            "name": "\u7cbe\u91d1\u9879\u94fe",
+            "heroTypeList_int": "3",
+            "skillId": 0,
+            "composeFragmentIds_int": "24346061,24346062,24346063,24346064,24346065",
+            "category": 6,
+            "quality": 4,
+            "icon": "icon_1434606"
+        }
+    },
+    {
+        "pk": 1437505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14375050",
+            "orderId": 50,
+            "attrList_int": "3750501,3750502,3750503",
+            "upgradeXp": 1000,
+            "nameId": "art_1437505",
+            "name": "\u4fe1\u5ff5\u91cd\u6212",
+            "heroTypeList_int": "3",
+            "skillId": 0,
+            "composeFragmentIds_int": "24375051,24375052,24375053,24375054,24375055,24375056",
+            "category": 5,
+            "quality": 5,
+            "icon": "icon_1437505"
+        }
+    },
+    {
+        "pk": 1437606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14376060",
+            "orderId": 50,
+            "attrList_int": "3760601,3760602,3760603",
+            "upgradeXp": 1000,
+            "nameId": "art_1437606",
+            "name": "\u4fe1\u5ff5\u9879\u94fe",
+            "heroTypeList_int": "3",
+            "skillId": 0,
+            "composeFragmentIds_int": "24376061,24376062,24376063,24376064,24376065,24376066",
+            "category": 6,
+            "quality": 5,
+            "icon": "icon_1437606"
+        }
+    },
+    {
+        "pk": 1451505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14515050",
+            "orderId": 20,
+            "attrList_int": "5150501,5150502,5150503",
+            "upgradeXp": 100,
+            "nameId": "art_1451505",
+            "name": "\u5f15\u5bfc\u6307\u73af",
+            "heroTypeList_int": "5",
+            "skillId": 0,
+            "composeFragmentIds_int": "24515051,24515052,24515053",
+            "category": 5,
+            "quality": 2,
+            "icon": "icon_1451505"
+        }
+    },
+    {
+        "pk": 1451606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14516060",
+            "orderId": 20,
+            "attrList_int": "5160601,5160602,5160603",
+            "upgradeXp": 100,
+            "nameId": "art_1451606",
+            "name": "\u5f15\u5bfc\u9888\u9970",
+            "heroTypeList_int": "5",
+            "skillId": 0,
+            "composeFragmentIds_int": "24516061,24516062,24516063",
+            "category": 6,
+            "quality": 2,
+            "icon": "icon_1451606"
+        }
+    },
+    {
+        "pk": 1452505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14525050",
+            "orderId": 30,
+            "attrList_int": "5250501,5250502,5250503",
+            "upgradeXp": 200,
+            "nameId": "art_1452505",
+            "name": "\u51a5\u60f3\u6307\u73af",
+            "heroTypeList_int": "5",
+            "skillId": 0,
+            "composeFragmentIds_int": "24525051,24525052,24525053,24525054",
+            "category": 5,
+            "quality": 3,
+            "icon": "icon_1452505"
+        }
+    },
+    {
+        "pk": 1452606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14526060",
+            "orderId": 30,
+            "attrList_int": "5260601,5260602,5260603",
+            "upgradeXp": 200,
+            "nameId": "art_1452606",
+            "name": "\u51a5\u60f3\u9888\u9970",
+            "heroTypeList_int": "5",
+            "skillId": 0,
+            "composeFragmentIds_int": "24526061,24526062,24526063,24526064",
+            "category": 6,
+            "quality": 3,
+            "icon": "icon_1452606"
+        }
+    },
+    {
+        "pk": 1454505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14545050",
+            "orderId": 40,
+            "attrList_int": "5450501,5450502,5450503",
+            "upgradeXp": 500,
+            "nameId": "art_1454505",
+            "name": "\u4fe1\u4ef0\u6307\u73af",
+            "heroTypeList_int": "5",
+            "skillId": 0,
+            "composeFragmentIds_int": "24545051,24545052,24545053,24545054,24545055",
+            "category": 5,
+            "quality": 4,
+            "icon": "icon_1454505"
+        }
+    },
+    {
+        "pk": 1454606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14546060",
+            "orderId": 40,
+            "attrList_int": "5460601,5460602,5460603",
+            "upgradeXp": 500,
+            "nameId": "art_1454606",
+            "name": "\u4fe1\u4ef0\u9888\u9970",
+            "heroTypeList_int": "5",
+            "skillId": 0,
+            "composeFragmentIds_int": "24546061,24546062,24546063,24546064,24546065",
+            "category": 6,
+            "quality": 4,
+            "icon": "icon_1454606"
+        }
+    },
+    {
+        "pk": 1457505,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14575050",
+            "orderId": 50,
+            "attrList_int": "5750501,5750502,5750503",
+            "upgradeXp": 1000,
+            "nameId": "art_1457505",
+            "name": "\u6b89\u9053\u6307\u73af",
+            "heroTypeList_int": "5",
+            "skillId": 0,
+            "composeFragmentIds_int": "24575051,24575052,24575053,24575054,24575055,24575056",
+            "category": 5,
+            "quality": 5,
+            "icon": "icon_1457505"
+        }
+    },
+    {
+        "pk": 1457606,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14576060",
+            "orderId": 50,
+            "attrList_int": "5760601,5760602,5760603",
+            "upgradeXp": 1000,
+            "nameId": "art_1457606",
+            "name": "\u6b89\u9053\u9888\u9970",
+            "heroTypeList_int": "5",
+            "skillId": 0,
+            "composeFragmentIds_int": "24576061,24576062,24576063,24576064,24576065,24576066",
+            "category": 6,
+            "quality": 5,
+            "icon": "icon_1457606"
+        }
+    },
+    {
+        "pk": 1401909,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14019090",
+            "orderId": 20,
+            "attrList_int": "",
+            "upgradeXp": 200,
+            "nameId": "art_1401909",
+            "name": "\u94dc\u952d",
+            "heroTypeList_int": "0",
+            "skillId": 0,
+            "composeFragmentIds_int": "24019091,24019092,24019093",
+            "category": 9,
+            "quality": 2,
+            "icon": "icon_1401909"
+        }
+    },
+    {
+        "pk": 1403909,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14039090",
+            "orderId": 30,
+            "attrList_int": "",
+            "upgradeXp": 500,
+            "nameId": "art_1403909",
+            "name": "\u94f6\u952d",
+            "heroTypeList_int": "0",
+            "skillId": 0,
+            "composeFragmentIds_int": "24039091,24039092,24039093,24039094",
+            "category": 9,
+            "quality": 3,
+            "icon": "icon_1403909"
+        }
+    },
+    {
+        "pk": 1406909,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14069090",
+            "orderId": 40,
+            "attrList_int": "",
+            "upgradeXp": 1000,
+            "nameId": "art_1406909",
+            "name": "\u91d1\u952d",
+            "heroTypeList_int": "0",
+            "skillId": 0,
+            "composeFragmentIds_int": "24069091,24069092,24069093,24069094,24069095",
+            "category": 9,
+            "quality": 4,
+            "icon": "icon_1406909"
+        }
+    },
+    {
+        "pk": 1409909,
+        "model": "artifact.artifact",
+        "fields": {
+            "descriptionId": "art_14099090",
+            "orderId": 50,
+            "attrList_int": "",
+            "upgradeXp": 3000,
+            "nameId": "art_1409909",
+            "name": "\u4e03\u5f69\u952d",
+            "heroTypeList_int": "0",
+            "skillId": 0,
+            "composeFragmentIds_int": "24099091,24099092,24099093,24099094,24099095,24099096",
+            "category": 9,
+            "quality": 5,
+            "icon": "icon_1409909"
+        }
+    }
+]

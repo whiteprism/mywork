@@ -1,0 +1,18 @@
+
+table:
+  out-type: json
+  sheet: 触发器信息
+  row: 3
+  model: instance.triggerinfo
+  columns:
+    - name: nameID
+      column: nameID
+      type: int
+      default: 0
+
+    - name: triggerID
+      column: triggerID
+      type: int
+      default: 0
+
+

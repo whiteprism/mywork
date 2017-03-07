@@ -1,0 +1,245 @@
+# -*- encoding:utf8 -*-
+from decorators import require_player, handle_common
+from module.common.static import Static, AlertID
+from module.gem.api import get_gemfragment, get_gem, get_gemshop_item
+from module.playergem.api import acquire_gem, acquire_gemfragment
+from module.common.middleware import ErrorException, AlertHandler
+
+@handle_common
+@require_player
+def gemInlay(request, response):
+    
+    """
+    镶嵌宝石
+    """
+    player = request.player
+    player.get_playerdata("equips", "gems")
+
+    playerequip_id  = getattr(request.logic_request, "playerEquipId", -1)
+    #卡槽
+    slots = getattr(request.logic_request, "poses", [])
+    playergem_ids = getattr(request.logic_request, "playerGemIds", [])
+
+    #检查装备
+    playerequip = player.equips.get(playerequip_id)
+
+    if not playerequip:
+        raise ErrorException(player, u"gemInlay:playerequip(%s) no existed" % playerequip_id)
+
+    playergems = [player.gems.get(pk) for pk in playergem_ids]
+
+    _datas = dict(zip(slots, playergems))
+    for _slot, _playergem in _datas.items():
+        if not _playergem:
+            raise ErrorException(player, u"gemInlay:not have playergem(%s)" % playergem_ids[_slot])
+
+        if playerequip.equip.gemList[_slot] != _playergem.gem_id:
+            AlertHandler(player, response, AlertID.ALERT_EQUIP_GEM_IN_ERROR ,u"gemInlay:equip(%s) playerequip(%s) slot(%s) slotMaterialGem(%s) playerGem(%s)" %
+                    (playerequip.equip_id, playerequip_id, _slot, playerequip.equip.gemList[_slot], _playergem.gem_id))
+            return response
+
+        if not _playergem.can_sub(1):
+            player.update_gem(_playergem)
+            AlertHandler(player, response, AlertID.ALERT_EQUIP_GEM_NOT_ENOUGH, u"gemInlay:equip(%s) playerequip(%s) slot(%s) count(%s)" % (playerequip.equip_id, playerequip_id, _slot, _playergem.count))
+            return response
+
+        if _playergem.gem.equipLevel > playerequip.level + 1:
+            AlertHandler(player, response, AlertID.ALERT_LEVEL_NOT_ENOUGH, u"gemInlay:equip(%s) playerequip(%s) slot(%s) equipLevel(%s) playerEquipLevel(%s)" % (playerequip.equip_id, playerequip_id, _slot, _playergem.gem.equipLevel,  playerequip.level))
+            return response
+
+
+    info = u"镶嵌宝石:%s" %(playerequip_id)
+    for _slot, _playergem in _datas.items():
+        playerequip.slot_in(_slot, _playergem.gem_id)
+        _playergem.sub(player, 1, info)
+
+    player.update_equip(playerequip, True)
+        
+    return response
+
+@handle_common
+@require_player
+def equipGemsInlay(request, response):
+    
+    """
+    镶嵌宝石
+    """
+    player = request.player
+    player.get_playerdata("equips", "gems")
+
+    playerequip_id  = getattr(request.logic_request, "playerEquipId", -1)
+
+    #检查装备
+    playerequip = player.equips.get(playerequip_id)
+    if not playerequip:
+        raise ErrorException(player, u"equipGemsInlay:playerequip(%s) no existed" % playerequip_id)
+
+    info = u"一键镶嵌宝石:%s" %(playerequip_id)
+    for i in range(0, len(playerequip.equip.gemList)):
+        if not playerequip.get_slot(i):
+            playergem = player.gems.get(playerequip.equip.gemList[i])
+            if not playergem:
+                continue
+            if playergem.gem.equipLevel > playerequip.level + 1:
+                continue
+            if not playergem.can_sub(1):
+                continue
+            playerequip.slot_in(i, playergem.gem_id)
+            playergem.sub(player, 1, info)
+
+    if player.tutorial_id == Static.TUTORIAL_ID_EQUIP_UPGRADE:
+        player.tutorial_complete()
+        player.next_tutorial_open()
+
+    player.update_equip(playerequip, True)
+        
+    return response
+
+@handle_common
+@require_player
+def gemCompose(request, response):
+    
+    """
+    宝石合成
+    """
+    player = request.player
+    player.get_playerdata("gems", "gemfragments")
+
+    gemfragment_id  = getattr(request.logic_request, "fragmentId", 0)
+    gemfragment = get_gemfragment(gemfragment_id)
+    info = u"宝石合成:%s" % gemfragment_id
+
+    if not gemfragment:
+        raise ErrorException(player, u"gemCompose:gemfragment(%s) no existed" % gemfragment_id)
+
+    gem = gemfragment.gem
+
+    cost_gold = gem.costGold
+
+    if player.gold < cost_gold:
+        AlertHandler(player, response, AlertID.ALERT_GOLD_NOT_ENOUGH, u"gemCompose:gemfragment(%s) costGold(%s) playerGold(%s)" % (gemfragment_id, cost_gold, player.gold ))
+        return response
+
+    playergemfragment = player.gemfragments.get(gemfragment_id)
+    if not playergemfragment or not playergemfragment.can_sub(gemfragment.composeCount):
+        have_count = playergemfragment.count if playergemfragment else 0
+        AlertHandler(player, response, AlertID.ALERT_EQUIP_GEM_NOT_ENOUGH, u"gemCompose:gemfragment(%s) needCount(%s) count(%s)" % (gemfragment_id, gemfragment.composeCount, have_count))
+        return response
+
+    player.sub_gold(cost_gold, info)
+    playergemfragment.sub(player, gemfragment.composeCount, info)
+    
+    acquire_gem(player, gem, number=1, info=info)
+
+    return response
+
+@handle_common
+@require_player
+def gemDecompose(request, response):
+    """
+    宝石分解
+    """
+    player = request.player
+    player.get_playerdata("gems")
+    gem_count  = getattr(request.logic_request, "counts", [])
+    gem_ids  = getattr(request.logic_request, "gemIds", [])
+
+    playergems = player.gems.get_by_pks(gem_ids)
+    
+    if len(playergems) != len(gem_ids):
+        raise ErrorException(player, u"gemDecompose: gem_ids(%s) no existed" % gem_ids)
+
+    gems = dict(zip(gem_ids,gem_count))
+    for playergem in playergems.values():
+        if not playergem.can_sub(gems[playergem.pk]):
+            AlertHandler(player,response, AlertID.ALERT_GEM_NOT_ENOUGH, u"gemDecompose: gem_id(%s) count(%s) playerCount(%s)" % (playergem.pk, gems[playergem.pk], playergem.count))
+            return response
+
+    gemcoin = 0
+    for playergem in playergems.values():
+        info = u"分解:%s:%s" % (playergem.gem_id, gems[playergem.pk])
+        playergem.sub(player, gems[playergem.pk], info=info)
+        player.update_gem(playergem)
+        player.gems.update(playergem)
+        player.gemshop.add_gemcoin(playergem.gem.gemCoin * gems[playergem.pk], info=info)
+        gemcoin += playergem.gem.gemCoin * gems[playergem.pk]
+
+    reward = {
+        "type": Static.GEMPOWDER,
+        "count": gemcoin,
+    }
+
+    response.common_response.player.set("gemShop", player.gemshop.to_dict())
+    response.logic_response.set("reward", reward)
+    return response
+
+@handle_common
+@require_player
+def gemShopBuy(request, response):
+    """
+    宝石商店兑换
+    """
+    player = request.player
+    player.get_playerdata("gemshop", "gems", "gemfragments")
+    gemshop_id  = getattr(request.logic_request, "gemShopId", 0)
+    gemshop_id = int(gemshop_id)
+    gemshop_item = get_gemshop_item(gemshop_id)
+    if not gemshop_item:
+        raise ErrorException(player, u"gemShopBuy:gemshopitem(%s) no existed" % gemshop_id)
+
+    if not player.gemshop.can_exchange(gemshop_id):
+        response.common_response.player.set("gemShop", player.gemshop.to_dict())
+        AlertHandler(player, response, AlertID.ALERT_GEM_SHOP_CAN_NOT_EXCHANGE, u"gemShopBuy:gemshopitem(%s) can not buyed buyItem(%s) shopItem(%s)" % (gemshop_id, str(player.gemshop.buyItem), str(player.gemshop.shopItem)))
+        return response
+
+    if player.gemshop.gemCoin < gemshop_item.gemCoin:
+        response.common_response.player.set("gemShop", player.gemshop.to_dict())
+        AlertHandler(player, response, AlertID.ALERT_GEMCOIN_NOT_ENOUGH, u"gemShopBuy:gemshopitem(%s) can not buyed gemCoin(%s) playerGemCoin(%s)" % (gemshop_id, gemshop_item.gemCoin, player.gemshop.gemCoin))
+
+    info = u"宝石商店兑换"
+    if gemshop_item.item_is_gem:
+        acquire_gem(player, gemshop_item.itemId, number=gemshop_item.count, info=info)
+    else:
+        acquire_gemfragment(player, gemshop_item.itemId, gemshop_item.count, info=info)
+
+    player.gemshop.sub_gemcoin(gemshop_item.gemCoin, info=u"兑换:%s" % gemshop_id)
+    player.gemshop.exchange(gemshop_item.pk)
+    response.common_response.player.set("gemShop", player.gemshop.to_dict())
+    return response
+
+
+@handle_common
+@require_player
+def gemShopInit(request, response):
+    """
+    宝石商店刷新
+    """
+    player = request.player
+    player.get_playerdata("gemshop")
+    info = u"gemshop refresh"
+
+    if player.gemshop.refresh_auto():
+        pass
+    elif player.gemshop.refresh_free():
+        pass
+    else:
+        playeritem = player.items.get(Static.ITEM_REFRESH_TICKET_ID)
+        if playeritem and playeritem.can_sub(1):
+            player.gemshop.refresh_ticket()
+            playeritem.sub(player, 1, info=info)
+        else:
+            #使用元宝
+            _yuanbo = Static.GEMSHOP_REFRESH_YUANBO
+            if player.yuanbo < _yuanbo:
+                AlertHandler(player, response, AlertID.ALERT_DIAMOND_NOT_ENOUGH, u"gemShopInit:needYuanbo(%s) playerYuanbo(%s)" % (_yuanbo, player.yuanbo))
+                return response
+
+            if not player.gemshop.refresh_yuanbo():
+                response.common_response.player.set("gemShop", player.gemshop.to_dict())
+                AlertHandler(player,response, AlertID.ALERT_GEM_SHOP_DIAMOND_REFRESH_OVER_TIME, u"gemShopInit:diamondRefreshCount(%s) yuanbo_number(%s)" % (player.gemshop.diamondRefreshCount, player.gemshop.yuanbo_number))
+                return response
+
+            player.sub_yuanbo(_yuanbo, info=info)
+
+    response.common_response.player.set("gemShop", player.gemshop.to_dict())
+    return response

@@ -1,0 +1,551 @@
+[
+    {
+        "pk": 2500001,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500001",
+            "attr": "hp",
+            "enumId": 0
+        }
+    },
+    {
+        "pk": 2500002,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500002",
+            "attr": "maxHp",
+            "enumId": 1
+        }
+    },
+    {
+        "pk": 2500003,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500003",
+            "attr": "physicalArmor",
+            "enumId": 2
+        }
+    },
+    {
+        "pk": 2500004,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500004",
+            "attr": "magicArmor",
+            "enumId": 3
+        }
+    },
+    {
+        "pk": 2500005,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500005",
+            "attr": "damageFree",
+            "enumId": 4
+        }
+    },
+    {
+        "pk": 2500006,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500006",
+            "attr": "attack",
+            "enumId": 5
+        }
+    },
+    {
+        "pk": 2500007,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500007",
+            "attr": "ap",
+            "enumId": 6
+        }
+    },
+    {
+        "pk": 2500008,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500008",
+            "attr": "realPhysical",
+            "enumId": 7
+        }
+    },
+    {
+        "pk": 2500009,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500009",
+            "attr": "realMagic",
+            "enumId": 8
+        }
+    },
+    {
+        "pk": 2500010,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500010",
+            "attr": "killToHeal",
+            "enumId": 9
+        }
+    },
+    {
+        "pk": 2500011,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500011",
+            "attr": "autoHp",
+            "enumId": 10
+        }
+    },
+    {
+        "pk": 2500012,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500012",
+            "attr": "poison",
+            "enumId": 11
+        }
+    },
+    {
+        "pk": 2500013,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500013",
+            "attr": "critical",
+            "enumId": 12
+        }
+    },
+    {
+        "pk": 2500014,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500014",
+            "attr": "miss",
+            "enumId": 13
+        }
+    },
+    {
+        "pk": 2500015,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500015",
+            "attr": "shoot",
+            "enumId": 14
+        }
+    },
+    {
+        "pk": 2500016,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500016",
+            "attr": "tenacity",
+            "enumId": 15
+        }
+    },
+    {
+        "pk": 2500017,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500017",
+            "attr": "throughAttackScale",
+            "enumId": 16
+        }
+    },
+    {
+        "pk": 2500018,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500018",
+            "attr": "coolDownScale",
+            "enumId": 17
+        }
+    },
+    {
+        "pk": 2500019,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500019",
+            "attr": "moveSpeedScale",
+            "enumId": 18
+        }
+    },
+    {
+        "pk": 2500020,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500020",
+            "attr": "violenceScale",
+            "enumId": 19
+        }
+    },
+    {
+        "pk": 2500021,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500021",
+            "attr": "hpScale",
+            "enumId": 20
+        }
+    },
+    {
+        "pk": 2500022,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500022",
+            "attr": "attackScale",
+            "enumId": 21
+        }
+    },
+    {
+        "pk": 2500023,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500023",
+            "attr": "apScale",
+            "enumId": 22
+        }
+    },
+    {
+        "pk": 2500024,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500024",
+            "attr": "physicalArmorScale",
+            "enumId": 23
+        }
+    },
+    {
+        "pk": 2500025,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500025",
+            "attr": "magicArmorScale",
+            "enumId": 24
+        }
+    },
+    {
+        "pk": 2500026,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500026",
+            "attr": "healScale",
+            "enumId": 25
+        }
+    },
+    {
+        "pk": 2500027,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500027",
+            "attr": "energy",
+            "enumId": 26
+        }
+    },
+    {
+        "pk": 2500028,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500028",
+            "attr": "energyPerSec",
+            "enumId": 27
+        }
+    },
+    {
+        "pk": 2500029,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500029",
+            "attr": "killToEnergy",
+            "enumId": 28
+        }
+    },
+    {
+        "pk": 2500030,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500030",
+            "attr": "energyReduce",
+            "enumId": 29
+        }
+    },
+    {
+        "pk": 2500031,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500031",
+            "attr": "faint",
+            "enumId": 30
+        }
+    },
+    {
+        "pk": 2500032,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500032",
+            "attr": "stone",
+            "enumId": 31
+        }
+    },
+    {
+        "pk": 2500033,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500033",
+            "attr": "interruptPower",
+            "enumId": 32
+        }
+    },
+    {
+        "pk": 2500034,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500034",
+            "attr": "steelArmorPower",
+            "enumId": 33
+        }
+    },
+    {
+        "pk": 2500035,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500035",
+            "attr": "shield",
+            "enumId": 34
+        }
+    },
+    {
+        "pk": 2500036,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500036",
+            "attr": "superShield",
+            "enumId": 35
+        }
+    },
+    {
+        "pk": 2500037,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500037",
+            "attr": "damageScale",
+            "enumId": 36
+        }
+    },
+    {
+        "pk": 2500038,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500038",
+            "attr": "exile",
+            "enumId": 37
+        }
+    },
+    {
+        "pk": 2500039,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500039",
+            "attr": "baseEnergyInitial",
+            "enumId": 38
+        }
+    },
+    {
+        "pk": 2500040,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500040",
+            "attr": "wallHp",
+            "enumId": 39
+        }
+    },
+    {
+        "pk": 2500041,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500041",
+            "attr": "attackGrows",
+            "enumId": 40
+        }
+    },
+    {
+        "pk": 2500042,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500042",
+            "attr": "apGrows",
+            "enumId": 41
+        }
+    },
+    {
+        "pk": 2500043,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500043",
+            "attr": "hpGrows",
+            "enumId": 42
+        }
+    },
+    {
+        "pk": 2500044,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500044",
+            "attr": "physicalArmorGrows",
+            "enumId": 43
+        }
+    },
+    {
+        "pk": 2500045,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500045",
+            "attr": "magicArmorGrows",
+            "enumId": 44
+        }
+    },
+    {
+        "pk": 2500046,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500046",
+            "attr": "attackRange",
+            "enumId": 45
+        }
+    },
+    {
+        "pk": 2500047,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500047",
+            "attr": "extraHp",
+            "enumId": 46
+        }
+    },
+    {
+        "pk": 2500048,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500048",
+            "attr": "extraAttack",
+            "enumId": 47
+        }
+    },
+    {
+        "pk": 2500049,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500049",
+            "attr": "extraPhysicalArmor",
+            "enumId": 48
+        }
+    },
+    {
+        "pk": 2500050,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500050",
+            "attr": "extraMagicArmor",
+            "enumId": 49
+        }
+    },
+    {
+        "pk": 2500051,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500051",
+            "attr": "physicalImmune",
+            "enumId": 50
+        }
+    },
+    {
+        "pk": 2500052,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500052",
+            "attr": "magicalImmune",
+            "enumId": 51
+        }
+    },
+    {
+        "pk": 2500053,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500053",
+            "attr": "leeth",
+            "enumId": 52
+        }
+    },
+    {
+        "pk": 2500054,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500054",
+            "attr": "deadDamage",
+            "enumId": 53
+        }
+    },
+    {
+        "pk": 2500055,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500055",
+            "attr": "hurtToEnegy",
+            "enumId": 54
+        }
+    },
+    {
+        "pk": 2500056,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500056",
+            "attr": "extraViolenceScale",
+            "enumId": 55
+        }
+    },
+    {
+        "pk": 2500057,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500057",
+            "attr": "extraRealPhysical",
+            "enumId": 56
+        }
+    },
+    {
+        "pk": 2500058,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500058",
+            "attr": "extraRealMagic",
+            "enumId": 57
+        }
+    },
+    {
+        "pk": 2500059,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500059",
+            "attr": "extraDamageFree",
+            "enumId": 58
+        }
+    },
+    {
+        "pk": 2500060,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500060",
+            "attr": "damageHeal",
+            "enumId": 59
+        }
+    },
+    {
+        "pk": 2500061,
+        "model": "attr.attr",
+        "fields": {
+            "nameId": "attribute_2500061",
+            "attr": "sneer",
+            "enumId": 60
+        }
+    }
+]

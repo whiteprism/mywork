@@ -1,0 +1,322 @@
+[
+    {
+        "pk": 1001001,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u90e8\u843d\u8981\u585e",
+            "buildingToWarriorId": 191100100,
+            "descriptionId": "build_10010010",
+            "buildCamera": 1,
+            "height": 5,
+            "orderId": 0,
+            "width": 5,
+            "model": "",
+            "levelCount_int": "0,1",
+            "nameId": "build_1001001",
+            "unlockUserLevel": 1,
+            "summaryId": "build_10010011"
+        }
+    },
+    {
+        "pk": 1001002,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u53ec\u5524\u796d\u575b",
+            "buildingToWarriorId": 191100200,
+            "descriptionId": "build_10010020",
+            "buildCamera": 1,
+            "height": 3,
+            "orderId": 1,
+            "width": 3,
+            "model": "",
+            "levelCount_int": "1,1",
+            "nameId": "build_1001002",
+            "unlockUserLevel": 1,
+            "summaryId": "build_10010021"
+        }
+    },
+    {
+        "pk": 1001003,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u82f1\u96c4\u796d\u575b",
+            "buildingToWarriorId": 191100300,
+            "descriptionId": "build_10010030",
+            "buildCamera": 1,
+            "height": 3,
+            "orderId": 2,
+            "width": 3,
+            "model": "",
+            "levelCount_int": "1,1",
+            "nameId": "build_1001003",
+            "unlockUserLevel": 1,
+            "summaryId": "build_10010031"
+        }
+    },
+    {
+        "pk": 1001004,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u94c1\u5320\u94fa",
+            "buildingToWarriorId": 191100400,
+            "descriptionId": "build_10010040",
+            "buildCamera": 1,
+            "height": 3,
+            "orderId": 3,
+            "width": 3,
+            "model": "",
+            "levelCount_int": "1,1",
+            "nameId": "build_1001004",
+            "unlockUserLevel": 3,
+            "summaryId": "build_10010041"
+        }
+    },
+    {
+        "pk": 1001005,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u89d2\u6597\u573a",
+            "buildingToWarriorId": 191100500,
+            "descriptionId": "build_10010050",
+            "buildCamera": 1,
+            "height": 3,
+            "orderId": 4,
+            "width": 3,
+            "model": "",
+            "levelCount_int": "1,0,2,1",
+            "nameId": "build_1001005",
+            "unlockUserLevel": 10,
+            "summaryId": "build_10010051"
+        }
+    },
+    {
+        "pk": 1001006,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u5148\u7956\u796d\u575b",
+            "buildingToWarriorId": 191100600,
+            "descriptionId": "build_10010060",
+            "buildCamera": 1,
+            "height": 3,
+            "orderId": 5,
+            "width": 3,
+            "model": "",
+            "levelCount_int": "1,0,7,1",
+            "nameId": "build_1001006",
+            "unlockUserLevel": 21,
+            "summaryId": "build_10010061"
+        }
+    },
+    {
+        "pk": 1001007,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u5730\u5821",
+            "buildingToWarriorId": 191100700,
+            "descriptionId": "build_10010070",
+            "buildCamera": 1,
+            "height": 1,
+            "orderId": 6,
+            "width": 1,
+            "model": "",
+            "levelCount_int": "1,0,5,1,6,2,8,3,13,4,20,5",
+            "nameId": "build_1001007",
+            "unlockUserLevel": 16,
+            "summaryId": "build_10010071"
+        }
+    },
+    {
+        "pk": 1001008,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u4fdd\u9669\u5e93",
+            "buildingToWarriorId": 191100800,
+            "descriptionId": "build_10010080",
+            "buildCamera": 1,
+            "height": 1,
+            "orderId": 7,
+            "width": 1,
+            "model": "",
+            "levelCount_int": "1,0,6,1",
+            "nameId": "build_1001008",
+            "unlockUserLevel": 18,
+            "summaryId": "build_10010081"
+        }
+    },
+    {
+        "pk": 1001009,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u91d1\u77ff",
+            "buildingToWarriorId": 191100900,
+            "descriptionId": "build_10010090",
+            "buildCamera": 1,
+            "height": 3,
+            "orderId": 8,
+            "width": 3,
+            "model": "",
+            "levelCount_int": "1,1,3,2,5,3,8,4,12,5,17,6",
+            "nameId": "build_1001009",
+            "unlockUserLevel": 1,
+            "summaryId": "build_10010091"
+        }
+    },
+    {
+        "pk": 1001010,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u4f10\u6728\u573a",
+            "buildingToWarriorId": 191101000,
+            "descriptionId": "build_10010100",
+            "buildCamera": 1,
+            "height": 3,
+            "orderId": 9,
+            "width": 3,
+            "model": "",
+            "levelCount_int": "1,1",
+            "nameId": "build_1001010",
+            "unlockUserLevel": 1,
+            "summaryId": "build_10010101"
+        }
+    },
+    {
+        "pk": 1001011,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u90e8\u843d\u5175\u8425",
+            "buildingToWarriorId": 191101100,
+            "descriptionId": "build_10010110",
+            "buildCamera": 1,
+            "height": 3,
+            "orderId": 10,
+            "width": 3,
+            "model": "",
+            "levelCount_int": "1,1",
+            "nameId": "build_1001011",
+            "unlockUserLevel": 12,
+            "summaryId": "build_10010111"
+        }
+    },
+    {
+        "pk": 1001012,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u6218\u4e89\u56fe\u817e",
+            "buildingToWarriorId": 191101200,
+            "descriptionId": "build_10010120",
+            "buildCamera": 1,
+            "height": 3,
+            "orderId": 11,
+            "width": 3,
+            "model": "",
+            "levelCount_int": "1,0,4,1",
+            "nameId": "build_1001012",
+            "unlockUserLevel": 14,
+            "summaryId": "build_10010121"
+        }
+    },
+    {
+        "pk": 1001013,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u4e0a\u53e4\u9057\u8ff9",
+            "buildingToWarriorId": 191101300,
+            "descriptionId": "build_10010130",
+            "buildCamera": 1,
+            "height": 3,
+            "orderId": 12,
+            "width": 3,
+            "model": "",
+            "levelCount_int": "1,0,5,1",
+            "nameId": "build_1001013",
+            "unlockUserLevel": 16,
+            "summaryId": "build_10010131"
+        }
+    },
+    {
+        "pk": 1001014,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u65f6\u7a7a\u4e4b\u95e8",
+            "buildingToWarriorId": 191101400,
+            "descriptionId": "build_10010140",
+            "buildCamera": 1,
+            "height": 3,
+            "orderId": 13,
+            "width": 3,
+            "model": "",
+            "levelCount_int": "1,0,10,1",
+            "nameId": "build_1001014",
+            "unlockUserLevel": 70,
+            "summaryId": "build_10010141"
+        }
+    },
+    {
+        "pk": 1002001,
+        "model": "building.building",
+        "fields": {
+            "category": 2,
+            "buildingToastId": "text_192",
+            "name": "\u9632\u5fa1\u58541",
+            "buildingToWarriorId": 191200100,
+            "descriptionId": "build_10020010",
+            "buildCamera": 1,
+            "height": 3,
+            "orderId": 15,
+            "width": 3,
+            "model": "",
+            "levelCount_int": "1,2",
+            "nameId": "build_1002001",
+            "unlockUserLevel": 1,
+            "summaryId": "build_10020011"
+        }
+    },
+    {
+        "pk": 1001016,
+        "model": "building.building",
+        "fields": {
+            "category": 1,
+            "buildingToastId": "text_192",
+            "name": "\u96f7\u8fbe",
+            "buildingToWarriorId": 191101600,
+            "descriptionId": "build_10010160",
+            "buildCamera": 1,
+            "height": 3,
+            "orderId": 16,
+            "width": 3,
+            "model": "",
+            "levelCount_int": "1,0,4,1",
+            "nameId": "build_1001016",
+            "unlockUserLevel": 14,
+            "summaryId": "build_10010161"
+        }
+    }
+]

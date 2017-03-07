@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: 属性UI说明
+  row: 3
+  model: attr.attr
+  columns:
+    - name: attr
+      column: attr
+      type: char
+      default: ""
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: enumId
+      column: enumId
+      type: int
+      default: 0
+
+

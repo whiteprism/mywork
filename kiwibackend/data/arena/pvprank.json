@@ -1,0 +1,134 @@
+[
+    {
+        "pk": 10001,
+        "model": "pvp.pvprank",
+        "fields": {
+            "rewards_int": "10001,10012",
+            "level": 1,
+            "rank": 1,
+            "dailyRewards_int": "11001,12001",
+            "titleID": "PVP_10001",
+            "score": 2700
+        }
+    },
+    {
+        "pk": 10002,
+        "model": "pvp.pvprank",
+        "fields": {
+            "rewards_int": "10002,10013",
+            "level": 2,
+            "rank": 10,
+            "dailyRewards_int": "11002,12002",
+            "titleID": "PVP_10002",
+            "score": 2400
+        }
+    },
+    {
+        "pk": 10003,
+        "model": "pvp.pvprank",
+        "fields": {
+            "rewards_int": "10003,10014",
+            "level": 3,
+            "rank": 30,
+            "dailyRewards_int": "11003,12003",
+            "titleID": "PVP_10003",
+            "score": 2100
+        }
+    },
+    {
+        "pk": 10004,
+        "model": "pvp.pvprank",
+        "fields": {
+            "rewards_int": "10004,10015",
+            "level": 4,
+            "rank": 50,
+            "dailyRewards_int": "11004,12004",
+            "titleID": "PVP_10004",
+            "score": 1800
+        }
+    },
+    {
+        "pk": 10005,
+        "model": "pvp.pvprank",
+        "fields": {
+            "rewards_int": "10005,10016",
+            "level": 5,
+            "rank": 100,
+            "dailyRewards_int": "11005,12005",
+            "titleID": "PVP_10005",
+            "score": 1500
+        }
+    },
+    {
+        "pk": 10006,
+        "model": "pvp.pvprank",
+        "fields": {
+            "rewards_int": "10006,10017",
+            "level": 6,
+            "rank": 200,
+            "dailyRewards_int": "11006,12005",
+            "titleID": "PVP_10006",
+            "score": 1400
+        }
+    },
+    {
+        "pk": 10007,
+        "model": "pvp.pvprank",
+        "fields": {
+            "rewards_int": "10007,10018",
+            "level": 7,
+            "rank": 300,
+            "dailyRewards_int": "11006,12006",
+            "titleID": "PVP_10007",
+            "score": 1300
+        }
+    },
+    {
+        "pk": 10008,
+        "model": "pvp.pvprank",
+        "fields": {
+            "rewards_int": "10008,10019",
+            "level": 8,
+            "rank": 500,
+            "dailyRewards_int": "11007,12006",
+            "titleID": "PVP_10008",
+            "score": 1200
+        }
+    },
+    {
+        "pk": 10009,
+        "model": "pvp.pvprank",
+        "fields": {
+            "rewards_int": "10009,10020",
+            "level": 9,
+            "rank": 800,
+            "dailyRewards_int": "11007,12007",
+            "titleID": "PVP_10009",
+            "score": 1100
+        }
+    },
+    {
+        "pk": 10010,
+        "model": "pvp.pvprank",
+        "fields": {
+            "rewards_int": "10010,10021",
+            "level": 10,
+            "rank": 1000,
+            "dailyRewards_int": "11008,12007",
+            "titleID": "PVP_10010",
+            "score": 1000
+        }
+    },
+    {
+        "pk": 10011,
+        "model": "pvp.pvprank",
+        "fields": {
+            "rewards_int": "10011,10022",
+            "level": 11,
+            "rank": 1500,
+            "dailyRewards_int": "11008,12008",
+            "titleID": "PVP_10011",
+            "score": 800
+        }
+    }
+]

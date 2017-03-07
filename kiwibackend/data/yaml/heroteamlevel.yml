@@ -1,0 +1,38 @@
+
+table:
+  out-type: json
+  sheet: 英雄组级别
+  row: 3
+  model: hero.heroteamlevel
+  columns:
+    - name: teamId
+      column: teamId
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: score
+      column: score
+      type: int
+      default: 0
+
+    - name: costs_int
+      column: costs
+      type: char
+      default: "0"
+
+    - name: attrList_int
+      column: attrList
+      type: char
+      default: ""
+
+    - name: nextLevelId
+      column: nextLevelId
+      type: int
+      default: 0
+
+

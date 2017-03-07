@@ -1,0 +1,83 @@
+[
+    {
+        "pk": 3000,
+        "model": "pvp.pvpupgradescore",
+        "fields": {
+            "mulLang": "fytext_300711",
+            "upgrade": "fytext_300741",
+            "rewards_int": 13001.0
+        }
+    },
+    {
+        "pk": 2500,
+        "model": "pvp.pvpupgradescore",
+        "fields": {
+            "mulLang": "fytext_300711",
+            "upgrade": "fytext_300740",
+            "rewards_int": 13002.0
+        }
+    },
+    {
+        "pk": 2100,
+        "model": "pvp.pvpupgradescore",
+        "fields": {
+            "mulLang": "fytext_300711",
+            "upgrade": "fytext_300739",
+            "rewards_int": 13003.0
+        }
+    },
+    {
+        "pk": 1800,
+        "model": "pvp.pvpupgradescore",
+        "fields": {
+            "mulLang": "fytext_300711",
+            "upgrade": "fytext_300738",
+            "rewards_int": 13004.0
+        }
+    },
+    {
+        "pk": 1550,
+        "model": "pvp.pvpupgradescore",
+        "fields": {
+            "mulLang": "fytext_300711",
+            "upgrade": "fytext_300737",
+            "rewards_int": 13005.0
+        }
+    },
+    {
+        "pk": 1350,
+        "model": "pvp.pvpupgradescore",
+        "fields": {
+            "mulLang": "fytext_300711",
+            "upgrade": "fytext_300736",
+            "rewards_int": 13006.0
+        }
+    },
+    {
+        "pk": 1200,
+        "model": "pvp.pvpupgradescore",
+        "fields": {
+            "mulLang": "fytext_300711",
+            "upgrade": "fytext_300735",
+            "rewards_int": 13007.0
+        }
+    },
+    {
+        "pk": 1100,
+        "model": "pvp.pvpupgradescore",
+        "fields": {
+            "mulLang": "fytext_300711",
+            "upgrade": "fytext_300734",
+            "rewards_int": 13008.0
+        }
+    },
+    {
+        "pk": 1050,
+        "model": "pvp.pvpupgradescore",
+        "fields": {
+            "mulLang": "fytext_300711",
+            "upgrade": "fytext_300733",
+            "rewards_int": 13009.0
+        }
+    }
+]

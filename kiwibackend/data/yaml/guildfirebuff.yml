@@ -1,0 +1,18 @@
+
+table:
+  out-type: json
+  sheet: 公会火堆BUFF
+  row: 3
+  model: guild.guildfirebuff
+  columns:
+    - name: buffName
+      column: buffName
+      type: char
+      default: ""
+
+    - name: fireIndex_int
+      column: fireIndex
+      type: char
+      default: ""
+
+

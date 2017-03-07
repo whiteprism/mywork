@@ -1,0 +1,25 @@
+
+table:
+  out-type: json
+  sheet: 圣物精炼
+  row: 3
+  model: artifact.artifactrefine
+  columns:
+    - name: quality
+      column: quality
+      type: int
+
+    - name: refineLevel
+      column: refineLevel
+      type: int
+      default: 0
+
+    - name: playerLevel
+      column: playerLevel
+      type: int
+
+    - name: refineCost
+      column: refineCost
+      type: int
+
+

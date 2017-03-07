@@ -1,0 +1,292 @@
+[
+    {
+        "pk": 1110001,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801091,0,0,1801092,1,1,1801093,2,4,1801094,3,8",
+            "skill0": 1801090,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1110002,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801121,0,0,1801122,1,1,1801123,2,4,1801124,3,8",
+            "skill0": 1801120,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1110003,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801131,0,0,1801132,1,1,1801133,2,4,1801134,3,8",
+            "skill0": 1801130,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1110005,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801101,0,0,1801102,1,1,1801103,2,4,1801104,3,8",
+            "skill0": 1801100,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1130003,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801081,0,0,1801082,1,1,1801083,2,4,1801084,3,8",
+            "skill0": 1801080,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1120002,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801311,0,0,1801312,1,1,1801313,2,4,1801314,3,8",
+            "skill0": 1801310,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1120004,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801231,0,0,1801232,1,1,1801233,2,4,1801234,3,8",
+            "skill0": 1801230,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1120005,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801241,0,0,1801242,1,1,1801243,2,4,1801244,3,8",
+            "skill0": 1801240,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1120006,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801281,0,0,1801282,1,1,1801283,2,4,1801284,3,8",
+            "skill0": 1801280,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1120007,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801291,0,0,1801292,1,1,1801293,2,4,1801294,3,8",
+            "skill0": 1801290,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1130001,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801011,0,0,1801012,1,1,1801013,2,4,1801014,3,8",
+            "skill0": 1801010,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1140002,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801151,0,0,1801152,1,1,1801153,2,4,1801154,3,8",
+            "skill0": 1801150,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1140003,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801171,0,0,1801172,1,1,1801173,2,4,1801174,3,8",
+            "skill0": 1801170,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1140004,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801181,0,0,1801182,1,1,1801183,2,4,1801184,3,8",
+            "skill0": 1801180,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1140005,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801191,0,0,1801192,1,1,1801193,2,4,1801194,3,8",
+            "skill0": 1801190,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1140006,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801201,0,0,1801202,1,1,1801203,2,4,1801204,3,8",
+            "skill0": 1801200,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1150002,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801141,0,0,1801142,1,1,1801143,2,4,1801144,3,8",
+            "skill0": 1801140,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1150003,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801041,0,0,1801042,1,1,1801043,2,4,1801044,3,8",
+            "skill0": 1801040,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1150004,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801061,0,0,1801062,1,1,1801063,2,4,1801064,3,8",
+            "skill0": 1801060,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1150005,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801071,0,0,1801072,1,1,1801073,2,4,1801074,3,8",
+            "skill0": 1801070,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1160001,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801221,0,0,1801222,1,1,1801223,2,4,1801224,3,8",
+            "skill0": 1801220,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1160002,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801161,0,0,1801162,1,1,1801163,2,4,1801164,3,8",
+            "skill0": 1801160,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1160003,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801211,0,0,1801212,1,1,1801213,2,4,1801214,3,8",
+            "skill0": 1801210,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1160004,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801251,0,0,1801252,1,1,1801253,2,4,1801254,3,8",
+            "skill0": 1801250,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1160005,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801261,0,0,1801262,1,1,1801263,2,4,1801264,3,8",
+            "skill0": 1801260,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1140007,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801321,0,0,1801322,1,1,1801323,2,4,1801324,3,8",
+            "skill0": 1801320,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1160007,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801331,0,0,1801332,1,1,1801333,2,4,1801334,3,8",
+            "skill0": 1801330,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1120008,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1801341,0,0,1801342,1,1,1801343,2,4,1801344,3,8",
+            "skill0": 1801340,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    },
+    {
+        "pk": 1170001,
+        "model": "hero.heroskill",
+        "fields": {
+            "skillinfo_int": "1809001,0,0,1809002,1,0",
+            "skill0": 1809000,
+            "maxStar": 11,
+            "skill0Lv": 0
+        }
+    }
+]

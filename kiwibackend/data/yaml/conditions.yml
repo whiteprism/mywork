@@ -1,0 +1,13 @@
+
+table:
+  out-type: json
+  sheet: 技能条件
+  row: 3
+  model: skill.conditions
+  columns:
+    - name: condition_int
+      column: condition
+      type: char
+      default: ""
+
+

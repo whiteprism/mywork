@@ -1,0 +1,288 @@
+[
+    {
+        "pk": 100100701,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001007,
+            "percentage": 0.0,
+            "woodCount": 2000,
+            "goldCount": 3000,
+            "level": 1
+        }
+    },
+    {
+        "pk": 100100702,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001007,
+            "percentage": 0.0,
+            "woodCount": 4500,
+            "goldCount": 7000,
+            "level": 2
+        }
+    },
+    {
+        "pk": 100100703,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001007,
+            "percentage": 0.0,
+            "woodCount": 7500,
+            "goldCount": 12000,
+            "level": 3
+        }
+    },
+    {
+        "pk": 100100704,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001007,
+            "percentage": 0.0,
+            "woodCount": 11500,
+            "goldCount": 22500,
+            "level": 4
+        }
+    },
+    {
+        "pk": 100100705,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001007,
+            "percentage": 0.0,
+            "woodCount": 19500,
+            "goldCount": 45000,
+            "level": 5
+        }
+    },
+    {
+        "pk": 100100706,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001007,
+            "percentage": 0.0,
+            "woodCount": 30000,
+            "goldCount": 70000,
+            "level": 6
+        }
+    },
+    {
+        "pk": 100100707,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001007,
+            "percentage": 0.0,
+            "woodCount": 55000,
+            "goldCount": 120000,
+            "level": 7
+        }
+    },
+    {
+        "pk": 100100708,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001007,
+            "percentage": 0.0,
+            "woodCount": 110000,
+            "goldCount": 210000,
+            "level": 8
+        }
+    },
+    {
+        "pk": 100100709,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001007,
+            "percentage": 0.0,
+            "woodCount": 180000,
+            "goldCount": 300000,
+            "level": 9
+        }
+    },
+    {
+        "pk": 100100710,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001007,
+            "percentage": 0.0,
+            "woodCount": 225000,
+            "goldCount": 400000,
+            "level": 10
+        }
+    },
+    {
+        "pk": 100100801,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.1,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 1
+        }
+    },
+    {
+        "pk": 100100802,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.12,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 2
+        }
+    },
+    {
+        "pk": 100100803,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.14,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 3
+        }
+    },
+    {
+        "pk": 100100804,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.16,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 4
+        }
+    },
+    {
+        "pk": 100100805,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.18,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 5
+        }
+    },
+    {
+        "pk": 100100806,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.2,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 6
+        }
+    },
+    {
+        "pk": 100100807,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.22,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 7
+        }
+    },
+    {
+        "pk": 100100808,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.24,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 8
+        }
+    },
+    {
+        "pk": 100100809,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.26,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 9
+        }
+    },
+    {
+        "pk": 100100810,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.29,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 10
+        }
+    },
+    {
+        "pk": 100100811,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.32,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 11
+        }
+    },
+    {
+        "pk": 100100812,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.36,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 12
+        }
+    },
+    {
+        "pk": 100100813,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.4,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 13
+        }
+    },
+    {
+        "pk": 100100814,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.45,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 14
+        }
+    },
+    {
+        "pk": 100100815,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001008,
+            "percentage": 0.5,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 15
+        }
+    },
+    {
+        "pk": 100100101,
+        "model": "building.buildingresourceprotected",
+        "fields": {
+            "building": 1001001,
+            "percentage": 0.3,
+            "woodCount": 0,
+            "goldCount": 0,
+            "level": 1
+        }
+    }
+]

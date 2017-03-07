@@ -1,0 +1,770 @@
+[
+    {
+        "pk": 11101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 48.0
+        }
+    },
+    {
+        "pk": 12101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 76.8
+        }
+    },
+    {
+        "pk": 14101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 115.2
+        }
+    },
+    {
+        "pk": 17101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 153.6
+        }
+    },
+    {
+        "pk": 21101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 120.0
+        }
+    },
+    {
+        "pk": 22101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 192.0
+        }
+    },
+    {
+        "pk": 24101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 288.0
+        }
+    },
+    {
+        "pk": 27101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 384.0
+        }
+    },
+    {
+        "pk": 41101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 168.0
+        }
+    },
+    {
+        "pk": 42101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 268.8
+        }
+    },
+    {
+        "pk": 44101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 403.2
+        }
+    },
+    {
+        "pk": 47101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 537.6
+        }
+    },
+    {
+        "pk": 61101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 168.0
+        }
+    },
+    {
+        "pk": 62101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 268.8
+        }
+    },
+    {
+        "pk": 64101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 403.2
+        }
+    },
+    {
+        "pk": 67101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 537.6
+        }
+    },
+    {
+        "pk": 31101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 86.4
+        }
+    },
+    {
+        "pk": 32101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 138.24
+        }
+    },
+    {
+        "pk": 34101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 207.36
+        }
+    },
+    {
+        "pk": 37101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 276.48
+        }
+    },
+    {
+        "pk": 51101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 134.4
+        }
+    },
+    {
+        "pk": 52101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 215.04
+        }
+    },
+    {
+        "pk": 54101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 322.56
+        }
+    },
+    {
+        "pk": 57101,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "attack",
+            "extra": 430.08
+        }
+    },
+    {
+        "pk": 11202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 2100.0
+        }
+    },
+    {
+        "pk": 12202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 3360.0
+        }
+    },
+    {
+        "pk": 14202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 5040.0
+        }
+    },
+    {
+        "pk": 17202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 6720.0
+        }
+    },
+    {
+        "pk": 21202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1950.0
+        }
+    },
+    {
+        "pk": 22202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 3120.0
+        }
+    },
+    {
+        "pk": 24202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 4680.0
+        }
+    },
+    {
+        "pk": 27202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 6240.0
+        }
+    },
+    {
+        "pk": 41202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1200.0
+        }
+    },
+    {
+        "pk": 42202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1920.0
+        }
+    },
+    {
+        "pk": 44202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 2880.0
+        }
+    },
+    {
+        "pk": 47202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 3840.0
+        }
+    },
+    {
+        "pk": 61202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1500.0
+        }
+    },
+    {
+        "pk": 62202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 2400.0
+        }
+    },
+    {
+        "pk": 64202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 3600.0
+        }
+    },
+    {
+        "pk": 67202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 4800.0
+        }
+    },
+    {
+        "pk": 31202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1920.0
+        }
+    },
+    {
+        "pk": 32202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 3072.0
+        }
+    },
+    {
+        "pk": 34202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 4608.0
+        }
+    },
+    {
+        "pk": 37202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 6144.0
+        }
+    },
+    {
+        "pk": 51202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 1800.0
+        }
+    },
+    {
+        "pk": 52202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 2880.0
+        }
+    },
+    {
+        "pk": 54202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 4320.0
+        }
+    },
+    {
+        "pk": 57202,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "hp",
+            "extra": 5760.0
+        }
+    },
+    {
+        "pk": 11303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 336.0
+        }
+    },
+    {
+        "pk": 12303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 537.6
+        }
+    },
+    {
+        "pk": 14303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 806.4
+        }
+    },
+    {
+        "pk": 17303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 1075.2
+        }
+    },
+    {
+        "pk": 21303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 257.142857143
+        }
+    },
+    {
+        "pk": 22303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 411.428571429
+        }
+    },
+    {
+        "pk": 24303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 617.142857143
+        }
+    },
+    {
+        "pk": 27303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 822.857142857
+        }
+    },
+    {
+        "pk": 41303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 285.714285714
+        }
+    },
+    {
+        "pk": 42303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 457.142857143
+        }
+    },
+    {
+        "pk": 44303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 685.714285714
+        }
+    },
+    {
+        "pk": 47303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 914.285714286
+        }
+    },
+    {
+        "pk": 61303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 192.0
+        }
+    },
+    {
+        "pk": 62303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 307.2
+        }
+    },
+    {
+        "pk": 64303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 460.8
+        }
+    },
+    {
+        "pk": 67303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 614.4
+        }
+    },
+    {
+        "pk": 31303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 342.857142857
+        }
+    },
+    {
+        "pk": 32303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 548.571428571
+        }
+    },
+    {
+        "pk": 34303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 822.857142857
+        }
+    },
+    {
+        "pk": 37303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 1097.14285714
+        }
+    },
+    {
+        "pk": 51303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 251.428571429
+        }
+    },
+    {
+        "pk": 52303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 402.285714286
+        }
+    },
+    {
+        "pk": 54303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 603.428571429
+        }
+    },
+    {
+        "pk": 57303,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "physicalArmor",
+            "extra": 804.571428571
+        }
+    },
+    {
+        "pk": 11304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 400.0
+        }
+    },
+    {
+        "pk": 12304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 640.0
+        }
+    },
+    {
+        "pk": 14304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 960.0
+        }
+    },
+    {
+        "pk": 17304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 1280.0
+        }
+    },
+    {
+        "pk": 21304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 257.142857143
+        }
+    },
+    {
+        "pk": 22304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 411.428571429
+        }
+    },
+    {
+        "pk": 24304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 617.142857143
+        }
+    },
+    {
+        "pk": 27304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 822.857142857
+        }
+    },
+    {
+        "pk": 41304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 240.0
+        }
+    },
+    {
+        "pk": 42304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 384.0
+        }
+    },
+    {
+        "pk": 44304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 576.0
+        }
+    },
+    {
+        "pk": 47304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 768.0
+        }
+    },
+    {
+        "pk": 61304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 228.571428571
+        }
+    },
+    {
+        "pk": 62304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 365.714285714
+        }
+    },
+    {
+        "pk": 64304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 548.571428571
+        }
+    },
+    {
+        "pk": 67304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 731.428571429
+        }
+    },
+    {
+        "pk": 31304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 306.382978723
+        }
+    },
+    {
+        "pk": 32304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 490.212765957
+        }
+    },
+    {
+        "pk": 34304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 735.319148936
+        }
+    },
+    {
+        "pk": 37304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 980.425531915
+        }
+    },
+    {
+        "pk": 51304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 224.680851064
+        }
+    },
+    {
+        "pk": 52304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 359.489361702
+        }
+    },
+    {
+        "pk": 54304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 539.234042553
+        }
+    },
+    {
+        "pk": 57304,
+        "model": "equip.equipsuitattr",
+        "fields": {
+            "attrType": "realPhysical",
+            "extra": 718.978723404
+        }
+    }
+]

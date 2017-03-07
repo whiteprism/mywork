@@ -1,0 +1,572 @@
+[
+    {
+        "pk": 1001,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 5,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 4,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.1,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 5,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 4,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.2,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 5,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 4,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.3,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 5,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 4,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.4,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1005,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 5,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 4,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.5,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1006,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 5,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 4,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.6,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1007,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 5,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 4,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.7,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1008,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 5,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 4,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.8,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1009,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 5,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 4,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.05,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1010,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 1,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 0,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 6,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.0,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1011,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 1,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 0,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 6,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 1.0,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1012,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 1,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 0,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 6,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 2.0,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1013,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 1,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 0,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 6,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 3.0,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1014,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 1,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 0,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 6,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 4.0,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1015,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 5,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 1,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.1,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1016,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 5,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 1,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.2,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1017,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 5,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 1,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.3,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1018,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 5,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 1,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.4,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1019,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 5,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 1,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.5,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1020,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 4,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 1,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.5,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1021,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 4,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 1,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.6,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1022,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 4,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 1,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.7,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1023,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 4,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 1,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.8,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1024,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 4,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 1,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.9,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1025,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 0,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 13,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 1.0,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1026,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 0,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 13,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.0,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1027,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 0,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 9,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.0,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1028,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 0,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 0,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 9,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 1.0,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1029,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 2,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 0,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 6,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 0.0,
+            "rightStr": ""
+        }
+    },
+    {
+        "pk": 1030,
+        "model": "skill.condition",
+        "fields": {
+            "leftInt": 2,
+            "leftStr": "",
+            "rightAbility": 0,
+            "comparator": 0,
+            "rightInt": 0,
+            "leftFloat": 0.0,
+            "leftDouble": 0.0,
+            "leftVarEnum": 6,
+            "rightVarEnum": 0,
+            "leftAbility": 0,
+            "rightFloat": 0.0,
+            "rightDouble": 1.0,
+            "rightStr": ""
+        }
+    }
+]

@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+
+MYSQL_IP = "192.168.1.58"
+MYSQL_PORT = 3306
+MYSQL_USER = "kiwi"
+MYSQL_PASSWD = "kiwi"
+MYSQL_DATABASE_NAME = "kiwi_xsf"
+
+MONGO_IP = "192.168.1.58"
+MONGO_PORT = 10001
+MONGO_DB_NAME = "kiwi"
+
+#服务器ID
+SERVERID = 1000
+
+ALL_SERVERS = [0, 1000] #和服列表

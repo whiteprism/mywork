@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: rewardsbase
+  row: 3
+  model: rewards.rewardsbase
+  columns:
+    - name: count
+      column: count
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: type
+      column: type
+      type: int
+      default: 0
+
+

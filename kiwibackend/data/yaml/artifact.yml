@@ -1,0 +1,58 @@
+
+table:
+  out-type: json
+  sheet: 圣物
+  row: 3
+  model: artifact.artifact
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: "0"
+
+    - name: upgradeXp
+      column: upgradeXp
+      type: int
+      default: 0
+
+    - name: icon
+      column: icon
+      type: char
+      default: ""
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: quality
+      column: quality
+      type: int
+      default: 0
+
+    - name: orderId
+      column: orderId
+      type: int
+      default: 0
+
+    - name: category
+      column: category
+      type: int
+      default: 0
+
+    - name: skillIds_int
+      column: skillIds
+      type: char
+      default: "0"
+
+    - name: attrList_int
+      column: attrList
+      type: char
+      default: "0"
+
+

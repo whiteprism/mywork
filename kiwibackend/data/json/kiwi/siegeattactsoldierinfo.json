@@ -1,0 +1,42 @@
+[
+    {
+        "pk": 1,
+        "model": "pvp.siegeattactsoldierinfo",
+        "fields": {
+            "energyConsume": 2,
+            "type": 1900001,
+            "name": "\u725b\u5934\u4eba\u6218\u58eb",
+            "maxCount": 3
+        }
+    },
+    {
+        "pk": 2,
+        "model": "pvp.siegeattactsoldierinfo",
+        "fields": {
+            "energyConsume": 2,
+            "type": 1900005,
+            "name": "\u5de8\u9b54\u730e\u5934\u8005",
+            "maxCount": 3
+        }
+    },
+    {
+        "pk": 3,
+        "model": "pvp.siegeattactsoldierinfo",
+        "fields": {
+            "energyConsume": 2,
+            "type": 1900006,
+            "name": "\u5de8\u9b54\u5deb\u533b",
+            "maxCount": 3
+        }
+    },
+    {
+        "pk": 4,
+        "model": "pvp.siegeattactsoldierinfo",
+        "fields": {
+            "energyConsume": 3,
+            "type": 1902031,
+            "name": "\u653b\u57ce\u8f66",
+            "maxCount": 2
+        }
+    }
+]

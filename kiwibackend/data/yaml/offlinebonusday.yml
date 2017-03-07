@@ -1,0 +1,13 @@
+
+table:
+  out-type: json
+  sheet: 离线天数奖励
+  row: 3
+  model: offlinebonus.offlinebonusday
+  columns:
+    - name: rewardIds_str
+      column: rewardIds
+      type: char
+      default: "0"
+
+

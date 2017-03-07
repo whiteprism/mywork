@@ -1,0 +1,88 @@
+
+table:
+  out-type: json
+  sheet: 敌军阵容
+  row: 3
+  model: instance.enemy
+  columns:
+    - name: warriorIds_int
+      column: warriorIds
+      type: char
+      default: ""
+
+    - name: posPoints_int
+      column: posPoints
+      type: char
+      default: ""
+
+    - name: propertyHeros_int
+      column: propertyHeros
+      type: char
+      default: ""
+
+    - name: propertyIds_int
+      column: propertyIds
+      type: char
+      default: ""
+
+    - name: skillIds_int
+      column: skillIds
+      type: char
+      default: ""
+
+    - name: propertyValues_float
+      column: propertyValues
+      type: char
+      default: ""
+
+    - name: heroLevel
+      column: heroLevel
+      type: int
+      default: 0
+
+    - name: heroStar
+      column: heroStar
+      type: int
+      default: 0
+
+    - name: heroUp
+      column: heroUp
+      type: int
+      default: 0
+
+    - name: soldierLevel
+      column: soldierLevel
+      type: int
+      default: 0
+
+    - name: skillLevel
+      column: skillLevel
+      type: int
+      default: 0
+
+    - name: equipLevel
+      column: equipLevel
+      type: int
+      default: 0
+
+    - name: equipUpgrade
+      column: equipUpgrade
+      type: int
+      default: 0
+
+    - name: bubbleTypes_int
+      column: bubbleTypes
+      type: char
+      default: ""
+
+    - name: bubbleMessages_str
+      column: bubbleMessages
+      type: char
+      default: ""
+
+    - name: bubbleProperbility_float
+      column: bubbleProperbility
+      type: char
+      default: ""
+
+

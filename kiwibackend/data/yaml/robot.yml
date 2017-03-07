@@ -1,0 +1,83 @@
+
+table:
+  out-type: json
+  sheet: 机器人
+  row: 3
+  model: robot.robot
+  columns:
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: heroes_int
+      column: heroes
+      type: char
+      default: ""
+
+    - name: heroLevels_int
+      column: heroLevels
+      type: char
+      default: ""
+
+    - name: heroUpgrades_int
+      column: heroUpgrades
+      type: char
+      default: ""
+
+    - name: heroStars_int
+      column: heroStars
+      type: char
+      default: ""
+
+    - name: heroPoses_int
+      column: heroPoses
+      type: char
+      default: ""
+
+    - name: heroSkillLevels_int
+      column: heroSkillLevels
+      type: char
+      default: ""
+
+    - name: equipLevel
+      column: equipLevel
+      type: int
+      default: 0
+
+    - name: equipUpgrade
+      column: equipUpgrade
+      type: int
+      default: 0
+
+    - name: score
+      column: score
+      type: int
+      default: 0
+
+    - name: powerRank
+      column: powerRank
+      type: int
+      default: 0
+
+    - name: cityLevel
+      column: cityLevel
+      type: int
+      default: 0
+
+    - name: towerLevel
+      column: towerLevel
+      type: int
+      default: 0
+
+    - name: siegeSoldierIds_int
+      column: siegeSoldierIds
+      type: char
+      default: ""
+
+    - name: siegeSoldierLevels_int
+      column: siegeSoldierLevels
+      type: char
+      default: ""
+
+

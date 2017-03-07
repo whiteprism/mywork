@@ -1,0 +1,1242 @@
+[
+    {
+        "pk": 200,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 0,
+            "equipLevel": 30,
+            "refineXp": 10,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 201,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 1,
+            "equipLevel": 30,
+            "refineXp": 20,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 202,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 2,
+            "equipLevel": 30,
+            "refineXp": 30,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 203,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 3,
+            "equipLevel": 30,
+            "refineXp": 40,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 204,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 4,
+            "equipLevel": 30,
+            "refineXp": 50,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 205,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 5,
+            "equipLevel": 30,
+            "refineXp": 60,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 206,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 6,
+            "equipLevel": 30,
+            "refineXp": 70,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 207,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 7,
+            "equipLevel": 30,
+            "refineXp": 80,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 208,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 8,
+            "equipLevel": 30,
+            "refineXp": 90,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 209,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 9,
+            "equipLevel": 30,
+            "refineXp": 100,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 210,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 10,
+            "equipLevel": 30,
+            "refineXp": 110,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 211,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 11,
+            "equipLevel": 30,
+            "refineXp": 120,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 212,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 12,
+            "equipLevel": 30,
+            "refineXp": 130,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 213,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 13,
+            "equipLevel": 30,
+            "refineXp": 160,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 214,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 14,
+            "equipLevel": 30,
+            "refineXp": 190,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 215,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 15,
+            "equipLevel": 30,
+            "refineXp": 220,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 216,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 16,
+            "equipLevel": 30,
+            "refineXp": 250,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 217,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 17,
+            "equipLevel": 30,
+            "refineXp": 290,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 218,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 18,
+            "equipLevel": 30,
+            "refineXp": 330,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 219,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 19,
+            "equipLevel": 30,
+            "refineXp": 390,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 220,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 20,
+            "equipLevel": 30,
+            "refineXp": 460,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 221,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 21,
+            "equipLevel": 30,
+            "refineXp": 530,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 222,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 22,
+            "equipLevel": 30,
+            "refineXp": 600,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 223,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 23,
+            "equipLevel": 30,
+            "refineXp": 670,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 224,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 24,
+            "equipLevel": 30,
+            "refineXp": 750,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 225,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 25,
+            "equipLevel": 30,
+            "refineXp": 830,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 226,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 26,
+            "equipLevel": 30,
+            "refineXp": 910,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 227,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 27,
+            "equipLevel": 30,
+            "refineXp": 990,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 228,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 28,
+            "equipLevel": 30,
+            "refineXp": 1070,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 229,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 29,
+            "equipLevel": 30,
+            "refineXp": 1150,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 230,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 30,
+            "equipLevel": 30,
+            "refineXp": 1240,
+            "quality": 2
+        }
+    },
+    {
+        "pk": 300,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 0,
+            "equipLevel": 30,
+            "refineXp": 10,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 301,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 1,
+            "equipLevel": 30,
+            "refineXp": 20,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 302,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 2,
+            "equipLevel": 30,
+            "refineXp": 30,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 303,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 3,
+            "equipLevel": 30,
+            "refineXp": 40,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 304,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 4,
+            "equipLevel": 30,
+            "refineXp": 50,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 305,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 5,
+            "equipLevel": 30,
+            "refineXp": 60,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 306,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 6,
+            "equipLevel": 30,
+            "refineXp": 70,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 307,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 7,
+            "equipLevel": 30,
+            "refineXp": 80,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 308,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 8,
+            "equipLevel": 30,
+            "refineXp": 90,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 309,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 9,
+            "equipLevel": 30,
+            "refineXp": 100,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 310,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 10,
+            "equipLevel": 30,
+            "refineXp": 110,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 311,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 11,
+            "equipLevel": 30,
+            "refineXp": 120,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 312,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 12,
+            "equipLevel": 30,
+            "refineXp": 130,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 313,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 13,
+            "equipLevel": 30,
+            "refineXp": 160,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 314,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 14,
+            "equipLevel": 30,
+            "refineXp": 190,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 315,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 15,
+            "equipLevel": 30,
+            "refineXp": 220,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 316,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 16,
+            "equipLevel": 30,
+            "refineXp": 250,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 317,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 17,
+            "equipLevel": 30,
+            "refineXp": 290,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 318,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 18,
+            "equipLevel": 30,
+            "refineXp": 330,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 319,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 19,
+            "equipLevel": 30,
+            "refineXp": 390,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 320,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 20,
+            "equipLevel": 30,
+            "refineXp": 460,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 321,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 21,
+            "equipLevel": 30,
+            "refineXp": 530,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 322,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 22,
+            "equipLevel": 30,
+            "refineXp": 600,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 323,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 23,
+            "equipLevel": 30,
+            "refineXp": 670,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 324,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 24,
+            "equipLevel": 30,
+            "refineXp": 750,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 325,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 25,
+            "equipLevel": 30,
+            "refineXp": 830,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 326,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 26,
+            "equipLevel": 30,
+            "refineXp": 910,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 327,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 27,
+            "equipLevel": 30,
+            "refineXp": 990,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 328,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 28,
+            "equipLevel": 30,
+            "refineXp": 1070,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 329,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 29,
+            "equipLevel": 30,
+            "refineXp": 1150,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 330,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 30,
+            "equipLevel": 30,
+            "refineXp": 1240,
+            "quality": 3
+        }
+    },
+    {
+        "pk": 400,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 0,
+            "equipLevel": 30,
+            "refineXp": 10,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 401,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 1,
+            "equipLevel": 30,
+            "refineXp": 20,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 402,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 2,
+            "equipLevel": 30,
+            "refineXp": 30,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 403,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 3,
+            "equipLevel": 30,
+            "refineXp": 40,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 404,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 4,
+            "equipLevel": 30,
+            "refineXp": 50,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 405,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 5,
+            "equipLevel": 30,
+            "refineXp": 60,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 406,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 6,
+            "equipLevel": 30,
+            "refineXp": 70,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 407,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 7,
+            "equipLevel": 30,
+            "refineXp": 80,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 408,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 8,
+            "equipLevel": 30,
+            "refineXp": 90,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 409,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 9,
+            "equipLevel": 30,
+            "refineXp": 100,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 410,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 10,
+            "equipLevel": 30,
+            "refineXp": 110,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 411,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 11,
+            "equipLevel": 30,
+            "refineXp": 120,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 412,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 12,
+            "equipLevel": 30,
+            "refineXp": 130,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 413,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 13,
+            "equipLevel": 30,
+            "refineXp": 160,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 414,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 14,
+            "equipLevel": 30,
+            "refineXp": 190,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 415,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 15,
+            "equipLevel": 30,
+            "refineXp": 220,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 416,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 16,
+            "equipLevel": 30,
+            "refineXp": 250,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 417,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 17,
+            "equipLevel": 30,
+            "refineXp": 290,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 418,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 18,
+            "equipLevel": 30,
+            "refineXp": 330,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 419,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 19,
+            "equipLevel": 30,
+            "refineXp": 390,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 420,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 20,
+            "equipLevel": 30,
+            "refineXp": 460,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 421,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 21,
+            "equipLevel": 30,
+            "refineXp": 530,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 422,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 22,
+            "equipLevel": 30,
+            "refineXp": 600,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 423,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 23,
+            "equipLevel": 30,
+            "refineXp": 670,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 424,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 24,
+            "equipLevel": 30,
+            "refineXp": 750,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 425,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 25,
+            "equipLevel": 30,
+            "refineXp": 830,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 426,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 26,
+            "equipLevel": 30,
+            "refineXp": 910,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 427,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 27,
+            "equipLevel": 30,
+            "refineXp": 990,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 428,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 28,
+            "equipLevel": 30,
+            "refineXp": 1070,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 429,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 29,
+            "equipLevel": 30,
+            "refineXp": 1150,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 430,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 30,
+            "equipLevel": 30,
+            "refineXp": 1240,
+            "quality": 4
+        }
+    },
+    {
+        "pk": 500,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 0,
+            "equipLevel": 30,
+            "refineXp": 10,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 501,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 1,
+            "equipLevel": 30,
+            "refineXp": 20,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 502,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 2,
+            "equipLevel": 30,
+            "refineXp": 30,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 503,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 3,
+            "equipLevel": 30,
+            "refineXp": 40,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 504,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 4,
+            "equipLevel": 30,
+            "refineXp": 50,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 505,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 5,
+            "equipLevel": 30,
+            "refineXp": 60,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 506,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 6,
+            "equipLevel": 30,
+            "refineXp": 70,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 507,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 7,
+            "equipLevel": 30,
+            "refineXp": 80,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 508,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 8,
+            "equipLevel": 30,
+            "refineXp": 90,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 509,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 9,
+            "equipLevel": 30,
+            "refineXp": 100,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 510,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 10,
+            "equipLevel": 30,
+            "refineXp": 110,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 511,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 11,
+            "equipLevel": 30,
+            "refineXp": 120,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 512,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 12,
+            "equipLevel": 30,
+            "refineXp": 130,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 513,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 13,
+            "equipLevel": 30,
+            "refineXp": 160,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 514,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 14,
+            "equipLevel": 30,
+            "refineXp": 190,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 515,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 15,
+            "equipLevel": 30,
+            "refineXp": 220,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 516,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 16,
+            "equipLevel": 30,
+            "refineXp": 250,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 517,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 17,
+            "equipLevel": 30,
+            "refineXp": 290,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 518,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 18,
+            "equipLevel": 30,
+            "refineXp": 330,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 519,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 19,
+            "equipLevel": 30,
+            "refineXp": 390,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 520,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 20,
+            "equipLevel": 30,
+            "refineXp": 460,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 521,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 21,
+            "equipLevel": 30,
+            "refineXp": 530,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 522,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 22,
+            "equipLevel": 30,
+            "refineXp": 600,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 523,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 23,
+            "equipLevel": 30,
+            "refineXp": 670,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 524,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 24,
+            "equipLevel": 30,
+            "refineXp": 750,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 525,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 25,
+            "equipLevel": 30,
+            "refineXp": 830,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 526,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 26,
+            "equipLevel": 30,
+            "refineXp": 910,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 527,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 27,
+            "equipLevel": 30,
+            "refineXp": 990,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 528,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 28,
+            "equipLevel": 30,
+            "refineXp": 1070,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 529,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 29,
+            "equipLevel": 30,
+            "refineXp": 1150,
+            "quality": 5
+        }
+    },
+    {
+        "pk": 530,
+        "model": "equip.equiprefine",
+        "fields": {
+            "refineLevel": 30,
+            "equipLevel": 30,
+            "refineXp": 1240,
+            "quality": 5
+        }
+    }
+]

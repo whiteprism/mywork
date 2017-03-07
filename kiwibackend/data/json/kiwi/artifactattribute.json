@@ -1,0 +1,3566 @@
+[
+    {
+        "pk": 1150501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 5.23255813953,
+            "enhanceAttrGrowth": 0.828488372093
+        }
+    },
+    {
+        "pk": 1160601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 207.236842105,
+            "enhanceAttrGrowth": 32.8125
+        }
+    },
+    {
+        "pk": 1250501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 8.37209302326,
+            "enhanceAttrGrowth": 1.32558139535
+        }
+    },
+    {
+        "pk": 1260601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 331.578947368,
+            "enhanceAttrGrowth": 52.5
+        }
+    },
+    {
+        "pk": 1350501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 10.4651162791,
+            "enhanceAttrGrowth": 1.65697674419
+        }
+    },
+    {
+        "pk": 1360601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 414.473684211,
+            "enhanceAttrGrowth": 65.625
+        }
+    },
+    {
+        "pk": 1450501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 12.5581395349,
+            "enhanceAttrGrowth": 1.98837209302
+        }
+    },
+    {
+        "pk": 1460601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 497.368421053,
+            "enhanceAttrGrowth": 78.75
+        }
+    },
+    {
+        "pk": 1550501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 14.1279069767,
+            "enhanceAttrGrowth": 2.23691860465
+        }
+    },
+    {
+        "pk": 1560601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 559.539473684,
+            "enhanceAttrGrowth": 88.59375
+        }
+    },
+    {
+        "pk": 1650501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 15.6976744186,
+            "enhanceAttrGrowth": 2.48546511628
+        }
+    },
+    {
+        "pk": 1660601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 621.710526316,
+            "enhanceAttrGrowth": 98.4375
+        }
+    },
+    {
+        "pk": 1750501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 16.7441860465,
+            "enhanceAttrGrowth": 2.6511627907
+        }
+    },
+    {
+        "pk": 1760601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 663.157894737,
+            "enhanceAttrGrowth": 105.0
+        }
+    },
+    {
+        "pk": 1850501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 18.8372093023,
+            "enhanceAttrGrowth": 2.98255813953
+        }
+    },
+    {
+        "pk": 1860601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 746.052631579,
+            "enhanceAttrGrowth": 118.125
+        }
+    },
+    {
+        "pk": 1950501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 20.9302325581,
+            "enhanceAttrGrowth": 3.31395348837
+        }
+    },
+    {
+        "pk": 1960601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 828.947368421,
+            "enhanceAttrGrowth": 131.25
+        }
+    },
+    {
+        "pk": 2150501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 11.8421052632,
+            "enhanceAttrGrowth": 1.875
+        }
+    },
+    {
+        "pk": 2160601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 192.434210526,
+            "enhanceAttrGrowth": 30.46875
+        }
+    },
+    {
+        "pk": 2250501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 18.9473684211,
+            "enhanceAttrGrowth": 3.0
+        }
+    },
+    {
+        "pk": 2260601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 307.894736842,
+            "enhanceAttrGrowth": 48.75
+        }
+    },
+    {
+        "pk": 2350501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 23.6842105263,
+            "enhanceAttrGrowth": 3.75
+        }
+    },
+    {
+        "pk": 2360601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 384.868421053,
+            "enhanceAttrGrowth": 60.9375
+        }
+    },
+    {
+        "pk": 2450501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 28.4210526316,
+            "enhanceAttrGrowth": 4.5
+        }
+    },
+    {
+        "pk": 2460601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 461.842105263,
+            "enhanceAttrGrowth": 73.125
+        }
+    },
+    {
+        "pk": 2550501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 31.9736842105,
+            "enhanceAttrGrowth": 5.0625
+        }
+    },
+    {
+        "pk": 2560601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 519.572368421,
+            "enhanceAttrGrowth": 82.265625
+        }
+    },
+    {
+        "pk": 2650501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 35.5263157895,
+            "enhanceAttrGrowth": 5.625
+        }
+    },
+    {
+        "pk": 2660601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 577.302631579,
+            "enhanceAttrGrowth": 91.40625
+        }
+    },
+    {
+        "pk": 2750501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 37.8947368421,
+            "enhanceAttrGrowth": 6.0
+        }
+    },
+    {
+        "pk": 2760601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 615.789473684,
+            "enhanceAttrGrowth": 97.5
+        }
+    },
+    {
+        "pk": 2850501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 42.6315789474,
+            "enhanceAttrGrowth": 6.75
+        }
+    },
+    {
+        "pk": 2860601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 692.763157895,
+            "enhanceAttrGrowth": 109.6875
+        }
+    },
+    {
+        "pk": 2950501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 47.3684210526,
+            "enhanceAttrGrowth": 7.5
+        }
+    },
+    {
+        "pk": 2960601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 769.736842105,
+            "enhanceAttrGrowth": 121.875
+        }
+    },
+    {
+        "pk": 4150501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 16.5789473684,
+            "enhanceAttrGrowth": 2.625
+        }
+    },
+    {
+        "pk": 4160601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 130.813953488,
+            "enhanceAttrGrowth": 20.7122093023
+        }
+    },
+    {
+        "pk": 4250501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 26.5263157895,
+            "enhanceAttrGrowth": 4.2
+        }
+    },
+    {
+        "pk": 4260601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 209.302325581,
+            "enhanceAttrGrowth": 33.1395348837
+        }
+    },
+    {
+        "pk": 4350501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 33.1578947368,
+            "enhanceAttrGrowth": 5.25
+        }
+    },
+    {
+        "pk": 4360601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 261.627906977,
+            "enhanceAttrGrowth": 41.4244186047
+        }
+    },
+    {
+        "pk": 4450501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 39.7894736842,
+            "enhanceAttrGrowth": 6.3
+        }
+    },
+    {
+        "pk": 4460601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 313.953488372,
+            "enhanceAttrGrowth": 49.7093023256
+        }
+    },
+    {
+        "pk": 4550501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 44.7631578947,
+            "enhanceAttrGrowth": 7.0875
+        }
+    },
+    {
+        "pk": 4560601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 353.197674419,
+            "enhanceAttrGrowth": 55.9229651163
+        }
+    },
+    {
+        "pk": 4650501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 49.7368421053,
+            "enhanceAttrGrowth": 7.875
+        }
+    },
+    {
+        "pk": 4660601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 392.441860465,
+            "enhanceAttrGrowth": 62.136627907
+        }
+    },
+    {
+        "pk": 4750501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 53.0526315789,
+            "enhanceAttrGrowth": 8.4
+        }
+    },
+    {
+        "pk": 4760601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 418.604651163,
+            "enhanceAttrGrowth": 66.2790697674
+        }
+    },
+    {
+        "pk": 4850501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 59.6842105263,
+            "enhanceAttrGrowth": 9.45
+        }
+    },
+    {
+        "pk": 4860601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 470.930232558,
+            "enhanceAttrGrowth": 74.5639534884
+        }
+    },
+    {
+        "pk": 4950501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 66.3157894737,
+            "enhanceAttrGrowth": 10.5
+        }
+    },
+    {
+        "pk": 4960601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 523.255813953,
+            "enhanceAttrGrowth": 82.8488372093
+        }
+    },
+    {
+        "pk": 6150501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 16.5789473684,
+            "enhanceAttrGrowth": 2.625
+        }
+    },
+    {
+        "pk": 6160601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 163.51744186,
+            "enhanceAttrGrowth": 25.8902616279
+        }
+    },
+    {
+        "pk": 6250501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 26.5263157895,
+            "enhanceAttrGrowth": 4.2
+        }
+    },
+    {
+        "pk": 6260601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 261.627906977,
+            "enhanceAttrGrowth": 41.4244186047
+        }
+    },
+    {
+        "pk": 6350501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 33.1578947368,
+            "enhanceAttrGrowth": 5.25
+        }
+    },
+    {
+        "pk": 6360601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 327.034883721,
+            "enhanceAttrGrowth": 51.7805232558
+        }
+    },
+    {
+        "pk": 6450501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 39.7894736842,
+            "enhanceAttrGrowth": 6.3
+        }
+    },
+    {
+        "pk": 6460601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 392.441860465,
+            "enhanceAttrGrowth": 62.136627907
+        }
+    },
+    {
+        "pk": 6550501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 44.7631578947,
+            "enhanceAttrGrowth": 7.0875
+        }
+    },
+    {
+        "pk": 6560601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 441.497093023,
+            "enhanceAttrGrowth": 69.9037063953
+        }
+    },
+    {
+        "pk": 6650501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 49.7368421053,
+            "enhanceAttrGrowth": 7.875
+        }
+    },
+    {
+        "pk": 6660601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 490.552325581,
+            "enhanceAttrGrowth": 77.6707848837
+        }
+    },
+    {
+        "pk": 6750501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 53.0526315789,
+            "enhanceAttrGrowth": 8.4
+        }
+    },
+    {
+        "pk": 6760601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 523.255813953,
+            "enhanceAttrGrowth": 82.8488372093
+        }
+    },
+    {
+        "pk": 6850501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 59.6842105263,
+            "enhanceAttrGrowth": 9.45
+        }
+    },
+    {
+        "pk": 6860601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 588.662790698,
+            "enhanceAttrGrowth": 93.2049418605
+        }
+    },
+    {
+        "pk": 6950501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 66.3157894737,
+            "enhanceAttrGrowth": 10.5
+        }
+    },
+    {
+        "pk": 6960601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 654.069767442,
+            "enhanceAttrGrowth": 103.561046512
+        }
+    },
+    {
+        "pk": 3150501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 9.41860465116,
+            "enhanceAttrGrowth": 1.49127906977
+        }
+    },
+    {
+        "pk": 3160601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 189.473684211,
+            "enhanceAttrGrowth": 30.0
+        }
+    },
+    {
+        "pk": 3250501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 15.0697674419,
+            "enhanceAttrGrowth": 2.38604651163
+        }
+    },
+    {
+        "pk": 3260601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 303.157894737,
+            "enhanceAttrGrowth": 48.0
+        }
+    },
+    {
+        "pk": 3350501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 18.8372093023,
+            "enhanceAttrGrowth": 2.98255813953
+        }
+    },
+    {
+        "pk": 3360601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 378.947368421,
+            "enhanceAttrGrowth": 60.0
+        }
+    },
+    {
+        "pk": 3450501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 22.6046511628,
+            "enhanceAttrGrowth": 3.57906976744
+        }
+    },
+    {
+        "pk": 3460601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 454.736842105,
+            "enhanceAttrGrowth": 72.0
+        }
+    },
+    {
+        "pk": 3550501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 25.4302325581,
+            "enhanceAttrGrowth": 4.02645348837
+        }
+    },
+    {
+        "pk": 3560601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 511.578947368,
+            "enhanceAttrGrowth": 81.0
+        }
+    },
+    {
+        "pk": 3650501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 28.2558139535,
+            "enhanceAttrGrowth": 4.4738372093
+        }
+    },
+    {
+        "pk": 3660601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 568.421052632,
+            "enhanceAttrGrowth": 90.0
+        }
+    },
+    {
+        "pk": 3750501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 30.1395348837,
+            "enhanceAttrGrowth": 4.77209302326
+        }
+    },
+    {
+        "pk": 3760601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 606.315789474,
+            "enhanceAttrGrowth": 96.0
+        }
+    },
+    {
+        "pk": 3850501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 33.9069767442,
+            "enhanceAttrGrowth": 5.36860465116
+        }
+    },
+    {
+        "pk": 3860601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 682.105263158,
+            "enhanceAttrGrowth": 108.0
+        }
+    },
+    {
+        "pk": 3950501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 37.6744186047,
+            "enhanceAttrGrowth": 5.96511627907
+        }
+    },
+    {
+        "pk": 3960601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 757.894736842,
+            "enhanceAttrGrowth": 120.0
+        }
+    },
+    {
+        "pk": 5150501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 13.2631578947,
+            "enhanceAttrGrowth": 2.1
+        }
+    },
+    {
+        "pk": 5160601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 177.631578947,
+            "enhanceAttrGrowth": 28.125
+        }
+    },
+    {
+        "pk": 5250501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 21.2210526316,
+            "enhanceAttrGrowth": 3.36
+        }
+    },
+    {
+        "pk": 5260601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 284.210526316,
+            "enhanceAttrGrowth": 45.0
+        }
+    },
+    {
+        "pk": 5350501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 26.5263157895,
+            "enhanceAttrGrowth": 4.2
+        }
+    },
+    {
+        "pk": 5360601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 355.263157895,
+            "enhanceAttrGrowth": 56.25
+        }
+    },
+    {
+        "pk": 5450501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 31.8315789474,
+            "enhanceAttrGrowth": 5.04
+        }
+    },
+    {
+        "pk": 5460601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 426.315789474,
+            "enhanceAttrGrowth": 67.5
+        }
+    },
+    {
+        "pk": 5550501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 35.8105263158,
+            "enhanceAttrGrowth": 5.67
+        }
+    },
+    {
+        "pk": 5560601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 479.605263158,
+            "enhanceAttrGrowth": 75.9375
+        }
+    },
+    {
+        "pk": 5650501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 39.7894736842,
+            "enhanceAttrGrowth": 6.3
+        }
+    },
+    {
+        "pk": 5660601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 532.894736842,
+            "enhanceAttrGrowth": 84.375
+        }
+    },
+    {
+        "pk": 5750501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 42.4421052632,
+            "enhanceAttrGrowth": 6.72
+        }
+    },
+    {
+        "pk": 5760601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 568.421052632,
+            "enhanceAttrGrowth": 90.0
+        }
+    },
+    {
+        "pk": 5850501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 47.7473684211,
+            "enhanceAttrGrowth": 7.56
+        }
+    },
+    {
+        "pk": 5860601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 639.473684211,
+            "enhanceAttrGrowth": 101.25
+        }
+    },
+    {
+        "pk": 5950501,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "attack",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 53.0526315789,
+            "enhanceAttrGrowth": 8.4
+        }
+    },
+    {
+        "pk": 5960601,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "hp",
+            "refineAttrGrowth": 0.0,
+            "enhanceInitValue": 710.526315789,
+            "enhanceAttrGrowth": 112.5
+        }
+    },
+    {
+        "pk": 1150502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "shoot",
+            "refineAttrGrowth": 3.33333333333,
+            "enhanceInitValue": 7.5,
+            "enhanceAttrGrowth": 1.1875
+        }
+    },
+    {
+        "pk": 1160602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 11.2,
+            "enhanceInitValue": 25.2,
+            "enhanceAttrGrowth": 3.99
+        }
+    },
+    {
+        "pk": 1250502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "shoot",
+            "refineAttrGrowth": 5.33333333333,
+            "enhanceInitValue": 12.0,
+            "enhanceAttrGrowth": 1.9
+        }
+    },
+    {
+        "pk": 1260602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 17.92,
+            "enhanceInitValue": 40.32,
+            "enhanceAttrGrowth": 6.384
+        }
+    },
+    {
+        "pk": 1350502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "shoot",
+            "refineAttrGrowth": 6.66666666667,
+            "enhanceInitValue": 15.0,
+            "enhanceAttrGrowth": 2.375
+        }
+    },
+    {
+        "pk": 1360602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 22.4,
+            "enhanceInitValue": 50.4,
+            "enhanceAttrGrowth": 7.98
+        }
+    },
+    {
+        "pk": 1450502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "shoot",
+            "refineAttrGrowth": 8.0,
+            "enhanceInitValue": 18.0,
+            "enhanceAttrGrowth": 2.85
+        }
+    },
+    {
+        "pk": 1460602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 26.88,
+            "enhanceInitValue": 60.48,
+            "enhanceAttrGrowth": 9.576
+        }
+    },
+    {
+        "pk": 1550502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "shoot",
+            "refineAttrGrowth": 9.0,
+            "enhanceInitValue": 20.25,
+            "enhanceAttrGrowth": 3.20625
+        }
+    },
+    {
+        "pk": 1560602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 30.24,
+            "enhanceInitValue": 68.04,
+            "enhanceAttrGrowth": 10.773
+        }
+    },
+    {
+        "pk": 1650502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "shoot",
+            "refineAttrGrowth": 10.0,
+            "enhanceInitValue": 22.5,
+            "enhanceAttrGrowth": 3.5625
+        }
+    },
+    {
+        "pk": 1660602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 33.6,
+            "enhanceInitValue": 75.6,
+            "enhanceAttrGrowth": 11.97
+        }
+    },
+    {
+        "pk": 1750502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "shoot",
+            "refineAttrGrowth": 10.6666666667,
+            "enhanceInitValue": 24.0,
+            "enhanceAttrGrowth": 3.8
+        }
+    },
+    {
+        "pk": 1760602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 35.84,
+            "enhanceInitValue": 80.64,
+            "enhanceAttrGrowth": 12.768
+        }
+    },
+    {
+        "pk": 1850502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "shoot",
+            "refineAttrGrowth": 12.0,
+            "enhanceInitValue": 27.0,
+            "enhanceAttrGrowth": 4.275
+        }
+    },
+    {
+        "pk": 1860602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 40.32,
+            "enhanceInitValue": 90.72,
+            "enhanceAttrGrowth": 14.364
+        }
+    },
+    {
+        "pk": 1950502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "shoot",
+            "refineAttrGrowth": 13.3333333333,
+            "enhanceInitValue": 30.0,
+            "enhanceAttrGrowth": 4.75
+        }
+    },
+    {
+        "pk": 1960602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 44.8,
+            "enhanceInitValue": 100.8,
+            "enhanceAttrGrowth": 15.96
+        }
+    },
+    {
+        "pk": 2150502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "critical",
+            "refineAttrGrowth": 2.5641025641,
+            "enhanceInitValue": 5.76923076923,
+            "enhanceAttrGrowth": 0.913461538462
+        }
+    },
+    {
+        "pk": 2160602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 1.8115942029,
+            "enhanceInitValue": 4.07608695652,
+            "enhanceAttrGrowth": 0.645380434783
+        }
+    },
+    {
+        "pk": 2250502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "critical",
+            "refineAttrGrowth": 4.10256410256,
+            "enhanceInitValue": 9.23076923077,
+            "enhanceAttrGrowth": 1.46153846154
+        }
+    },
+    {
+        "pk": 2260602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 2.89855072464,
+            "enhanceInitValue": 6.52173913043,
+            "enhanceAttrGrowth": 1.03260869565
+        }
+    },
+    {
+        "pk": 2350502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "critical",
+            "refineAttrGrowth": 5.12820512821,
+            "enhanceInitValue": 11.5384615385,
+            "enhanceAttrGrowth": 1.82692307692
+        }
+    },
+    {
+        "pk": 2360602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 3.6231884058,
+            "enhanceInitValue": 8.15217391304,
+            "enhanceAttrGrowth": 1.29076086957
+        }
+    },
+    {
+        "pk": 2450502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "critical",
+            "refineAttrGrowth": 6.15384615385,
+            "enhanceInitValue": 13.8461538462,
+            "enhanceAttrGrowth": 2.19230769231
+        }
+    },
+    {
+        "pk": 2460602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 4.34782608696,
+            "enhanceInitValue": 9.78260869565,
+            "enhanceAttrGrowth": 1.54891304348
+        }
+    },
+    {
+        "pk": 2550502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "critical",
+            "refineAttrGrowth": 6.92307692308,
+            "enhanceInitValue": 15.5769230769,
+            "enhanceAttrGrowth": 2.46634615385
+        }
+    },
+    {
+        "pk": 2560602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 4.89130434783,
+            "enhanceInitValue": 11.0054347826,
+            "enhanceAttrGrowth": 1.74252717391
+        }
+    },
+    {
+        "pk": 2650502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "critical",
+            "refineAttrGrowth": 7.69230769231,
+            "enhanceInitValue": 17.3076923077,
+            "enhanceAttrGrowth": 2.74038461538
+        }
+    },
+    {
+        "pk": 2660602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 5.4347826087,
+            "enhanceInitValue": 12.2282608696,
+            "enhanceAttrGrowth": 1.93614130435
+        }
+    },
+    {
+        "pk": 2750502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "critical",
+            "refineAttrGrowth": 8.20512820513,
+            "enhanceInitValue": 18.4615384615,
+            "enhanceAttrGrowth": 2.92307692308
+        }
+    },
+    {
+        "pk": 2760602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 5.79710144928,
+            "enhanceInitValue": 13.0434782609,
+            "enhanceAttrGrowth": 2.0652173913
+        }
+    },
+    {
+        "pk": 2850502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "critical",
+            "refineAttrGrowth": 9.23076923077,
+            "enhanceInitValue": 20.7692307692,
+            "enhanceAttrGrowth": 3.28846153846
+        }
+    },
+    {
+        "pk": 2860602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 6.52173913043,
+            "enhanceInitValue": 14.6739130435,
+            "enhanceAttrGrowth": 2.32336956522
+        }
+    },
+    {
+        "pk": 2950502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "critical",
+            "refineAttrGrowth": 10.2564102564,
+            "enhanceInitValue": 23.0769230769,
+            "enhanceAttrGrowth": 3.65384615385
+        }
+    },
+    {
+        "pk": 2960602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 7.24637681159,
+            "enhanceInitValue": 16.3043478261,
+            "enhanceAttrGrowth": 2.58152173913
+        }
+    },
+    {
+        "pk": 4150502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 3.44827586207,
+            "enhanceInitValue": 7.75862068966,
+            "enhanceAttrGrowth": 1.22844827586
+        }
+    },
+    {
+        "pk": 4160602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 10.2040816327,
+            "enhanceInitValue": 22.9591836735,
+            "enhanceAttrGrowth": 3.63520408163
+        }
+    },
+    {
+        "pk": 4250502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 5.51724137931,
+            "enhanceInitValue": 12.4137931034,
+            "enhanceAttrGrowth": 1.96551724138
+        }
+    },
+    {
+        "pk": 4260602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 16.3265306122,
+            "enhanceInitValue": 36.7346938776,
+            "enhanceAttrGrowth": 5.81632653061
+        }
+    },
+    {
+        "pk": 4350502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 6.89655172414,
+            "enhanceInitValue": 15.5172413793,
+            "enhanceAttrGrowth": 2.45689655172
+        }
+    },
+    {
+        "pk": 4360602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 20.4081632653,
+            "enhanceInitValue": 45.9183673469,
+            "enhanceAttrGrowth": 7.27040816327
+        }
+    },
+    {
+        "pk": 4450502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 8.27586206897,
+            "enhanceInitValue": 18.6206896552,
+            "enhanceAttrGrowth": 2.94827586207
+        }
+    },
+    {
+        "pk": 4460602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 24.4897959184,
+            "enhanceInitValue": 55.1020408163,
+            "enhanceAttrGrowth": 8.72448979592
+        }
+    },
+    {
+        "pk": 4550502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 9.31034482759,
+            "enhanceInitValue": 20.9482758621,
+            "enhanceAttrGrowth": 3.31681034483
+        }
+    },
+    {
+        "pk": 4560602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 27.5510204082,
+            "enhanceInitValue": 61.9897959184,
+            "enhanceAttrGrowth": 9.81505102041
+        }
+    },
+    {
+        "pk": 4650502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 10.3448275862,
+            "enhanceInitValue": 23.275862069,
+            "enhanceAttrGrowth": 3.68534482759
+        }
+    },
+    {
+        "pk": 4660602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 30.612244898,
+            "enhanceInitValue": 68.8775510204,
+            "enhanceAttrGrowth": 10.9056122449
+        }
+    },
+    {
+        "pk": 4750502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 11.0344827586,
+            "enhanceInitValue": 24.8275862069,
+            "enhanceAttrGrowth": 3.93103448276
+        }
+    },
+    {
+        "pk": 4760602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 32.6530612245,
+            "enhanceInitValue": 73.4693877551,
+            "enhanceAttrGrowth": 11.6326530612
+        }
+    },
+    {
+        "pk": 4850502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 12.4137931034,
+            "enhanceInitValue": 27.9310344828,
+            "enhanceAttrGrowth": 4.4224137931
+        }
+    },
+    {
+        "pk": 4860602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 36.7346938776,
+            "enhanceInitValue": 82.6530612245,
+            "enhanceAttrGrowth": 13.0867346939
+        }
+    },
+    {
+        "pk": 4950502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 13.7931034483,
+            "enhanceInitValue": 31.0344827586,
+            "enhanceAttrGrowth": 4.91379310345
+        }
+    },
+    {
+        "pk": 4960602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 40.8163265306,
+            "enhanceInitValue": 91.8367346939,
+            "enhanceAttrGrowth": 14.5408163265
+        }
+    },
+    {
+        "pk": 6150502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 2.29885057471,
+            "enhanceInitValue": 5.1724137931,
+            "enhanceAttrGrowth": 0.818965517241
+        }
+    },
+    {
+        "pk": 6160602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 8.16326530612,
+            "enhanceInitValue": 18.3673469388,
+            "enhanceAttrGrowth": 2.90816326531
+        }
+    },
+    {
+        "pk": 6250502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 3.67816091954,
+            "enhanceInitValue": 8.27586206897,
+            "enhanceAttrGrowth": 1.31034482759
+        }
+    },
+    {
+        "pk": 6260602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 13.0612244898,
+            "enhanceInitValue": 29.387755102,
+            "enhanceAttrGrowth": 4.65306122449
+        }
+    },
+    {
+        "pk": 6350502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 4.59770114943,
+            "enhanceInitValue": 10.3448275862,
+            "enhanceAttrGrowth": 1.63793103448
+        }
+    },
+    {
+        "pk": 6360602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 16.3265306122,
+            "enhanceInitValue": 36.7346938776,
+            "enhanceAttrGrowth": 5.81632653061
+        }
+    },
+    {
+        "pk": 6450502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 5.51724137931,
+            "enhanceInitValue": 12.4137931034,
+            "enhanceAttrGrowth": 1.96551724138
+        }
+    },
+    {
+        "pk": 6460602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 19.5918367347,
+            "enhanceInitValue": 44.0816326531,
+            "enhanceAttrGrowth": 6.97959183673
+        }
+    },
+    {
+        "pk": 6550502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 6.20689655172,
+            "enhanceInitValue": 13.9655172414,
+            "enhanceAttrGrowth": 2.21120689655
+        }
+    },
+    {
+        "pk": 6560602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 22.0408163265,
+            "enhanceInitValue": 49.5918367347,
+            "enhanceAttrGrowth": 7.85204081633
+        }
+    },
+    {
+        "pk": 6650502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 6.89655172414,
+            "enhanceInitValue": 15.5172413793,
+            "enhanceAttrGrowth": 2.45689655172
+        }
+    },
+    {
+        "pk": 6660602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 24.4897959184,
+            "enhanceInitValue": 55.1020408163,
+            "enhanceAttrGrowth": 8.72448979592
+        }
+    },
+    {
+        "pk": 6750502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 7.35632183908,
+            "enhanceInitValue": 16.5517241379,
+            "enhanceAttrGrowth": 2.62068965517
+        }
+    },
+    {
+        "pk": 6760602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 26.1224489796,
+            "enhanceInitValue": 58.7755102041,
+            "enhanceAttrGrowth": 9.30612244898
+        }
+    },
+    {
+        "pk": 6850502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 8.27586206897,
+            "enhanceInitValue": 18.6206896552,
+            "enhanceAttrGrowth": 2.94827586207
+        }
+    },
+    {
+        "pk": 6860602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 29.387755102,
+            "enhanceInitValue": 66.1224489796,
+            "enhanceAttrGrowth": 10.4693877551
+        }
+    },
+    {
+        "pk": 6950502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "realPhysical",
+            "refineAttrGrowth": 9.19540229885,
+            "enhanceInitValue": 20.6896551724,
+            "enhanceAttrGrowth": 3.27586206897
+        }
+    },
+    {
+        "pk": 6960602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "physicalArmor",
+            "refineAttrGrowth": 32.6530612245,
+            "enhanceInitValue": 73.4693877551,
+            "enhanceAttrGrowth": 11.6326530612
+        }
+    },
+    {
+        "pk": 3150502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 0.775862068966,
+            "enhanceInitValue": 1.74568965517,
+            "enhanceAttrGrowth": 0.276400862069
+        }
+    },
+    {
+        "pk": 3160602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 1.26811594203,
+            "enhanceInitValue": 2.85326086957,
+            "enhanceAttrGrowth": 0.451766304348
+        }
+    },
+    {
+        "pk": 3250502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 1.24137931034,
+            "enhanceInitValue": 2.79310344828,
+            "enhanceAttrGrowth": 0.44224137931
+        }
+    },
+    {
+        "pk": 3260602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 2.02898550725,
+            "enhanceInitValue": 4.5652173913,
+            "enhanceAttrGrowth": 0.722826086957
+        }
+    },
+    {
+        "pk": 3350502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 1.55172413793,
+            "enhanceInitValue": 3.49137931034,
+            "enhanceAttrGrowth": 0.552801724138
+        }
+    },
+    {
+        "pk": 3360602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 2.53623188406,
+            "enhanceInitValue": 5.70652173913,
+            "enhanceAttrGrowth": 0.903532608696
+        }
+    },
+    {
+        "pk": 3450502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 1.86206896552,
+            "enhanceInitValue": 4.18965517241,
+            "enhanceAttrGrowth": 0.663362068966
+        }
+    },
+    {
+        "pk": 3460602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 3.04347826087,
+            "enhanceInitValue": 6.84782608696,
+            "enhanceAttrGrowth": 1.08423913043
+        }
+    },
+    {
+        "pk": 3550502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.09482758621,
+            "enhanceInitValue": 4.71336206897,
+            "enhanceAttrGrowth": 0.746282327586
+        }
+    },
+    {
+        "pk": 3560602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 3.42391304348,
+            "enhanceInitValue": 7.70380434783,
+            "enhanceAttrGrowth": 1.21976902174
+        }
+    },
+    {
+        "pk": 3650502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.3275862069,
+            "enhanceInitValue": 5.23706896552,
+            "enhanceAttrGrowth": 0.829202586207
+        }
+    },
+    {
+        "pk": 3660602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 3.80434782609,
+            "enhanceInitValue": 8.5597826087,
+            "enhanceAttrGrowth": 1.35529891304
+        }
+    },
+    {
+        "pk": 3750502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.48275862069,
+            "enhanceInitValue": 5.58620689655,
+            "enhanceAttrGrowth": 0.884482758621
+        }
+    },
+    {
+        "pk": 3760602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 4.05797101449,
+            "enhanceInitValue": 9.13043478261,
+            "enhanceAttrGrowth": 1.44565217391
+        }
+    },
+    {
+        "pk": 3850502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.79310344828,
+            "enhanceInitValue": 6.28448275862,
+            "enhanceAttrGrowth": 0.995043103448
+        }
+    },
+    {
+        "pk": 3860602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 4.5652173913,
+            "enhanceInitValue": 10.2717391304,
+            "enhanceAttrGrowth": 1.62635869565
+        }
+    },
+    {
+        "pk": 3950502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 3.10344827586,
+            "enhanceInitValue": 6.98275862069,
+            "enhanceAttrGrowth": 1.10560344828
+        }
+    },
+    {
+        "pk": 3960602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 5.07246376812,
+            "enhanceInitValue": 11.4130434783,
+            "enhanceAttrGrowth": 1.80706521739
+        }
+    },
+    {
+        "pk": 5150502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 1.03448275862,
+            "enhanceInitValue": 2.3275862069,
+            "enhanceAttrGrowth": 0.368534482759
+        }
+    },
+    {
+        "pk": 5160602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 0.833333333333,
+            "enhanceInitValue": 1.875,
+            "enhanceAttrGrowth": 0.296875
+        }
+    },
+    {
+        "pk": 5250502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 1.65517241379,
+            "enhanceInitValue": 3.72413793103,
+            "enhanceAttrGrowth": 0.589655172414
+        }
+    },
+    {
+        "pk": 5260602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 1.33333333333,
+            "enhanceInitValue": 3.0,
+            "enhanceAttrGrowth": 0.475
+        }
+    },
+    {
+        "pk": 5350502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.06896551724,
+            "enhanceInitValue": 4.65517241379,
+            "enhanceAttrGrowth": 0.737068965517
+        }
+    },
+    {
+        "pk": 5360602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 1.66666666667,
+            "enhanceInitValue": 3.75,
+            "enhanceAttrGrowth": 0.59375
+        }
+    },
+    {
+        "pk": 5450502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.48275862069,
+            "enhanceInitValue": 5.58620689655,
+            "enhanceAttrGrowth": 0.884482758621
+        }
+    },
+    {
+        "pk": 5460602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 2.0,
+            "enhanceInitValue": 4.5,
+            "enhanceAttrGrowth": 0.7125
+        }
+    },
+    {
+        "pk": 5550502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.79310344828,
+            "enhanceInitValue": 6.28448275862,
+            "enhanceAttrGrowth": 0.995043103448
+        }
+    },
+    {
+        "pk": 5560602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 2.25,
+            "enhanceInitValue": 5.0625,
+            "enhanceAttrGrowth": 0.8015625
+        }
+    },
+    {
+        "pk": 5650502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 3.10344827586,
+            "enhanceInitValue": 6.98275862069,
+            "enhanceAttrGrowth": 1.10560344828
+        }
+    },
+    {
+        "pk": 5660602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 2.5,
+            "enhanceInitValue": 5.625,
+            "enhanceAttrGrowth": 0.890625
+        }
+    },
+    {
+        "pk": 5750502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 3.31034482759,
+            "enhanceInitValue": 7.44827586207,
+            "enhanceAttrGrowth": 1.17931034483
+        }
+    },
+    {
+        "pk": 5760602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 2.66666666667,
+            "enhanceInitValue": 6.0,
+            "enhanceAttrGrowth": 0.95
+        }
+    },
+    {
+        "pk": 5850502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 3.72413793103,
+            "enhanceInitValue": 8.37931034483,
+            "enhanceAttrGrowth": 1.32672413793
+        }
+    },
+    {
+        "pk": 5860602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 3.0,
+            "enhanceInitValue": 6.75,
+            "enhanceAttrGrowth": 1.06875
+        }
+    },
+    {
+        "pk": 5950502,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 4.13793103448,
+            "enhanceInitValue": 9.31034482759,
+            "enhanceAttrGrowth": 1.47413793103
+        }
+    },
+    {
+        "pk": 5960602,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 0.0,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 3.33333333333,
+            "enhanceInitValue": 7.5,
+            "enhanceAttrGrowth": 1.1875
+        }
+    },
+    {
+        "pk": 1150503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 1.07142857143,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 0.678571428571,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1160603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 2.17391304348,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 1.3768115942,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1250503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 1.71428571429,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 1.08571428571,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1260603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 3.47826086957,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 2.20289855072,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1350503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 2.14285714286,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 1.35714285714,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1360603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 4.34782608696,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 2.75362318841,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1450503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 2.57142857143,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 1.62857142857,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1460603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 5.21739130435,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 3.30434782609,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1550503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 2.89285714286,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 1.83214285714,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1560603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 5.86956521739,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 3.71739130435,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1650503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 3.21428571429,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.03571428571,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1660603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 6.52173913043,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 4.13043478261,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1750503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 3.42857142857,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.17142857143,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1760603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 6.95652173913,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 4.40579710145,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1850503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 3.85714285714,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.44285714286,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1860603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 7.82608695652,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 4.95652173913,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1950503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 4.28571428571,
+            "attrType": "energyPerSec",
+            "refineAttrGrowth": 2.71428571429,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 1960603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 8.69565217391,
+            "attrType": "damageFree",
+            "refineAttrGrowth": 5.50724637681,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2150503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 8.75,
+            "attrType": "shoot",
+            "refineAttrGrowth": 5.54166666667,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2160603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 10.9375,
+            "attrType": "miss",
+            "refineAttrGrowth": 6.92708333333,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2250503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 14.0,
+            "attrType": "shoot",
+            "refineAttrGrowth": 8.86666666667,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2260603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 17.5,
+            "attrType": "miss",
+            "refineAttrGrowth": 11.0833333333,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2350503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 17.5,
+            "attrType": "shoot",
+            "refineAttrGrowth": 11.0833333333,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2360603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 21.875,
+            "attrType": "miss",
+            "refineAttrGrowth": 13.8541666667,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2450503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 21.0,
+            "attrType": "shoot",
+            "refineAttrGrowth": 13.3,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2460603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 26.25,
+            "attrType": "miss",
+            "refineAttrGrowth": 16.625,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2550503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 23.625,
+            "attrType": "shoot",
+            "refineAttrGrowth": 14.9625,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2560603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 29.53125,
+            "attrType": "miss",
+            "refineAttrGrowth": 18.703125,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2650503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 26.25,
+            "attrType": "shoot",
+            "refineAttrGrowth": 16.625,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2660603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 32.8125,
+            "attrType": "miss",
+            "refineAttrGrowth": 20.78125,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2750503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 28.0,
+            "attrType": "shoot",
+            "refineAttrGrowth": 17.7333333333,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2760603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 35.0,
+            "attrType": "miss",
+            "refineAttrGrowth": 22.1666666667,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2850503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 31.5,
+            "attrType": "shoot",
+            "refineAttrGrowth": 19.95,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2860603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 39.375,
+            "attrType": "miss",
+            "refineAttrGrowth": 24.9375,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2950503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 35.0,
+            "attrType": "shoot",
+            "refineAttrGrowth": 22.1666666667,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 2960603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 43.75,
+            "attrType": "miss",
+            "refineAttrGrowth": 27.7083333333,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4150503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 5.97826086957,
+            "attrType": "critical",
+            "refineAttrGrowth": 3.78623188406,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4160603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 2.67857142857,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 1.69642857143,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4250503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 9.5652173913,
+            "attrType": "critical",
+            "refineAttrGrowth": 6.05797101449,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4260603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 4.28571428571,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 2.71428571429,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4350503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 11.9565217391,
+            "attrType": "critical",
+            "refineAttrGrowth": 7.57246376812,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4360603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 5.35714285714,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 3.39285714286,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4450503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 14.347826087,
+            "attrType": "critical",
+            "refineAttrGrowth": 9.08695652174,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4460603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 6.42857142857,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 4.07142857143,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4550503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 16.1413043478,
+            "attrType": "critical",
+            "refineAttrGrowth": 10.222826087,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4560603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 7.23214285714,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 4.58035714286,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4650503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 17.9347826087,
+            "attrType": "critical",
+            "refineAttrGrowth": 11.3586956522,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4660603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 8.03571428571,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 5.08928571429,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4750503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 19.1304347826,
+            "attrType": "critical",
+            "refineAttrGrowth": 12.115942029,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4760603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 8.57142857143,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 5.42857142857,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4850503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 21.5217391304,
+            "attrType": "critical",
+            "refineAttrGrowth": 13.6304347826,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4860603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 9.64285714286,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 6.10714285714,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4950503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 23.9130434783,
+            "attrType": "critical",
+            "refineAttrGrowth": 15.1449275362,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 4960603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 10.7142857143,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 6.78571428571,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6150503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 5.4347826087,
+            "attrType": "critical",
+            "refineAttrGrowth": 3.44202898551,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6160603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 3.57142857143,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 2.2619047619,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6250503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 8.69565217391,
+            "attrType": "critical",
+            "refineAttrGrowth": 5.50724637681,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6260603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 5.71428571429,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 3.61904761905,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6350503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 10.8695652174,
+            "attrType": "critical",
+            "refineAttrGrowth": 6.88405797101,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6360603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 7.14285714286,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 4.52380952381,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6450503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 13.0434782609,
+            "attrType": "critical",
+            "refineAttrGrowth": 8.26086956522,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6460603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 8.57142857143,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 5.42857142857,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6550503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 14.6739130435,
+            "attrType": "critical",
+            "refineAttrGrowth": 9.29347826087,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6560603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 9.64285714286,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 6.10714285714,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6650503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 16.3043478261,
+            "attrType": "critical",
+            "refineAttrGrowth": 10.3260869565,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6660603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 10.7142857143,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 6.78571428571,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6750503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 17.3913043478,
+            "attrType": "critical",
+            "refineAttrGrowth": 11.0144927536,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6760603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 11.4285714286,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 7.2380952381,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6850503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 19.5652173913,
+            "attrType": "critical",
+            "refineAttrGrowth": 12.3913043478,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6860603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 12.8571428571,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 8.14285714286,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6950503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 21.7391304348,
+            "attrType": "critical",
+            "refineAttrGrowth": 13.768115942,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 6960603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 14.2857142857,
+            "attrType": "tenacity",
+            "refineAttrGrowth": 9.04761904762,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3150503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 2.67857142857,
+            "attrType": "critical",
+            "refineAttrGrowth": 1.69642857143,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3160603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 22.5,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 14.25,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3250503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 4.28571428571,
+            "attrType": "critical",
+            "refineAttrGrowth": 2.71428571429,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3260603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 36.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 22.8,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3350503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 5.35714285714,
+            "attrType": "critical",
+            "refineAttrGrowth": 3.39285714286,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3360603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 45.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 28.5,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3450503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 6.42857142857,
+            "attrType": "critical",
+            "refineAttrGrowth": 4.07142857143,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3460603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 54.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 34.2,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3550503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 7.23214285714,
+            "attrType": "critical",
+            "refineAttrGrowth": 4.58035714286,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3560603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 60.75,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 38.475,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3650503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 8.03571428571,
+            "attrType": "critical",
+            "refineAttrGrowth": 5.08928571429,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3660603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 67.5,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 42.75,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3750503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 8.57142857143,
+            "attrType": "critical",
+            "refineAttrGrowth": 5.42857142857,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3760603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 72.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 45.6,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3850503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 9.64285714286,
+            "attrType": "critical",
+            "refineAttrGrowth": 6.10714285714,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3860603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 81.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 51.3,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3950503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 10.7142857143,
+            "attrType": "critical",
+            "refineAttrGrowth": 6.78571428571,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 3960603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 90.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 57.0,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5150503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 3.125,
+            "attrType": "critical",
+            "refineAttrGrowth": 1.97916666667,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5160603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 16.5,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 10.45,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5250503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 5.0,
+            "attrType": "critical",
+            "refineAttrGrowth": 3.16666666667,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5260603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 26.4,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 16.72,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5350503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 6.25,
+            "attrType": "critical",
+            "refineAttrGrowth": 3.95833333333,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5360603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 33.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 20.9,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5450503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 7.5,
+            "attrType": "critical",
+            "refineAttrGrowth": 4.75,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5460603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 39.6,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 25.08,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5550503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 8.4375,
+            "attrType": "critical",
+            "refineAttrGrowth": 5.34375,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5560603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 44.55,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 28.215,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5650503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 9.375,
+            "attrType": "critical",
+            "refineAttrGrowth": 5.9375,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5660603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 49.5,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 31.35,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5750503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 10.0,
+            "attrType": "critical",
+            "refineAttrGrowth": 6.33333333333,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5760603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 52.8,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 33.44,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5850503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 11.25,
+            "attrType": "critical",
+            "refineAttrGrowth": 7.125,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5860603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 59.4,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 37.62,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5950503,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 12.5,
+            "attrType": "critical",
+            "refineAttrGrowth": 7.91666666667,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    },
+    {
+        "pk": 5960603,
+        "model": "artifact.artifactattribute",
+        "fields": {
+            "refineInitValue": 66.0,
+            "attrType": "magicArmor",
+            "refineAttrGrowth": 41.8,
+            "enhanceInitValue": 0.0,
+            "enhanceAttrGrowth": 0.0
+        }
+    }
+]

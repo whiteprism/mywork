@@ -1,0 +1,28 @@
+
+table:
+  out-type: json
+  sheet: 英雄天命
+  row: 3
+  model: hero.herodestiny
+  columns:
+    - name: level
+      column: level
+      type: int
+      default: 1
+
+    - name: stoneCost
+      column: stoneCost
+      type: int
+      default: 0
+
+    - name: heroLevel
+      column: heroLevel
+      type: int
+      default: 0
+
+    - name: extra
+      column: extra
+      type: float
+      default: 0.0
+
+

@@ -1,0 +1,992 @@
+[
+    {
+        "pk": 10101,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 210,
+            "buffLevel": 1,
+            "buffType": 1,
+            "buffValue": 0.03,
+            "fireLevel": 1
+        }
+    },
+    {
+        "pk": 10102,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 420,
+            "buffLevel": 2,
+            "buffType": 1,
+            "buffValue": 0.04,
+            "fireLevel": 1
+        }
+    },
+    {
+        "pk": 10103,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 840,
+            "buffLevel": 3,
+            "buffType": 1,
+            "buffValue": 0.05,
+            "fireLevel": 1
+        }
+    },
+    {
+        "pk": 10201,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 210,
+            "buffLevel": 1,
+            "buffType": 2,
+            "buffValue": 0.03,
+            "fireLevel": 1
+        }
+    },
+    {
+        "pk": 10202,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 420,
+            "buffLevel": 2,
+            "buffType": 2,
+            "buffValue": 0.04,
+            "fireLevel": 1
+        }
+    },
+    {
+        "pk": 10203,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 840,
+            "buffLevel": 3,
+            "buffType": 2,
+            "buffValue": 0.05,
+            "fireLevel": 1
+        }
+    },
+    {
+        "pk": 10301,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 210,
+            "buffLevel": 1,
+            "buffType": 3,
+            "buffValue": 0.03,
+            "fireLevel": 1
+        }
+    },
+    {
+        "pk": 10302,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 420,
+            "buffLevel": 2,
+            "buffType": 3,
+            "buffValue": 0.04,
+            "fireLevel": 1
+        }
+    },
+    {
+        "pk": 10303,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 840,
+            "buffLevel": 3,
+            "buffType": 3,
+            "buffValue": 0.05,
+            "fireLevel": 1
+        }
+    },
+    {
+        "pk": 20101,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 420,
+            "buffLevel": 1,
+            "buffType": 1,
+            "buffValue": 0.06,
+            "fireLevel": 2
+        }
+    },
+    {
+        "pk": 20102,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 840,
+            "buffLevel": 2,
+            "buffType": 1,
+            "buffValue": 0.07,
+            "fireLevel": 2
+        }
+    },
+    {
+        "pk": 20103,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 1700,
+            "buffLevel": 3,
+            "buffType": 1,
+            "buffValue": 0.08,
+            "fireLevel": 2
+        }
+    },
+    {
+        "pk": 20201,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 420,
+            "buffLevel": 1,
+            "buffType": 2,
+            "buffValue": 0.06,
+            "fireLevel": 2
+        }
+    },
+    {
+        "pk": 20202,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 840,
+            "buffLevel": 2,
+            "buffType": 2,
+            "buffValue": 0.07,
+            "fireLevel": 2
+        }
+    },
+    {
+        "pk": 20203,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 1700,
+            "buffLevel": 3,
+            "buffType": 2,
+            "buffValue": 0.08,
+            "fireLevel": 2
+        }
+    },
+    {
+        "pk": 20301,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 420,
+            "buffLevel": 1,
+            "buffType": 3,
+            "buffValue": 0.06,
+            "fireLevel": 2
+        }
+    },
+    {
+        "pk": 20302,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 840,
+            "buffLevel": 2,
+            "buffType": 3,
+            "buffValue": 0.07,
+            "fireLevel": 2
+        }
+    },
+    {
+        "pk": 20303,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 1700,
+            "buffLevel": 3,
+            "buffType": 3,
+            "buffValue": 0.08,
+            "fireLevel": 2
+        }
+    },
+    {
+        "pk": 30101,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 630,
+            "buffLevel": 1,
+            "buffType": 1,
+            "buffValue": 0.09,
+            "fireLevel": 3
+        }
+    },
+    {
+        "pk": 30102,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 1300,
+            "buffLevel": 2,
+            "buffType": 1,
+            "buffValue": 0.1,
+            "fireLevel": 3
+        }
+    },
+    {
+        "pk": 30103,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 2500,
+            "buffLevel": 3,
+            "buffType": 1,
+            "buffValue": 0.11,
+            "fireLevel": 3
+        }
+    },
+    {
+        "pk": 30201,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 630,
+            "buffLevel": 1,
+            "buffType": 2,
+            "buffValue": 0.09,
+            "fireLevel": 3
+        }
+    },
+    {
+        "pk": 30202,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 1300,
+            "buffLevel": 2,
+            "buffType": 2,
+            "buffValue": 0.1,
+            "fireLevel": 3
+        }
+    },
+    {
+        "pk": 30203,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 2500,
+            "buffLevel": 3,
+            "buffType": 2,
+            "buffValue": 0.11,
+            "fireLevel": 3
+        }
+    },
+    {
+        "pk": 30301,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 630,
+            "buffLevel": 1,
+            "buffType": 3,
+            "buffValue": 0.09,
+            "fireLevel": 3
+        }
+    },
+    {
+        "pk": 30302,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 1300,
+            "buffLevel": 2,
+            "buffType": 3,
+            "buffValue": 0.1,
+            "fireLevel": 3
+        }
+    },
+    {
+        "pk": 30303,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 2500,
+            "buffLevel": 3,
+            "buffType": 3,
+            "buffValue": 0.11,
+            "fireLevel": 3
+        }
+    },
+    {
+        "pk": 40101,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 1100,
+            "buffLevel": 1,
+            "buffType": 1,
+            "buffValue": 0.12,
+            "fireLevel": 4
+        }
+    },
+    {
+        "pk": 40102,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 2100,
+            "buffLevel": 2,
+            "buffType": 1,
+            "buffValue": 0.13,
+            "fireLevel": 4
+        }
+    },
+    {
+        "pk": 40103,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 4200,
+            "buffLevel": 3,
+            "buffType": 1,
+            "buffValue": 0.14,
+            "fireLevel": 4
+        }
+    },
+    {
+        "pk": 40201,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 1100,
+            "buffLevel": 1,
+            "buffType": 2,
+            "buffValue": 0.12,
+            "fireLevel": 4
+        }
+    },
+    {
+        "pk": 40202,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 2100,
+            "buffLevel": 2,
+            "buffType": 2,
+            "buffValue": 0.13,
+            "fireLevel": 4
+        }
+    },
+    {
+        "pk": 40203,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 4200,
+            "buffLevel": 3,
+            "buffType": 2,
+            "buffValue": 0.14,
+            "fireLevel": 4
+        }
+    },
+    {
+        "pk": 40301,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 1100,
+            "buffLevel": 1,
+            "buffType": 3,
+            "buffValue": 0.12,
+            "fireLevel": 4
+        }
+    },
+    {
+        "pk": 40302,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 2100,
+            "buffLevel": 2,
+            "buffType": 3,
+            "buffValue": 0.13,
+            "fireLevel": 4
+        }
+    },
+    {
+        "pk": 40303,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 4200,
+            "buffLevel": 3,
+            "buffType": 3,
+            "buffValue": 0.14,
+            "fireLevel": 4
+        }
+    },
+    {
+        "pk": 50101,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 1500,
+            "buffLevel": 1,
+            "buffType": 1,
+            "buffValue": 0.15,
+            "fireLevel": 5
+        }
+    },
+    {
+        "pk": 50102,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 3000,
+            "buffLevel": 2,
+            "buffType": 1,
+            "buffValue": 0.16,
+            "fireLevel": 5
+        }
+    },
+    {
+        "pk": 50103,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 5900,
+            "buffLevel": 3,
+            "buffType": 1,
+            "buffValue": 0.17,
+            "fireLevel": 5
+        }
+    },
+    {
+        "pk": 50201,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 1500,
+            "buffLevel": 1,
+            "buffType": 2,
+            "buffValue": 0.15,
+            "fireLevel": 5
+        }
+    },
+    {
+        "pk": 50202,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 3000,
+            "buffLevel": 2,
+            "buffType": 2,
+            "buffValue": 0.16,
+            "fireLevel": 5
+        }
+    },
+    {
+        "pk": 50203,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 5900,
+            "buffLevel": 3,
+            "buffType": 2,
+            "buffValue": 0.17,
+            "fireLevel": 5
+        }
+    },
+    {
+        "pk": 50301,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 1500,
+            "buffLevel": 1,
+            "buffType": 3,
+            "buffValue": 0.15,
+            "fireLevel": 5
+        }
+    },
+    {
+        "pk": 50302,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 3000,
+            "buffLevel": 2,
+            "buffType": 3,
+            "buffValue": 0.16,
+            "fireLevel": 5
+        }
+    },
+    {
+        "pk": 50303,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 5900,
+            "buffLevel": 3,
+            "buffType": 3,
+            "buffValue": 0.17,
+            "fireLevel": 5
+        }
+    },
+    {
+        "pk": 60101,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 2100,
+            "buffLevel": 1,
+            "buffType": 1,
+            "buffValue": 0.18,
+            "fireLevel": 6
+        }
+    },
+    {
+        "pk": 60102,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 4200,
+            "buffLevel": 2,
+            "buffType": 1,
+            "buffValue": 0.19,
+            "fireLevel": 6
+        }
+    },
+    {
+        "pk": 60103,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 8400,
+            "buffLevel": 3,
+            "buffType": 1,
+            "buffValue": 0.2,
+            "fireLevel": 6
+        }
+    },
+    {
+        "pk": 60201,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 2100,
+            "buffLevel": 1,
+            "buffType": 2,
+            "buffValue": 0.18,
+            "fireLevel": 6
+        }
+    },
+    {
+        "pk": 60202,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 4200,
+            "buffLevel": 2,
+            "buffType": 2,
+            "buffValue": 0.19,
+            "fireLevel": 6
+        }
+    },
+    {
+        "pk": 60203,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 8400,
+            "buffLevel": 3,
+            "buffType": 2,
+            "buffValue": 0.2,
+            "fireLevel": 6
+        }
+    },
+    {
+        "pk": 60301,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 2100,
+            "buffLevel": 1,
+            "buffType": 3,
+            "buffValue": 0.18,
+            "fireLevel": 6
+        }
+    },
+    {
+        "pk": 60302,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 4200,
+            "buffLevel": 2,
+            "buffType": 3,
+            "buffValue": 0.19,
+            "fireLevel": 6
+        }
+    },
+    {
+        "pk": 60303,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 8400,
+            "buffLevel": 3,
+            "buffType": 3,
+            "buffValue": 0.2,
+            "fireLevel": 6
+        }
+    },
+    {
+        "pk": 70101,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 2800,
+            "buffLevel": 1,
+            "buffType": 1,
+            "buffValue": 0.21,
+            "fireLevel": 7
+        }
+    },
+    {
+        "pk": 70102,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 5500,
+            "buffLevel": 2,
+            "buffType": 1,
+            "buffValue": 0.22,
+            "fireLevel": 7
+        }
+    },
+    {
+        "pk": 70103,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 11000,
+            "buffLevel": 3,
+            "buffType": 1,
+            "buffValue": 0.23,
+            "fireLevel": 7
+        }
+    },
+    {
+        "pk": 70201,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 2800,
+            "buffLevel": 1,
+            "buffType": 2,
+            "buffValue": 0.21,
+            "fireLevel": 7
+        }
+    },
+    {
+        "pk": 70202,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 5500,
+            "buffLevel": 2,
+            "buffType": 2,
+            "buffValue": 0.22,
+            "fireLevel": 7
+        }
+    },
+    {
+        "pk": 70203,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 11000,
+            "buffLevel": 3,
+            "buffType": 2,
+            "buffValue": 0.23,
+            "fireLevel": 7
+        }
+    },
+    {
+        "pk": 70301,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 2800,
+            "buffLevel": 1,
+            "buffType": 3,
+            "buffValue": 0.21,
+            "fireLevel": 7
+        }
+    },
+    {
+        "pk": 70302,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 5500,
+            "buffLevel": 2,
+            "buffType": 3,
+            "buffValue": 0.22,
+            "fireLevel": 7
+        }
+    },
+    {
+        "pk": 70303,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 11000,
+            "buffLevel": 3,
+            "buffType": 3,
+            "buffValue": 0.23,
+            "fireLevel": 7
+        }
+    },
+    {
+        "pk": 80101,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 3600,
+            "buffLevel": 1,
+            "buffType": 1,
+            "buffValue": 0.24,
+            "fireLevel": 8
+        }
+    },
+    {
+        "pk": 80102,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 7100,
+            "buffLevel": 2,
+            "buffType": 1,
+            "buffValue": 0.25,
+            "fireLevel": 8
+        }
+    },
+    {
+        "pk": 80103,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 15000,
+            "buffLevel": 3,
+            "buffType": 1,
+            "buffValue": 0.26,
+            "fireLevel": 8
+        }
+    },
+    {
+        "pk": 80201,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 3600,
+            "buffLevel": 1,
+            "buffType": 2,
+            "buffValue": 0.24,
+            "fireLevel": 8
+        }
+    },
+    {
+        "pk": 80202,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 7100,
+            "buffLevel": 2,
+            "buffType": 2,
+            "buffValue": 0.25,
+            "fireLevel": 8
+        }
+    },
+    {
+        "pk": 80203,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 15000,
+            "buffLevel": 3,
+            "buffType": 2,
+            "buffValue": 0.26,
+            "fireLevel": 8
+        }
+    },
+    {
+        "pk": 80301,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 3600,
+            "buffLevel": 1,
+            "buffType": 3,
+            "buffValue": 0.24,
+            "fireLevel": 8
+        }
+    },
+    {
+        "pk": 80302,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 7100,
+            "buffLevel": 2,
+            "buffType": 3,
+            "buffValue": 0.25,
+            "fireLevel": 8
+        }
+    },
+    {
+        "pk": 80303,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 15000,
+            "buffLevel": 3,
+            "buffType": 3,
+            "buffValue": 0.26,
+            "fireLevel": 8
+        }
+    },
+    {
+        "pk": 90101,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 4400,
+            "buffLevel": 1,
+            "buffType": 1,
+            "buffValue": 0.27,
+            "fireLevel": 9
+        }
+    },
+    {
+        "pk": 90102,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 8800,
+            "buffLevel": 2,
+            "buffType": 1,
+            "buffValue": 0.28,
+            "fireLevel": 9
+        }
+    },
+    {
+        "pk": 90103,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 18000,
+            "buffLevel": 3,
+            "buffType": 1,
+            "buffValue": 0.29,
+            "fireLevel": 9
+        }
+    },
+    {
+        "pk": 90201,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 4400,
+            "buffLevel": 1,
+            "buffType": 2,
+            "buffValue": 0.27,
+            "fireLevel": 9
+        }
+    },
+    {
+        "pk": 90202,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 8800,
+            "buffLevel": 2,
+            "buffType": 2,
+            "buffValue": 0.28,
+            "fireLevel": 9
+        }
+    },
+    {
+        "pk": 90203,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 18000,
+            "buffLevel": 3,
+            "buffType": 2,
+            "buffValue": 0.29,
+            "fireLevel": 9
+        }
+    },
+    {
+        "pk": 90301,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 4400,
+            "buffLevel": 1,
+            "buffType": 3,
+            "buffValue": 0.27,
+            "fireLevel": 9
+        }
+    },
+    {
+        "pk": 90302,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 8800,
+            "buffLevel": 2,
+            "buffType": 3,
+            "buffValue": 0.28,
+            "fireLevel": 9
+        }
+    },
+    {
+        "pk": 90303,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 18000,
+            "buffLevel": 3,
+            "buffType": 3,
+            "buffValue": 0.29,
+            "fireLevel": 9
+        }
+    },
+    {
+        "pk": 100101,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 5500,
+            "buffLevel": 1,
+            "buffType": 1,
+            "buffValue": 0.3,
+            "fireLevel": 10
+        }
+    },
+    {
+        "pk": 100102,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 11000,
+            "buffLevel": 2,
+            "buffType": 1,
+            "buffValue": 0.31,
+            "fireLevel": 10
+        }
+    },
+    {
+        "pk": 100103,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 22000,
+            "buffLevel": 3,
+            "buffType": 1,
+            "buffValue": 0.32,
+            "fireLevel": 10
+        }
+    },
+    {
+        "pk": 100201,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 5500,
+            "buffLevel": 1,
+            "buffType": 2,
+            "buffValue": 0.3,
+            "fireLevel": 10
+        }
+    },
+    {
+        "pk": 100202,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 11000,
+            "buffLevel": 2,
+            "buffType": 2,
+            "buffValue": 0.31,
+            "fireLevel": 10
+        }
+    },
+    {
+        "pk": 100203,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 22000,
+            "buffLevel": 3,
+            "buffType": 2,
+            "buffValue": 0.32,
+            "fireLevel": 10
+        }
+    },
+    {
+        "pk": 100301,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 5500,
+            "buffLevel": 1,
+            "buffType": 3,
+            "buffValue": 0.3,
+            "fireLevel": 10
+        }
+    },
+    {
+        "pk": 100302,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 11000,
+            "buffLevel": 2,
+            "buffType": 3,
+            "buffValue": 0.31,
+            "fireLevel": 10
+        }
+    },
+    {
+        "pk": 100303,
+        "model": "pvp.guildbonefire",
+        "fields": {
+            "woodCost": 22000,
+            "buffLevel": 3,
+            "buffType": 3,
+            "buffValue": 0.32,
+            "fireLevel": 10
+        }
+    }
+]

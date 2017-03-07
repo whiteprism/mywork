@@ -1,0 +1,3260 @@
+[
+    {
+        "pk": 1010,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 250,
+            "type": 550000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1020,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 0,
+            "type": 550000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1030,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 40,
+            "type": 550000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1040,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 0,
+            "type": 550000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1050,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 550000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1060,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 550000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1070,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 300,
+            "type": 550000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1080,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 300,
+            "type": 550000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1090,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 300,
+            "type": 550000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1100,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 30,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1110,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2040007,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1120,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 60,
+            "type": 560000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1130,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1140,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1150,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 30000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1160,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 60000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1200,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 120,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1210,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2620102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1220,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1250,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2624101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1260,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1580,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 1590,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 30,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3010,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3020,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2620502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3030,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3040,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3050,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3060,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3070,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3080,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3090,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3100,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3110,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3120,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620705,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3130,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3140,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3150,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 30,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3160,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3170,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 60,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3180,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3190,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621505,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3200,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2621505,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3210,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 15,
+            "type": 2621505,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3220,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2621505,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3230,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 25,
+            "type": 2621505,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3240,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621506,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3250,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2621506,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3260,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 15,
+            "type": 2621506,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3270,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2621506,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3280,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 25,
+            "type": 2621506,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3290,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2621605,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3300,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 15,
+            "type": 2621605,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3310,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2621605,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3320,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 25,
+            "type": 2621605,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3330,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 30,
+            "type": 2621605,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3340,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2621606,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3350,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 15,
+            "type": 2621606,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3360,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2621606,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3370,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 25,
+            "type": 2621606,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3380,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 30,
+            "type": 2621606,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3390,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3400,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3410,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 30,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3420,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 40,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3430,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3440,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 60,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3450,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 70,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3460,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 80,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3470,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 90,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3480,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 2620601,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3490,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3500,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3510,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 30,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3520,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3530,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 80,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3540,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3550,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3560,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 300,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3570,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 500,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3580,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 800,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3590,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3600,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3610,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 40,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3620,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 60,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3630,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 80,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3640,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3650,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 150,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3660,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3670,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 250,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3680,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 300,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3690,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 350,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3700,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 400,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3710,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2620602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3720,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2620602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3730,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 30,
+            "type": 2620602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3740,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 40,
+            "type": 2620602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3750,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50,
+            "type": 2620602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3760,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 60,
+            "type": 2620602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3770,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 70,
+            "type": 2620602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3780,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 80,
+            "type": 2620602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3790,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 90,
+            "type": 2620602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3800,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 2620602,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3810,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3820,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3830,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 300,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3840,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 400,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3850,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 500,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3860,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 600,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3870,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 700,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3880,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3890,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3900,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3910,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 4,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3920,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3930,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 6,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3940,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 7,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3950,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 8,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3960,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 9,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3970,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3980,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 3990,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4000,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4010,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 4,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4020,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4030,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 6,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4040,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 7,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4050,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 8,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4060,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 9,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4070,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2620303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4080,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 2624101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4090,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 2624101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4100,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 300,
+            "type": 2624101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4110,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 400,
+            "type": 2624101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4120,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 500,
+            "type": 2624101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4130,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 600,
+            "type": 2624101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4140,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 700,
+            "type": 2624101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4150,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 800,
+            "type": 2624101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4160,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 900,
+            "type": 2624101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4170,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1000,
+            "type": 2624101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4180,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 550000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4190,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4200,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20000,
+            "type": 600000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4300,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 550000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4310,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4410,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4420,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4430,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4440,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4450,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4460,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4470,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4480,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4490,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4411,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4421,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4431,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4441,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4451,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4461,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4471,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4481,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4491,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4510,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4511,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4512,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4513,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4550,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4551,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4552,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4600,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4610,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4620,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4630,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 80,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4640,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4650,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 150,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4660,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4670,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 300,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4700,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 530000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4710,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 530000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4720,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50,
+            "type": 530000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4730,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 80,
+            "type": 530000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4740,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 530000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4750,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 150,
+            "type": 530000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4760,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 530000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4770,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 300,
+            "type": 530000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4900,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620701,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4910,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620702,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4920,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620702,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4930,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620703,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4940,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620703,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4950,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620704,
+            "level": 0
+        }
+    },
+    {
+        "pk": 4960,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620704,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5000,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5010,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5020,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5030,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5040,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5050,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5060,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2620603,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5500,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5501,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5502,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5503,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2622001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5504,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2622002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5505,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2622003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5506,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5507,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5508,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2622103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5600,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5610,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5620,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5630,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620104,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5601,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5611,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5621,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620103,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5631,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620104,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5700,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5710,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5720,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 80,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5740,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5750,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 150,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5760,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 2623101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5800,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5810,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5820,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2621003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 5830,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6000,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2621405,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6001,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2621401,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6002,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2621404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6003,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621405,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6004,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621401,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6005,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6006,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2621505,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6007,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2621501,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6008,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2621504,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6010,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2621406,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6011,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2621402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6012,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2621403,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6013,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621406,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6014,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621402,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6015,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621403,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6016,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2621506,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6017,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2621502,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6018,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2621503,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6030,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2610001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6031,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2610001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6032,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2610001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6033,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2610001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6050,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6051,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6052,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6053,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6054,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6055,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6056,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6070,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2620701,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6071,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620701,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6072,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620701,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6073,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2620702,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6074,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620702,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6075,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620702,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6076,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620703,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6080,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6081,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6082,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 30,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6083,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6084,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 80,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6085,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6086,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 150,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6090,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6091,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6092,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 15,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6094,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6095,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 30,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6096,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50,
+            "type": 2621304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6110,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6111,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2621002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6112,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6113,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2621003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6120,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621001,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6121,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2621002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6122,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2621002,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6123,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2621003,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6150,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6160,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6170,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6180,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6200,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6201,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6202,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 150,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6210,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6211,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 250,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6212,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 300,
+            "type": 710000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6300,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6310,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6311,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 40,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6320,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 2,
+            "type": 2621201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6330,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620102,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6400,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 100,
+            "type": 510000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6410,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 50000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6420,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2625101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6470,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 116000306,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6520,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620201,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6530,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6540,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2620202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6550,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 3,
+            "type": 2620203,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6600,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620204,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6601,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620204,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6602,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620204,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6603,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620204,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6607,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6608,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6609,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6610,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6700,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620204,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6701,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620204,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6702,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620204,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6703,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620204,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6707,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6708,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6709,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6710,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2620304,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6800,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2342101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6801,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2342202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6810,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2342303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6811,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2342404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6820,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2362101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6821,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2362202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6830,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2362303,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6831,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 2362404,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6840,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2324101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6841,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 2324202,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6900,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6901,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 0,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6902,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 0,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6903,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6904,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6905,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6906,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6907,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6908,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6909,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 0,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6910,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6911,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 0,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6912,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 0,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6913,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6914,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6915,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6916,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6917,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6918,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 5,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6919,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6920,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6921,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6922,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6923,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 10,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6924,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20,
+            "type": 700000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 7000,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 550000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 7001,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20000,
+            "type": 500000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 7010,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 200,
+            "type": 550000,
+            "level": 0
+        }
+    },
+    {
+        "pk": 7011,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 20000,
+            "type": 500000,
+            "level": 0
+        }
+    }
+]

@@ -1,0 +1,53 @@
+
+table:
+  out-type: json
+  sheet: 抽奖入口
+  row: 3
+  model: gashapon.tavern
+  columns:
+    - name: cdTime
+      column: cdTime
+      type: int
+      default: 0
+
+    - name: level
+      column: level
+      type: int
+      default: 0
+
+    - name: cost
+      column: cost
+      type: int
+      default: 0
+
+    - name: maxDailyCount
+      column: maxDailyCount
+      type: int
+      default: 0
+
+    - name: tenCost
+      column: tenCost
+      type: int
+      default: 0
+
+    - name: discount
+      column: discount
+      type: int
+      default: 0
+
+    - name: gashapon_id
+      column: gashapon_id
+      type: int
+      default: 0
+
+    - name: rewardId
+      column: rewardId
+      type: char
+      default: ""
+
+    - name: tenRewardId
+      column: tenRewardId
+      type: char
+      default: ""
+
+

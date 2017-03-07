@@ -1,0 +1,5392 @@
+[
+    {
+        "pk": 11011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,122",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 11012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,192",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 11013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "220,129",
+            "airGatesToActivate_int": "1,2,3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 11021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,157",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 11022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,129",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 11023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "115,24",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 11031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,164",
+            "airGatesToActivate_int": "3,4,5",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 11032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,136",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 11033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "136,248",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 11041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "185,108",
+            "airGatesToActivate_int": 11.0,
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 11042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,24",
+            "airGatesToActivate_int": 11.0,
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 11043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "143,59",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 11051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,164",
+            "airGatesToActivate_int": "1,2,3",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 11052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,157",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 11053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "157,325",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 11061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,143",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 11062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "143,52",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 11063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,143",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 11071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,115",
+            "airGatesToActivate_int": "401,501",
+            "zoneID": 8
+        }
+    },
+    {
+        "pk": 11072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,122",
+            "airGatesToActivate_int": "402,502",
+            "zoneID": 9
+        }
+    },
+    {
+        "pk": 11073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,115",
+            "airGatesToActivate_int": "\t403,503",
+            "zoneID": 10
+        }
+    },
+    {
+        "pk": 11081,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "101,10",
+            "airGatesToActivate_int": "11,12,9",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 11082,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,171",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 11083,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,129",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 11091,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,150",
+            "airGatesToActivate_int": "6,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 11092,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "150,318",
+            "airGatesToActivate_int": "6,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 11093,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,157",
+            "airGatesToActivate_int": "12,13,14",
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 11101,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,164",
+            "airGatesToActivate_int": "401,501",
+            "zoneID": 8
+        }
+    },
+    {
+        "pk": 11102,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,164",
+            "airGatesToActivate_int": "402,502",
+            "zoneID": 9
+        }
+    },
+    {
+        "pk": 11103,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,122",
+            "airGatesToActivate_int": "502,504,601,603",
+            "zoneID": 13
+        }
+    },
+    {
+        "pk": 12011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,24",
+            "airGatesToActivate_int": "301,302",
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 12012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,206",
+            "airGatesToActivate_int": "301,302,303,304,5",
+            "zoneID": 7
+        }
+    },
+    {
+        "pk": 12013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "206,332",
+            "airGatesToActivate_int": "301,302,303,304,5",
+            "zoneID": 7
+        }
+    },
+    {
+        "pk": 12021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,157",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 12022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,52",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 12023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,164",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 12031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,150",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 12032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,157",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 12033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "143,45",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 12041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,122",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 12042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,185",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 12043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "262,178",
+            "airGatesToActivate_int": "10,11,15",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 12051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "101,10",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 12052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,25",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 12053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,45",
+            "airGatesToActivate_int": "1,2,12",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 12061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "101,227",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 12062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 12063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 12071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,157",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 12072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,52",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 12073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,164",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 12081,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,220",
+            "airGatesToActivate_int": "201,202",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 12082,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "248,143",
+            "airGatesToActivate_int": "201,202,203,204,105",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 12083,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,122",
+            "airGatesToActivate_int": "501,503,602,604",
+            "zoneID": 12
+        }
+    },
+    {
+        "pk": 12091,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "262,157",
+            "airGatesToActivate_int": "10,11,15",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 12092,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "157,59",
+            "airGatesToActivate_int": "10,11,15",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 12093,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "213,87",
+            "airGatesToActivate_int": "6,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 12101,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "143,59",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 12102,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "143,73",
+            "airGatesToActivate_int": "11,12,9",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 12103,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,143",
+            "airGatesToActivate_int": 10.0,
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 13011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "234,129",
+            "airGatesToActivate_int": "1,2,3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 13012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,10",
+            "airGatesToActivate_int": "1,2,3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 13013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,10",
+            "airGatesToActivate_int": "701,702",
+            "zoneID": 14
+        }
+    },
+    {
+        "pk": 13021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,164",
+            "airGatesToActivate_int": "301,302,303,304,5",
+            "zoneID": 7
+        }
+    },
+    {
+        "pk": 13022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "108,150",
+            "airGatesToActivate_int": "401,501",
+            "zoneID": 8
+        }
+    },
+    {
+        "pk": 13023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,143",
+            "airGatesToActivate_int": "402,502",
+            "zoneID": 9
+        }
+    },
+    {
+        "pk": 13031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,150",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 13032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "94,10",
+            "airGatesToActivate_int": "3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 13033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,143",
+            "airGatesToActivate_int": "6,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 13041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,129",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 13042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,10",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 13043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,10",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 13051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,220",
+            "airGatesToActivate_int": 10.0,
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 13052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "220,339",
+            "airGatesToActivate_int": 10.0,
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 13053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,157",
+            "airGatesToActivate_int": "1,2,3",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 13061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,10",
+            "airGatesToActivate_int": "",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 13062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "164,38",
+            "airGatesToActivate_int": "",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 13063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "213,17",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 13071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,24",
+            "airGatesToActivate_int": "301,302",
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 13072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,206",
+            "airGatesToActivate_int": "301,302,303,304,5",
+            "zoneID": 7
+        }
+    },
+    {
+        "pk": 13073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "206,332",
+            "airGatesToActivate_int": "301,302,303,304,5",
+            "zoneID": 7
+        }
+    },
+    {
+        "pk": 13081,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,115",
+            "airGatesToActivate_int": "401,501",
+            "zoneID": 8
+        }
+    },
+    {
+        "pk": 13082,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,122",
+            "airGatesToActivate_int": "402,502",
+            "zoneID": 9
+        }
+    },
+    {
+        "pk": 13083,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,115",
+            "airGatesToActivate_int": "\t403,503",
+            "zoneID": 10
+        }
+    },
+    {
+        "pk": 13091,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,143",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 13092,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,129",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 13093,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "122,10",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 13101,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,101",
+            "airGatesToActivate_int": "12,13,14",
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 13102,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "178,94",
+            "airGatesToActivate_int": 14.0,
+            "zoneID": 7
+        }
+    },
+    {
+        "pk": 13103,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "94,10",
+            "airGatesToActivate_int": 14.0,
+            "zoneID": 7
+        }
+    },
+    {
+        "pk": 14011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "94,192",
+            "airGatesToActivate_int": "101,102,103,104,105",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 14012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "192,290",
+            "airGatesToActivate_int": "101,102,103,104,105",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 14013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "213,10",
+            "airGatesToActivate_int": "801,802",
+            "zoneID": 15
+        }
+    },
+    {
+        "pk": 14021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,115",
+            "airGatesToActivate_int": "401,501",
+            "zoneID": 8
+        }
+    },
+    {
+        "pk": 14022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,122",
+            "airGatesToActivate_int": "402,502",
+            "zoneID": 9
+        }
+    },
+    {
+        "pk": 14023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,115",
+            "airGatesToActivate_int": "\t403,503",
+            "zoneID": 10
+        }
+    },
+    {
+        "pk": 14031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,150",
+            "airGatesToActivate_int": "1,2,12",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 14032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,150",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 14033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,150",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 14041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,143",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 14042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "101,10",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 14043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "122,10",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 14051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,143",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 14052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,108",
+            "airGatesToActivate_int": 11.0,
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 14053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "108,234",
+            "airGatesToActivate_int": 11.0,
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 14061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,164",
+            "airGatesToActivate_int": "1,2,3",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 14062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,157",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 14063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "157,325",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 14071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,164",
+            "airGatesToActivate_int": "401,501",
+            "zoneID": 8
+        }
+    },
+    {
+        "pk": 14072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,164",
+            "airGatesToActivate_int": "402,502",
+            "zoneID": 9
+        }
+    },
+    {
+        "pk": 14073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,122",
+            "airGatesToActivate_int": "502,504,601,603",
+            "zoneID": 13
+        }
+    },
+    {
+        "pk": 14081,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,164",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 14082,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,129",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 14083,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "115,10",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 14091,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,129",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 14092,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "115,54",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 14093,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,54",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 14101,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,115",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 14102,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,143",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 14103,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "80,10",
+            "airGatesToActivate_int": "11,13",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 15011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "311,220",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 15012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "108,213",
+            "airGatesToActivate_int": "11,12",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 15013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "234,150",
+            "airGatesToActivate_int": "11,12",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 15021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,129",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 15022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "115,52",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 15023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,38",
+            "airGatesToActivate_int": "11,12,9",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 15031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,136",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 15032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "136,332",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 15033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,10",
+            "airGatesToActivate_int": "12,13,14",
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 15041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,164",
+            "airGatesToActivate_int": "3,4,5",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 15042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,136",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 15043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "136,248",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 15051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "185,94",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 15052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "94,10",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 15053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,143",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 15061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "115,206",
+            "airGatesToActivate_int": "",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 15062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "311,143",
+            "airGatesToActivate_int": "",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 15063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,129",
+            "airGatesToActivate_int": "",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 15071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "94,10",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 15072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "241,150",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 15073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "255,339",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 15081,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "157,248",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 15082,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "248,332",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 15083,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,115",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 15091,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "311,220",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 15092,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "108,213",
+            "airGatesToActivate_int": "11,12",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 15093,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "234,150",
+            "airGatesToActivate_int": "11,12",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 15101,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "234,143",
+            "airGatesToActivate_int": "",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 15102,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,122",
+            "airGatesToActivate_int": "",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 15103,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,164",
+            "airGatesToActivate_int": "",
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 16011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "101,10",
+            "airGatesToActivate_int": "11,12,9",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 16012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,171",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 16013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,129",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 16021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,157",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 16022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,129",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 16023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "115,24",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 16031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,164",
+            "airGatesToActivate_int": "3,4,5",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 16032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,136",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 16033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "136,248",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 16041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,143",
+            "airGatesToActivate_int": "1,2,12",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 16042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "25,136",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 16043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,129",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 16051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,136",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 16052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,24",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 16053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,143",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 16061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,143",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 16062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "143,52",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 16063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,143",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 16071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "101,10",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 16072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "219,31",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 16073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,115",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 16081,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "101,10",
+            "airGatesToActivate_int": "11,12,9",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 16082,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,171",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 16083,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,129",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 16091,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,150",
+            "airGatesToActivate_int": "6,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 16092,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "150,318",
+            "airGatesToActivate_int": "6,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 16093,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,157",
+            "airGatesToActivate_int": "12,13,14",
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 16101,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,157",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 16102,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,52",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 16103,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,164",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 17011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,157",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 17012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,52",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 17013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,164",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 17021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,115",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 17022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,143",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 17023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "80,10",
+            "airGatesToActivate_int": "11,13",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 17031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,150",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 17032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,157",
+            "airGatesToActivate_int": "3,4,5",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 17033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,129",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 17041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,157",
+            "airGatesToActivate_int": "1,2,12",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 17042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,122",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 17043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,129",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 17051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,24",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 17052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,24",
+            "airGatesToActivate_int": "1,2,3",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 17053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "325,227",
+            "airGatesToActivate_int": 10.0,
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 17061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "101,227",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 17062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 17063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 17071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,17",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 17072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "73,150",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 17073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,38",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 17081,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,220",
+            "airGatesToActivate_int": "201,202",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 17082,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "248,143",
+            "airGatesToActivate_int": "201,202,203,204,105",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 17083,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,122",
+            "airGatesToActivate_int": "501,503,602,604",
+            "zoneID": 12
+        }
+    },
+    {
+        "pk": 17091,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "262,157",
+            "airGatesToActivate_int": "10,11,15",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 17092,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "157,59",
+            "airGatesToActivate_int": "10,11,15",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 17093,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "213,87",
+            "airGatesToActivate_int": "6,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 17101,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,129",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 17102,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,10",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 17103,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,10",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 18011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,164",
+            "airGatesToActivate_int": "3,4,5",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 18012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,136",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 18013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "136,248",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 18021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,45",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 18022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,164",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 18023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,10",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 18031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,45",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 18032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,164",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 18033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,10",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 18041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,129",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 18042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,10",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 18043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,10",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 18051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,136",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 18052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,31",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 18053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,136",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 18061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,10",
+            "airGatesToActivate_int": "",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 18062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "164,38",
+            "airGatesToActivate_int": "",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 18063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "213,17",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 18071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,150",
+            "airGatesToActivate_int": "6,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 18072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "150,318",
+            "airGatesToActivate_int": "6,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 18073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,157",
+            "airGatesToActivate_int": "12,13,14",
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 18081,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,129",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 18082,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "115,10",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 18083,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,31",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 18091,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,143",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 18092,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,129",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 18093,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,10",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 18101,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,101",
+            "airGatesToActivate_int": "12,13,14",
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 18102,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "178,73",
+            "airGatesToActivate_int": 14.0,
+            "zoneID": 7
+        }
+    },
+    {
+        "pk": 18103,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "73,10",
+            "airGatesToActivate_int": 14.0,
+            "zoneID": 7
+        }
+    },
+    {
+        "pk": 99011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "269,269",
+            "airGatesToActivate_int": "",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 99012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,115",
+            "airGatesToActivate_int": "",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 110001,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110002,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110003,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110004,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110005,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110006,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110007,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110008,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110009,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110010,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110014,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110015,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110016,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110017,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110018,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110019,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110020,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110024,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110025,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110026,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110027,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110028,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110029,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110030,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110034,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110035,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110036,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110037,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110038,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110039,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110040,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110044,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110045,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110046,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110047,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110048,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110049,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110050,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110054,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110055,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110056,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110057,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110058,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110059,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110060,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110064,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110065,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110066,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110067,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110068,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110069,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110070,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110074,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110075,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110076,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110077,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110078,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110079,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110080,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110081,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110082,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110083,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110084,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110085,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110086,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110087,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110088,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110089,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110090,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110091,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110092,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110093,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110094,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110095,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110096,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110097,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110098,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110099,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 110100,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 120011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,45",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 120012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,164",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 120013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,10",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 120021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,45",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 120022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,164",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 120023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,10",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 120031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,45",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 120032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,164",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 120033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,10",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 120041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,45",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 120042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,164",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 120043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,10",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 130011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "178,94",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 130012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "94,10",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 130013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,143",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 130021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "178,94",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 130022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "94,10",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 130023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,143",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 130031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "178,94",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 130032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "94,10",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 130033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,143",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 130041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "178,94",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 130042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "94,10",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 130043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,143",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 211011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,122",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 211012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,192",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 211013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "220,129",
+            "airGatesToActivate_int": "1,2,3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 211021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,157",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 211022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,129",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 211023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "115,24",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 211031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,164",
+            "airGatesToActivate_int": "3,4,5",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 211032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,136",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 211033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "136,248",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 211041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "185,108",
+            "airGatesToActivate_int": 11.0,
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 211042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,24",
+            "airGatesToActivate_int": 11.0,
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 211043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "143,59",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 211051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,164",
+            "airGatesToActivate_int": "1,2,3",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 211052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,157",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 211053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "157,325",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 211061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,143",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 211062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "143,52",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 211063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,143",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 211071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,115",
+            "airGatesToActivate_int": "401,501",
+            "zoneID": 8
+        }
+    },
+    {
+        "pk": 211072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,122",
+            "airGatesToActivate_int": "402,502",
+            "zoneID": 9
+        }
+    },
+    {
+        "pk": 211073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,115",
+            "airGatesToActivate_int": "\t403,503",
+            "zoneID": 10
+        }
+    },
+    {
+        "pk": 212011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,24",
+            "airGatesToActivate_int": "301,302",
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 212012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,206",
+            "airGatesToActivate_int": "301,302,303,304,5",
+            "zoneID": 7
+        }
+    },
+    {
+        "pk": 212013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "206,332",
+            "airGatesToActivate_int": "301,302,303,304,5",
+            "zoneID": 7
+        }
+    },
+    {
+        "pk": 212021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,157",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 212022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,52",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 212023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,164",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 212031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,136",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 212032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,136",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 212033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "157,38",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 212041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,157",
+            "airGatesToActivate_int": "1,2,12",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 212042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,122",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 212043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,129",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 212051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "171,94",
+            "airGatesToActivate_int": 11.0,
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 212052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "94,10",
+            "airGatesToActivate_int": 11.0,
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 212053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "143,24",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 212061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "101,227",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 212062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 212063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 212071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "248,339",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 212072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "311,220",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 212073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,150",
+            "airGatesToActivate_int": "11,12",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 213011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "234,129",
+            "airGatesToActivate_int": "1,2,3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 213012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,10",
+            "airGatesToActivate_int": "1,2,3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 213013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,10",
+            "airGatesToActivate_int": "701,702",
+            "zoneID": 14
+        }
+    },
+    {
+        "pk": 213021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,45",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 213022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,164",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 213023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,10",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 213031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,150",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 213032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "94,10",
+            "airGatesToActivate_int": "3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 213033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,143",
+            "airGatesToActivate_int": "6,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 213041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,129",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 213042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,10",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 213043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,10",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 213051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,220",
+            "airGatesToActivate_int": 10.0,
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 213052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "220,339",
+            "airGatesToActivate_int": 10.0,
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 213053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,157",
+            "airGatesToActivate_int": "1,2,3",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 213061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,10",
+            "airGatesToActivate_int": "",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 213062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "164,38",
+            "airGatesToActivate_int": "",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 213063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "213,17",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 213071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "157,248",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 213072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "248,332",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 213073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,115",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 214011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "94,192",
+            "airGatesToActivate_int": "101,102,103,104,105",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 214012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "192,290",
+            "airGatesToActivate_int": "101,102,103,104,105",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 214013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "213,10",
+            "airGatesToActivate_int": "801,802",
+            "zoneID": 15
+        }
+    },
+    {
+        "pk": 214021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,10",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 214022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,45",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 214023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,164",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 214031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,164",
+            "airGatesToActivate_int": "3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 214032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,164",
+            "airGatesToActivate_int": "3,4,5",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 214033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,157",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 214041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,150",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 214042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "101,10",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 214043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "122,10",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 214051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,143",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 214052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,108",
+            "airGatesToActivate_int": 11.0,
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 214053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "108,234",
+            "airGatesToActivate_int": 11.0,
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 214061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "73,164",
+            "airGatesToActivate_int": "",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 214062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "164,80",
+            "airGatesToActivate_int": "",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 214063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,213",
+            "airGatesToActivate_int": "",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 214071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "234,325",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 214072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "318,234",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 214073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "234,150",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 215011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "192,108",
+            "airGatesToActivate_int": "1,2,3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 215012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,24",
+            "airGatesToActivate_int": "1,2,3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 215013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "290,178",
+            "airGatesToActivate_int": "301,302,303,304,5",
+            "zoneID": 7
+        }
+    },
+    {
+        "pk": 215021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,129",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 215022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "115,52",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 215023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,38",
+            "airGatesToActivate_int": "11,12,9",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 215031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,136",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 215032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "136,332",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 215033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,10",
+            "airGatesToActivate_int": "12,13,14",
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 215041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "101,10",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 215042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,25",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 215043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,45",
+            "airGatesToActivate_int": "1,2,12",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 215051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "185,94",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 215052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "94,10",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 215053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,143",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 215061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "115,206",
+            "airGatesToActivate_int": "",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 215062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "311,143",
+            "airGatesToActivate_int": "",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 215063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,129",
+            "airGatesToActivate_int": "",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 215071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "94,10",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 215072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "241,150",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 215073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "255,339",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 216011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,122",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 216012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,192",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 216013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "220,129",
+            "airGatesToActivate_int": "1,2,3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 216021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,157",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 216022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,129",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 216023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "115,24",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 216031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,164",
+            "airGatesToActivate_int": "3,4,5",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 216032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,136",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 216033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "136,248",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 216041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,143",
+            "airGatesToActivate_int": "1,2,12",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 216042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "25,136",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 216043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,129",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 216051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,136",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 216052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,24",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 216053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,143",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 216061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,143",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 216062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "143,52",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 216063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,143",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 216071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "101,10",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 216072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "219,31",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 216073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,115",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 217011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,24",
+            "airGatesToActivate_int": "301,302",
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 217012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "122,206",
+            "airGatesToActivate_int": "301,302,303,304,5",
+            "zoneID": 7
+        }
+    },
+    {
+        "pk": 217013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "206,332",
+            "airGatesToActivate_int": "301,302,303,304,5",
+            "zoneID": 7
+        }
+    },
+    {
+        "pk": 217021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,157",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 217022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,52",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 217023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,164",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 217031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,150",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 217032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,157",
+            "airGatesToActivate_int": "3,4,5",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 217033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,129",
+            "airGatesToActivate_int": "8,9",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 217041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "52,157",
+            "airGatesToActivate_int": "1,2,12",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 217042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,122",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 217043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "24,129",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 217051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,24",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 217052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,24",
+            "airGatesToActivate_int": "1,2,3",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 217053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "325,227",
+            "airGatesToActivate_int": 10.0,
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 217061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "101,227",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 217062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "38,136",
+            "airGatesToActivate_int": "",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 217063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,59",
+            "airGatesToActivate_int": "",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 217071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,17",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 217072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "73,150",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 217073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,38",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 218011,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "234,129",
+            "airGatesToActivate_int": "1,2,3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 218012,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,10",
+            "airGatesToActivate_int": "1,2,3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 218013,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,10",
+            "airGatesToActivate_int": "701,702",
+            "zoneID": 14
+        }
+    },
+    {
+        "pk": 218021,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,45",
+            "airGatesToActivate_int": "5,6,7,8",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 218022,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "66,164",
+            "airGatesToActivate_int": "2,3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 218023,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "150,10",
+            "airGatesToActivate_int": 1.0,
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 218031,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,150",
+            "airGatesToActivate_int": "1,2",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 218032,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "94,10",
+            "airGatesToActivate_int": "3,4,5",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 218033,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,143",
+            "airGatesToActivate_int": "6,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 218041,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,129",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 218042,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,10",
+            "airGatesToActivate_int": "7,8",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 218043,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "108,10",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 218051,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "45,136",
+            "airGatesToActivate_int": "5,6",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 218052,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "129,31",
+            "airGatesToActivate_int": "2,5,7",
+            "zoneID": 3
+        }
+    },
+    {
+        "pk": 218053,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "31,136",
+            "airGatesToActivate_int": 9.0,
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 218061,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "136,10",
+            "airGatesToActivate_int": "",
+            "zoneID": 2
+        }
+    },
+    {
+        "pk": 218062,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "164,38",
+            "airGatesToActivate_int": "",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 218063,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "213,17",
+            "airGatesToActivate_int": "",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 218071,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "248,339",
+            "airGatesToActivate_int": "3,4",
+            "zoneID": 1
+        }
+    },
+    {
+        "pk": 218072,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "311,220",
+            "airGatesToActivate_int": "9,10",
+            "zoneID": 4
+        }
+    },
+    {
+        "pk": 218073,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "59,150",
+            "airGatesToActivate_int": "11,12",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 120001,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 1,
+            "startPoints_int": "73,73",
+            "airGatesToActivate_int": "",
+            "zoneID": 6
+        }
+    },
+    {
+        "pk": 130001,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "17,73",
+            "airGatesToActivate_int": "101,102,103,104,105",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 130002,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "199,199",
+            "airGatesToActivate_int": "101,102,103,104,105",
+            "zoneID": 5
+        }
+    },
+    {
+        "pk": 130003,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "17,73",
+            "airGatesToActivate_int": "101,102,103,104,105",
+            "zoneID": 0
+        }
+    },
+    {
+        "pk": 130004,
+        "model": "instance.zone",
+        "fields": {
+            "attackDir": 0,
+            "startPoints_int": "199,199",
+            "airGatesToActivate_int": "101,102,103,104,105",
+            "zoneID": 5
+        }
+    }
+]

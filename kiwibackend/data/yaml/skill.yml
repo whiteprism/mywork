@@ -1,0 +1,250 @@
+
+table:
+  out-type: json
+  sheet: 技能
+  row: 3
+  model: skill.skill
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: confront
+      column: confront
+      type: int
+      default: 0
+
+    - name: attackDelay
+      column: attackDelay
+      type: float
+      default: 0.0
+
+    - name: attackingTime
+      column: attackingTime
+      type: float
+      default: 0.0
+
+    - name: attackingTimes_float
+      column: attackingTimes
+      type: char
+      default: ""
+
+    - name: attackCostTime
+      column: attackCostTime
+      type: float
+      default: 0.0
+
+    - name: attackCostTimes_float
+      column: attackCostTimes
+      type: char
+      default: ""
+
+    - name: attackType
+      column: attackType
+      type: int
+      default: 1
+
+    - name: banFlags_int
+      column: banFlags
+      type: char
+      default: ""
+
+    - name: coolDownTime
+      column: coolDownTime
+      type: float
+      default: 0.0
+
+    - name: deadEffectDelay
+      column: deadEffectDelay
+      type: float
+      default: 0.0
+
+    - name: deadEffect
+      column: deadEffect
+      type: char
+      default: ""
+
+    - name: endEffect
+      column: endEffect
+      type: char
+      default: ""
+
+    - name: energyCost
+      column: energyCost
+      type: float
+      default: 0.0
+
+    - name: flyEffect
+      column: flyEffect
+      type: char
+      default: ""
+
+    - name: gravity
+      column: gravity
+      type: float
+      default: 0.0
+
+    - name: healEffect
+      column: healEffect
+      type: char
+      default: ""
+
+    - name: hitPosition
+      column: hitPosition
+      type: int
+
+    - name: hitEffect
+      column: hitEffect
+      type: char
+      default: ""
+
+    - name: hitEffectOffset
+      column: hitEffectOffset
+      type: float
+      default: 0.0
+
+    - name: hitSound
+      column: hitSound
+      type: char
+      default: ""
+
+    - name: hurtDuration
+      column: hurtDuration
+      type: float
+      default: 0.0
+
+    - name: icon
+      column: icon
+      type: char
+      default: ""
+
+    - name: interruptPower
+      column: interruptPower
+      type: int
+      default: 0
+
+    - name: pathType
+      column: pathType
+      type: int
+      default: 1
+
+    - name: shakeCamera
+      column: shakeCamera
+      type: int
+      default: 0
+
+    - name: shakeDelay
+      column: shakeDelay
+      type: float
+      default: 0.0
+
+    - name: shakeDuration
+      column: shakeDuration
+      type: float
+      default: 0.0
+
+    - name: shakePower
+      column: shakePower
+      type: char
+      default: ""
+
+    - name: shakePowers_float
+      column: shakePowers
+      type: char
+      default: ""
+
+    - name: spellExecuteType
+      column: spellExecuteType
+      type: int
+
+    - name: spellType
+      column: spellType
+      type: int
+
+    - name: starSound
+      column: starSound
+      type: char
+      default: ""
+
+    - name: steelArmorPower
+      column: steelArmorPower
+      type: int
+      default: 1
+
+    - name: targetGroup
+      column: targetGroup
+      type: int
+      default: 0
+
+    - name: targetPosition
+      column: targetPosition
+      type: int
+      default: 1
+
+    - name: targetPriority2
+      column: targetPriority2
+      type: int
+      default: 0
+
+    - name: targetPriority
+      column: targetPriority
+      type: int
+      default: 0
+
+    - name: triggerPossibility
+      column: triggerPossibility
+      type: float
+      default: 1.0
+
+    - name: triggerType
+      column: triggerType
+      type: int
+      default: 0
+
+    - name: weaponSpeed
+      column: weaponSpeed
+      type: float
+      default: 0.0
+
+    - name: weaponStartPositionXs_float
+      column: weaponStartPositionXs
+      type: char
+      default: ""
+
+    - name: weaponStartPositionYs_float
+      column: weaponStartPositionYs
+      type: char
+      default: ""
+
+    - name: weaponStartPositionZs_float
+      column: weaponStartPositionZs
+      type: char
+      default: ""
+
+    - name: knockDown
+      column: knockDown
+      type: int
+      default: 0
+
+    - name: isBlizzardType
+      column: isBlizzardType
+      type: int
+      default: 0
+
+    - name: startPosType
+      column: startPosType
+      type: int
+      default: 0
+
+    - name: targetHeroIds_int
+      column: targetHeroIds
+      type: char
+      default: "0"
+
+

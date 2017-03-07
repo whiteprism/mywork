@@ -1,0 +1,28 @@
+
+table:
+  out-type: json
+  sheet: 游戏多语言
+  row: 3
+  model: gameconfig.gamelanguage
+  columns:
+    - name: id
+      column: ID
+      type: char
+      default: ""
+
+    - name: cn
+      column: cn
+      type: char
+      default: ""
+
+    - name: jp
+      column: jp
+      type: char
+      default: ""
+
+    - name: en
+      column: en
+      type: char
+      default: ""
+
+

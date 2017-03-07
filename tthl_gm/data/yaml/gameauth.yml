@@ -1,0 +1,12 @@
+
+table:
+  out-type: json
+  sheet: gameauth
+  row: 3
+  model: gameconfig.gameauth
+  columns:
+    - name: user
+      column: user
+      type: int
+
+

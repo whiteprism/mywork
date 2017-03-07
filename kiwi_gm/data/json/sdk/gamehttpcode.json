@@ -1,0 +1,156 @@
+[
+    {
+        "pk": 200,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Success"
+        }
+    },
+    {
+        "pk": 500,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error"
+        }
+    },
+    {
+        "pk": 501,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Game_None"
+        }
+    },
+    {
+        "pk": 502,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Channel_None"
+        }
+    },
+    {
+        "pk": 503,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Sign"
+        }
+    },
+    {
+        "pk": 504,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Token"
+        }
+    },
+    {
+        "pk": 1001,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Account_None"
+        }
+    },
+    {
+        "pk": 1002,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Account_Existed"
+        }
+    },
+    {
+        "pk": 1003,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Account_Len"
+        }
+    },
+    {
+        "pk": 1004,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Account_Text"
+        }
+    },
+    {
+        "pk": 1101,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Emall_None"
+        }
+    },
+    {
+        "pk": 1102,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Emall_Existed"
+        }
+    },
+    {
+        "pk": 1103,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Emall_Code"
+        }
+    },
+    {
+        "pk": 1104,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Emall_Code_Expired"
+        }
+    },
+    {
+        "pk": 1105,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Emall_Invalid"
+        }
+    },
+    {
+        "pk": 1201,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Tel_None"
+        }
+    },
+    {
+        "pk": 1202,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Tel_Existed"
+        }
+    },
+    {
+        "pk": 1203,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Tel_Sms_Code"
+        }
+    },
+    {
+        "pk": 1301,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Password_Len"
+        }
+    },
+    {
+        "pk": 1302,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Password_Invalid"
+        }
+    },
+    {
+        "pk": 1303,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Password"
+        }
+    },
+    {
+        "pk": 1401,
+        "model": "gameconfig.gamehttpcode",
+        "fields": {
+            "language_id": "Http_Error_Binded"
+        }
+    }
+]

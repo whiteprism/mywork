@@ -1,0 +1,34 @@
+
+table:
+  out-type: json
+  sheet: game
+  row: 3
+  model: gameconfig.game
+  columns:
+    - name: code
+      column: code
+      type: char
+      default: ""
+
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: secretKey
+      column: secretKey
+      type: char
+
+    - name: purchaseKey
+      column: purchaseKey
+      type: char
+
+    - name: updatedAt
+      column: updatedAt
+      type: char
+
+    - name: createdAt
+      column: createdAt
+      type: char
+
+

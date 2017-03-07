@@ -1,0 +1,7 @@
+<h2 class="page-header">操作结果</h2>
+{% if not ret %}
+<p>操作失败，相关信息如下：</p>
+<span style="color: #FF0000;">{{msg}}</span>
+{% else %}
+<p class="data-empty">操作成功</p>
+{% endif %}

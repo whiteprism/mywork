@@ -1,0 +1,25 @@
+<h2 class="page-header">充值信息</h2>
+<form action="/check_recharge_detail_go/" method="post" name="form1" onsubmit="rechargeGetInfo(this);return false;">
+    <label for="inputServerID">服务器</label>
+    <input type="text" id="inputServerID" name="server_id" value="{{ serverid }}"></br>
+    <label for="inputUserID">玩家ID</label>
+    <input type="text" id="inputUserID" name="player_id" value="{{ playerid }}"></br>
+    <label for="inputOrderID">订单号</label>
+    <input type="text" id="inputOrderID" name="order_id" value="{{ orderid }}"></br>
+    <label for="time_zone">充值时间段：</label>
+    <input class="datetimepicker" type="text" readonly name="start_time" value="{{ starttime }}">&nbsp;TO
+    <input class="datetimepicker" type="text" readonly name="end_time" value="{{ endtime }}"><br>
+    <label for="recharge_status">充值状态</label>
+    <input type="radio" name="type" value="1" {% ifequal type '1' %} checked="checked" {% endifequal %}>成功
+    <input type="radio" name="type" value="0" {% ifequal type '0' %} checked="checked" {% endifequal %}>失败<br><br>
+    <input class="btn btn-small btn-primary" type="submit">
+</form>
+<div id="recharge-search-table">
+</div>
+<script type="text/javascript">
+      $('.datetimepicker').datetimepicker({
+        format: 'yyyy-mm-dd hh:ii',
+        language: "zh-CN"
+      });
+</script>
+

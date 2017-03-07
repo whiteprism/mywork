@@ -1,0 +1,65 @@
+
+table:
+  out-type: json
+  sheet: server
+  row: 3
+  model: gameconfig.server
+  columns:
+    - name: code
+      column: code
+      type: char
+      default: ""
+
+    - name: int_code
+      column: int_code
+      type: int
+      default: 0
+
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: url
+      column: url
+      type: char
+      default: ""
+
+    - name: real_url
+      column: real_url
+      type: char
+      default: ""
+
+    - name: status
+      column: status
+      type: int
+      default: 2
+
+    - name: status1
+      column: status1
+      type: int
+      default: 0
+
+    - name: start_at
+      column: start_at
+      type: char
+      default: "2000-01-01 00:00:00"
+
+    - name: end_at
+      column: end_at
+      type: char
+      default: "2000-01-01 00:00:00"
+
+    - name: game
+      column: game
+      type: int
+
+    - name: updated_at
+      column: updated_at
+      type: char
+
+    - name: created_at
+      column: created_at
+      type: char
+
+

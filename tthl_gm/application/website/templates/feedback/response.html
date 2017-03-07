@@ -1,0 +1,16 @@
+<h1 class="page-header">玩家反馈回复</h1>
+<form onsubmit="sendEmail(this);return false">
+<label for="player_email">收件人：</label>
+<input type="text" name="email" value="{{ email }}"><br>
+<!-- <p>时间：{{time}}</p> -->
+<label for="">玩家反馈：</label>
+<input type="hidden" name="message" value="{{message}}">
+<p style="text-indent: 2em;">{{ message }}</p>
+<h4>我的回复：</h4>
+<textarea name="response" id="" cols="80" rows="12" style="width:auto;"></textarea><br>
+<!-- <p>添加附件：</p><input type="file" name="attach"><br> -->
+<input type="submit" class="btn btn-small btn-primary" value="提交">&nbsp;&nbsp;
+<!-- <input type="button" onclick="history.go(-1)" value="返回"> -->
+<!-- <a href="/send_email?email=&time={{time}}&message={{message}}&response={{response}}">提交</a>
+<a href="javascript:history.go(-1)" >返回</a> -->
+</form>

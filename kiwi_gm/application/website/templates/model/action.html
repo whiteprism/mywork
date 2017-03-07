@@ -1,0 +1,88 @@
+<h2 class="page-header">行为数据查询</h2>
+<form onsubmit="actionGetInfo(this);return false;">
+    <label for="inputUserID">玩家ID</label>
+    <input id="inputUserID" type="text" name="player_id">
+    <div>
+    <label for="">时间</label>
+    <input class="datetimepicker" id="inputStartTime" type="text" readonly name="start_time">&nbsp;TO <input class="datetimepicker" id="inputEndTime" readonly type="text" name="end_time">
+    </div>
+    <h5>动作：</h5>
+    玩家属性
+    <input type="checkbox" name="PLAYER" value=""><span style="font-size:6px;">升级</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    英雄
+    <input type="checkbox" name="HERO" value="acquire"><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="HERO" value="evolve"><span style="font-size:10px;">进阶</span>
+    <input type="checkbox" name="HERO" value="levelup"><span style="font-size:10px;">升级</span>
+    <input type="checkbox" name="HERO" value="killlevelup"><span style="font-size:10px;">技能升级</span>
+    <input type="checkbox" name="HERO" value="stargrade"><span style="font-size:10px;">升星</span>
+    <br>
+    建筑
+    <input type="checkbox" name="BUILDING" value="create"><span style="font-size:10px;">建造</span>
+    <input type="checkbox" name="BUILDING" value="delete"><span style="font-size:10px;">删除</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    物品
+    <input type="checkbox" name="ITEM" value="acquire"><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="ITEM" value="cost"><span style="font-size:10px;">消耗</span>
+    <input type="checkbox" name="ITEM" value="goldhand"><span style="font-size:10px;">点金手</span>
+    <input type="checkbox" name="ITEM" value="woodhand"><span style="font-size:10px;">点木手</span>
+    <input type="checkbox" name="ITEM" value="buyrecord"><span style="font-size:10px;">购买记录</span>
+    <br>
+    建筑碎片
+    <input type="checkbox" name="BUILDINGFRAGMENT" value="cost"><span style="font-size:10px;">消耗</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    圣物
+    <input type="checkbox" name="ARTIFACT" value="acquire"><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="ARTIFACT" value="delete"><span style="font-size:10px;">删除</span>
+    <input type="checkbox" name="ARTIFACT" value="levelup"><span style="font-size:10px;">升级</span>
+    <input type="checkbox" name="ARTIFACT" value="refine"><span style="font-size:10px;">精炼</span>
+    <input type="checkbox" name="ARTIFACT" value="melt"><span style="font-size:10px;">熔炼</span>
+    <br>
+    圣物碎片
+    <input type="checkbox" name="ARTIFACTFRAGMENT" value="cost"><span style="font-size:10px;">消耗</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    装备
+    <input type="checkbox" name="EQUIP" value="acquire"><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="EQUIP" value="delete"><span style="font-size:10px;">删除</span>
+    <input type="checkbox" name="EQUIP" value="enhance"><span style="font-size:10px;">强化</span>
+    <input type="checkbox" name="EQUIP" value="refinelevelup"><span style="font-size:10px;">精炼</span><br>
+    装备碎片
+    <input type="checkbox" name="EQUIPFRAGMENT" value="cost"><span style="font-size:10px;">消耗</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    金币
+    <input type="checkbox" name="GOLD" value="add"><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="GOLD" value="cost"><span style="font-size:10px;">消耗</span>
+    <br>
+    木材
+    <input type="checkbox" name="WOOD" value="add"><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="WOOD" value="cost"><span style="font-size:10px;">消耗</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    钻石
+    <input type="checkbox" name="DIAMOND" value="add"><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="DIAMOND" value="cost"><span style="font-size:10px;">消耗</span><br>
+    勇气勋章
+    <input type="checkbox" name="COURAGEPOINT" value="add"><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="COURAGEPOINT" value="cost"><span style="font-size:10px;">消耗</span>
+    荣誉勋章
+    <input type="checkbox" name="HONOR" value="add"><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="HONOR" value="cost"><span style="font-size:10px;">消耗</span><br>
+    公会金币
+    <input type="checkbox" name="GUILDGOLD" value="add"><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="GUILDGOLD" value="cost"><span style="font-size:10px;">消耗</span>
+    元素之塔金币
+    <input type="checkbox" name="TOWERGOLD" value="add"><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="TOWERGOLD" value="cost"><span style="font-size:10px;">消耗</span><br>
+    灵魂碎片
+    <input type="checkbox" name="SOUL" value="add"><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="SOUL" value="cost"><span style="font-size:10px;">消耗</span><br><br>
+    <input type="submit" class="btn btn-sm btn-primary" value="查询">
+</form>
+<div class="divindent" id="action-search-table">
+</div>
+<script type="text/javascript">
+      $('.datetimepicker').datetimepicker({
+        format: 'yyyy-mm-dd hh:ii',
+        language: "zh-CN"
+      });
+</script>
+

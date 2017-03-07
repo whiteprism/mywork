@@ -1,0 +1,43 @@
+<div class="row placeholders">
+    <div class="table-responsive">
+        {% if ret %}
+        {% if orders %}
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>订单号</th>
+                    <th>玩家ID</th>
+                    <th>元宝ID</th>
+                    <th>元宝</th>
+                    <th>价格</th>
+                    <th>平台订单ID</th>
+                    <th>支付渠道</th>
+                    <th>支付状态</th>
+                    <th>日期</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for order in orders %}
+                <tr>
+                    <td>{{order.orderId}}</td>
+                    <td>{{order.playerId}}</td>
+                    <td>{{order.yuanboId}}</td>
+                    <td>{{order.yuanbo}}</td>
+                    <td>{{order.price}}</td>
+                    <td>{{order.platOrderId}}</td>
+                    <td>{{order.channel}}</td>
+                    <td>{{order.status}}</td>
+                    <td>{{order.finishAt}}</td>
+                    <td><input class="btn btn-xs btn-primary" type="button" value="补单" onclick="addOrder({{serverid}},{{orderid}});"></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% else %}
+        <p class="data-empty pindent">查询数据为空！</p>
+        {% endif %}
+        {% else %}
+        <p class="error pindent">{{msg}}</p>
+        {% endif %}
+    </div>
+</div>

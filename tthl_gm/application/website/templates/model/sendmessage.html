@@ -1,0 +1,12 @@
+<h2 class="page-header">发送系统消息</h2>
+<form name="form" method="post" onsubmit="sendMessage(this);return false;">
+    <label for="inputServerID">服务器</label>
+    <input type="text" id="inputServerID" name="server_id" value="{{ serverid }}">&nbsp;&nbsp;&nbsp;
+    <label for="inputUserID" >外部ID</label>
+    <textarea name="external_id" id="inputUserID" cols="30" rows="8">{{ externalid }}</textarea></br>
+    <label for="inputMessage" >消息</label>
+    <textarea name="content" id="inputMessage" cols="60" rows="8" style="width:auto;">{{ message }}</textarea><br>
+    <input class="btn btn-sm btn-primary" type="submit" value="发送">
+</form>
+<div id="sendmessage-search-table">
+</div>

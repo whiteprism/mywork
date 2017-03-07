@@ -1,0 +1,72 @@
+<h2 class="page-header">道具发放</h2>
+<form id="form1" onsubmit="send_welfare(this);return false;">
+    <label for="inputServerID">服务器</label>
+    <input type="text" id="inputServerID" name="server_id" value="{{ serverid }}"><br>
+    <label for="inputUserID" >外部ID</label>
+    <textarea id="inputUserID" name="player_id" cols="50" rows="8">{{ message }}</textarea></br>
+    <label for="title">标题</label>
+    <input type="text" style="width:400px" name="title" placeholder="title"><br>
+    <label for="item" style="font-size:16px">物品1</label>
+<!--     <select name="itemtype1" id="" style="height:26px;width: 100px;">
+        <option value="">武将</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+    </select> -->
+    <input type="text" name="itemid1" placeholder="物品id">
+    <input type="text" name="itemcount1" placeholder="物品数量">
+    <label for="item" style="font-size:16px">物品2</label>
+<!--     <select name="itemtype2" id="" style="height:26px;width: 100px;">
+        <option value="">武将</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+    </select> -->
+    <input type="text" name="itemid2" placeholder="物品id">
+    <input type="text" name="itemcount2" placeholder="物品数量"><br>
+    <label for="item" style="font-size:16px">物品3</label>
+<!--     <select name="itemtype3" id="" style="height:26px;width: 100px;">
+        <option value="">武将</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+    </select> -->
+    <input type="text" name="itemid3" placeholder="物品id">
+    <input type="text" name="itemcount3" placeholder="物品数量"><br>
+    <label for="item" style="font-size:16px">物品4</label>
+<!--     <select name="itemtype4" id="" style="height:26px;width: 100px;">
+        <option value="">武将</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+    </select> -->
+    <input type="text" name="itemid4" placeholder="物品id">
+    <input type="text" name="itemcount4" placeholder="物品数量"><br>
+    <label for="item" style="font-size:16px">物品5</label>
+<!--     <select name="itemtype5" id="" style="height:26px;width: 100px;">
+        <option value="">武将</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+    </select> -->
+    <input type="text" name="itemid5" placeholder="物品id">
+    <input type="text" name="itemcount5" placeholder="物品数量"><br>
+    <label for="item" style="font-size:16px">物品6</label>
+<!--     <select name="itemtype6" id="" style="height:26px;width: 100px;">
+        <option value="">武将</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+        <option value="">物品类型</option>
+    </select> -->
+    <input type="text" name="itemid6" placeholder="物品id">
+    <input type="text" name="itemcount6" placeholder="物品数量"><br>
+    <input class="btn btn-sm btn-primary" type="submit" value="发放" style="font-size:16px;width: 60px">
+</form>
+<div id="welfare-send-table">
+</div>

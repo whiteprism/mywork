@@ -1,0 +1,20 @@
+<h2 class="page-header">查询玩家物品</h2>
+<form onsubmit="getPropertyInfo(this);return false;">
+    <label for="inputUserID">玩家ID：</label>
+    <input type="text" id="inputUserID" name="playerId"></br>
+    <input type="radio" name="type" value="hero">英雄&nbsp;&nbsp;&nbsp;
+    <input type="radio" name="type" value="item">物品&nbsp;&nbsp;&nbsp;
+    <input type="radio" name="type" value="equip">装备&nbsp;&nbsp;&nbsp;
+    <input type="radio" name="type" value="equipfragment"v>装备碎片&nbsp;&nbsp;&nbsp;
+    <input type="radio" name="type" value="artifact">圣物&nbsp;&nbsp;&nbsp;
+    <input type="radio" name="type" value="artifactfragment">圣物碎片&nbsp;&nbsp;&nbsp;<br>
+    <input type="radio" name="type" value="building">建筑&nbsp;&nbsp;&nbsp;
+    <input type="radio" name="type" value="buildingfragment">建筑碎片&nbsp;&nbsp;&nbsp;
+    <input type="radio" name="type" value="plant">植物&nbsp;&nbsp;&nbsp;
+    <input type="radio" name="type" value="soulfragment">灵魂碎片&nbsp;&nbsp;&nbsp;
+    <input type="radio" name="type" value="pve">副本&nbsp;&nbsp;&nbsp;
+    <input type="radio" name="type" value="elementtower">元素之塔<br><br>
+    <input class="btn btn-small btn-primary" type="submit" value="查询"><br>
+</form>
+<div class="divindent" id="get-item-table">
+</div>

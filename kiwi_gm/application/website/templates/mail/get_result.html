@@ -1,0 +1,41 @@
+<div class="row placeholders">
+    <div class="table-responsive">
+        {% if ret %}
+        {% if mails %}
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>玩家ID</th>
+                    <th>邮件标题</th>
+                    <th>类型</th>
+                    <th>内容</th>
+                    <th>参数</th>
+                    <th>物品列表</th>
+                    <th>状态</th>
+                    <th>时间</th>
+                </tr>
+            </thead>
+            <tbody>
+                {%for mail in mails %}
+                <tr>
+                    <td>{{mail.player_id}}</td>
+                    <td>{{mail.title}}</td>
+                    <td>{{mail.category}}</td>
+                    <td>{{mail.content}}</td>
+                    <td>{{mail.paramList}}</td>
+                    <td>{{mail.attachments}}</td>
+                    <td>{{mail.status}}</td>
+                    <td>{{mail.updatedAt}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% else %}
+        <p class="data-empty pindent">查询数据为空！</p>
+        {% endif %}
+        {% else %}
+        <p class="error pindent">{{msg}}</p>
+        {% endif %}
+    </div>
+</div>
+</div>

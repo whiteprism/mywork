@@ -1,0 +1,20 @@
+.page-header{
+  margin: 0 0 12px;
+}
+
+.pindent{
+  text-indent: 2em;
+}
+
+.error{
+    color: #FF0000;
+}
+
+.data-empty{
+    color: #0000FF;
+}
+
+.divindent{
+    position: relative;
+    margin: 20px 10px 0 20px;
+}

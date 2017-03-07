@@ -1,0 +1,86 @@
+<h2 class="page-header">查看&添加活动</h2>
+<!-- <style>
+.table th
+input {
+    top: 5px;
+    left: 50px;
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+}
+</style> -->
+<h4>添加活动：</h4>
+<form onsubmit="addctivity(this);return false;">
+<table class="table table-striped table-bordered">
+    <thead align="center">
+        <tr style="text-align: left;">
+            <th>服务器</th>
+            <th>索引号</th>
+            <th>活动类型</th>
+            <th>活动ID</th>
+        </tr>
+    </thead>
+    <tbody align="center">
+        <tr>
+            <td><input name="server_id" type="text"></td>
+            <td><input name="index" type="text"></td>
+            <td><input name="act_type" type="text"></td>
+            <td><input name="act_id" type="text"></td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th>活动状态</th>
+            <th>种类</th>
+            <th>最低等级</th>
+            <th>最低VIP等级</th>
+        </tr>
+    </thead>
+    <tbody align="center">
+        <tr>
+            <td><input name="type" type="text"></td>
+            <td><input name="sort" type="text"></td>
+            <td><input name="level" type="text"></td>
+            <td><input name="vip_level" type="text"></td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th>开始时间</th>
+            <th>结束时间</th>
+            <th>过期时间</th>
+            <th>创建天数</th>
+        </tr>
+    </thead>
+    <tbody align="center">
+        <tr>
+            <td><input name="start_time" type="text"></td>
+            <td><input name="end_time" type="text"></td>
+            <td><input name="expire_time" type="text"></td>
+            <td><input name="create_day" type="text"></td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th>相关天数</th>
+        </tr>
+    </thead>
+    <tbody align="center">
+        <tr>
+            <td><input name="relative_day" type="text"></td>
+        </tr>
+    </tbody>
+
+</table>
+<input class="btn btn-small btn-primary" type="submit" value="添加">
+</form>
+<hr>
+<h4>查看活动：</h4>
+<form onsubmit="get_activity(this);return false">
+<label for="inputServerID">服务器ID</label>
+<input type="text" id="inputServerID"><br>
+<input class="btn btn-small btn-primary" type="submit" value="查看">
+</form>
+<div class="get-activity-result">
+
+</div>

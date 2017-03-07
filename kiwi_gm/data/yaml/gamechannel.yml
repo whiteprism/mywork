@@ -1,0 +1,31 @@
+
+table:
+  out-type: json
+  sheet: gamechannel
+  row: 3
+  model: gameconfig.gamechannel
+  columns:
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: game
+      column: game
+      type: int
+
+    - name: channel
+      column: channel
+      type: int
+
+    - name: current_bv
+      column: current_bv
+      type: char
+      default: "1.0"
+
+    - name: bv_url
+      column: bv_url
+      type: char
+      default: ""
+
+

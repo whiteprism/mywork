@@ -1,0 +1,13 @@
+
+table:
+  out-type: json
+  sheet: 游戏状态码
+  row: 3
+  model: gameconfig.gamehttpcode
+  columns:
+    - name: language_id
+      column: language_id
+      type: char
+      default: ""
+
+

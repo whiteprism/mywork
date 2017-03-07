@@ -1,0 +1,31 @@
+<h4>信息列表</h4>
+<div class="row placeholders">
+    <div class="table-responsive">
+        <table class="table table-hover table-bordered">
+            <thead>
+                <tr>
+                    <th>rank</th>
+                    <th>昵称</th>
+                    <th>等级</th>
+                    <th>战斗力</th>
+                    <th>VIP</th>
+                    <th>充值金额</th>
+                </tr>
+            </thead>
+            {% if serverinfos2 %}
+            <tbody>
+                {%for serverinfo in serverinfos2 %}
+                <tr>
+                    <td>{{serverinfo.updated_at|date:'Y年m月d日 H:i'}}</td>
+                    <td>{{serverinfo.amount}}</td>
+                    <td>{{serverinfo.amount}}</td>
+                    <td>{{serverinfo.amount}}</td>
+                    <td>{{serverinfo.amount}}</td>
+                    <td>{{serverinfo.amount}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+            {% endif %}
+        </table>
+    </div>
+</div>

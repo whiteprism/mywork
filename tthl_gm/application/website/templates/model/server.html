@@ -1,0 +1,67 @@
+<!-- <script>
+function trim(str){ //删除左右两端的空格
+    return str.replace(/(^\s*)|(\s*$)/g, "");
+}
+function isEmpty(){
+    if(trim(document.form1.server_id.value)==""){
+        alert("服务器不能为空");
+        document.form1.server_id.focus();
+        return false;
+    }
+    return true;
+}
+function isEmpty2(){
+    if(trim(document.form2.server_id.value)==""){
+        alert("服务器不能为空");
+        document.form2.server_id.focus();
+        return false;
+    }
+    elements = document.getElementsByName("type");
+    chestr = "";
+    for(i=0;i<elements.length;i++)
+    {
+        if(elements[i].checked == true)
+        {
+            chestr += elements[i].value;
+        }
+    }
+    if(chestr == "")
+    {
+        alert("请选择查询类型");
+        return false;
+    }
+    return true;
+}
+</script> -->
+<h2 class="page-header">查看服务器信息</h2>
+<form name="form1" onsubmit="serverGetInfo(this);return false;">
+    <label for="player_id"><h3>区间信息查询</h3></label>
+    <label for="inputServerID">服务器区号</label>
+    <input type="text" id="inputServerID" name="server_id" value="{{ serverid1 }}"></br>
+    <label for="time_zone">时间：</label>
+    <input class="datetimepicker" type="text" id="inputStartTime" readonly name="time_start" value="{{starttime }}">&nbsp;TO
+    <input class="datetimepicker" type="text" id="inputEndTime" readonly name="time_end" value="{{ endtime }}">
+    &nbsp;&nbsp;
+    <input class="btn btn-small btn-primary" type="submit" value="查询"><br>
+    <div id="server-search-table">
+    </div>
+</form>
+<hr>
+<form name="form2" onsubmit="serverNotimeGetInfo(this);return false;">{% csrf_token %}
+    <label for="title"><h3>无时间区间查询</h3></label>
+    <label for="inputServerID2">服务器区号</label>
+    <input type="text" id="inputServerID2" name="server_id" value="{{ serverid2 }}"></br>
+    <input type="radio" name="type" value="1" {% ifequal type '1' %} checked="checked" {% endifequal %}>战斗力排行前100
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="radio" name="type" value="2" {% ifequal type '2' %} checked="checked" {% endifequal %}>充值排行前100
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input class="btn btn-small btn-primary" type="submit" value="查询">
+</form>
+<div id="server-search-notime-table">
+</div>
+<script type="text/javascript">
+      $('.datetimepicker').datetimepicker({
+        format: 'yyyy-mm-dd hh:ii',
+        language: "zh-CN"
+      });
+</script>

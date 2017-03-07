@@ -1,0 +1,35 @@
+<div class="row placeholders">
+    <div class="table-responsive">
+        {% if ret %}
+        {% if buildings %}
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>建筑ID</th>
+                    <th>名称</th>
+                    <th>等级</th>
+                    <th>状态</th>
+                    <th>剩余时间</th>
+                </tr>
+            </thead>
+            <tbody>
+                {%for building in buildings %}
+                <tr>
+                    <td>{{building.buildingId}}</td>
+                    <td>{{building.name}}</td>
+                    <td>{{building.level}}</td>
+                    <td>{{building.status}}</td>
+                    <td>{{building.timeLeft}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% else %}
+        <p class="data-empty pindent">查询数据为空！</p>
+        {% endif %}
+        {% else %}
+        <p class="error pindent">{{msg}}</p>
+        {% endif %}
+    </div>
+</div>
+</div>

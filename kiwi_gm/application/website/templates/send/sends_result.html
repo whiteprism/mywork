@@ -1,0 +1,13 @@
+<div class="row placeholders">
+    <div class="table-responsive">
+       <h4>发放物品结果如下：</h4>
+        {% if all %}
+        <p>物品发放成功</p>
+        {% else %}
+        {% for ret in data %}
+        <p class="pindent">发送邮件给玩家{{ret.id}}{% if ret.success %}<span class="data-empty">成功</span>{% else %}<span class="error">失败，失败信息如下：{{ ret.message }}</span> {% endif %}</p>
+        {% endfor %}
+        {% endif %}
+    </div>
+</div>
+</div>

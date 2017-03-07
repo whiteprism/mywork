@@ -1,0 +1,109 @@
+
+<table class="table table-hover table-bordered" >
+  <thead>
+    <tr >
+      <th>账号</th>
+      <th>游戏内部ID</th>
+      <th>昵称</th>
+      <th>等级</th>
+      <th>注册时间</th>
+      <th>最近登录时间</th>
+      <th>VIP等级</th>
+      <th>金币</th>
+      <th>元宝</th>
+      {% if canBan %}
+        <th>封号</th>
+      {% endif %}
+      {% if canGag %}
+        <th>禁言</th>
+      {% endif %}
+    </tr>
+  </thead>
+  <tbody>
+  {% for playerinfo in playerinfos %}
+    <tr class="info">
+      <td>{{playerinfo.account_name}}</td>
+      <td>{{playerinfo.player_id}}</td>
+      <td>{{playerinfo.player_name}}</td>
+      <td>{{playerinfo.player_level}}</td>
+      <td>{{ playerinfo.create_time }}</td>
+      <td>{{playerinfo.last_login_time}}</td>
+      <td>{{playerinfo.player_vip_level}}</td>
+      <td>{{playerinfo.user_coin}}</td>
+      <td>{{playerinfo.user_money}}</td>
+       {% if canBan %}
+        <td>{% if player.ban_login_last %}已封{% else %}未封{% endif %}/<a id="modal-{{user.id}}" href="#modal-container-{{user.id}}-ban" role="button" data-toggle="modal">封号</a>
+            <div id="modal-container-{{user.id}}-ban" class="modal hide fade" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-header">
+             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+            <h3>封号</h3>
+          </div>
+          <div class="modal-body">
+            <p>
+              确认要对玩家【{{user.name}}】封号吗？
+            </p>
+          </div>
+          <div class="modal-footer">
+             <button class="btn" data-dismiss="modal" aria-hidden="true">取消</button> <button data-dismiss="modal" onclick="userBan({{user.id}},{{serverID}});return false;" class="btn btn-primary">确认</button>
+          </div>
+        </div>
+        </td>
+      {% endif %}
+
+
+      {% if canGag %}
+              <td>{% if user.ban_speak_last %}禁言剩余时间：{{ ban_speak_last }}{% else %}未禁{% endif %}/<a id="modal-{{user.id}}" href="#modal-container-{{user.id}}-gag" role="button" data-toggle="modal">禁言</a>
+            <div id="modal-container-{{user.id}}-gag" class="modal hide fade" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-header">
+             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+            <h3>禁言</h3>
+          </div>
+
+          <form class="form-horizontal" onsubmit="userGag({{user.id}},{{serverID}});return false;">
+           <div class="modal-body">
+              <h3 class="text-info text-center">确认要对玩家【{{user.name}}】禁言吗？</h3>
+              <div class="control-group">
+                   <label class="control-label" for="inputstarttime">开始时间</label>
+                  <div class="controls" >
+                      <input  class="datetimepicker" id="inputstarttime" readonly type="text" name="starttime"  />
+                      <span class="add-on"><i class="icon-remove"></i></span>
+                  </div>
+              </div>
+
+              <div class="control-group">
+                   <label class="control-label" for="inputendtime">结束时间</label>
+                  <div class="controls" >
+                      <input  class="datetimepicker" id="inputendtime" type="text" readonly name="starttime"  />
+                      <span class="add-on"><i class="icon-remove"></i></span>
+                  </div>
+              </div>
+              <div class="control-group">
+                  <div class="controls">
+                       <button type="submit" class="btn btn-sm btn-primary">查询</button>
+                  </div>
+              </div>
+          </div>
+          <div class="modal-footer">
+             <button class="btn" data-dismiss="modal" aria-hidden="true">取消</button> <button data-dismiss="modal" onclick="" class="btn btn-primary">确认</button>
+          </div>
+            </form>
+        </div>
+        </td>
+      {% endif %}
+    </tr>
+   {% endfor %}
+  </tbody>
+</table>
+
+<script type="text/javascript">
+      $('.datetimepicker').datetimepicker({
+        format: 'yyyy-mm-dd hh:ii',
+        language: "zh-CN"
+      });
+</script>
+
+
+
+
+
+

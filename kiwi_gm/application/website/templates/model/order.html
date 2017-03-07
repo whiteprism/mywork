@@ -1,0 +1,69 @@
+<h2 class="page-header">订单操作</h2>
+<h4>按玩家ID查询</h4>
+<form onsubmit="getOrderByUser(this);return false;">
+    <label for="inputUserID">玩家ID：</label>
+    <input type="text" id="inputUserID" name="playerId">&nbsp;&nbsp;&nbsp;
+    <div>
+    <label for="">时间：</label>
+    <input class="datetimepicker" id="inputStartTime" type="text" readonly name="startTime">&nbsp;TO <input id="inputEndTime" class="datetimepicker" readonly type="text" name="endTime">
+    </div>
+    <input type="radio" name="status" value="0">失败
+    <input type="radio" name="status" value="1">成功
+    <input type="radio" name="status" value="2">全部&nbsp;&nbsp;&nbsp;
+    <input class="btn btn-sm btn-primary" type="submit" value="查询">
+</form>
+<div class="divindent" id="order-search-table-by-user">
+</div>
+<hr>
+<h4>按订单号查询</h4>
+<form onsubmit="getOrderByOrderID(this);return false;">
+    <label for="inputOrderID">订单号：</label>
+    <input type="text" id="inputOrderID" name="orderId">&nbsp;&nbsp;&nbsp;
+    <input class="btn btn-sm btn-primary" type="submit" value="查询"><br>
+</form>
+<div class="divindent" id="order-search-table-by-orderid">
+</div>
+<hr>
+<h4>按平台单号查询</h4>
+<form onsubmit="getOrderByPlat(this);return false;">
+    <label for="inputPlatOrderID">平台单号：</label>
+    <input type="text" id="inputPlatOrderID" name="platOrderId">&nbsp;&nbsp;&nbsp;
+    <input class="btn btn-sm btn-primary" type="submit" value="查询"><br>
+</form>
+<div class="divindent" id="order-search-table-by-plat">
+</div>
+<hr>
+<h4>按时间查询</h4>
+<form onsubmit="getOrderByTime(this);return false;">
+    <label for="inputChannelByTime">充值渠道：</label>
+    <input type="text" id="inputChannelByTime" name="channel"" placeholder="默认全渠道">&nbsp;&nbsp;&nbsp;
+    <div>
+    <label for="">时间：</label>
+    <input class="datetimepicker" id="inputStartTime" type="text" readonly name="startTime">&nbsp;TO <input id="inputEndTime" class="datetimepicker" readonly type="text" name="endTime">
+    </div>
+    <input type="radio" name="status" value="0">失败
+    <input type="radio" name="status" value="1">成功
+    <input type="radio" name="status" value="2">全部&nbsp;&nbsp;&nbsp;
+    <input class="btn btn-sm btn-primary" type="submit" value="查询"><br>
+</form>
+<div class="divindent" id="order-search-table-by-time">
+</div>
+<hr>
+<h4>查看充值排行</h4>
+<form onsubmit="checkRechargeRank(this);return false;">
+    <label for="inputChannel">充值渠道：</label>
+    <input type="text" id="inputChannel" name="channel" placeholder="默认全渠道">
+    <div>
+    <label for="">时间：</label>
+    <input class="datetimepicker" type="text" id="inputStartTime2" readonly name="startTime">&nbsp;TO <input id="inputEndTime2" class="datetimepicker" readonly type="text" name="endTime">
+    </div>
+    <input class="btn btn-sm btn-primary" type="submit" value="查看">
+</form>
+<div class="divindent" id="order-rank-table">
+</div>
+<script type="text/javascript">
+      $('.datetimepicker').datetimepicker({
+        format: 'yyyy-mm-dd hh:ii',
+        language: "zh-CN"
+      });
+</script>

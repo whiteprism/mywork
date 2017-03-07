@@ -1,0 +1,31 @@
+<div class="row placeholders">
+    <div class="table-responsive">
+        {% if ret %}
+        {% if pves %}
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>灵魂碎片ID</th>
+                    <th>名称</th>
+                    <th>数量</th>
+                </tr>
+            </thead>
+            <tbody>
+                {%for pve in pves %}
+                <tr>
+                    <td>{{pve.id}}</td>
+                    <td>{{pve.name}}</td>
+                    <td>{{pve.count}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% else %}
+        <p class="data-empty pindent">查询数据为空！</p>
+        {% endif %}
+        {% else %}
+        <p class="error pindent">{{msg}}</p>
+        {% endif %}
+    </div>
+</div>
+</div>

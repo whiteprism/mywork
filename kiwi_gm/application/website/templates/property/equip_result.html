@@ -1,0 +1,35 @@
+<div class="row placeholders">
+    <div class="table-responsive">
+        {% if ret %}
+        {% if equips %}
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>装备ID</th>
+                    <th>名称</th>
+                    <th>等级</th>
+                    <th>精炼等级</th>
+                    <th>穿戴英雄</th>
+                </tr>
+            </thead>
+            <tbody>
+                {%for equip in equips %}
+                <tr>
+                    <td>{{equip.equipId}}</td>
+                    <td>{{equip.name}}</td>
+                    <td>{{equip.level}}</td>
+                    <td>{{equip.refineLevel}}</td>
+                    <td>{{equip.heroId}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% else %}
+        <p class="data-empty pindent">查询数据为空！</p>
+        {% endif %}
+        {% else %}
+        <p class="error pindent">{{msg}}</p>
+        {% endif %}
+    </div>
+</div>
+</div>

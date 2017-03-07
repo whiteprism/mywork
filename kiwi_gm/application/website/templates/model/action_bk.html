@@ -1,0 +1,48 @@
+<h2 class="page-header">行为数据查询</h2>
+<form id="form1" onsubmit="actionGetInfo(this);return false;">
+    <label for="inputUserID">用户ID</label>
+    <input id="inputUserID" type="text" name="player_id">
+    <div>
+    <label for="">时间</label>
+    <input class="datetimepicker" type="text" readonly name="start_time">&nbsp;TO <input class="datetimepicker" readonly type="text" name="end_time">
+    </div>
+    <h5>类型：</h5>
+    <input type="checkbox" name="type" value="hero">玩家属性&nbsp;&nbsp;&nbsp;
+    <input type="checkbox" name="type" value="item">英雄&nbsp;&nbsp;&nbsp;
+    <input type="checkbox" name="type" value="equip">物品&nbsp;&nbsp;&nbsp;
+    <input type="checkbox" name="type" value="artifact">装备&nbsp;&nbsp;&nbsp;
+    <input type="checkbox" name="type" value="artifactfragment">装备碎片&nbsp;&nbsp;&nbsp;
+    <input type="checkbox" name="type" value="building">建筑&nbsp;&nbsp;&nbsp;<br>
+    <input type="checkbox" name="type" value="buildingfragment">建筑碎片&nbsp;&nbsp;&nbsp;
+    <input type="checkbox" name="type" value="equipfragment"v>圣物&nbsp;&nbsp;&nbsp;
+    <input type="checkbox" name="type" value="equipfragment"v>圣物碎片&nbsp;&nbsp;&nbsp;
+    <input type="checkbox" name="type" value="soulfragment">灵魂碎片&nbsp;&nbsp;&nbsp;
+    <input type="checkbox" name="type" value="DIAMOND">钻石&nbsp;&nbsp;&nbsp;
+    <input type="checkbox" name="type" value="GOLD">金币&nbsp;&nbsp;&nbsp;<br>
+    <input type="checkbox" name="type" value="WOOD">木材&nbsp;&nbsp;&nbsp;
+    <input type="checkbox" name="type" value="plant">勇气勋章&nbsp;&nbsp;&nbsp;
+    <input type="checkbox" name="type" value="plant">荣誉勋章&nbsp;&nbsp;&nbsp;
+    <input type="checkbox" name="type" value="plant">公会&nbsp;&nbsp;&nbsp;
+    <input type="checkbox" name="type" value="elementtower">元素之塔<br><br>
+    <div class="control-group">
+        <label class="control-label" for="filterid">id过滤：</label>
+        <div class="controls">
+            <input id="filterid" name="id_filter" type="text" />
+        </div>
+    </div>
+<!--     <div class="control-group">
+        <div class="controls">
+             <button type="submit" class="btn btn-sm btn-primary">查询</button>
+        </div>
+    </div> -->
+    <input type="submit" class="btn btn-sm btn-primary" value="查询">
+</form>
+<div id="action-search-table">
+</div>
+<script type="text/javascript">
+      $('.datetimepicker').datetimepicker({
+        format: 'yyyy-mm-dd hh:ii',
+        language: "zh-CN"
+      });
+</script>
+

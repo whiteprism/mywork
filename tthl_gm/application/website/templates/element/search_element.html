@@ -1,0 +1,44 @@
+{% if not ret %}
+{% if properties %}
+<h3>有效数据</h3>
+<div class="row placeholders">
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>道具类型</th>
+                    <th>道具名称</th>
+                    <th>道具数量</th>
+                    <th>扣除数量</th>
+                    <th>操作</th>
+                    <th>操作结果</th>
+                </tr>
+            </thead>
+            <tbody>
+                {%for property in properties %}
+                <tr>
+                    <form action="#" method="post" onsubmit="deleteelement(this);return false;">
+                    <input type="hidden" name="server_id" value="{{serverid}}">
+                    <input type="hidden" name="player_id" value="{{playerid}}">
+                    <input type="hidden" name="element_type" value="{{property.element_type}}">
+                    <input type="hidden" name="element_id" value="{{property.element_id}}">
+                    <td id="">{{item_type}}</td>
+                    <td>{{property.item_id}}</td>
+                    <td>{{property.item_num}}</td>
+                    <td><input type="text" name="count"></td>
+                    <td><input type="submit" value="删除"></td>
+                    <td><span></span></td>
+                    </form>
+                </tr>
+                {% endfor %}
+            </tbody>
+            {% endif %}
+        </table>
+    </div>
+</div>
+{% else %}
+<p class="data-empty">查询数据为空</p>
+{% endif %}
+{% else %}
+<p class="error">{{msg}}</p>
+{% endif %}

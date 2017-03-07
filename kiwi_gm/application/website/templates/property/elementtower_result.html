@@ -1,0 +1,79 @@
+<div class="row placeholders">
+    <div class="table-responsive">
+        {% if ret %}
+        {% if elementtower %}
+        <table class="table table-bordered">
+            <thead align="center">
+                <tr style="text-align: left;">
+                    <th>当前元素之塔ID</th>
+                    <th>当前元素之塔等级</th>
+                    <th>当前元素之塔等级状态</th>
+                    <th>等级星数</th>
+                </tr>
+            </thead>
+            <tbody align="center">
+                <tr>
+                    <td>{{elementtower.towerId}}</td>
+                    <td>{{elementtower.levelId}}</td>
+                    <td>{{elementtower.levelStatus}}</td>
+                    <td>{{elementtower.levelStars}}</td>
+                </tr>
+            </tbody>
+            <thead>
+                <tr>
+                    <th>元素币</th>
+                    <th>星星数</th>
+                    <th>是否扫荡</th>
+                    <th>扫荡信息</th>
+                </tr>
+            </thead>
+            <tbody align="center">
+                <tr>
+                <td>{{elementtower.gold}}</td>
+                <td>{{elementtower.star}}</td>
+                <td>{{elementtower.isSweep}}</td>
+                <td>{{elementtower.sweepInfo}}</td>
+                </tr>
+            </tbody>
+            <thead>
+                <tr>
+                    <th>剩余刷新次数</th>
+                    <th>剩余通关塔赠送次数</th>
+                    <th>钻石刷新次数</th>
+                    <th>重置所需钻石数</th>
+                </tr>
+            </thead>
+            <tbody align="center">
+                <tr>
+                <td>{{elementtower.refreshLeftCount}}</td>
+                <td>{{elementtower.rewardLeftCount}}</td>
+                <td>{{elementtower.diamondCount}}</td>
+                <td>{{elementtower.diamondResetCost}}</td>
+                </tr>
+            </tbody>
+            <thead>
+                <tr>
+                    <th>buff数据</th>
+                    <th>可选择buff列表</th>
+                    <th>钻石宝箱索引</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody align="center">
+                <tr>
+                <td>{{elementtower.buffs}}</td>
+                <td>{{elementtower.tmpBuffs}}</td>
+                <td>{{elementtower.diamondBoxIndex}}</td>
+                <td></td>
+                </tr>
+            </tbody>
+        </table>
+        {% else %}
+        <p class="data-empty pindent">查询数据为空！</p>
+        {% endif %}
+        {% else %}
+        <p class="error pindent">{{msg}}</p>
+        {% endif %}
+    </div>
+</div>
+</div>

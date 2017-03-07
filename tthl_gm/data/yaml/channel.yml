@@ -1,0 +1,23 @@
+
+table:
+  out-type: json
+  sheet: channel
+  row: 3
+  model: gameconfig.channel
+  columns:
+    - name: code
+      column: code
+      type: char
+      default: ""
+
+    - name: name
+      column: name
+      type: char
+      default: ""
+
+    - name: tag
+      column: tag
+      type: char
+      default: ""
+
+

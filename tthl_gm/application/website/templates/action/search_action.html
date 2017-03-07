@@ -1,0 +1,28 @@
+<div class="row placeholders">
+    <div class="table-responsive">
+        <table class="table table-hover table-bordered">
+            <thead>
+                <tr>
+                    <th>游戏内部ID</th>
+                    <th>动作名称</th>
+                    <th>动作详细</th>
+                    <th>动作</th>
+                    <th>时间</th>
+                </tr>
+            </thead>
+            {% if playeractions %}
+            <tbody>
+                {%for playeraction in playeractions %}
+                <tr>
+                    <td>{{playeraction.updated_at|date:'Y年m月d日 H:i'}}</td>
+                    <td>{{playeraction.action_name}}</td>
+                    <td>{{playeraction.detail}}</td>
+                    <td>{{playeraction.action}}</td>
+                    <td>{{playeraction.time}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+            {% endif %}
+        </table>
+    </div>
+</div>

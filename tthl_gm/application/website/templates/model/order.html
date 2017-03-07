@@ -1,0 +1,49 @@
+<!-- <script>
+function addOrder(){
+var xmlhttp;
+var serverid = document.getElementsByName("server_id").value;
+var orderid = document.getElementsByName("order_id").value;
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+    document.getElementById("result").innerHTML=xmlhttp.responseText;
+    }
+  }
+xmlhttp.open("GET","/add_order_go?server_id="+serverid+"&order_id="+orderid,true);
+xmlhttp.send();
+}
+</script> -->
+<h2 class="page-header">订单操作</h2>
+<form action="" method="post" name="form1" onsubmit="orderGetInfo(this);return false;">
+    <label for="supply_order"><b>补单：</b></label>
+    <label for="inputServerID">服务器</label>
+    <input type="text" id="inputServerID" name="server_id" value="{{ serverid }}"></br>
+    <label for="inputOrderID">订单号</label>
+    <input type="text" id="inputOrderID" name="order_id" value="{{ orderid }}">&nbsp;&nbsp;&nbsp;
+    <input class="btn btn-sm btn-primary" type="submit" value="查询"><br>
+</form>
+<div id="order-search-table">
+</div>
+
+<hr>
+<form action="" method="post" name="form2" onsubmit="orderFake(this);return false;">
+    <label for="supply_order"><b>订单伪造：</b></label>
+    <label for="inputServerID2">服务器</label>
+    <input type="text" id="inputServerID2" name="server_id" value="{{ serverid2 }}">
+    <label for="inputUserID">玩家ID</label>
+    <input type="text" id="inputUserID" name="player_id" value="{{ playerid }}">
+    <label for="inputRechargeMoney">充值档位</label>
+    <input type="text" id="inputRechargeMoney" name="money_num" value="{{ rechargemoney }}">&nbsp;&nbsp;&nbsp;&nbsp;
+    <input class="btn btn-sm btn-primary" type="submit" value="伪造">
+</form>
+<div id="order-fake-result">
+</div>

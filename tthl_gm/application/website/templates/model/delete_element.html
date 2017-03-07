@@ -1,0 +1,23 @@
+<h2 class="page-header">删除玩家道具</h2>
+<form method="post" name="form1" onsubmit="elementGetInfo(this);return false;">
+    <label for="inputServerID">服务器</label>
+    <input type="text" id="inputServerID" name="server_id" value="{{ serverid }}"></br>
+    <label for="inputUserID"">玩家ID</label>
+    <input type="text" id="inputUserID" name="player_id" value="{{ playerid }}">&nbsp;&nbsp;&nbsp;
+    <input class="btn btn-sm btn-primary" type="submit" value="查询"><br><br>
+    <input type="radio" name="element_type" value="0" {% ifequal element_type '0' %} checked="checked" {% endifequal %}>&nbsp;武将&nbsp;&nbsp;
+    <input type="radio" name="element_type" value="1" {% ifequal element_type '1' %} checked="checked" {% endifequal %}>&nbsp;宠物&nbsp;&nbsp;
+    <input type="radio" name="element_type" value="2" {% ifequal element_type '2' %} checked="checked" {% endifequal %}>&nbsp;装备&nbsp;&nbsp;
+    <input type="radio" name="element_type" value="3" {% ifequal element_type '3' %} checked="checked" {% endifequal %}>&nbsp;道具&nbsp;&nbsp;
+    <input type="radio" name="element_type" value="4" {% ifequal element_type '4' %} checked="checked" {% endifequal %}>&nbsp;符文&nbsp;&nbsp;
+    <input type="radio" name="element_type" value="5" {% ifequal element_type '5' %} checked="checked" {% endifequal %}>&nbsp;魂魄&nbsp;&nbsp;
+    <input type="radio" name="element_type" value="6" {% ifequal element_type '6' %} checked="checked" {% endifequal %}>&nbsp;碎片&nbsp;&nbsp;
+    <input type="radio" name="element_type" value="7" {% ifequal element_type '7' %} checked="checked" {% endifequal %}>&nbsp;颜值币&nbsp;&nbsp;<br><br>
+    <input type="radio" name="element_type" value="8" {% ifequal element_type '8' %} checked="checked" {% endifequal %}>&nbsp;pvp点&nbsp;&nbsp;
+    <input type="radio" name="element_type" value="9" {% ifequal element_type '9' %} checked="checked" {% endifequal %}>&nbsp;远征点&nbsp;&nbsp;
+    <input type="radio" name="element_type" value="10" {% ifequal element_type '10' %} checked="checked" {% endifequal %}>&nbsp;公会点&nbsp;&nbsp;
+    <input type="radio" name="element_type" value="11" {% ifequal element_type '11' %} checked="checked" {% endifequal %}>&nbsp;探索点&nbsp;&nbsp;
+    <input type="radio" name="element_type" value="12" {% ifequal element_type '12' %} checked="checked" {% endifequal %}>&nbsp;礼物&nbsp;&nbsp;
+</form>
+<div id="element-search-table">
+</div>

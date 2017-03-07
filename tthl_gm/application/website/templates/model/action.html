@@ -1,0 +1,102 @@
+<h2 class="page-header">行为数据查询</h2>
+<form id="form1" onsubmit="actionGetInfo();return false;">
+<!--     <div class="control-group">
+        <label class="control-label" for="inputUserID">用户ID</label>
+        <div class="controls">
+            <input id="inputServerId" name="server_id" type="text" />
+        </div>
+    </div>
+    <div class="control-group">
+         <label class="control-label" for="inputServerID">时间：</label>
+        <div class="controls">
+            <input id="inputTime" name="starttime" type="text" />TO<input id="inputTime" name="endtime" type="text" />
+        </div>
+    </div> -->
+    <label for="playerid">用户ID</label>
+    <input id="playerid" type="text" name="player_id">
+    <div>
+    <label for="">时间</label>
+    <input class="datetimepicker" type="text" readonly name="starttime">&nbsp;TO <input class="datetimepicker" readonly type="text" name="endtime">
+    </div>
+    <h5>动作：</h5>
+    武将
+    <input type="checkbox" name="1" value="1" {% if '1' in hero %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="1" value="-1" {% if '-1' in hero %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    颜值币
+    <input type="checkbox" name="2" value="1" {% if '1' in face %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="2" value="-1" {% if '-1' in face %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span><br>
+    宠物
+    <input type="checkbox" name="3" value="1" {% if '1' in pet %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="3" value="-1" {% if '-1' in pet %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    PVP点
+    <input type="checkbox" name="4" value="1" {% if '1' in pvp %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="4" value="-1" {% if '-1' in pvp %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span><br>
+    装备
+    <input type="checkbox" name="5" value="1" {% if '1' in equip %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="5" value="-1" {% if '-1' in equip %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    远征点
+    <input type="checkbox" name="6" value="1" {% if '1' in anabasis %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="6" value="-1" {% if '-1' in anabasis %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span><br>
+    道具
+    <input type="checkbox" name="7" value="1" {% if  '1' in tool %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="7" value="-1" {% if '-1' in tool %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    公会点
+    <input type="checkbox" name="8" value="1" {% if  '1' in guild %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="8" value="-1" {% if '-1' in guild %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span><br>
+    符文
+    <input type="checkbox" name="9" value="1" {% if  '1' in rune %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="9" value="-1" {% if '-1' in rune %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    探索点
+    <input type="checkbox" name="10" value="1" {% if '1' in explore %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="10" value="-1" {% if '-1' in explore %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span><br>
+    魂魄
+    <input type="checkbox" name="11" value="1" {% if '1' in soul %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="11" value="-1" {% if '-1' in soul %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    单抽券
+    <input type="checkbox" name="12" value="1" {% if '1' in singlecoupon %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="12" value="-1" {% if '-1' in singlecoupon %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span><br>
+    碎片
+    <input type="checkbox" name="13" value="1" {% if '1' in fragment %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="13" value="-1" {% if  '-1' in fragment %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    十连抽券
+    <input type="checkbox" name="14" value="1" {% if  '1' in tencoupon %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="14" value="-1" {% if '-1' in tencoupon %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span><br>
+    金币
+    <input type="checkbox" name="15" value="1" {% if '1' in gold %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="15" value="-1" {% if '-1' in gold %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    礼物
+    <input type="checkbox" name="16" value="1" {% if '1' in gift %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="16" value="-1" {% if  '-1' in gift %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span><br>
+    钻石
+    <input type="checkbox" name="17" value="1" {% if '1' in diamond %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
+    <input type="checkbox" name="17" value="-1" {% if '-1' in diamond %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span><br><br>
+    <div class="control-group">
+        <label class="control-label" for="filterid">id过滤：</label>
+        <div class="controls">
+            <input id="filterid" name="id_filter" type="text" />
+        </div>
+    </div>
+<!--     <div class="control-group">
+        <div class="controls">
+             <button type="submit" class="btn btn-sm btn-primary">查询</button>
+        </div>
+    </div> -->
+    <input type="submit" class="btn btn-sm btn-primary" value="查询">
+</form>
+<div id="action-search-table">
+</div>
+<script type="text/javascript">
+      $('.datetimepicker').datetimepicker({
+        format: 'yyyy-mm-dd hh:ii',
+        language: "zh-CN"
+      });
+</script>
+

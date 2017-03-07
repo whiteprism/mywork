@@ -1,0 +1,35 @@
+<div class="row placeholders">
+    <div class="table-responsive">
+        {% if ret %}
+        {% if heros %}
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>英雄ID</th>
+                    <th>英雄名称</th>
+                    <th>等级</th>
+                    <th>星数</th>
+                    <th>经验</th>
+                </tr>
+            </thead>
+            <tbody>
+                {%for hero in heros %}
+                <tr>
+                    <td>{{hero.id}}</td>
+                    <td>{{hero.name}}</td>
+                    <td>{{hero.level}}</td>
+                    <td>{{hero.star}}</td>
+                    <td>{{hero.xp}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% else %}
+        <p class="data-empty pindent">查询数据为空！</p>
+        {% endif %}
+        {% else %}
+        <p class="error pindent">{{msg}}</p>
+        {% endif %}
+    </div>
+</div>
+</div>

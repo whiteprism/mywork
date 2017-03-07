@@ -1,0 +1,49 @@
+{% if not ret %}
+{% if activities %}
+<h4>活动数据如下：</h4>
+<div class="row placeholders">
+    <div class="table-responsive">
+        <table class="table table-hover table-bordered">
+            <thead>
+                <tr>
+                    <th>活动类型</th>
+                    <th>活动ID</th>
+                    <th>活动状态</th>
+                    <th>种类</th>
+                    <th>最低等级</th>
+                    <th>最低VIP等级</th>
+                    <th>最低创建天数</th>
+                    <th>相关天数</th>
+                    <th>服务器列表</th>
+                    <th>开始时间</th>
+                    <th>结束时间</th>
+                    <th>过期时间</th>
+                </tr>
+            </thead>
+            <tbody>
+                {%for activity in activities %}
+                <tr>
+                    <td>{{activity.activity_type}}</td>
+                    <td>{{activity.activity_id}}</td>
+                    <td>{{activity.run_status}}</td>
+                    <td>{{activity.sort_index}}</td>
+                    <td>{{activity.limit_level}}</td>
+                    <td>{{activity.limit_vip}}</td>
+                    <td>{{activity.limit_create_day}}</td>
+                    <td>{{activity.relative_days}}</td>
+                    <td>{{activity.server_id_list}}</td>
+                    <td>{{activity.begin_time}}</td>
+                    <td>{{activity.end_time}}</td>
+                    <td>{{activity.expire_time}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% else %}
+<p class="data-empty">查询数据为空</p>
+{% endif %}
+{% else %}
+<p class="error">{{msg}}</p>
+{% endif %}

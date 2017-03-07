@@ -1,0 +1,38 @@
+<h1 class="page-header">玩家反馈</h1>
+{% if infos  %}
+{% for info in infos %}
+<form onsubmit="responseEmail(this);return false;" ="">
+<input type="hidden" name="email" value="{{ info.email }}">
+<input type="hidden" name="message" value="{{ info.message }}">
+<p>玩家昵称：{{ info.name }}</p>
+<p>玩家邮箱：{{ info.email }}</p>
+<p>时间：{{ info.send_time|date:"Y-m-d H:i:s" }}</p>
+<p>反馈信息：{{ info.message }}</p>
+{% if info.response_flag %}
+<p style="color: #0000FF;">已回复</p>
+{% else %}
+<p style="color: #ff0000;">未回复</p>
+{% endif %}
+<!-- <input class="btn btn-small btn-primary" id="resposne-email" onclick="responseEmail({{ info.email }},{{ info.message }})">回复</button> -->
+<input type="submit" class="btn btn-small btn-primary" id="resposne-email"  value="回复">
+</form>
+<hr>
+{% endfor %}
+<!-- <a href="/check_email/1">首页</a>&nbsp;
+<a href="{% if curpage|add:-1 %}/check_feedback/{{ curpage|add:-1 }}{% else %}/check_feedback/{% endif %}"><上一页</a>&nbsp;&nbsp;
+{% for page in pagelist %}
+<a href="/check_feedback/{{ page }}" {% ifequal page curpage %}style="color:#000000;"{% endifequal %}>{{ page }}</a>&nbsp;&nbsp;
+{% endfor %}
+<a href="{% if curpage|add:1 > pagenumber %}/check_feedback/{% else %}/check_feedback/{{ curpage|add:1 }}{% endif %}">下一页></a>&nbsp;
+<a href="/check_feedback/{{ pagenumber }}">尾页</a> -->
+<input type="button" value="首页" onclick="firstPage();">
+<input type="button" value="<上一页" onclick="previousPage({{curpage}});">
+{% for page in pagelist %}
+<input {% ifequal page curpage %}class="btn-primary"{% endifequal %} type="butotn" value="{{page}}" onclick="goPage({{page}});" style="width: 25px;text-align: center;">
+{% endfor %}
+<input type="button" value="下一页>" onclick="nextPage({{curpage}},{{pagenumber}});">
+<input type="button" value="尾页" onclick="lastPage({{pagenumber}});">
+{% else %}
+<p>目前没有玩家反馈</p>
+{% endif %}
+

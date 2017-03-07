@@ -1,0 +1,31 @@
+<div class="row placeholders">
+    <div class="table-responsive">
+        {% if ret %}
+        {% if ranks %}
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>排名</th>
+                    <th>玩家ID</th>
+                    <th>充值钱数</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for rank in ranks %}
+                <tr>
+                    <td>{{rank.rank}}</td>
+                    <td>{{rank.player_id}}</td>
+                    <td>{{rank.price}}</td>
+                    <td><input class="btn btn-xs btn-primary" type="button" value="补单" onclick="addOrder({{serverid}},{{orderid}});"></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% else %}
+        <p class="data-empty">查询数据为空！</p>
+        {% endif %}
+        {% else %}
+        <p class="error">{{msg}}</p>
+        {% endif %}
+    </div>
+</div>

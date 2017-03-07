@@ -1,0 +1,33 @@
+<h2 class="page-header">物品发放</h2>
+<form onsubmit="sendItem(this);return false;">
+    <label for="inputUserID">玩家ID：</label>
+    <input type="text" id="inputUserID" name="playerId"></br>
+<!--     <label for="inputUserID" >外部ID</label>
+    <textarea id="inputUserID" name="player_id" cols="50" rows="8">{{ message }}</textarea></br> -->
+    <label for="item" style="font-size:16px">物品1</label>
+    <input type="text" name="itemid1" placeholder="物品id">
+    <input type="text" name="itemcount1" placeholder="物品数量">
+    <label for="item" style="font-size:16px">物品2</label>
+    <input type="text" name="itemid2" placeholder="物品id">
+    <input type="text" name="itemcount2" placeholder="物品数量"><br>
+    <label for="item" style="font-size:16px">物品3</label>
+    <input type="text" name="itemid3" placeholder="物品id">
+    <input type="text" name="itemcount3" placeholder="物品数量"><br>
+    <label for="item" style="font-size:16px">物品4</label>
+    <input type="text" name="itemid4" placeholder="物品id">
+    <input type="text" name="itemcount4" placeholder="物品数量"><br>
+    <label for="item" style="font-size:16px">物品5</label>
+    <input type="text" name="itemid5" placeholder="物品id">
+    <input type="text" name="itemcount5" placeholder="物品数量"><br>
+    <label for="item" style="font-size:16px">物品6</label>
+    <input type="text" name="itemid6" placeholder="物品id">
+    <input type="text" name="itemcount6" placeholder="物品数量"><br>
+    <input class="btn btn-sm btn-primary" type="submit" value="发放" style="font-size:16px;width: 60px">
+</form>
+<div class="divindent" id="send-item-table">
+    {% if not ret %}
+    <span style="color: #FF0000;">{{msg}}</span>
+    {% else %}
+    <p class="data-empty">操作成功</p>
+    {% endif %}
+</div>

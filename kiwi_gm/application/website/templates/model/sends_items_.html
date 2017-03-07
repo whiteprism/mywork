@@ -1,0 +1,20 @@
+<h2 class="page-header">物品发放</h2>
+<!-- <form onsubmit="sendItem(this);return false;"> -->
+<form id="formid">
+    <label for="inputUserID">玩家ID：</label>
+    <input type="text" id="inputUserID" name="playerId"></br>
+    <label for="inputItem">物品类型ID：</label>
+    <textarea id="inputItem" name="items" cols="50" rows="8">{{ message }}</textarea></br>
+<!--     <label for="inputCount">数量：</label>
+    <input type="text" id="inputCount" name="itemCount"></br> -->
+    <input class="btn btn-small btn-primary" id="send-button" type="button" onclick="sendItem();" value="发放">&nbsp;&nbsp;&nbsp;
+    <input class="btn btn-small btn-danger" id="delete-button" type="button" onclick="deleteItem();" value="删除"><br>
+</form>
+<div class="divindent" id="send-item-table">
+<!--     {% if not ret %}
+    <p>操作失败，相关信息如下：</p>
+    <span style="color: #FF0000;">{{msg}}</span>
+    {% else %}
+    <p class="data-empty">操作成功</p>
+    {% endif %} -->
+</div>

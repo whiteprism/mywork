@@ -1,0 +1,33 @@
+<div class="row placeholders">
+    <div class="table-responsive">
+        {% if ret %}
+        {% if heros %}
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>物品ID</th>
+                    <th>物品名称</th>
+                    <th>数量</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                {%for hero in heros %}
+                <tr>
+                    <td>{{hero.id}}</td>
+                    <td>{{hero.name}}</td>
+                    <td>{{hero.count}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+
+        </table>
+        {% else %}
+        <p class="data-empty pindent">查询数据为空！</p>
+        {% endif %}
+        {% else %}
+        <p class="error pindent">{{msg}}</p>
+        {% endif %}
+    </div>
+</div>
+</div>

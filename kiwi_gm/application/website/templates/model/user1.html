@@ -1,0 +1,10 @@
+<h1>用户数据</h1>
+<form name="form1" action="/check_player_info_go/" onsubmit="return isEmpty();" method="post">
+    <label for="server_id">服务器</label>&nbsp;&nbsp;
+    <input type="text" name="server_id" value="{{ serverid }}">&nbsp;&nbsp;
+    <input class="btn btn-sm btn-primary" type="submit" value="查询""><br><br>
+    <label for="player_id">内部ID</label>&nbsp;&nbsp;
+    <textarea name="player_id" id="message" cols="30" rows="8"></textarea>&nbsp;&nbsp;
+    <label for="nickname">昵称</label>&nbsp;&nbsp;
+    <textarea name="player_name" id="message" cols="30" rows="8"></textarea></br><br>
+</form>

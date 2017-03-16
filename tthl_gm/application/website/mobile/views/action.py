@@ -5,7 +5,9 @@ from django.template import RequestContext
 from django.core.urlresolvers import reverse
 from gameconfig.api import get_models, get_model,check_func
 import urllib, urllib2
+import simplejson
 from django.conf import settings
+from common import *
 
 @staff_member_required
 def search_action(request):

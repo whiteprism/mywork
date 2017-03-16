@@ -4,6 +4,8 @@ from django.shortcuts import render_to_response
 from django.template import RequestContext
 import urllib, urllib2
 from django.conf import settings
+from common import *
+import simplejson
 
 def add_activity(request):
     recdata = request.POST.copy()

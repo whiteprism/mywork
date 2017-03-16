@@ -2,7 +2,9 @@
 from django.contrib.admin.views.decorators import  staff_member_required
 from django.shortcuts import render_to_response
 import urllib, urllib2
+import simplejson
 from django.conf import settings
+from common import *
 
 @staff_member_required
 def send_welfare(request):

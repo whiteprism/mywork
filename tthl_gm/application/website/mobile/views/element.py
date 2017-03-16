@@ -4,6 +4,8 @@ from django.shortcuts import render_to_response
 from django.template import RequestContext
 import urllib, urllib2
 from django.conf import settings
+from common import *
+import simplejson
 
 @staff_member_required
 def search_element(request):

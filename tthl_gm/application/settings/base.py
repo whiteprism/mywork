@@ -10,7 +10,7 @@ SITE_ID = 1
 USE_I18N = True
 USE_L10N = True
 
-GM_URL = "http://192.168.1.211:8032"
+GM_URL = "http://192.168.1.225:8836"
 
 GRAPPELLI_ADMIN_TITLE = 'TTHL GM'#更改grappellie的登入title
 

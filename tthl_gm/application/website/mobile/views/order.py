@@ -3,7 +3,9 @@ from django.contrib.admin.views.decorators import  staff_member_required
 from django.shortcuts import render_to_response
 from django.template import RequestContext
 import urllib, urllib2
+import simplejson
 from django.conf import settings
+from common import *
 
 @staff_member_required
 def search_order():
@@ -74,4 +76,3 @@ def fake_order(request):
     }
     ctxt = RequestContext(request,resdata)
     return render_to_response("result.html")
-

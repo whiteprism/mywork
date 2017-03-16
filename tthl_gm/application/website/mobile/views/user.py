@@ -6,6 +6,7 @@ from gameconfig.api import get_models, get_model,check_func
 import urllib, urllib2
 import simplejson
 from django.conf import settings
+from common import *
 
 FUNC_USER_BAN = 3
 FUNC_USER_GAG = 2
@@ -20,7 +21,9 @@ def search(request):
     data["player_id"] = ','.join(data["player_id"].split("\r\n"))
     data_urlencode = urllib.urlencode(data)
     url = "%s/check_player_info?" % settings.GM_URL
+    print url
     url_get = url + data_urlencode
+    print url_get
     result,dt = url_request_handler(url_get)
     if result:
         response = dt
@@ -49,7 +52,7 @@ def search(request):
 
         return render_to_response("user/search.html", ctxt)
     else:
-        return render_to_response("user/user_not_found.html")
+        return render_to_response("result.html")
 
 
 @staff_member_required

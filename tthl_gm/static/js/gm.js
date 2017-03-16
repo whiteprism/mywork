@@ -11,7 +11,7 @@ function gmPost(url, data, func){
 }
 
 function switch_model(url, modelID){
-    $.post("/model/", {id:modelID}, function(html){
+    gmPost("/model/", {id:modelID}, function(html){
     $(".game-container").html(html);
     });
     $(".model-nav-list > li").removeClass("active");
@@ -28,7 +28,7 @@ function userGetInfo(form){
         $("#inputUserID").focus();
     }
     else {
-        $.post("/user/search/", $(form).serialize(), function(html){
+        gmPost("/user/search/", $(form).serialize(), function(html){
         $("#user-search-table").html(html);
         });
     }
@@ -55,7 +55,7 @@ function actionGetInfo(){
         alert("请选择查询动作");
     }
     else{
-        $.post("/action/search/", $("#form1").serialize(), function(html){
+        gmPost("/action/search/", $("#form1").serialize(), function(html){
         $("#action-search-table").html(html);
         });
     }
@@ -70,7 +70,7 @@ function serverGetInfo(form){
         alert("请选择查询时间");
     }
     else{
-        $.post("/server/search/", $(form).serialize(), function(html){
+        gmPost("/server/search/", $(form).serialize(), function(html){
         $("#server-search-table").html(html);
         });
     }
@@ -85,7 +85,7 @@ function serverNotimeGetInfo(form){
         alert("请选择查询条件");
     }
     else{
-        $.post("/server/search_notime/", $(form).serialize(), function(html){
+        gmPost("/server/search_notime/", $(form).serialize(), function(html){
         $("#server-search-notime-table").html(html);
     });
     }
@@ -101,7 +101,7 @@ function rechargeGetInfo(form){
         $("#inputUserID").focus();
     }
     else{
-        $.post("/recharge/search_recharge/", $(form).serialize(), function(html){
+        gmPost("/recharge/search_recharge/", $(form).serialize(), function(html){
         $("#recharge-search-table").html(html);
         });
     }
@@ -121,7 +121,7 @@ function sendMessage(form){
         $("#inputMessage").focus();
     }
     else{
-        $.post("/sendmessage/send/", $(form).serialize(), function(html){
+        gmPost("/sendmessage/send/", $(form).serialize(), function(html){
         $("#recharge-search-table").html(html);
         });
     }
@@ -137,14 +137,14 @@ function elementGetInfo(form){
         $("#inputUserID").focus();
     }
     else{
-        $.post("/element/search_element/", $(form).serialize(), function(html){
+        gmPost("/element/search_element/", $(form).serialize(), function(html){
         $("#server-search-notime-table").html(html);
         });
     }
 }
 
 function deleteelement(form){
-        $.post("/element/delete_element/", $(form).serialize(), function(html){
+        gmPost("/element/delete_element/", $(form).serialize(), function(html){
         $("#delete-element-search-table").html(html);
         });
 }
@@ -159,7 +159,7 @@ function send_welfare(form){
         $("#inputUserID").focus();
     }
     else{
-        $.post("/welfare/send_welfare/", $("#form1").serialize(), function(html){
+        gmPost("/welfare/send_welfare/", $("#form1").serialize(), function(html){
         $("#welfare-send-table").html(html);
         });
     }
@@ -175,7 +175,7 @@ function orderGetInfo(form){
         $("#inputOrderID").focus();
     }
     else{
-        $.post("/order/search_order/", $(form).serialize(), function(html){
+        gmPost("/order/search_order/", $(form).serialize(), function(html){
         $("#order-search-table").html(html);
         });
     }
@@ -195,56 +195,56 @@ function orderFake(form){
         $("#inputRechargeMoney").focus();
     }
     else{
-        $.post("/order/fake_order/", $(form).serialize(), function(html){
+        gmPost("/order/fake_order/", $(form).serialize(), function(html){
         $("#order-fake-result").html(html);
         });
     }
 }
 
 function addOrder(serverid,orderid){
-    $.post("/order/add_order/", {server_id:serverid,order_id:orderid}, function(html){
+    gmPost("/order/add_order/", {server_id:serverid,order_id:orderid}, function(html){
        $("#user-search-table").html(html);
     });
 }
 
 function userBan(userID,serverID){
-    $.post("/user/ban/", {userID:userID,serverID:serverID}, function(html){
+    gmPost("/user/ban/", {userID:userID,serverID:serverID}, function(html){
     $("#user-search-table").html(html);
     });
 }
 
 function userGag(userID,serverID){
-    $.post("/user/gag/", {userID:userID,serverID:serverID}, function(html){
+    gmPost("/user/gag/", {userID:userID,serverID:serverID}, function(html){
        $("#user-search-table").html(html);
     });
 }
 
 function responseEmail(form){
-    $.post("/feedback/response/", $(form).serialize(), function(data){
+    gmPost("/feedback/response/", $(form).serialize(), function(data){
         $(".game-container").html(data);
     });
 }
 
 function sendEmail(form){
-    $.post("/feedback/send_email/", $(form).serialize(), function(data){
+    gmPost("/feedback/send_email/", $(form).serialize(), function(data){
     $(".game-container").html(data);
     });
 }
 
 function addActivity(form){
-    $.post("/activity/add_activity/", $(form).serialize(), function(data){
+    gmPost("/activity/add_activity/", $(form).serialize(), function(data){
     $(".game-container").html(data);
     });
 }
 
 function getActivity(form){
-    $.post("/activity/get_activity/", $(form).serialize(), function(data){
+    gmPost("/activity/get_activity/", $(form).serialize(), function(data){
     $(".get-activity-result").html(data);
     });
 }
 
 function firstPage(){
-    $.post("/check_feedback/1/",{},function(recdata){
+    gmPost("/check_feedback/1/",{},function(recdata){
     $(".game-container").html(recdata);
     });
 }
@@ -254,14 +254,14 @@ function previousPage(curpage){
         alert("当前已在第一页");
     }
     else{
-        $.post("/check_feedback/"+String(curpage-1)+"/",{},function(recdata){
+        gmPost("/check_feedback/"+String(curpage-1)+"/",{},function(recdata){
         $(".game-container").html(recdata);
         });
     }
 }
 
 function goPage(page){
-    $.post("/check_feedback/"+String(page)+"/",{},function(recdata){
+    gmPost("/check_feedback/"+String(page)+"/",{},function(recdata){
     $(".game-container").html(recdata);
     });
 }
@@ -271,14 +271,14 @@ function nextPage(curpage,pagenumber){
         alert("当前已在最后一页");
     }
     else{
-        $.post("/check_feedback/"+String(curpage+1)+"/",{},function(recdata){
+        gmPost("/check_feedback/"+String(curpage+1)+"/",{},function(recdata){
         $(".game-container").html(recdata);
         });
     }
 }
 
 function lastPage(pagenumber){
-    $.post("/check_feedback/"+String(pagenumber)+"/",{},function(recdata){
+    gmPost("/check_feedback/"+String(pagenumber)+"/",{},function(recdata){
     $(".game-container").html(recdata);
     });
 }

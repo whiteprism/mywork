@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import os
 from settings.base import *
-from server_config import *
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -12,7 +11,6 @@ DEBUG = True
 import logging.config
 logging.config.fileConfig("%s/settings/logging_config.conf" % ROOT_PATH)
 
-PLATFORM_PREFIX = 'kiwi'
 
 TIME_ZONE = 'Asia/Shanghai'
 LANGUAGE_CODE = 'zh-hans'
@@ -43,9 +41,9 @@ ACTION_LOG = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'kiwi_gm',
-        'USER': 'root',
-        'PASSWORD': '',
+        'NAME': 'tthl_gm',
+        'USER': 'kiwi',
+        'PASSWORD': 'kiwi',
         'HOST': 'localhost',
         'PORT': '3306',
     },

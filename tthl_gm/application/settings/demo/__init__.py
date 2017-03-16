@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 import os
 from settings.base import *
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 DEBUG = True
 

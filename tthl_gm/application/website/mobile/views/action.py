@@ -28,15 +28,14 @@ def search_action(request):
     a = response.read()
     print "response:",a, type(a)
     res = simplejson.loads(a)
-    if res.has_key("data"):
-        resdata = {
-        "ret":res["ret"],
-        "msg":res["msg"],
-        "playerinfos":res["data"]
-        }
+    if not res.has_key("data"):
+        res["data"] = []
+    resdata = {
+    "ret":res["ret"],
+    "msg":res["msg"],
+    "playerinfos":res["data"]
+    }
 
-        ctxt = RequestContext(request,resdata)
+    ctxt = RequestContext(request,resdata)
 
-        return render_to_response("action/search_action.html", ctxt)
-    else:
-        return render_to_response("user/data_not_found.html")
+    return render_to_response("action/search_action.html", ctxt)

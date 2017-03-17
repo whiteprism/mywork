@@ -1,8 +1,8 @@
-{% if not ret %}
-{% if properties %}
-<h3>有效数据</h3>
+
 <div class="row placeholders">
     <div class="table-responsive">
+        {% if not ret %}
+        {% if properties %}
         <table class="table table-striped">
             <thead>
                 <tr>
@@ -32,13 +32,12 @@
                 </tr>
                 {% endfor %}
             </tbody>
-            {% endif %}
         </table>
+        {% else %}
+        <p class="data-empty">查询数据为空</p>
+        {% endif %}
+        {% else %}
+        <p class="error">{{msg}}</p>
+        {% endif %}
     </div>
 </div>
-{% else %}
-<p class="data-empty">查询数据为空</p>
-{% endif %}
-{% else %}
-<p class="error">{{msg}}</p>
-{% endif %}

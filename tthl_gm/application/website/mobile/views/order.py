@@ -21,19 +21,18 @@ def search_order():
         ctxt = RequestContext(request,msg_dict)
         return render_to_response("error.html", ctxt)
     res = simplejson.loads(response.read())
-    if res.has_key("data"):
-        resdata = {
-        "serverid":data["server_id"],
-        "orderid":data["order_id"],
-        "ret":res["ret"],
-        "msg":res["msg"],
-        "playerinfos":res["data"]
-        }
+    if not res.has_key("data"):
+        res["data"] = []
+    resdata = {
+    "serverid":data["server_id"],
+    "orderid":data["order_id"],
+    "ret":res["ret"],
+    "msg":res["msg"],
+    "playerinfos":res["data"]
+    }
 
-        ctxt = RequestContext(request,resdata)
-        return render_to_response("order/search_order.html", ctxt)
-    else:
-        return render_to_response("data_not_found.html")
+    ctxt = RequestContext(request,resdata)
+    return render_to_response("order/search_order.html", ctxt)
 
 @staff_member_required
 def add_order(request):

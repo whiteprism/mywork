@@ -25,19 +25,19 @@ def search_element(request):
     a = response.read()
     print "response:",a, type(a)
     res = simplejson.loads(a)
-    if res.has_key("data"):
-        resdata = {
-        "item_type":item_type,
-        "ret":res["ret"],
-        "msg":res["msg"],
-        "properties":res["data"]
-        }
+    if not res.has_key("data"):
+        res["data"] = []
+    resdata = {
+    "item_type":item_type,
+    "ret":res["ret"],
+    "msg":res["msg"],
+    "properties":res["data"]
+    }
+    print resdata
+    ctxt = RequestContext(request,resdata)
 
-        ctxt = RequestContext(request,resdata)
+    return render_to_response("element/search_element.html", ctxt)
 
-        return render_to_response("element/search_element.html", ctxt)
-    else:
-        return render_to_response("data_not_found.html")
 
 @staff_member_required
 def delete_element(request):
@@ -60,4 +60,4 @@ def delete_element(request):
 
     ctxt = RequestContext(request,resdata)
 
-    return render_to_response("data_not_found.html")
+    return render_to_response("result.html")

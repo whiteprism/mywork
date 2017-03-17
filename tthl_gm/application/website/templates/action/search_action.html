@@ -1,5 +1,7 @@
 <div class="row placeholders">
     <div class="table-responsive">
+        {% if not ret %}
+        {% if playeractions %}
         <table class="table table-hover table-bordered">
             <thead>
                 <tr>
@@ -10,7 +12,6 @@
                     <th>时间</th>
                 </tr>
             </thead>
-            {% if playeractions %}
             <tbody>
                 {%for playeraction in playeractions %}
                 <tr>
@@ -22,7 +23,12 @@
                 </tr>
                 {% endfor %}
             </tbody>
-            {% endif %}
         </table>
+        {% else %}
+        <p class="data-empty pindent">查询数据为空！</p>
+        {% endif %}
+        {% else %}
+        <p class="error pindent">{{msg}}</p>
+        {% endif %}
     </div>
 </div>

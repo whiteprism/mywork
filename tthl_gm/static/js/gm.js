@@ -28,7 +28,7 @@ function userGetInfo(form){
         $("#inputUserID").focus();
     }
     else {
-        gmPost("/user/search/", $(form).serialize(), function(html){
+        gmPost("/action/search/", $(form).serialize(), function(html){
         $("#user-search-table").html(html);
         });
     }
@@ -122,7 +122,7 @@ function sendMessage(form){
     }
     else{
         gmPost("/sendmessage/send/", $(form).serialize(), function(html){
-        $("#recharge-search-table").html(html);
+        $("#send-message-result").html(html);
         });
     }
 }
@@ -138,7 +138,7 @@ function elementGetInfo(form){
     }
     else{
         gmPost("/element/search_element/", $(form).serialize(), function(html){
-        $("#server-search-notime-table").html(html);
+        $("#element-search-table").html(html);
         });
     }
 }
@@ -203,7 +203,7 @@ function orderFake(form){
 
 function addOrder(serverid,orderid){
     gmPost("/order/add_order/", {server_id:serverid,order_id:orderid}, function(html){
-       $("#user-search-table").html(html);
+       $("#order-add-result").html(html);
     });
 }
 
@@ -233,13 +233,13 @@ function sendEmail(form){
 
 function addActivity(form){
     gmPost("/activity/add_activity/", $(form).serialize(), function(data){
-    $(".game-container").html(data);
+    $("#add-activity-result").html(data);
     });
 }
 
 function getActivity(form){
     gmPost("/activity/get_activity/", $(form).serialize(), function(data){
-    $(".get-activity-result").html(data);
+    $("#get-activity-result").html(data);
     });
 }
 

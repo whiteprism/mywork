@@ -1,6 +1,8 @@
 <h4>信息列表</h4>
 <div class="row placeholders">
     <div class="table-responsive">
+        {% if not ret %}
+        {% if serverinfos %}
         <table class="table table-hover table-bordered">
             <thead>
                 <tr>
@@ -12,7 +14,6 @@
                     <th>充值金额</th>
                 </tr>
             </thead>
-            {% if serverinfos2 %}
             <tbody>
                 {%for serverinfo in serverinfos2 %}
                 <tr>
@@ -25,7 +26,12 @@
                 </tr>
                 {% endfor %}
             </tbody>
-            {% endif %}
         </table>
+        {% else %}
+        <p class="data-empty pindent">查询数据为空！</p>
+        {% endif %}
+        {% else %}
+        <p class="error pindent">{{msg}}</p>
+        {% endif %}
     </div>
 </div>

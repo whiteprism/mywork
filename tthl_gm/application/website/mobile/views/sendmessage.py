@@ -22,10 +22,11 @@ def sendmessage(request):
         return render_to_response("error.html", ctxt)
     a = response.read()
     res = simplejson.loads(a)
+    print res
     resdata = {
     "ret":res["ret"],
     "msg":res["msg"],
     }
     ctxt = RequestContext(request,resdata)
 
-    return render_to_response("server/info_with_timezone.html", ctxt)
+    return render_to_response("result.html", ctxt)

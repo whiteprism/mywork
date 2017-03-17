@@ -1,5 +1,5 @@
 <div>
-<label for="playercount" style="font-size:16px">登录玩家: </label><span style="font-size:18px">{% if login_count %}{{ login_count }}人{% endif %}</span><br>
+<label for="playercount" style="font-size:16px">登录玩家: </label><span style="font-size:18px">{% if login_count or login_count == 0 %}{{ login_count }}人{% endif %}</span><br>
 <label for="rechargecount" style="font-size:16px">充值人数：</label><span style="font-size:18px">{% if recharge_count %}{{ recharge_count }}人{% endif %}</span><br>
 <label for="newidcount" style="font-size:16px">新建账号：</label><span style="font-size:18px">{% if newplayer_count %}{{ newplayer_count }}人{% endif %}</span><br>
 <label for="rechargesum" style="font-size:16px">总充值：</label><span style="font-size:18px">{% if recharge_sum %}{{ recharge_sum }}元{% endif %}</span>

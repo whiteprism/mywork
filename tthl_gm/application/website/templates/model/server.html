@@ -43,11 +43,11 @@ function isEmpty2(){
     <input class="datetimepicker" type="text" id="inputEndTime" readonly name="time_end" value="{{ endtime }}">
     &nbsp;&nbsp;
     <input class="btn btn-small btn-primary" type="submit" value="查询"><br>
-    <div id="server-search-table">
+    <div class="divindent" id="server-search-table">
     </div>
 </form>
 <hr>
-<form name="form2" onsubmit="serverNotimeGetInfo(this);return false;">{% csrf_token %}
+<form name="form2" onsubmit="serverNotimeGetInfo(this);return false;">
     <label for="title"><h3>无时间区间查询</h3></label>
     <label for="inputServerID2">服务器区号</label>
     <input type="text" id="inputServerID2" name="server_id" value="{{ serverid2 }}"></br>
@@ -57,7 +57,7 @@ function isEmpty2(){
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <input class="btn btn-small btn-primary" type="submit" value="查询">
 </form>
-<div id="server-search-notime-table">
+<div class="divindent" id="server-search-notime-table">
 </div>
 <script type="text/javascript">
       $('.datetimepicker').datetimepicker({

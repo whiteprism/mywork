@@ -18,12 +18,13 @@
             <tbody>
                 {%for orderinfo in orderinfos %}
                 <tr>
-                    <td>{{orderinfo.updated_at|date:'Y年m月d日 H:i'}}</td>
-                    <td>{{orderinfo.amount}}</td>
-                    <td>{{orderinfo.amount}}</td>
-                    <td>{{orderinfo.amount}}</td>
-                    <td>{{orderinfo.amount}}</td>
-                    <td>{{orderinfo.amount}}</td>
+                    <td>{{orderinfo.time}}</td>
+                    <td>{{orderinfo.player_id}}</td>
+                    <td>{{orderinfo.pkey}}</td>
+                    <td>{{orderinfo.guid}}</td>
+                    <td>{{orderinfo.price}}</td>
+                    <td>{{orderinfo.yuanbao}}</td>
+                    <td>{{orderinfo.state}}</td>
                 </tr>
                 {% endfor %}
             </tbody>

@@ -10,13 +10,15 @@ SITE_ID = 1
 USE_I18N = True
 USE_L10N = True
 
-GM_URL = "http://192.168.1.225:8836"
+GM_URL = "http://192.168.1.211:8836"
 
 GRAPPELLI_ADMIN_TITLE = 'TTHL GM'#更改grappellie的登入title
 
 ADMIN_MEDIA_PREFIX = ''
 STATIC_URL = "/static/"
 SECRET_KEY = '(row!jh98s$2^l_nh7!)=user^j^l1a=a43zqb^w73+2ul'
+
+#ALLOWED_HOSTS = [*]
 
 import os
 ROOT_PATH = os.path.join(os.path.dirname(__file__),'..')
@@ -48,6 +50,7 @@ INSTALLED_APPS = (
     'gameconfig',
     'common',
     'feedback',
+    'servers',
 )
 #CELERYBEAT_SCHEDULER = 'djcelery.schedulers.DatabaseScheduler'
 

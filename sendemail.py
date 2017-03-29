@@ -24,11 +24,11 @@
 # except smtplib.SMTPException:
 #     print "Error: 无法发送邮件"
 
-
+import sys
 import smtplib
 from email.mime.text import MIMEText
 # 定义发送列表
-mailto_list=["2450623946@qq.com"]
+mailto_list=["yulong.rong@fanyoy.com"]
 # 设置服务器名称、用户名、密码以及邮件后缀
 mail_host = "smtp.exmail.qq.com"
 mail_user = "quanming.zhang@fanyoy.com"
@@ -60,7 +60,9 @@ def send_mail(to_list, sub, context):
         return False
 if __name__ == '__main__':
     print "aaa"
-    if (True == send_mail(mailto_list,"subject","context")):
+    ip0 = sys.argv[1]
+    ip = sys.argv[2]
+    if (True == send_mail(mailto_list,"IP变动","外网IP已变,原IP:%s,现IP:%s" % (ip0,ip))):
         print ("测试成功")
     else:
         print ("测试失败")

@@ -2,23 +2,23 @@
     <div class="table-responsive">
         {% if not ret %}
         {% if playeractions %}
-        <table class="table table-hover table-bordered">
+        <table class="table table-hover table-bordered" style="word-break:break-all; word-wrap:break-all;">
             <thead>
                 <tr>
                     <th>游戏内部ID</th>
-                    <th>动作名称</th>
-                    <th>动作详细</th>
-                    <th>动作</th>
+                    <th>动作类型</th>
+                    <th>日志信息</th>
+                    <th>客户端信息</th>
                     <th>时间</th>
                 </tr>
             </thead>
             <tbody>
                 {%for playeraction in playeractions %}
                 <tr>
-                    <td>{{playeraction.updated_at|date:'Y年m月d日 H:i'}}</td>
-                    <td>{{playeraction.action_name}}</td>
-                    <td>{{playeraction.detail}}</td>
-                    <td>{{playeraction.action}}</td>
+                    <td>{{playeraction.player_id}}</td>
+                    <td>{{playeraction.type}}</td>
+                    <td>{{playeraction.info}}</td>
+                    <td>{{playeraction.cinfo}}</td>
                     <td>{{playeraction.time}}</td>
                 </tr>
                 {% endfor %}

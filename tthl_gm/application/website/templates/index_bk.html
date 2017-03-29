@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="cn">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <script src="http://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+        <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+        <link rel="stylesheet" href="/static/bootstrap/css/bootstrap.min.css" />
+        <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+        <script src="/static/bootstrap/js/bootstrap.min.js"></script>
+        <script src="/static/js/gm.js"></script>
+
+        <link rel="stylesheet" href="/static/bootstrap/css/bootstrap-datetimepicker.min.css" />
+        <script src="/static/bootstrap/js/bootstrap-datetimepicker.min.js"></script>
+        <script src="/static/bootstrap/js/locales/bootstrap-datetimepicker.zh-CN.js"></script>
+
+        <link rel="stylesheet" href="/static/css/gm.css">
+        <title>GM工具</title>
+        <style>
+            .page-header{
+              margin: 0 0 12px;
+            }
+        </style>
+    </head>
+    <body>
+       <div class="container-fluid">
+    <div class="row-fluid">
+        <div class="span12">
+            <div class="navbar navbar-inverse">
+                <div class="navbar-inner">
+                    <div class="container-fluid">
+                         <a data-target=".navbar-responsive-collapse" data-toggle="collapse" class="btn btn-navbar"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a> <a href="#" class="brand">TTHL GM工具</a>
+                        <div class="nav-collapse collapse navbar-responsive-collapse">
+                            <ul class="nav">
+                                <li class="active">
+                                    <a href="/">主页</a>
+                                </li>
+                            </ul>
+                            <ul class="nav pull-right">
+                                <li class="divider-vertical">&nbsp;</li>
+                                <li>
+                                    <a href="/admin/logout/?next=/">退出</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span2">
+<!--                     <ul class="model-nav-list nav nav-list well">
+                    {% for model in models %}
+                        <li class="model-{{model.id}}">
+                            <a href="javascript:;" onclick="switch_model('{{model.url}}', {{model.id}})" style="font-size:20px;">{{model.name}}</a>
+                        </li>
+                    {% endfor %}
+                    </ul> -->
+                    {% for model in models %}
+                    <ul class="model-nav-list nav nav-list well" style="height: 20px;"   >
+                        <li class="model-{{model.id}}">
+                            <a href="javascript:;" onclick="switch_model('{{model.url}}', {{model.id}})" style="font-size:15px;">{{model.name}}</a>
+                        </li>
+                    </ul>
+                    {% endfor %}
+                </div>
+
+                <div class="span10">
+                    <div class="game-container">
+                        <div class="hero-unit">
+                        <h1>你好, {{request.user.get_full_name}}</h1><br>
+                        <p>&nbsp;&nbsp;欢迎使用天天幻灵GM工具，祝您工作愉快。 </p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

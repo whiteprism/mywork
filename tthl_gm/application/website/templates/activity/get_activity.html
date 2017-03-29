@@ -6,8 +6,8 @@
         <table class="table table-hover table-bordered">
             <thead>
                 <tr>
-                    <th>活动类型</th>
                     <th>活动ID</th>
+                    <th>活动类型</th>
                     <th>活动状态</th>
                     <th>种类</th>
                     <th>最低等级</th>
@@ -23,8 +23,8 @@
             <tbody>
                 {%for activity in activities %}
                 <tr>
-                    <td>{{activity.activity_type}}</td>
                     <td>{{activity.activity_id}}</td>
+                    <td>{{activity.activity_type}}</td>
                     <td>{{activity.run_status}}</td>
                     <td>{{activity.sort_index}}</td>
                     <td>{{activity.limit_level}}</td>

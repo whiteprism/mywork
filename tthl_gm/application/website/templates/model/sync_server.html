@@ -1,0 +1,41 @@
+<h2 class="page-header">更新服务器列表</h2>
+<h5>点击更新按钮更新服务器列表：</h5>
+<input class="btn btn-small btn-primary" type="submit" value="更新" onclick="sync_server();"><br>
+<div class="divindent" id="sync-server-result">
+<div class="row placeholders">
+    <div class="table-responsive">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>服务器ID</th>
+                    <th>服务器代号</th>
+                    <th>服务器名称</th>
+                    <th>服务器开服时间</th>
+                    <th>服务器连接地址</th>
+                    <th>区域ID</th>
+                    <th>区域名称</th>
+                    <th>服务器状态ID</th>
+                    <th>服务器状态描述</th>
+                </tr>
+            </thead>
+            {% if servers %}
+            <tbody>
+                {%for server in servers %}
+                <tr>
+                    <td>{{server.id}}</td>
+                    <td>{{server.code}}</td>
+                    <td>{{server.name}}</td>
+                    <td>{{server.open_at}}</td>
+                    <td>{{server.url}}</td>
+                    <td>{{server.zone_id}}</td>
+                    <td>{{server.zone_name}}</td>
+                    <td>{{server.status_id}}</td>
+                    <td>{{server.status_text}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+            {% endif %}
+        </table>
+    </div>
+</div>
+</div>

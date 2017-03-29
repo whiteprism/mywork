@@ -1,8 +1,8 @@
 <uwsgi>
-    <socket>127.0.0.1:9300</socket>
+    <socket>127.0.0.1:9302</socket>
     <listen>40</listen>
     <master>true</master>
-    <pidfile>/tmp/fysdk.pid</pidfile>
+    <pidfile>/tmp/tthl_gm.pid</pidfile>
     <processes>1</processes> 
     <pythonpath>%d</pythonpath>
     <module>server</module>
@@ -11,5 +11,5 @@
     <enable-threads>true</enable-threads>
     <logdate>true</logdate>
     <limit-as>512</limit-as>
-    <daemonize>/tmp/uwsgi_fysdk.log</daemonize>
+    <daemonize>/tmp/uwsgi_tthl_gm.log</daemonize>
 </uwsgi>

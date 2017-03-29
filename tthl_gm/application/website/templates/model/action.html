@@ -12,13 +12,18 @@
             <input id="inputTime" name="starttime" type="text" />TO<input id="inputTime" name="endtime" type="text" />
         </div>
     </div> -->
+<!--     <label for="inputServerID">服务器</label>
+    <input type="text" id="inputServerID" name="server_id" value="{{ serverid }}"></br> -->
     <label for="playerid">用户ID</label>
     <input id="playerid" type="text" name="player_id">
     <div>
     <label for="">时间</label>
-    <input class="datetimepicker" type="text" readonly name="starttime">&nbsp;TO <input class="datetimepicker" readonly type="text" name="endtime">
+    <input class="datetimepicker" type="text" readonly name="start_time">&nbsp;TO <input class="datetimepicker" readonly type="text" name="end_time">
     </div>
-    <h5>动作：</h5>
+    <label for="inputType">动作过滤</label>
+    <input id="inputType" type="text" name="type">
+
+<!--     <h5>动作：</h5>
     武将
     <input type="checkbox" name="1" value="1" {% if '1' in hero %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
     <input type="checkbox" name="1" value="-1" {% if '-1' in hero %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span>
@@ -77,13 +82,13 @@
     <input type="checkbox" name="16" value="-1" {% if  '-1' in gift %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span><br>
     钻石
     <input type="checkbox" name="17" value="1" {% if '1' in diamond %} checked="checked" {% endif %}><span style="font-size:10px;">获取</span>
-    <input type="checkbox" name="17" value="-1" {% if '-1' in diamond %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span><br><br>
-    <div class="control-group">
+    <input type="checkbox" name="17" value="-1" {% if '-1' in diamond %} checked="checked" {% endif %}><span style="font-size:10px;">消耗</span> --><br><br>
+<!--     <div class="control-group">
         <label class="control-label" for="filterid">id过滤：</label>
         <div class="controls">
             <input id="filterid" name="id_filter" type="text" />
         </div>
-    </div>
+    </div> -->
 <!--     <div class="control-group">
         <div class="controls">
              <button type="submit" class="btn btn-sm btn-primary">查询</button>

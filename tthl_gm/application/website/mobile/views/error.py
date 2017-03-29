@@ -8,3 +8,8 @@ def page_500(request):
 
 def page_404(request):
     return page_500(request)
+
+def page_403(request):
+    data = {}
+    data['httpCode'] = 403
+    return HttpResponseJson(data)

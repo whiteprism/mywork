@@ -10,6 +10,16 @@ function gmPost(url, data, func){
     });
 }
 
+function change_server(){
+    document.cookie = "sid=" + $("#forserver").val();
+}
+
+function sync_server(){
+    gmPost("/server/sync/",{},function(resdata){
+        $(".game-container").html(resdata);
+    });
+}
+
 function switch_model(url, modelID){
     gmPost("/model/", {id:modelID}, function(html){
     $(".game-container").html(html);
@@ -19,16 +29,16 @@ function switch_model(url, modelID){
 }
 
 function userGetInfo(form){
-    if($.trim($("#inputServerID").val()).length == 0){
+/*    if($.trim($("#inputServerID").val()).length == 0){
         alert("请输入服务器ID");
         $("#inputServerID").focus();
-    }
-    else if ($.trim($("#inputUserID").val()).length == 0 && $.trim($("#inputUserNick").val()).length == 0){
+    }*/
+    if($.trim($("#inputUserID").val()).length == 0 && $.trim($("#inputUserNick").val()).length == 0){
         alert("请输入用户ID");
         $("#inputUserID").focus();
     }
     else {
-        gmPost("/action/search/", $(form).serialize(), function(html){
+        gmPost("/user/search/", $(form).serialize(), function(html){
         $("#user-search-table").html(html);
         });
     }
@@ -62,11 +72,11 @@ function actionGetInfo(){
 }
 
 function serverGetInfo(form){
-    if($.trim($("#inputServerID").val()).length == 0){
+/*    if($.trim($("#inputServerID").val()).length == 0){
         alert("请输入服务器ID");
         $("#inputServerID").focus();
-    }
-    else if($.trim($("#inputStartTime").val()).length == 0 || $.trim($("#inputEndTime").val()).length == 0){
+    }*/
+    if($.trim($("#inputStartTime").val()).length == 0 || $.trim($("#inputEndTime").val()).length == 0){
         alert("请选择查询时间");
     }
     else{
@@ -77,11 +87,11 @@ function serverGetInfo(form){
 }
 
 function serverNotimeGetInfo(form){
-    if($.trim($("#inputServerID2").val()).length == 0){
+/*    if($.trim($("#inputServerID2").val()).length == 0){
         alert("请输入服务器ID");
         $("#inputServerID").focus();
-    }
-    else if($.trim($('input[name="type"]:checked').val()).length == 0){
+    }*/
+    if($.trim($('input[name="type"]:checked').val()).length == 0){
         alert("请选择查询条件");
     }
     else{
@@ -92,11 +102,11 @@ function serverNotimeGetInfo(form){
 }
 
 function rechargeGetInfo(form){
-    if($.trim($("#inputServerID").val()).length == 0){
+/*    if($.trim($("#inputServerID").val()).length == 0){
         alert("请输入服务器ID");
         $("#inputServerID").focus();
-    }
-    else if($.trim($("#inputUserID").val()).length == 0){
+    }*/
+    if($.trim($("#inputUserID").val()).length == 0){
         alert("请输入用户ID");
         $("#inputUserID").focus();
     }
@@ -108,11 +118,11 @@ function rechargeGetInfo(form){
 }
 
 function sendMessage(form){
-    if($.trim($("#inputServerID").val()).length == 0){
+/*    if($.trim($("#inputServerID").val()).length == 0){
         alert("请输入服务器ID");
         $("#inputServerID").focus();
-    }
-    else if($.trim($("#inputUserID").val()).length == 0){
+    }*/
+    if($.trim($("#inputUserID").val()).length == 0){
         alert("请输入用户ID");
         $("#inputUserID").focus();
     }
@@ -128,11 +138,11 @@ function sendMessage(form){
 }
 
 function elementGetInfo(form){
-    if($.trim($("#inputServerID").val()).length == 0){
+/*    if($.trim($("#inputServerID").val()).length == 0){
         alert("请输入服务器ID");
         $("#inputServerID").focus();
-    }
-    else if($.trim($("#inputUserID").val()).length == 0){
+    }*/
+    if($.trim($("#inputUserID").val()).length == 0){
         alert("请输入用户ID");
         $("#inputUserID").focus();
     }
@@ -149,28 +159,36 @@ function deleteelement(form){
         });
 }
 
+function deleteElement(serverID,playerID,itemType,itemID){
+    var jid = "#element-"+String(itemID)+"-count";
+    alert(jid);
+    gmPost("/element/delete_element/", {server_id:serverID,player_id:playerID,item_type:itemType,item_id:itemID,item_num:$(jid).val()}, function(html){
+    $("#delete-element-search-table").html(html);
+    });
+}
+
 function send_welfare(form){
-    if($.trim($("#inputServerID").val()).length == 0){
+/*    if($.trim($("#inputServerID").val()).length == 0){
         alert("请输入服务器ID");
         $("#inputServerID").focus();
-    }
-    else if($.trim($("#inputUserID").val()).length == 0){
+    }*/
+    if($.trim($("#inputUserID").val()).length == 0){
         alert("请输入用户ID");
         $("#inputUserID").focus();
     }
     else{
-        gmPost("/welfare/send_welfare/", $("#form1").serialize(), function(html){
+        gmPost("/welfare/send_welfare/", $(form).serialize(), function(html){
         $("#welfare-send-table").html(html);
         });
     }
 }
 
 function orderGetInfo(form){
-    if($.trim($("#inputServerID").val()).length == 0){
+/*    if($.trim($("#inputServerID").val()).length == 0){
         alert("请输入服务器ID");
         $("#inputServerID").focus();
-    }
-    else if($.trim($("#inputOrderID").val()).length == 0){
+    }*/
+    if($.trim($("#inputOrderID").val()).length == 0){
         alert("请输入订单ID");
         $("#inputOrderID").focus();
     }
@@ -182,11 +200,11 @@ function orderGetInfo(form){
 }
 
 function orderFake(form){
-    if($.trim($("#inputServerID2").val()).length == 0){
+/*    if($.trim($("#inputServerID2").val()).length == 0){
         alert("请输入服务器ID");
         $("#inputServerID").focus();
-    }
-    else if($.trim($("#inputUserID").val()).length == 0){
+    }*/
+    if($.trim($("#inputUserID").val()).length == 0){
         alert("请输入用户ID");
         $("#inputUserID").focus();
     }
@@ -214,7 +232,13 @@ function userBan(userID,serverID){
 }
 
 function userGag(userID,serverID){
-    gmPost("/user/gag/", {userID:userID,serverID:serverID}, function(html){
+    gmPost("/user/gag/", {player_id:userID,server_id:serverID,type:$("input[name='type']:checked").val(),end_time:$("#inputendtime").val()}, function(html){
+       $("#user-search-table").html(html);
+    });
+}
+
+function rmGag(userID,serverID){
+    gmPost("/user/rm_gag/", {player_id:userID,server_id:serverID,type:$("input[name='type']:checked").val(),end_time:$("#inputendtime").val()}, function(html){
        $("#user-search-table").html(html);
     });
 }

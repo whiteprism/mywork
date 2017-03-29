@@ -1,0 +1,26 @@
+<h2 class="page-header">玩家邮件查看&发送</h2>
+<form onsubmit="getMail(this);return false;">
+    <h4>查看玩家邮件</h4>
+    <label for="inputUserID">玩家ID：</label>
+    <input type="text" id="inputUserID" name="playerId"></br>
+    <input class="btn btn-small btn-primary" type="submit" value="查看"><br>
+</form>
+<div class="divindent" id="get-mail-table">
+</div>
+<hr>
+<form onsubmit="sendMail(this);return false;">
+    <h4>发送邮件</h4>
+    <label for="inputUserIDs">玩家ID：</label>
+    <textarea name="playerIdList" id="inputUserIDs" cols="30" rows="6" placeholder="多个ID请换行"></textarea>
+    <label for="inputMailTitle">邮件标题：</label>
+    <input type="text" id="inputMailTitle" name="title">
+    <label for="inputMailAttach">物品列表：</label>
+    <textarea name="attachments" id="inputMailAttach" cols="30" rows="6" placeholder="格式例如：t50000c3,多个物品请换行"></textarea>
+    <label for="inputMailContent">邮件内容:</label>
+    <textarea id="inputMailContent" name="content" cols="30" rows="6"></textarea><br>
+<!--     <label for="inputMailParam">参数列表:</label>
+    <input type="text" id="inputMailParam" name="paramList"><br> -->
+    <input class="btn btn-small btn-primary" type="submit" value="发送">
+</form>
+<div class="divindent" id="send-mail-table">
+</div>

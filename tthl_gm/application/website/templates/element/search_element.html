@@ -1,4 +1,3 @@
-
 <div class="row placeholders">
     <div class="table-responsive">
         {% if not ret %}
@@ -17,19 +16,20 @@
             <tbody>
                 {%for property in properties %}
                 <tr>
-                    <form action="#" method="post" onsubmit="deleteelement(this);return false;">
+                <form onsubmit="deleteelement(this);return false;">
                     <input type="hidden" name="server_id" value="{{serverid}}">
                     <input type="hidden" name="player_id" value="{{playerid}}">
-                    <input type="hidden" name="element_type" value="{{property.element_type}}">
-                    <input type="hidden" name="element_id" value="{{property.element_id}}">
-                    <td id="">{{item_type}}</td>
+                    <input type="hidden" name="element_type" value="{{property.item_type}}">
+                    <input type="hidden" name="element_id" value="{{property.item_id}}">
+                    <td id="">{{property.item_type}}</td>
                     <td>{{property.item_id}}</td>
                     <td>{{property.item_num}}</td>
-                    <td><input type="text" name="count"></td>
-                    <td><input type="submit" value="删除"></td>
+                    <td><input type="text" id="element-{{property.item_id}}-count" name="count"></td>
+                    <td><input class="btn btn-primary btn-sm" type="submit" value="删除" onclick="deleteElement({{serverid}},{{playerid}},{{property.item_type}},{{property.item_id}});"></td>
                     <td><span></span></td>
-                    </form>
+                
                 </tr>
+                </form>
                 {% endfor %}
             </tbody>
         </table>

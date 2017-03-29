@@ -1,8 +1,10 @@
+{% if not ret %}
+{% for serverinfo in serverinfos %}
 <div>
-<label for="playercount" style="font-size:16px">登录玩家: </label><span style="font-size:18px">{% if login_count or login_count == 0 %}{{ login_count }}人{% endif %}</span><br>
-<label for="rechargecount" style="font-size:16px">充值人数：</label><span style="font-size:18px">{% if recharge_count %}{{ recharge_count }}人{% endif %}</span><br>
-<label for="newidcount" style="font-size:16px">新建账号：</label><span style="font-size:18px">{% if newplayer_count %}{{ newplayer_count }}人{% endif %}</span><br>
-<label for="rechargesum" style="font-size:16px">总充值：</label><span style="font-size:18px">{% if recharge_sum %}{{ recharge_sum }}元{% endif %}</span>
+<span for="playercount" style="font-size:16px">登录玩家: </span><span style="font-size:18px">{% if serverinfo.login_count or serverinfo.login_count == 0 %}{{ serverinfo.login_count }}人{% endif %}</span><br>
+<span for="rechargecount" style="font-size:16px">充值人数：</span><span style="font-size:18px">{% if serverinfo.recharge_count %}{{ serverinfo.recharge_count }}人{% endif %}</span><br>
+<span for="newidcount" style="font-size:16px">新建账号：</span><span style="font-size:18px">{% if serverinfo.newplayer_count %}{{ serverinfo.newplayer_count }}人{% endif %}</span><br>
+<span for="rechargesum" style="font-size:16px">总充值：</span><span style="font-size:18px">{% if serverinfo.recharge_sum %}{{ serverinfo.recharge_sum }}元{% endif %}</span>
 </div>
 <h4>玩家等级分布</h4>
 <div class="row placeholders">
@@ -14,11 +16,11 @@
                     <th>玩家数量</th>
                 </tr>
             </thead>
-            {% if level_array %}
+            {% if serverinfo.level_array %}
             <tbody>
-                {%for level_single in level_array %}
+                {%for level_single in serverinfo.level_array %}
                 <tr>
-                    <td>{{level_single.key|date:'Y年m月d日 H:i'}}</td>
+                    <td>{{level_single.key}}</td>
                     <td>{{level_single.value}}</td>
                 </tr>
                 {% endfor %}
@@ -27,3 +29,7 @@
         </table>
     </div>
 </div>
+{% endfor %}
+{% else %}
+<p>{{message}}</p>
+{% endif %}

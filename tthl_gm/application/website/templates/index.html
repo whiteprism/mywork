@@ -17,23 +17,24 @@
         <link rel="stylesheet" href="/static/bootstrap/css/bootstrap-datetimepicker.min.css" />
         <script src="/static/bootstrap/js/bootstrap-datetimepicker.min.js"></script>
         <script src="/static/bootstrap/js/locales/bootstrap-datetimepicker.zh-CN.js"></script>
-
         <link rel="stylesheet" href="/static/css/gm.css">
-        <title>GM工具</title>
-        <style>
-            .page-header{
-              margin: 0 0 12px;
-            }
-        </style>
+
+        <title>TTHL GM工具</title>
+
     </head>
     <body>
-       <div class="container-fluid">
+    <script>
+    $(document).ready(function(){
+        document.cookie = "sid=" + $("#forserver").val();
+    });
+    </script>
+    <div class="container-fluid">
     <div class="row-fluid">
         <div class="span12">
             <div class="navbar navbar-inverse">
                 <div class="navbar-inner">
                     <div class="container-fluid">
-                         <a data-target=".navbar-responsive-collapse" data-toggle="collapse" class="btn btn-navbar"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a> <a href="#" class="brand">TTHL GM工具</a>
+                         <a data-target=".navbar-responsive-collapse" data-toggle="collapse" class="btn btn-navbar"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a> <a href="#" class="brand">KIWI GM工具</a>
                         <div class="nav-collapse collapse navbar-responsive-collapse">
                             <ul class="nav">
                                 <li class="active">
@@ -41,15 +42,22 @@
                                 </li>
                             </ul>
                             <ul class="nav pull-right">
+                                <li><select name="server" id="forserver" style="top:5px;position: relative;width: 100px;" onchange="change_server();">
+                                {% for server in servers %}
+                                <option value="{{server.id}}">{{server.name}}</option>
+                                {% endfor %}
+                                </select>
+                                </li>
                                 <li class="divider-vertical">&nbsp;</li>
                                 <li>
-                                    <a href="/admin/logout/?next=/">退出</a>
+                                    <a href="/admin/logout/?next=/">注销</a>
                                 </li>
                             </ul>
                         </div>
 
                     </div>
                 </div>
+
             </div>
             <div class="row-fluid">
                 <div class="span2">
@@ -71,13 +79,22 @@
 
                 <div class="span10">
                     <div class="game-container">
-                        <div class="hero-unit">
-                        <h1>你好, {{request.user.get_full_name}}</h1><br>
-                        <p>&nbsp;&nbsp;欢迎使用天天幻灵GM工具，祝您工作愉快。 </p>
+                         <div class="hero-unit">
+                          <h1>你好, {{request.user.get_full_name}}</h1><br>
+                          <p>&nbsp;&nbsp;欢迎使用天天幻灵GM工具，祝您工作愉快!</p>
                         </div>
 
                     </div>
                 </div>
+
+                <!--<div class="span9">
+                    <div class="alert">
+                         <button type="button" class="close" data-dismiss="alert">×</button>
+                        <h4>
+                            提示!
+                        </h4> <strong>警告!</strong> 请注意你的个人隐私安全.
+                    </div>
+                </div>-->
             </div>
         </div>
     </div>

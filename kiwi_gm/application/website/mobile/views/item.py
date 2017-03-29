@@ -17,6 +17,7 @@ def query(request):
     server = get_server_by_request(request)
     userID = request.POST.get("playerId")
     data = dict(request.POST.items())
+    server = get_server_by_request(request)
     data["severId"] = server.id
     data_urlencode = urllib.urlencode(data)
     print data_urlencode

@@ -16,16 +16,16 @@ input {
         <tr style="text-align: left;">
             <th>服务器</th>
             <th>索引号</th>
-            <th>活动类型</th>
             <th>活动ID</th>
+            <th>活动类型</th>
         </tr>
     </thead>
     <tbody align="center">
         <tr>
             <td><input name="server_id" type="text"></td>
             <td><input name="index" type="text"></td>
-            <td><input name="act_type" type="text"></td>
             <td><input name="act_id" type="text"></td>
+            <td><input name="act_type" type="text"></td>
         </tr>
     </tbody>
     <thead>
@@ -54,9 +54,9 @@ input {
     </thead>
     <tbody align="center">
         <tr>
-            <td><input name="start_time" type="text"></td>
-            <td><input name="end_time" type="text"></td>
-            <td><input name="expire_time" type="text"></td>
+            <td><input class="datetimepicker" type="text" id="inputStartTime" readonly name="start_time"></td>
+            <td><input class="datetimepicker" type="text" id="inputEndTime" readonly name="end_time"></td>
+            <td><input class="datetimepicker" type="text" id="inputExpireTime" readonly name="expire_time"></td>
             <td><input name="create_day" type="text"></td>
         </tr>
     </tbody>
@@ -79,9 +79,16 @@ input {
 <hr>
 <h4>查看活动：</h4>
 <form onsubmit="getActivity(this);return false">
-<label for="inputServerID">服务器ID</label>
-<input type="text" id="inputServerID"><br>
+<!-- <label for="inputServerID">服务器ID</label>
+<input type="text" id="inputServerID" name="server_id"><br> -->
+<h5>点击下列按钮查看服务器活动列表：</h5>
 <input class="btn btn-small btn-primary" type="submit" value="查看">
 </form>
 <div class="divindent" id="get-activity-result">
 </div>
+<script type="text/javascript">
+      $('.datetimepicker').datetimepicker({
+        format: 'yyyy-mm-dd hh:ii',
+        language: "zh-CN"
+      });
+</script>

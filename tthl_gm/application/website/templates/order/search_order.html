@@ -17,13 +17,13 @@
             <tbody>
                 {%for orderinfo in orderinfos %}
                 <tr>
-                    <td>{{orderinfo.updated_at|date:'Y年m月d日 H:i'}}</td>
+                    <td>{{orderinfo.time}}</td>
                     <td>{{orderinfo.player_id}}</td>
-                    <td>{{orderinfo.order_id}}</td>
+                    <td>{{orderinfo.pkey}}</td>
                     <td>{{orderinfo.yuanbao_id}}</td>
                     <td>{{orderinfo.price}}</td>
                     <td>{{orderinfo.yuanbao}}</td>
-                    <td>{{orderinfo.status}}</td>
+                    <td>{{orderinfo.state}}</td>
                     <td><input class="btn btn-xs btn-primary" type="button" value="补单" onclick="addOrder({{serverid}},{{orderid}});"></td>
                 </tr>
                 {% endfor %}

@@ -3,15 +3,19 @@ from django.contrib.admin.views.decorators import  staff_member_required
 from django.shortcuts import render_to_response
 from django.template import RequestContext
 from gameconfig.api import get_models, get_model
+from servers.api import get_servers
 import urllib, urllib2
 from feedback import check_feedback
 from django.conf import settings
 
+
 @staff_member_required
 def index(request):
     models = get_models(request)
+    servers = get_servers()
     data = {
-        "models" : models
+        "models" : models,
+        "servers": servers,
     }
     ctxt = RequestContext(request,data)
     print ctxt

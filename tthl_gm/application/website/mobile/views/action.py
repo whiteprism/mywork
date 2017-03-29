@@ -4,6 +4,7 @@ from django.shortcuts import render_to_response
 from django.template import RequestContext
 from django.core.urlresolvers import reverse
 from gameconfig.api import get_models, get_model,check_func
+from servers.api import get_server_by_request
 import urllib, urllib2
 import simplejson
 from django.conf import settings
@@ -11,12 +12,14 @@ from common import *
 
 @staff_member_required
 def search_action(request):
-    serverID = request.POST.get("server_id")
     userID = request.POST.get("player_id")
     print request.POST,"***********"
     data = request.POST.copy()
+    server = get_server_by_request(request)
+    data["server_id"] = server.id
+    serverID = server.id
     data_urlencode = urllib.urlencode(data)
-    url = "%s/check_player_action?" % settings.GM_URL
+    url = "%s/check_player_action?" % server.gm_url
     url_get = url + data_urlencode
     result,dt = url_request_handler(url_get)
     if result:
@@ -33,7 +36,7 @@ def search_action(request):
     resdata = {
     "ret":res["ret"],
     "msg":res["msg"],
-    "playerinfos":res["data"]
+    "playeractions":res["data"]
     }
 
     ctxt = RequestContext(request,resdata)

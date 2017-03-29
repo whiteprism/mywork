@@ -2,6 +2,12 @@
 from django.conf.urls import *
 from django.conf import settings
 from mobile.views import *
+# from mobile.views.error import *
+
+# handler404 = page_404
+# handler500 = page_500
+# handler403 = page_403
+
 urlpatterns = patterns('',
     # Example:
     # (r'^something/', include('application.foo.urls')),
@@ -16,6 +22,7 @@ urlpatterns += patterns('mobile.views.user',
     url(r'^user/search/$', 'search'),
     url(r'^user/ban/$', 'ban'),
     url(r'^user/gag/$', 'gag'),
+    url(r'^user/rm_gag/$', 'rmGag'),
 )
 
 urlpatterns += patterns('mobile.views.action',
@@ -25,6 +32,10 @@ urlpatterns += patterns('mobile.views.action',
 urlpatterns += patterns('mobile.views.server',
     url(r'^server/search/$', 'search_server'),
     url(r'^server/search_notime/$', 'search_server_notime'),
+)
+
+urlpatterns += patterns('mobile.views.sync_server',
+    url(r'^server/sync/$', 'sync'),
 )
 
 urlpatterns += patterns('mobile.views.recharge',

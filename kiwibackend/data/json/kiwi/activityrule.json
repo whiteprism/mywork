@@ -24,7 +24,7 @@
             "value4": 0,
             "value3": 0,
             "value2": 0,
-            "value1": 14
+            "value1": 15
         }
     },
     {
@@ -38,7 +38,7 @@
             "value4": 0,
             "value3": 0,
             "value2": 0,
-            "value1": 18
+            "value1": 20
         }
     },
     {
@@ -52,7 +52,7 @@
             "value4": 0,
             "value3": 0,
             "value2": 0,
-            "value1": 22
+            "value1": 25
         }
     },
     {
@@ -66,7 +66,7 @@
             "value4": 0,
             "value3": 0,
             "value2": 0,
-            "value1": 26
+            "value1": 30
         }
     },
     {
@@ -80,7 +80,7 @@
             "value4": 0,
             "value3": 0,
             "value2": 0,
-            "value1": 30
+            "value1": 35
         }
     },
     {
@@ -94,7 +94,7 @@
             "value4": 0,
             "value3": 0,
             "value2": 0,
-            "value1": 35
+            "value1": 40
         }
     },
     {
@@ -108,7 +108,7 @@
             "value4": 0,
             "value3": 0,
             "value2": 0,
-            "value1": 40
+            "value1": 45
         }
     },
     {
@@ -122,7 +122,7 @@
             "value4": 0,
             "value3": 0,
             "value2": 0,
-            "value1": 45
+            "value1": 50
         }
     },
     {
@@ -136,7 +136,7 @@
             "value4": 0,
             "value3": 0,
             "value2": 0,
-            "value1": 50
+            "value1": 55
         }
     },
     {
@@ -144,20 +144,6 @@
         "model": "activity.activityrule",
         "fields": {
             "giftBagId": 10030011,
-            "value5": 0,
-            "value6": 0,
-            "activityId": 10030001,
-            "value4": 0,
-            "value3": 0,
-            "value2": 0,
-            "value1": 55
-        }
-    },
-    {
-        "pk": 10030012,
-        "model": "activity.activityrule",
-        "fields": {
-            "giftBagId": 10030012,
             "value5": 0,
             "value6": 0,
             "activityId": 10030001,

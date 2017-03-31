@@ -63,7 +63,7 @@ INSTALLED_APPS = (
     # default
     'django.contrib.admin',
     # --------------------bellow is manual added -------------------------------------------
-    'djcelery',
+    # 'djcelery', 
     'common',
     'skill',
     'hero',

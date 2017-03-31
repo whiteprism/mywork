@@ -103,7 +103,7 @@ class Message(BaseHttp):
         self.siegeBattleDelCDTime = None
         self.siegeBattlePlayerLock = None
         self.siegeBattleFortReset = None
-        self.rampartSoldierLevelUp = None
+        self.siegeBattleResourceArrive = None
         self.pvpCDTimeDelete = None
         self.pvpResetCount = None
         self.createGuild = None
@@ -146,6 +146,7 @@ class Message(BaseHttp):
         self.buildingLevelUp = None
         self.buildingTutorialEnd = None
         self.buildingDismantle = None
+        self.buildingWallWarriorUpgrade = None
         self.buildingPlantBuild = None
         self.buildingPlantHarvest = None
         self.buildingPlantPeriod = None
@@ -165,6 +166,8 @@ class Message(BaseHttp):
         self.guildIndex = None
         self.guildLevelUp = None
         self.guildFireCheckStatus = None
+        self.guildFireStopBuff = None
+        self.guildInstanceBook = None
 
 class MessageRequest(Message):
     pass

@@ -3,10 +3,10 @@
         "pk": 100100701,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.006,
+            "percentage": 0.0,
             "building_id": 1001007,
-            "woodCount": 0,
-            "goldCount": 0,
+            "woodCount": 6000,
+            "goldCount": 10000,
             "level": 1
         }
     },
@@ -14,10 +14,10 @@
         "pk": 100100702,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.012,
+            "percentage": 0.0,
             "building_id": 1001007,
-            "woodCount": 0,
-            "goldCount": 0,
+            "woodCount": 9000,
+            "goldCount": 15000,
             "level": 2
         }
     },
@@ -25,10 +25,10 @@
         "pk": 100100703,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.018,
+            "percentage": 0.0,
             "building_id": 1001007,
-            "woodCount": 0,
-            "goldCount": 0,
+            "woodCount": 12450,
+            "goldCount": 20750,
             "level": 3
         }
     },
@@ -36,10 +36,10 @@
         "pk": 100100704,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.024,
+            "percentage": 0.0,
             "building_id": 1001007,
-            "woodCount": 0,
-            "goldCount": 0,
+            "woodCount": 16350,
+            "goldCount": 27250,
             "level": 4
         }
     },
@@ -47,10 +47,10 @@
         "pk": 100100705,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.03,
+            "percentage": 0.0,
             "building_id": 1001007,
-            "woodCount": 0,
-            "goldCount": 0,
+            "woodCount": 20700,
+            "goldCount": 34500,
             "level": 5
         }
     },
@@ -58,10 +58,10 @@
         "pk": 100100706,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.036,
+            "percentage": 0.0,
             "building_id": 1001007,
-            "woodCount": 0,
-            "goldCount": 0,
+            "woodCount": 25500,
+            "goldCount": 42500,
             "level": 6
         }
     },
@@ -69,10 +69,10 @@
         "pk": 100100707,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.042,
+            "percentage": 0.0,
             "building_id": 1001007,
-            "woodCount": 0,
-            "goldCount": 0,
+            "woodCount": 30750,
+            "goldCount": 51250,
             "level": 7
         }
     },
@@ -80,10 +80,10 @@
         "pk": 100100708,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.048,
+            "percentage": 0.0,
             "building_id": 1001007,
-            "woodCount": 0,
-            "goldCount": 0,
+            "woodCount": 36450,
+            "goldCount": 60750,
             "level": 8
         }
     },
@@ -91,10 +91,10 @@
         "pk": 100100709,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.054,
+            "percentage": 0.0,
             "building_id": 1001007,
-            "woodCount": 0,
-            "goldCount": 0,
+            "woodCount": 42600,
+            "goldCount": 71000,
             "level": 9
         }
     },
@@ -102,10 +102,10 @@
         "pk": 100100710,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.06,
+            "percentage": 0.0,
             "building_id": 1001007,
-            "woodCount": 0,
-            "goldCount": 0,
+            "woodCount": 49200,
+            "goldCount": 82000,
             "level": 10
         }
     },
@@ -113,7 +113,7 @@
         "pk": 100100101,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -124,7 +124,7 @@
         "pk": 100100102,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -135,7 +135,7 @@
         "pk": 100100103,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -146,7 +146,7 @@
         "pk": 100100104,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -157,7 +157,7 @@
         "pk": 100100105,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -168,7 +168,7 @@
         "pk": 100100106,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -179,7 +179,7 @@
         "pk": 100100107,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -190,7 +190,7 @@
         "pk": 100100108,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -201,7 +201,7 @@
         "pk": 100100109,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -212,7 +212,7 @@
         "pk": 100100110,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -223,7 +223,7 @@
         "pk": 100100111,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -234,7 +234,7 @@
         "pk": 100100112,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -245,7 +245,7 @@
         "pk": 100100113,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -256,7 +256,7 @@
         "pk": 100100114,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -267,7 +267,7 @@
         "pk": 100100115,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -278,7 +278,7 @@
         "pk": 100100116,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -289,7 +289,7 @@
         "pk": 100100117,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -300,7 +300,7 @@
         "pk": 100100118,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -311,7 +311,7 @@
         "pk": 100100119,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,
@@ -322,7 +322,7 @@
         "pk": 100100120,
         "model": "building.buildingresourceprotected",
         "fields": {
-            "percentage": 0.4,
+            "percentage": 0.5,
             "building_id": 1001001,
             "woodCount": 0,
             "goldCount": 0,

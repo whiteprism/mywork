@@ -13,7 +13,7 @@ class PlayerMail(PlayerDataBase):
     """
     status = IntField(default = 0)  #状态
     title = StringField(default="") #标题
-    sender_id = LongField(default=0) #0为系统发送
+    # sender_id = LongField(default=0) #0为系统发送
     playerName = StringField(default="") #名字1
     senderName = StringField(default="") #名字2
     attachments = ListField(default=[]) #奖励
@@ -22,6 +22,7 @@ class PlayerMail(PlayerDataBase):
     playback = DictField()
     isWin = BooleanField()
     mailType = IntField()
+    sender = DictField(default={})
 
     meta = {
         'ordering': ["-id"],
@@ -34,14 +35,14 @@ class PlayerMail(PlayerDataBase):
     def is_system(self):
         return self.category == 1
 
-    @property
-    def sender(self):
-        if self.sender_id != 0:
-            from module.player.api import get_player
-            sender = get_player(self.sender_id, False)
-            return sender.userSimple_dict()
-        else:
-            return {}
+    # @property
+    # def sender(self):
+    #     if self.sender_id != 0:
+    #         from module.player.api import get_player
+    #         sender = get_player(self.sender_id, False)
+    #         return sender.userSimple_dict()
+    #     else:
+    #         return {}
 
     @property
     def is_new(self):
@@ -80,7 +81,6 @@ class PlayerMail(PlayerDataBase):
                 return False
         return True
 
-
     def set_is_accept(self):
         self.status = 2
 
@@ -88,6 +88,6 @@ class PlayerMail(PlayerDataBase):
         dicts = super(PlayerMail, self).to_dict()
         dicts["createdAt"] = int(datetime_to_unixtime(self.created_at))
         dicts["updatedAt"] = self.updated_at.strftime("%Y-%m-%d %H:%M:%S")
-        dicts["sender"] = self.sender
-        del dicts["sender_id"]
+        # dicts["sender"] = self.sender
+        # del dicts["sender_id"]
         return dicts

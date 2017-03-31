@@ -304,5 +304,14 @@
             "type": 2060004,
             "level": 0
         }
+    },
+    {
+        "pk": 1035,
+        "model": "levelconf.levelupreward",
+        "fields": {
+            "count": 10,
+            "type": 1504001,
+            "level": 0
+        }
     }
 ]

@@ -1,0 +1,15 @@
+<uwsgi>
+  <socket>127.0.0.1:9888</socket>
+  <listen>40</listen>
+  <master>true</master>
+  <pidfile>/tmp/uwsgi_9888.pid</pidfile>
+  <processes>4</processes> 
+  <pythonpath>/Users/gf/workspace/dalian/kiwibackend/scripts/ryl/</pythonpath>
+  <module>server</module>
+  <profiler>true</profiler>
+  <memory-report>true</memory-report>
+  <enable-threads>true</enable-threads>
+  <logdate>true</logdate>
+  <limit-as>2048</limit-as>
+  <daemonize>/tmp/robber.log</daemonize>
+</uwsgi>

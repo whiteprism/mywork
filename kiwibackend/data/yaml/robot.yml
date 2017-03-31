@@ -80,4 +80,14 @@ table:
       type: char
       default: ""
 
+    - name: siegeWood
+      column: siegeWood
+      type: int
+      default: 0
+
+    - name: siegeGold
+      column: siegeGold
+      type: int
+      default: 0
+
 

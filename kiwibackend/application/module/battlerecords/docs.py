@@ -13,18 +13,38 @@ class PlayerBattleRecords(PlayerDataBase):
     """
 
     isWin = BooleanField()
-    playerScore = IntField(default = 0)
-    playerPowerRank = IntField(default = 0)
-    targetPlayerScore = IntField(default = 0)
-    playerRank = IntField(default = 0)
-    targetPlayerRank = IntField(default = 0)
-    targetPlayerPowerRank  = IntField(default = 0)
+    category = IntField(default = 0) # 1 竞技场 2 攻城战
+    # playerScore = IntField(default = 0)
+    # targetPlayerScore = IntField(default = 0)
+    # playerRank = IntField(default = 0)
+    # targetPlayerRank = IntField(default = 0)
     addScore = IntField(default = 0)
-    targetPlayerId = IntField(default = 0)
-    playerIcon = IntField(default = 0)
-    targetPlayerIcon = IntField(default = 0)
-    playerVip = IntField(default = 0)
-    targetPlayerVip = IntField(default = 0)
+    # targetPlayerId = IntField(default = 0)
+    # playerIcon = IntField(default = 0)
+    # targetPlayerIcon = IntField(default = 0)
+    # playerVip = IntField(default = 0)
+    # targetPlayerVip = IntField(default = 0)
+    # #----------------------------------------
+    # # 目前只有攻城战用上的字段
+    # playerGuildName = StringField(default = "")
+    # targetGuildName = StringField(default = "")
+    # playerHeroes = ListField(default=[]) # [{"heroId": x, "level": x, "star": x, "upgrade": x}, ]
+    # targetHeroes = ListField(default=[]) # [{"heroId": x, "level": x, "star": x, "upgrade": x}, ]
+    # playerSoldiers = ListField(default=[]) # [{"soldierId": x, "soldierLevel": x, "count": x}, ]
+    # targetSoldiers = ListField(default=[]) # [{"soldierId": x, "soldierLevel": x, "count": x}, ]
+    playerPvpRank = DictField(default = {})
+    targetPvpRank = DictField(default = {})
+    playerPowerRank = IntField(default = 0)
+    targetPowerRank  = IntField(default = 0)
+    playerHeroes = DictField(default = {})
+    targetHeroes = DictField(default = {})
+    playerSimple = DictField(default = {})
+    targetSimple = DictField(default = {})
+    playerWallSoldiers = ListField(default=[])
+    targetWallSoldiers = ListField(default=[])
+
+    resource = DictField(default={}) # {"wood": x, "gold": x, "arrivalTime": x}
+    #++++++++++++++++++++++++++++++++++++++++
 
 
     meta = {
@@ -46,5 +66,5 @@ class PlayerBattleRecords(PlayerDataBase):
 
     def to_dict(self):
         dicts = super(PlayerBattleRecords, self).to_dict()
-        dicts["targetPlayer"] = self.sender
+        # dicts["targetPlayer"] = self.sender
         return dicts

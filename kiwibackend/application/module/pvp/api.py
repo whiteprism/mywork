@@ -36,5 +36,3 @@ def get_pvpSiegeRandomNumber(pk):
     return SiegeRandomNumber.get(int(pk))
 
 
-
-

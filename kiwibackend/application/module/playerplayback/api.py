@@ -194,6 +194,7 @@ def get_building_warrior_data(player):
 
     for playerbuilding in playbuildings.values():
         warrior_dict = {}
+        # 防御塔的升级不是建筑升级，等级在player.wallWarriorIds
         warriorlevel = get_warriorlevel(playerbuilding.building.buildingToWarriorId, playerbuilding.level)
         #　相当于在要塞上附加的建筑信息，这个专门就是做城门的建筑的.
         if playerbuilding.building.is_castle:
@@ -269,7 +270,6 @@ def get_robot_soldier_warrior_data(player):
         new_warrior_dict_list.append(warrior_dict)
     return new_warrior_dict_list   
 
-
 def get_soldier_warrior_data(player):
     '''
     城墙士兵数据
@@ -279,17 +279,16 @@ def get_soldier_warrior_data(player):
         return get_robot_soldier_warrior_data(player)
 
     new_warrior_dict_list = []
-    rampartSoldiers = player.rampartSoldiers.all().values()
     for _i,soldierId in enumerate(player.defenseSiegeSoldierIds):
         if soldierId <= 0:
             #-1,未解锁 0,未投放士兵
             continue
         warrior_dict = {}
-        for rampartSoldier in rampartSoldiers:
-            if soldierId != rampartSoldier.soldierId:
+        for warrior in player.wallWarriorIds:
+            if soldierId != warrior["soldierId"]:
                 continue
             warrior_dict["nodeId"] = 0
-            warrior_dict["level"] = rampartSoldier.soldierLevel
+            warrior_dict["level"] = warrior["soldierLevel"]
             warrior_dict["upgrade"] = 0
             warrior_dict["star"] = 0
             warrior_dict["leftGrid"] = _i
@@ -302,6 +301,60 @@ def get_soldier_warrior_data(player):
             warrior_dict["techIndex"] = ""
             new_warrior_dict_list.append(warrior_dict)
     return new_warrior_dict_list        
+
+def get_robot_tower_soldier_data(player):
+    new_warrior_dict_list = []
+    from module.robot.api import get_robot
+    robot = get_robot(player.id)
+    warriorlevel = get_warriorlevel(Static.HERO_WALL_SOLDIER_IDS[3]*100, robot.towerLevel)
+    for i in range(2):
+        warrior_dict = {}
+        warrior_dict["nodeId"] = 0
+        warrior_dict["level"] = warriorlevel.level
+        warrior_dict["upgrade"] = 0
+        warrior_dict["star"] = 0
+        warrior_dict["leftGrid"] = i # X
+        warrior_dict["topGrid"] = 0 # Y
+        warrior_dict["serverEnergy"] = 0
+        warrior_dict["gid"] = warriorlevel.warrior_id
+        warrior_dict["serverHp"] = warriorlevel.hp # 生命值
+        warrior_dict["destinyLevel"] = 0
+        warrior_dict["fireBuff"] = 10201
+        warrior_dict["techIndex"] = ""
+        new_warrior_dict_list.append(warrior_dict)
+    return new_warrior_dict_list    
+
+
+def get_tower_soldier_data(player):
+    """
+        获取攻城战防御塔士兵数据
+    """
+    if player.id < 0:
+        # 机器人
+        return get_robot_tower_soldier_data(player)
+    new_warrior_dict_list = []
+    for warrior in player.wallWarriorIds:
+        if warrior["soldierId"] != Static.HERO_WALL_SOLDIER_IDS[3]: # 防御塔的士兵ID
+            continue
+        warriorlevel = get_warriorlevel(warrior["soldierId"]*100, warrior["soldierLevel"])
+        for i in range(2):
+            warrior_dict = {}
+            warrior_dict["nodeId"] = 0
+            warrior_dict["level"] = warriorlevel.level
+            warrior_dict["upgrade"] = 0
+            warrior_dict["star"] = 0
+            warrior_dict["leftGrid"] = i # X
+            warrior_dict["topGrid"] = 0 # Y
+            warrior_dict["serverEnergy"] = 0
+            warrior_dict["gid"] = warriorlevel.warrior_id
+            warrior_dict["serverHp"] = warriorlevel.hp # 生命值
+            warrior_dict["destinyLevel"] = 0
+            warrior_dict["fireBuff"] = 10201
+            warrior_dict["techIndex"] = ""
+            new_warrior_dict_list.append(warrior_dict)
+        break
+    return new_warrior_dict_list    
+
 
 def get_warrior_data(player, teches, defenseLayout):
     '''
@@ -434,7 +487,7 @@ def get_building_army_data(player):
     攻城战的防守阵容
     '''
     teches = get_tech_data(player)
-    building_warriors = get_building_warrior_data(player) + get_warrior_data(player, teches, player.defenseSiegeLayout) + get_soldier_warrior_data(player)
+    building_warriors = get_building_warrior_data(player) + get_warrior_data(player, teches, player.defenseSiegeLayout) + get_soldier_warrior_data(player) + get_tower_soldier_data(player)
     building_army_data = get_army_data_by_warrior_dict_list(building_warriors, teches)
     return building_army_data
 

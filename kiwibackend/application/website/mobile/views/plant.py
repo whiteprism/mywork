@@ -69,7 +69,7 @@ def buildingPlantPeriod(request, response):
     if not playerbuildingplant.can_change_status:
         #植物当前是成熟或枯萎状态，不用变化
         return response
-    playerbuildingplant.change_status()
+    playerbuildingplant.check_status()
     player.update_buildingplant(playerbuildingplant, True)
     return response
 
@@ -83,7 +83,12 @@ def buildingPlantHarvest(request, response):
     playerplant_id = getattr(request.logic_request, "playerPlantId", 0)
     playerbuildingplant = player.buildingplants.get(playerplant_id)
     if playerbuildingplant.harvestLeftTimes <= 0:
-        raise ErrorException(player, u"buildingBuild:plant(%s) can not harvest" % plant_id)
+        AlertHandler(player, response, AlertID.ALERT_PLANT_HARVEST_OVER_MAX_NUMBER, u"buildingPlantHarvest:plant(%s) is not mature" % playerbuildingplant.plantId)
+        return response
+    if not playerbuildingplant.is_maturation:
+        AlertHandler(player, response, AlertID.ALERT_PLANT_HARVEST_NOT_MATURATION, u"buildingPlantHarvest:plant(%s) is not mature" % playerbuildingplant.plantId)
+        return response
+
     info = u"植物采摘奖励"
     rewards = []
     rewards = playerbuildingplant.harvest()

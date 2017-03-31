@@ -40,6 +40,11 @@ table:
       type: char
       default: ""
 
+    - name: probability_float
+      column: probability
+      type: char
+      default: ""
+
     - name: aucRewardIds_int
       column: aucRewardIds
       type: char
@@ -72,6 +77,11 @@ table:
 
     - name: guildLevelLimit
       column: guildLevelLimit
+      type: int
+      default: 0
+
+    - name: rewardGold
+      column: rewardGold
       type: int
       default: 0
 

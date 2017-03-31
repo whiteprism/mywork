@@ -143,8 +143,10 @@ class PlayerGuild(PlayerRedisDataModifyBase):
     readAttV = IntField(default = 0) # 读取最新的公会公告版本
     dailyContributionXp = IntField(default = 0) #今天贡献经验
     totalContributionXp = IntField(default = 0)  #一共贡献经验
-    #maxContributionCount = IntField(default = 5) #最大贡献次数
-    dailyContributionCount = IntField(default = 0)  #今日贡献次数
+    totalContribution = IntField(default = 0)  #总贡献度
+    #maxContributionCount = IntField(default = 5) #最大有效贡献次数
+    dailyContributionCount = IntField(default = 0)  #今日有效贡献次数
+    dailyCostContributionCount = IntField(default = 0)  #今日非有效贡献次数
     trainingHeroIds = ListField(default=[0,0,0,0,0,0,0,0]) # 公会训练场的英雄
     speedPlayerIds = ListField() #赠送药水用户
     speededPlayerIds = ListField() #被赠送的用户药水
@@ -189,7 +191,7 @@ class PlayerGuild(PlayerRedisDataModifyBase):
 
     @property
     def maxContributionCount(self):
-        return 5000
+        return 5
 
     @property
     def isMaxSpeeded(self):
@@ -444,23 +446,35 @@ class PlayerGuild(PlayerRedisDataModifyBase):
 
         return True
 
-    def contribute(self, xp, gold, info):
+    def contribute(self, isValid, category, xp, gold, info):
         """
         贡献
         """
-        if xp > 0:
-            today = datetime.datetime.now().date()
-            if self.updated_at.date() != today:
-                self.dailyContributionCount = 0
-                self.dailyContributionXp = 0
+        if isValid:
+            if xp > 0:
+                today = datetime.datetime.now().date()
+                if self.updated_at.date() != today:
+                    self.dailyContributionCount = 0
+                    self.dailyContributionXp = 0
 
-            self.dailyContributionCount += 1
-            self.dailyContributionXp += xp
-            self.totalContributionXp += xp
+                self.dailyContributionCount += 1
+                self.dailyContributionXp += xp
+                self.totalContributionXp += xp
+                if category == 1:
+                    self.totalContribution += Static.GUILD_GOLD_GET_CONTRIBUTION
+                if category == 2:
+                    self.totalContribution += Static.GUILD_DIAMOND_GET_CONTRIBUTION
+                self.add_gold(gold, info) 
+                self.guildInfo.contribute(xp)
+                self.update()
+                self.guildInfo.save()
+        else:
+            self.totalContribution += Static.GUILD_DIAMOND_GET_CONTRIBUTION + self.dailyCostContributionCount
+            self.dailyCostContributionCount += 1
             self.add_gold(gold, info) 
-            self.guildInfo.contribute(xp)
+            #self.guildInfo.contribute(xp)
             self.update()
-            self.guildInfo.save()
+            #self.guildInfo.save()
 
     def contribute_wood(self, wood):
         """
@@ -540,6 +554,7 @@ class PlayerGuild(PlayerRedisDataModifyBase):
         dicts["heros"] = player.layoutHeroSimple_dict()
         dicts["dailyContributionXp"] = self.dailyContributionXp
         dicts["totalContributionXp"] = self.totalContributionXp
+        dicts["totalContribution"] = self.totalContribution
         dicts["lastInstanceLevelId"] = player.lastInstance["lastLevelId"]
         if guildInfo.chairmanId == player.id:
             dicts["position"] = Static.GUILD_CHAIRMAN_POSITION
@@ -550,7 +565,22 @@ class PlayerGuild(PlayerRedisDataModifyBase):
 
         return dicts
 
+    def getFeiBookInfo(self):
+        dicts = {"feiInstanceId": ""}
+        guildinfo = self.guildInfo
+        if  guildinfo:
+            _feiBookInfo = None
+            if str(self.player.id) in guildinfo.feiBookDict:
+                feiBookInfo = guildinfo.feiBookDict[str(self.player.id)]    
+                _feiBookInfo = sorted(feiBookInfo.iteritems(), key = lambda asd:asd[1])[0]
+            dicts["feiInstanceId"] = _feiBookInfo[0] if _feiBookInfo else ""
+        return dicts
+
     def to_dict(self, is_all=False, is_root=False):
+        now = datetime.datetime.now()
+        if now.date() != self.updated_at.date():
+            self.dailyCostContributionCount = 0
+            
         dicts = super(self.__class__, self).to_dict(is_all)
 
         relation_keys = {
@@ -586,8 +616,9 @@ class PlayerGuild(PlayerRedisDataModifyBase):
             if del_key in dicts["mKeys"]:
                 dicts["mKeys"].remove(del_key)
 
+        #dicts["dailyCostContributionCount"] = self.dailyCostContributionCount
         return dicts
-
+        
 class SysGuildInfo(PlayerModifyBase):
     """
     公会记录
@@ -614,10 +645,11 @@ class SysGuildInfo(PlayerModifyBase):
     siegeGuildStatus = IntField(default=-1)  # 工会战的状态
     # fireBuff =  IntField(default=0)  # 给公会成员打副本提供加成
     powerrank = IntField(default=0)  # 展示用战斗力
-    fire1 = DictField(default={"buffType": 0, "buffLevel": 0, "xp": 0, "level": 1, "fireAt": 0,  "status": 1, "fireHour":0})#火堆1信息  status: 0未开启 1等待添加木材 2燃烧 
-    fire2 = DictField(default={"buffType": 0, "buffLevel": 0, "xp": 0, "level": 0, "fireAt": 0,  "status": 0, "fireHour":0})#火堆2信息
-    fire3 = DictField(default={"buffType": 0, "buffLevel": 0, "xp": 0, "level": 0, "fireAt": 0,  "status": 0, "fireHour":0})#火堆3信息
+    fire1 = DictField(default={"buffType": 0, "buffLevel": 0, "xp": 0, "level": 1, "fireAt": 0,  "status": 1, "fireHour":0, "wood":0})#火堆1信息  status: 0未开启 1等待添加木材 2燃烧 
+    fire2 = DictField(default={"buffType": 0, "buffLevel": 0, "xp": 0, "level": 0, "fireAt": 0,  "status": 0, "fireHour":0, "wood":0})#火堆2信息
+    fire3 = DictField(default={"buffType": 0, "buffLevel": 0, "xp": 0, "level": 0, "fireAt": 0,  "status": 0, "fireHour":0, "wood":0})#火堆3信息
     serverid = IntField(default = 0)
+    feiBookDict = DictField(default = {}) #接收到飞鸽传书的人员列表以及副本 结构为 {player_id:{str(instanceId):time.time()}}
 
     meta = { 
         'indexes': ["name", "-level", "serverid"],
@@ -703,6 +735,67 @@ class SysGuildInfo(PlayerModifyBase):
         """
         setattr(self, "fire%s" % index, fire)
 
+    def stop_fire_buring(self, index):
+        from guild.api import get_guildfirebuff
+        fire = self.get_fire_by_index(index)
+        
+        now = int(time.time())
+        firebuff = get_guildfirebuff(fire["buffType"])
+        levelconf = firebuff.get_bufflevel(fire["level"], fire["buffLevel"])
+        
+        seconds = now - fire["fireAt"]
+        fire["xp"] += int(levelconf.woodCost * (seconds/3600.0))
+        self.wood -= int(fire["wood"] * (seconds/3600.0))
+        
+        fire["status"] = 1
+        fire["fireAt"] = 0
+        fire["fireHour"] = 0
+        fire["buffType"] = 0
+        fire["buffLevel"] = 0
+        fire["wood"] = 0
+        
+        self.set_fire_by_index(index, fire)
+        self.save()  
+
+    def start_fire_buring(self, index):
+        now = int(time.time())
+        fire = self.get_fire_by_index(index)
+        fire["status"] = 2
+        fire["fireAt"] = now
+        
+        self.set_fire_by_index(index, fire)
+        self.save()     
+
+    # def set_fire_settings(self, index, buffType, buffLevel, hour, woodCost):
+    #     """
+    #     更新火堆信息
+    #     """
+    #     from guild.api import get_guildfirebuff
+    #     fire = self.get_fire_by_index(index)
+    #     now = int(time.time())
+        
+    #     # #燃烧木头状态
+    #     if fire["status"] == 2:
+    #         fire["status"] = 1
+    #         fire["fireHour"] = 0
+    #         firebuff = get_guildfirebuff(fire["buffType"])
+    #         levelconf = firebuff.get_bufflevel(fire["level"], fire["buffLevel"])
+            
+    #         seconds = now - fire["fireAt"]
+    #         fire["xp"] += int(levelconf.woodCost * (seconds/3600.0))
+    #         fire, _ = self.fire_checkstatus(fire)
+
+
+    #     fire["fireAt"] = now
+    #     fire["fireHour"] = hour
+    #     fire["status"] = 2
+    #     fire["buffType"] = buffType
+    #     fire["buffLevel"] = buffLevel
+    #     self.wood -= woodCost
+
+    #     self.set_fire_by_index(index, fire)
+    #     self.save()
+
     def set_fire_settings(self, index, buffType, buffLevel, hour, woodCost):
         """
         更新火堆信息
@@ -712,23 +805,24 @@ class SysGuildInfo(PlayerModifyBase):
         now = int(time.time())
         
         # #燃烧木头状态
-        if fire["status"] == 2:
-            fire["status"] = 1
-            fire["fireHour"] = 0
-            firebuff = get_guildfirebuff(fire["buffType"])
-            levelconf = firebuff.get_bufflevel(fire["level"], fire["buffLevel"])
+        # if fire["status"] == 2:
+        #     fire["status"] = 1
+        #     fire["fireHour"] = 0
+        #     firebuff = get_guildfirebuff(fire["buffType"])
+        #     levelconf = firebuff.get_bufflevel(fire["level"], fire["buffLevel"])
             
-            seconds = now - fire["fireAt"]
-            fire["xp"] += int(levelconf.woodCost * (seconds/3600.0))
-            fire, _ = self.fire_checkstatus(fire)
+        #     seconds = now - fire["fireAt"]
+        #     fire["xp"] += int(levelconf.woodCost * (seconds/3600.0))
+        #     fire, _ = self.fire_checkstatus(fire)
 
 
-        fire["fireAt"] = now
+        #fire["fireAt"] = now
         fire["fireHour"] = hour
-        fire["status"] = 2
+        fire["status"] = 1
         fire["buffType"] = buffType
         fire["buffLevel"] = buffLevel
-        self.wood -= woodCost
+        #self.wood -= woodCost
+        fire["wood"] = woodCost
 
         self.set_fire_by_index(index, fire)
         self.save()
@@ -894,23 +988,30 @@ class SysGuildInfo(PlayerModifyBase):
         if "fire1" in dicts:
             if dicts["fire1"]["status"] == 2:
                 dicts["fire1"]["timeLeft"] = dicts["fire1"]["fireAt"] + 3600 * dicts["fire1"]["fireHour"] + 1
-
+            if dicts["fire1"]["status"] == 1:
+                dicts["fire1"]["timeLeft"] = dicts["fire1"]["fireHour"]
+                
             del dicts["fire1"]["fireAt"]
-            del dicts["fire1"]["fireHour"]
+            #del dicts["fire1"]["fireHour"]
 
         if "fire2" in dicts:
             if dicts["fire2"]["status"] == 2:
                 dicts["fire2"]["timeLeft"] = dicts["fire2"]["fireAt"] + 3600 * dicts["fire2"]["fireHour"] + 1
+            if dicts["fire2"]["status"] == 1:
+                dicts["fire2"]["timeLeft"] = dicts["fire2"]["fireHour"]
 
             del dicts["fire2"]["fireAt"]
-            del dicts["fire2"]["fireHour"]
+            #del dicts["fire2"]["fireHour"]
 
 
         if "fire3" in dicts:
             if dicts["fire3"]["status"] == 2:
                 dicts["fire3"]["timeLeft"] = dicts["fire3"]["fireAt"] + 3600 * dicts["fire3"]["fireHour"] + 1
+            if dicts["fire3"]["status"] == 1:
+                dicts["fire3"]["timeLeft"] = dicts["fire3"]["fireHour"]
+
             del dicts["fire3"]["fireAt"]
-            del dicts["fire3"]["fireHour"]
+            #del dicts["fire3"]["fireHour"]
 
         dicts["siegeStatus"], dicts["siegeStatusChangeAt"] = self.getSiegeStatusInfo()
         dicts["siegeGuildStatus"] = self.siegeGuildStatus
@@ -979,6 +1080,8 @@ class SysGuildInstanceInfo(PlayerDataBase):
     memberList = ListField(default = [])
     # 这个副本最后开始攻打的时间用来统计掉线超时的操作
     startFightTime = DateTimeField(default=datetime.datetime.now)
+    battleStatus = DictField(default={"startCount":0, "overCount": 0}) #副本总开启次数 & 副本攻陷次数
+    feiBookStatus = IntField(default=0) #本副本飞鸽传书是否发送 0 未发 1 已发
 
     meta = {                                                                                                                               
         'indexes': ["guildId", ("guildId", "instanceId")],
@@ -998,6 +1101,16 @@ class SysGuildInstanceInfo(PlayerDataBase):
     def isKill(self):
         return self.openStatus == 2 #boss被击杀
 
+    @property
+    def canFeiBook(self):
+        return self.feiBookStatus == 0 #可以发飞鸽传书
+
+    @memoized_property
+    def guildInfo(self):
+        if self.guildId > 0 :
+            return SysGuildInfo.get_guild(self.guildId)
+        return None
+
     def open(self):
         """
         开启
@@ -1012,7 +1125,8 @@ class SysGuildInstanceInfo(PlayerDataBase):
         # 设置开启的时间
         self.startTime = datetime.datetime.now()
         self.memberList = []
-
+        self.battleStatus["startCount"] += 1
+        self.feiBookStatus = 0
         self.save()
 
     @property
@@ -1047,16 +1161,31 @@ class SysGuildInstanceInfo(PlayerDataBase):
         self.isFighting = 0
         self.save()
 
+    def release_feibook_instance(self):
+        sgi = self.guildInfo
+        #boss被击杀时清空飞鸽传书
+        _change = False
+        for player_id in sgi.feiBookDict.keys():
+            if str(self.instanceId) in sgi.feiBookDict[str(player_id)]:
+                del sgi.feiBookDict[str(player_id)][str(self.instanceId)]
+                _change = True
+        if _change:
+            sgi.save()
+
+
     def kill_boss(self):
         """
         击杀boss
         """
         self.killTime = datetime.datetime.now()
         self.openStatus = 2
+        self.battleStatus["overCount"] += 1
+        self.save()
+        self.release_feibook_instance()
 
     @property
     def closeAt(self):
-        return 300 # 秒 1天
+        return 24 * 60 * 60 # 秒 1天
 
     def check_status(self):
         """
@@ -1071,6 +1200,7 @@ class SysGuildInstanceInfo(PlayerDataBase):
             now = datetime.datetime.now()
             if (now - self.startTime ).total_seconds() >= self.closeAt:#1天自动关闭
                 self.openStatus = 0 #自动关闭
+                self.release_feibook_instance()
                 needSave = True
 
             if self.isOpen:
@@ -1080,6 +1210,29 @@ class SysGuildInstanceInfo(PlayerDataBase):
 
         if needSave:
             self.save()
+
+    def get_unFighting_member_list(self):
+        sgi = self.guildInfo
+        #取得该公会未打过此副本的player id列表
+        if sgi:
+            m = list(set(sgi.membersIds) ^ set(self.memberList))
+            sgi.self_release_lock()
+            return m
+        return []
+
+    def get_unFighting_member_info(self):
+        from player.api import get_player
+        playerInfoDict = {}
+        pid_list = self.get_unFighting_member_list()
+        for player_id in pid_list:
+            feiBook = 0 #未发飞鸽传书
+            _player = get_player(player_id, lock=False)
+            if str(player_id) not in playerInfoDict:
+                if str(player_id) in self.guildInfo.feiBookDict:
+                    feiBook = 1
+                playerInfoDict[str(player_id)] = {"feiBook": feiBook, "name": _player.name, "level": _player.level, "iconId": _player.iconId}
+        self.self_release_lock()
+        return playerInfoDict
 
     def to_dict(self):
         dicts = {}
@@ -1096,6 +1249,11 @@ class SysGuildInstanceInfo(PlayerDataBase):
         # 是否有人挑战
         # startFightTime = self.startFightTime.replace(tzinfo=None)
         
+        #公会内未打此副本的成员
+        dicts["unMemberList"] = self.get_unFighting_member_info()
+
+        #副本攻打状态
+        dicts["battleStatus"] = self.battleStatus
         dicts["isFighting"] = self.isFighting
         # 副本开始时间
         # info["startTime"] = instance.startTime
@@ -1149,7 +1307,7 @@ class GuildAuctionsMaxInfo(PlayerDataBase):
 
     @property
     def aucEndAt(self):
-        return self.aucStartAt.replace(tzinfo=None)  + datetime.timedelta(seconds=1200)
+        return self.aucStartAt.replace(tzinfo=None)  + datetime.timedelta(seconds=24*60*60)
         #return self.aucStartAt.replace(tzinfo=None)  + datetime.timedelta(1)
         
     @property

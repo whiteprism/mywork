@@ -64,7 +64,6 @@ def artifactLevelUp(request, response):
         if playerhero.check_artifact_enhancemaster():
             player.update_hero(playerhero, True)
 
-    player.dailytask_going(Static.DAILYTASK_CATEGORY_ARRIFACT_UPGRADE, number=1, is_incr=True, is_series=True)
     player.task_going(Static.TASK_CATEGORY_ARTIFACT_LEVELUP, number=playerartifact.level, is_incr=False, is_series=True, with_top=True)
     player.update_artifact(playerartifact, True)
 

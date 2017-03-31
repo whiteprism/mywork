@@ -306,7 +306,7 @@
             "skill_id": 1801283,
             "followPoint": 0,
             "startDelay": 0.56,
-            "survivalTime": 5.0,
+            "survivalTime": 2.56,
             "startPositionY": 0.0,
             "startPositionX": 1.5,
             "startPositionZ": 0.0,
@@ -473,7 +473,7 @@
             "startDelay": 0.8,
             "survivalTime": 5.0,
             "startPositionY": 0.0,
-            "startPositionX": 0.0,
+            "startPositionX": 2.0,
             "startPositionZ": 0.0,
             "startEffectName": "Thrall/fx_fengnututeng",
             "socketIndex": 4
@@ -600,10 +600,10 @@
         }
     },
     {
-        "pk": 180433001,
+        "pk": 180434001,
         "model": "skill.skilleffectdetail",
         "fields": {
-            "skill_id": 1804330,
+            "skill_id": 1804340,
             "followPoint": 1,
             "startDelay": 0.0,
             "survivalTime": 1.5,
@@ -615,10 +615,145 @@
         }
     },
     {
-        "pk": 180434001,
+        "pk": 180434101,
         "model": "skill.skilleffectdetail",
         "fields": {
-            "skill_id": 1804340,
+            "skill_id": 1804341,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.5,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Missile/fx_daodanfashe",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180434201,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1804342,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.5,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Missile/fx_daodanfashe",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180434301,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1804343,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.5,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Missile/fx_daodanfashe",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180434401,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1804344,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.5,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Missile/fx_daodanfashe",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180434501,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1804345,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.5,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Missile/fx_daodanfashe",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180434601,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1804346,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.5,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Missile/fx_daodanfashe",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180434701,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1804347,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.5,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Missile/fx_daodanfashe",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180434801,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1804348,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.5,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Missile/fx_daodanfashe",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180434901,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1804349,
+            "followPoint": 1,
+            "startDelay": 0.0,
+            "survivalTime": 1.5,
+            "startPositionY": 0.0,
+            "startPositionX": 0.0,
+            "startPositionZ": 0.0,
+            "startEffectName": "Missile/fx_daodanfashe",
+            "socketIndex": 0
+        }
+    },
+    {
+        "pk": 180436001,
+        "model": "skill.skilleffectdetail",
+        "fields": {
+            "skill_id": 1804360,
             "followPoint": 1,
             "startDelay": 0.0,
             "survivalTime": 1.5,

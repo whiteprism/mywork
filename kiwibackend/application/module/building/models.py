@@ -114,6 +114,10 @@ class Building(models.Model, StaticDataRedisHandler, CommonStaticModels):
         return self.id == BuildingType.RADAR
 
     @property
+    def is_tower(self):
+        return self.id == BuildingType.TOWER
+
+    @property
     def is_rampart(self):
         return self.id == BuildingType.RAMPART
 
@@ -132,6 +136,7 @@ class Building(models.Model, StaticDataRedisHandler, CommonStaticModels):
     def is_hordelab(self):
         return self.id == BuildingType.HORDELAB
 
+    # TODO:没用上
     @property
     def can_drill_soldier(self):
         return self.is_hordebarrack 
@@ -229,6 +234,10 @@ class BuildingProduction(models.Model, StaticDataRedisHandler, CommonStaticModel
     productionLevel = models.IntegerField(u"产物等级", default=0)
     productionType = models.IntegerField(u"产物类型", default=0)
     useTime = models.IntegerField(u"消耗时间", default=0)
+    icon = models.CharField(u"icon", max_length=200, default="")
+    descriptionId = models.CharField(u"descriptionId", max_length=200, default="")
+    nameId = models.CharField(u"nameId", max_length=200, default="")
+    orderId = models.IntegerField(u"显示顺序", default=0)
 
     @property
     def is_drill(self):

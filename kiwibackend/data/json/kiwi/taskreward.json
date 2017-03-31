@@ -2667,7 +2667,7 @@
         "pk": 6311,
         "model": "task.taskreward",
         "fields": {
-            "count": 40,
+            "count": 50,
             "type": 510000,
             "level": 0
         }
@@ -2676,8 +2676,8 @@
         "pk": 6320,
         "model": "task.taskreward",
         "fields": {
-            "count": 2,
-            "type": 2621201,
+            "count": 1,
+            "type": 2631104,
             "level": 0
         }
     },
@@ -2686,7 +2686,7 @@
         "model": "task.taskreward",
         "fields": {
             "count": 3,
-            "type": 2620102,
+            "type": 2621201,
             "level": 0
         }
     },
@@ -2714,6 +2714,15 @@
         "fields": {
             "count": 1,
             "type": 2625101,
+            "level": 0
+        }
+    },
+    {
+        "pk": 6450,
+        "model": "task.taskreward",
+        "fields": {
+            "count": 1,
+            "type": 2631102,
             "level": 0
         }
     },
@@ -3109,15 +3118,6 @@
         "model": "task.taskreward",
         "fields": {
             "count": 0,
-            "type": 700000,
-            "level": 0
-        }
-    },
-    {
-        "pk": 6913,
-        "model": "task.taskreward",
-        "fields": {
-            "count": 10,
             "type": 700000,
             "level": 0
         }

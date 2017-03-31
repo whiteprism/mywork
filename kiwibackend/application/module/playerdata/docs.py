@@ -3,7 +3,7 @@ import datetime
 from common.decorators.memoized_property import memoized_property
 import cPickle
 from submodule.fanyoy.redis import PlayerDynamicRedisHandler
-from module.playerhero.docs import PlayerHero, PlayerArmy, PlayerHeroTeam, PlayerRampartSoldiers
+from module.playerhero.docs import PlayerHero, PlayerArmy, PlayerHeroTeam
 from module.playeritem.docs import PlayerItem, PlayerStoreRecord, PlayerTowerStoreRecord
 from module.playerbuilding.docs import PlayerBuilding, PlayerBuildingFragment
 from module.playerequip.docs import PlayerEquip, PlayerEquipFragment
@@ -253,9 +253,6 @@ class PlayerData(PlayerDynamicRedisHandler):
         "heroteams_bin" : {
             'default': "",  'type': str,
         },
-        "rampartSoldiers_bin" : {
-            'default': "",  'type': str,
-        },
     }
     player = None
 
@@ -318,10 +315,6 @@ class PlayerData(PlayerDynamicRedisHandler):
     @memoized_property
     def buildingplants(self):
         return self._datahandler(PlayerPlant, "buildingplants")
-
-    @memoized_property
-    def rampartSoldiers(self):
-        return self._datahandler(PlayerRampartSoldiers, "rampartSoldiers")
 
     @memoized_property
     def equips(self):

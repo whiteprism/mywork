@@ -18,6 +18,7 @@ def send_mail(request):
     content = request.REQUEST.get("content", "").strip() # "fytext_301064"
     paramList = request.REQUEST.get("paramList", "").strip()
 
+    print title,"*****"
     if playerIdList_int == "all":
         players = get_all_player()
     else:

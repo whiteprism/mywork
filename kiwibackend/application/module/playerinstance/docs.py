@@ -578,7 +578,7 @@ class PlayerRaidInstance(PlayerInstanceLevelBase):
         if gold:
             rewards.append({"type":Static.GOLD_ID, "count": int(gold * drop_count)})
 
-        hero_exp = raidlevel.heroExp * int(drop_count)
+        hero_exp = int(raidlevel.heroExp * drop_count)
         self.add_count()
 
         rewards += self.make_rewards(raidlevel, percentage, isWin)
@@ -618,7 +618,7 @@ class PlayerRaidInstance(PlayerInstanceLevelBase):
             i = random.randint(1,1000000)
             if i < x:
                 rewardId = data["type"][index]
-                rCount = random.randrange(data["minCount"][index], data["count"][index]+1)
+                rCount = random.uniform(data["minCount"][index], data["count"][index]+1)
                 #rCount = data["count"][index]
                 tempDict = {}
                 tempDict["type"] = rewardId

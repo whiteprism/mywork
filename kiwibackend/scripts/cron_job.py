@@ -20,16 +20,16 @@ def cron_init_weekly_pvp_data(a):
 jobs = [ 
         {
             "name" : cron_send_daily_pvp_rewards,
-            "time": [15, 9, -1, -1, -1], #minute, hour, day, month, weekday, "-1" means "all"
+            "time": [20, 9, -1, -1, -1], #minute, hour, day, month, weekday, "-1" means "all"
         },
         {
             "name" : cron_send_weekly_pvp_rewards,
-            "time": [15, 9, -1, -1, 1], #minute, hour, day, month, weekday, "-1" means "all"
+            "time": [20, 9, -1, -1, 1], #minute, hour, day, month, weekday, "-1" means "all"
         },
 
         {
             "name" : cron_init_weekly_pvp_data,
-            "time": [15, 9, -1, -1, 1], #minute, hour, day, month, weekday, "-1" means "all"
+            "time": [20, 9, -1, -1, 1], #minute, hour, day, month, weekday, "-1" means "all"
             },
         
 ]

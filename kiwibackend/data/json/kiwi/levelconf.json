@@ -273,7 +273,7 @@
             "battleRightTopX": 3,
             "battleRightTopY": 5,
             "energy": 120,
-            "levelUpRewards_int": "1003,1021",
+            "levelUpRewards_int": "1003,1021,1035",
             "stamina": 40,
             "wallHp": 75,
             "rewardPower": 30,

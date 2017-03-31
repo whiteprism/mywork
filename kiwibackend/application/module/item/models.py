@@ -159,12 +159,15 @@ class Item(models.Model, StaticDataRedisHandler, CommonStaticModels):
 
             return ratio, ratio * gold
 
-    def woodhand_wood(self, player, buy_count):
+    def woodhand_wood(self, buy_count):
         """根据元宝数量获取"""
-        wood = 1000 + player.level * 100
-        wood += wood * buy_count * 0.05
-        wood = int(wood)
-        probalities = Static.ITEM_WOODHAND_INFO
+        wood = 1000 - (float(buy_count)/(buy_count + 20)) * 1000 # 3.20更改
+
+        # wood = 1000 + player.level * 100
+        # wood += wood * buy_count * 0.05
+        # wood = int(wood)
+        # probalities = Static.ITEM_WOODHAND_INFO
+
         # ratio, _ = random_item_pick(probalities)
         # yoyprint(u"wood hand ratio is %s, base number is %s buy count is %s level is %s" % (ratio, wood, buy_count, player.level))
         return 0, wood

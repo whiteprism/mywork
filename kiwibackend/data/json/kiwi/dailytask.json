@@ -56,7 +56,7 @@
             "nameId": "task_3010060",
             "condition_id": 5300,
             "activityGet": 10,
-            "icon": "icon_3010180"
+            "icon": "icon_3010060"
         }
     },
     {
@@ -76,7 +76,7 @@
             "nameId": "task_3010070",
             "condition_id": 5310,
             "activityGet": 20,
-            "icon": "icon_3010180"
+            "icon": "icon_3010070"
         }
     },
     {
@@ -220,26 +220,6 @@
         }
     },
     {
-        "pk": 3010200,
-        "model": "task.dailytask",
-        "fields": {
-            "orderId": 50,
-            "category": 50,
-            "is_first": 1,
-            "name": "\u5fc3\u72e0\u624b\u8fa3",
-            "level": 21,
-            "descriptionId": "task_30102000",
-            "nextTaskId": 0,
-            "buildingId": 1001006,
-            "rewards_int": "1060,6913",
-            "link": 18,
-            "nameId": "task_3010200",
-            "condition_id": 140,
-            "activityGet": 10,
-            "icon": "icon_3010200"
-        }
-    },
-    {
         "pk": 3010250,
         "model": "task.dailytask",
         "fields": {
@@ -306,13 +286,13 @@
             "orderId": 70,
             "category": 70,
             "is_first": 1,
-            "name": "\u5723\u7269\u4f7f\u8005",
-            "level": 21,
+            "name": "\u653b\u57ce\u7565\u5730",
+            "level": 19,
             "descriptionId": "task_30103000",
             "nextTaskId": 0,
-            "buildingId": 1001006,
+            "buildingId": 1001016,
             "rewards_int": "1070,1260,6919",
-            "link": 19,
+            "link": 26,
             "nameId": "task_3010300",
             "condition_id": 250,
             "activityGet": 10,

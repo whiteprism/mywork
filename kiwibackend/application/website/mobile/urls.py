@@ -29,6 +29,7 @@ if settings.LOCAL_DEBUG:
     )
     urlpatterns += patterns('mobile.views.debug',
         url(r'^debug/$', "index", name="mobile_debug_index"),
+        url(r'^test/$', "test", name="mobile_debug_index"),
         url(r'^powersp/add/$', "add_power_and_sp", name="mobile_debug_add_power_and_sp"),
         url(r'^recharge/$', "recharge", name="mobile_debug_recharge"),
         url(r'^level/xp/set/$', "set_level_and_xp", name="mobile_debug_set_level_and_xp"),

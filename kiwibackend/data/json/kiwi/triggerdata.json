@@ -9486,7 +9486,7 @@
         }
     },
     {
-        "pk": 11214001,
+        "pk": 13921001,
         "model": "instance.triggerdata",
         "fields": {
             "param_9": 0,
@@ -9495,58 +9495,41 @@
             "eventType": 53,
             "param_7": 0,
             "param_6": 0,
-            "param_1": 217,
+            "param_1": 922,
             "param_3": 0,
             "param_2": 1,
-            "delay": 5.0,
+            "delay": 7.0,
             "param_4": 0
         }
     },
     {
-        "pk": 11217001,
+        "pk": 13921002,
         "model": "instance.triggerdata",
         "fields": {
             "param_9": 0,
             "param_8": 0,
             "param_5": 0,
-            "eventType": 15,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 923,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 15.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13922001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 62,
             "param_7": 0,
             "param_6": 0,
             "param_1": 0,
-            "param_3": 0,
-            "param_2": 0,
-            "delay": 1.0,
-            "param_4": 0
-        }
-    },
-    {
-        "pk": 11217002,
-        "model": "instance.triggerdata",
-        "fields": {
-            "param_9": 0,
-            "param_8": 0,
-            "param_5": 0,
-            "eventType": 17,
-            "param_7": 0,
-            "param_6": 0,
-            "param_1": 10,
-            "param_3": 0,
-            "param_2": 0,
-            "delay": 1.0,
-            "param_4": 0
-        }
-    },
-    {
-        "pk": 11217003,
-        "model": "instance.triggerdata",
-        "fields": {
-            "param_9": 0,
-            "param_8": 0,
-            "param_5": 0,
-            "eventType": 17,
-            "param_7": 0,
-            "param_6": 0,
-            "param_1": 11,
             "param_3": 0,
             "param_2": 0,
             "delay": 0.0,
@@ -9554,7 +9537,296 @@
         }
     },
     {
-        "pk": 11217004,
+        "pk": 13922002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 63,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 15,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13922003,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 61,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 2,
+            "param_3": 2003,
+            "param_2": 5,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13923001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 60,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 100,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13940001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 941,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 8.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13940002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 942,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 15.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13941001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 56,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 30,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13942001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 60,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 100,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13943001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 944,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 8.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13943002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 945,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 15.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13944001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 62,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13944002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 63,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 15,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13944003,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 61,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 2,
+            "param_3": 2003,
+            "param_2": 5,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13945001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 60,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 100,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13947001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 948,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 7.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13947002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 949,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 15.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13948001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 62,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13948002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 63,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 21,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13948003,
         "model": "instance.triggerdata",
         "fields": {
             "param_9": 0,
@@ -9565,7 +9837,1214 @@
             "param_6": 0,
             "param_1": 0,
             "param_3": 2006,
-            "param_2": 10,
+            "param_2": 3,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13949001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 56,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 30,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13951001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 952,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 1.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13951002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 953,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 15.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13952001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 60,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 100,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 13953001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 60,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 100,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11214001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 215,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 5.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11215001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 62,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11215002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 63,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 21,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11215003,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 61,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 2006,
+            "param_2": 5,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11312001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 313,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 7.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11312002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 314,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 15.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11313001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 56,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 30,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11314001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 62,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11314002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 63,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 21,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11314003,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 61,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 2006,
+            "param_2": 3,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11316001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 317,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 15.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11316002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 318,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 15.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11317001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 56,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 50,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11318001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 62,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11318002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 63,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 21,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 11318003,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 61,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 2006,
+            "param_2": 5,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12627001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 628,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 7.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12627002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 629,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 10.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12628001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 62,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12628002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 63,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 21,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12628003,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 61,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 2006,
+            "param_2": 5,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12629001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 62,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12629002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 63,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 19,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12629003,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 56,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": -30,
+            "param_3": 1,
+            "param_2": 3,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12631001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 632,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 7.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12632001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 60,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 100,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12634001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 635,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 1.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12634002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 636,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 10.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12635001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 60,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 100,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12636001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 62,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12636002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 63,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 19,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 12636003,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 56,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": -20,
+            "param_3": 1,
+            "param_2": 3,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10310001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 313,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 5.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10310002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 314,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 10.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10310003,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 320,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 15.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10313001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 56,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 50,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10314001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 60,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 100,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10320001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 62,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10320002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 63,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 15,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10320003,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 61,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 2,
+            "param_3": 2003,
+            "param_2": 5,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10317001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 318,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 15.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10318001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 56,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 100,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10321001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 322,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 10.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10321002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 323,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 20.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10322001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 56,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 25,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10323001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 56,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 25,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10325001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 326,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 15.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10326001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 62,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10326002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 63,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 15,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10326003,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 61,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 2,
+            "param_3": 2003,
+            "param_2": 7,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10328001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 329,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 15.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10328002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 330,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 10.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10329001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 56,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 30,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 10330001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 56,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 30,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 14106001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 107,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 5.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 14106002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 108,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 5.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 14107001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 62,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 14107002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 63,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 15,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 14107003,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 61,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 2,
+            "param_3": 2003,
+            "param_2": 7,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 14108001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 60,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 100,
+            "param_3": 1,
+            "param_2": 2,
+            "delay": 0.5,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 14114001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 115,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 12.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 14115001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 62,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 0,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 14115002,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 63,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 19,
+            "param_3": 0,
+            "param_2": 0,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 14115003,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 56,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": -30,
+            "param_3": 1,
+            "param_2": 3,
+            "delay": 0.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 15115001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 53,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 116,
+            "param_3": 0,
+            "param_2": 1,
+            "delay": 10.0,
+            "param_4": 0
+        }
+    },
+    {
+        "pk": 15116001,
+        "model": "instance.triggerdata",
+        "fields": {
+            "param_9": 0,
+            "param_8": 0,
+            "param_5": 0,
+            "eventType": 60,
+            "param_7": 0,
+            "param_6": 0,
+            "param_1": 100,
+            "param_3": 1,
+            "param_2": 2,
             "delay": 0.5,
             "param_4": 0
         }

@@ -113,10 +113,6 @@ def init(request, response):
         if playeractivity.activity.isOpen(player.userid):
             player.update_activity(playeractivity)
 
-    playerrampartsoldiers = player.rampartSoldiers.all().values()
-    for playerrampartsoldier in playerrampartsoldiers:
-        player.update_rampartsoldier(playerrampartsoldier)
-
     for category, _ in player.dailyTasks.items():
         player.update_dailytask(category)
 
@@ -179,6 +175,8 @@ def init(request, response):
     response.common_response.player.set("smallGameLeftTimes", player.smallGameLeftTimes)
     response.common_response.player.set("elementTower", player.elementTower.to_dict())
     response.common_response.player.set("offlinebonus",player.offlinebonus)
+    response.common_response.player.set("wallWarriorIds", player.wallWarriorIds)
+    response.common_response.player.set("safedTime", player.safedTime)
 
     #PVP
     if player.isOpenArena:
@@ -187,7 +185,8 @@ def init(request, response):
         response.common_response.player.set("arena", player.PVP.to_dict())
     #攻城战
     if player.isOpenSiege:
-        player.SiegeBattle.refresh_auto()
+        # TODO: 攻城战刷新
+        # player.SiegeBattle.refresh_auto()
         response.common_response.player.set("siegeBattle", player.SiegeBattle.to_dict())
 
     # fire = get_fireinfo_by_guildId(player.guildId)

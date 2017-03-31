@@ -3,12 +3,16 @@
         "pk": 1001,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 1,
             "cost_int": "",
             "productionId": 1900001,
             "buildingLevel": 1,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -16,12 +20,16 @@
         "pk": 1002,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 2,
             "cost_int": "",
             "productionId": 1900001,
             "buildingLevel": 1,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -29,12 +37,16 @@
         "pk": 1003,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 3,
             "cost_int": "",
             "productionId": 1900001,
             "buildingLevel": 1,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -42,12 +54,16 @@
         "pk": 1004,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 4,
             "cost_int": "",
             "productionId": 1900001,
             "buildingLevel": 1,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -55,12 +71,16 @@
         "pk": 1005,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 5,
             "cost_int": "",
             "productionId": 1900001,
             "buildingLevel": 1,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -68,12 +88,16 @@
         "pk": 1006,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 6,
             "cost_int": "",
             "productionId": 1900001,
             "buildingLevel": 1,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -81,12 +105,16 @@
         "pk": 1007,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 7,
             "cost_int": "",
             "productionId": 1900001,
             "buildingLevel": 1,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -94,12 +122,16 @@
         "pk": 1008,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 8,
             "cost_int": "",
             "productionId": 1900001,
             "buildingLevel": 1,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -107,12 +139,16 @@
         "pk": 1009,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 9,
             "cost_int": "",
             "productionId": 1900001,
             "buildingLevel": 1,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -120,12 +156,16 @@
         "pk": 1010,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 10,
             "cost_int": "",
             "productionId": 1900001,
             "buildingLevel": 1,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -133,12 +173,16 @@
         "pk": 1011,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 1,
             "cost_int": "",
             "productionId": 1900006,
             "buildingLevel": 2,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -146,12 +190,16 @@
         "pk": 1012,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 2,
             "cost_int": "",
             "productionId": 1900006,
             "buildingLevel": 2,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -159,12 +207,16 @@
         "pk": 1013,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 3,
             "cost_int": "",
             "productionId": 1900006,
             "buildingLevel": 2,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -172,12 +224,16 @@
         "pk": 1014,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 4,
             "cost_int": "",
             "productionId": 1900006,
             "buildingLevel": 2,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -185,12 +241,16 @@
         "pk": 1015,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 5,
             "cost_int": "",
             "productionId": 1900006,
             "buildingLevel": 2,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -198,12 +258,16 @@
         "pk": 1016,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 6,
             "cost_int": "",
             "productionId": 1900006,
             "buildingLevel": 2,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -211,12 +275,16 @@
         "pk": 1017,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 7,
             "cost_int": "",
             "productionId": 1900006,
             "buildingLevel": 2,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -224,12 +292,16 @@
         "pk": 1018,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 8,
             "cost_int": "",
             "productionId": 1900006,
             "buildingLevel": 2,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -237,12 +309,16 @@
         "pk": 1019,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 9,
             "cost_int": "",
             "productionId": 1900006,
             "buildingLevel": 2,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -250,12 +326,16 @@
         "pk": 1020,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 10,
             "cost_int": "",
             "productionId": 1900006,
             "buildingLevel": 2,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -263,12 +343,16 @@
         "pk": 1021,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 1,
             "cost_int": "",
             "productionId": 1900005,
             "buildingLevel": 3,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -276,12 +360,16 @@
         "pk": 1022,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 2,
             "cost_int": "",
             "productionId": 1900005,
             "buildingLevel": 3,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -289,12 +377,16 @@
         "pk": 1023,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 3,
             "cost_int": "",
             "productionId": 1900005,
             "buildingLevel": 3,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -302,12 +394,16 @@
         "pk": 1024,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 4,
             "cost_int": "",
             "productionId": 1900005,
             "buildingLevel": 3,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -315,12 +411,16 @@
         "pk": 1025,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 5,
             "cost_int": "",
             "productionId": 1900005,
             "buildingLevel": 3,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -328,12 +428,16 @@
         "pk": 1026,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 6,
             "cost_int": "",
             "productionId": 1900005,
             "buildingLevel": 3,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -341,12 +445,16 @@
         "pk": 1027,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 7,
             "cost_int": "",
             "productionId": 1900005,
             "buildingLevel": 3,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -354,12 +462,16 @@
         "pk": 1028,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 8,
             "cost_int": "",
             "productionId": 1900005,
             "buildingLevel": 3,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -367,12 +479,16 @@
         "pk": 1029,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 9,
             "cost_int": "",
             "productionId": 1900005,
             "buildingLevel": 3,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -380,12 +496,16 @@
         "pk": 1030,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 10,
             "cost_int": "",
             "productionId": 1900005,
             "buildingLevel": 3,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -393,12 +513,16 @@
         "pk": 1071,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 1,
             "cost_int": 1001.0,
             "productionId": 1900001,
             "buildingLevel": 1,
             "useTime": 900,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -406,12 +530,16 @@
         "pk": 1072,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 2,
             "cost_int": 1002.0,
             "productionId": 1900001,
             "buildingLevel": 2,
             "useTime": 1800,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -419,12 +547,16 @@
         "pk": 1073,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 3,
             "cost_int": 1003.0,
             "productionId": 1900001,
             "buildingLevel": 3,
             "useTime": 3600,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -432,12 +564,16 @@
         "pk": 1074,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 4,
             "cost_int": 1004.0,
             "productionId": 1900001,
             "buildingLevel": 4,
             "useTime": 7200,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -445,12 +581,16 @@
         "pk": 1075,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 5,
             "cost_int": 1005.0,
             "productionId": 1900001,
             "buildingLevel": 5,
             "useTime": 14400,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -458,12 +598,16 @@
         "pk": 1076,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 6,
             "cost_int": 1006.0,
             "productionId": 1900001,
             "buildingLevel": 6,
             "useTime": 21600,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -471,12 +615,16 @@
         "pk": 1077,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 7,
             "cost_int": 1007.0,
             "productionId": 1900001,
             "buildingLevel": 7,
             "useTime": 28800,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -484,12 +632,16 @@
         "pk": 1078,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 8,
             "cost_int": 1008.0,
             "productionId": 1900001,
             "buildingLevel": 8,
             "useTime": 43200,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -497,12 +649,16 @@
         "pk": 1079,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 9,
             "cost_int": 1009.0,
             "productionId": 1900001,
             "buildingLevel": 9,
             "useTime": 86400,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -510,12 +666,16 @@
         "pk": 1080,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 1,
             "cost_int": 1001.0,
             "productionId": 1900006,
             "buildingLevel": 1,
             "useTime": 900,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -523,12 +683,16 @@
         "pk": 1081,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 2,
             "cost_int": 1002.0,
             "productionId": 1900006,
             "buildingLevel": 2,
             "useTime": 1800,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -536,12 +700,16 @@
         "pk": 1082,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 3,
             "cost_int": 1003.0,
             "productionId": 1900006,
             "buildingLevel": 3,
             "useTime": 3600,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -549,12 +717,16 @@
         "pk": 1083,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 4,
             "cost_int": 1004.0,
             "productionId": 1900006,
             "buildingLevel": 4,
             "useTime": 7200,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -562,12 +734,16 @@
         "pk": 1084,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 5,
             "cost_int": 1005.0,
             "productionId": 1900006,
             "buildingLevel": 5,
             "useTime": 14400,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -575,12 +751,16 @@
         "pk": 1085,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 6,
             "cost_int": 1006.0,
             "productionId": 1900006,
             "buildingLevel": 6,
             "useTime": 21600,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -588,12 +768,16 @@
         "pk": 1086,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 7,
             "cost_int": 1007.0,
             "productionId": 1900006,
             "buildingLevel": 7,
             "useTime": 28800,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -601,12 +785,16 @@
         "pk": 1087,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 8,
             "cost_int": 1008.0,
             "productionId": 1900006,
             "buildingLevel": 8,
             "useTime": 43200,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -614,12 +802,16 @@
         "pk": 1088,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 9,
             "cost_int": 1009.0,
             "productionId": 1900006,
             "buildingLevel": 9,
             "useTime": 86400,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -627,12 +819,16 @@
         "pk": 1089,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 1,
             "cost_int": 1001.0,
             "productionId": 1900005,
             "buildingLevel": 1,
             "useTime": 900,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -640,12 +836,16 @@
         "pk": 1090,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 2,
             "cost_int": 1002.0,
             "productionId": 1900005,
             "buildingLevel": 2,
             "useTime": 1800,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -653,12 +853,16 @@
         "pk": 1091,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 3,
             "cost_int": 1003.0,
             "productionId": 1900005,
             "buildingLevel": 3,
             "useTime": 3600,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -666,12 +870,16 @@
         "pk": 1092,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 4,
             "cost_int": 1004.0,
             "productionId": 1900005,
             "buildingLevel": 4,
             "useTime": 7200,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -679,12 +887,16 @@
         "pk": 1093,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 5,
             "cost_int": 1005.0,
             "productionId": 1900005,
             "buildingLevel": 5,
             "useTime": 14400,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -692,12 +904,16 @@
         "pk": 1094,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 6,
             "cost_int": 1006.0,
             "productionId": 1900005,
             "buildingLevel": 6,
             "useTime": 21600,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -705,12 +921,16 @@
         "pk": 1095,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 7,
             "cost_int": 1007.0,
             "productionId": 1900005,
             "buildingLevel": 7,
             "useTime": 28800,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -718,12 +938,16 @@
         "pk": 1096,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 8,
             "cost_int": 1008.0,
             "productionId": 1900005,
             "buildingLevel": 8,
             "useTime": 43200,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -731,12 +955,16 @@
         "pk": 1097,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 9,
             "cost_int": 1009.0,
             "productionId": 1900005,
             "buildingLevel": 9,
             "useTime": 86400,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -744,12 +972,16 @@
         "pk": 1098,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 1,
             "cost_int": 1001.0,
             "productionId": 1902031,
             "buildingLevel": 1,
             "useTime": 900,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -757,12 +989,16 @@
         "pk": 1099,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 2,
             "cost_int": 1002.0,
             "productionId": 1902031,
             "buildingLevel": 2,
             "useTime": 1800,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -770,12 +1006,16 @@
         "pk": 1100,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 3,
             "cost_int": 1003.0,
             "productionId": 1902031,
             "buildingLevel": 3,
             "useTime": 3600,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -783,12 +1023,16 @@
         "pk": 1101,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 4,
             "cost_int": 1004.0,
             "productionId": 1902031,
             "buildingLevel": 4,
             "useTime": 7200,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -796,12 +1040,16 @@
         "pk": 1102,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 5,
             "cost_int": 1005.0,
             "productionId": 1902031,
             "buildingLevel": 5,
             "useTime": 14400,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -809,12 +1057,16 @@
         "pk": 1103,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 6,
             "cost_int": 1006.0,
             "productionId": 1902031,
             "buildingLevel": 6,
             "useTime": 21600,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -822,12 +1074,16 @@
         "pk": 1104,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 7,
             "cost_int": 1007.0,
             "productionId": 1902031,
             "buildingLevel": 7,
             "useTime": 28800,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -835,12 +1091,16 @@
         "pk": 1105,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 8,
             "cost_int": 1008.0,
             "productionId": 1902031,
             "buildingLevel": 8,
             "useTime": 43200,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -848,12 +1108,16 @@
         "pk": 1106,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 9,
             "cost_int": 1009.0,
             "productionId": 1902031,
             "buildingLevel": 9,
             "useTime": 86400,
             "building_id": 1001012,
+            "nameId": "",
+            "icon": "",
             "productionType": 2
         }
     },
@@ -861,12 +1125,16 @@
         "pk": 1031,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 1,
             "cost_int": "",
             "productionId": 1902031,
             "buildingLevel": 4,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -874,12 +1142,16 @@
         "pk": 1032,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 2,
             "cost_int": "",
             "productionId": 1902031,
             "buildingLevel": 4,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -887,12 +1159,16 @@
         "pk": 1033,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 3,
             "cost_int": "",
             "productionId": 1902031,
             "buildingLevel": 4,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -900,12 +1176,16 @@
         "pk": 1034,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 4,
             "cost_int": "",
             "productionId": 1902031,
             "buildingLevel": 4,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -913,12 +1193,16 @@
         "pk": 1035,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 5,
             "cost_int": "",
             "productionId": 1902031,
             "buildingLevel": 4,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -926,12 +1210,16 @@
         "pk": 1036,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 6,
             "cost_int": "",
             "productionId": 1902031,
             "buildingLevel": 4,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -939,12 +1227,16 @@
         "pk": 1037,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 7,
             "cost_int": "",
             "productionId": 1902031,
             "buildingLevel": 4,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -952,12 +1244,16 @@
         "pk": 1038,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 8,
             "cost_int": "",
             "productionId": 1902031,
             "buildingLevel": 4,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -965,12 +1261,16 @@
         "pk": 1039,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 9,
             "cost_int": "",
             "productionId": 1902031,
             "buildingLevel": 4,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
             "productionType": 1
         }
     },
@@ -978,12 +1278,696 @@
         "pk": 1040,
         "model": "building.buildingproduction",
         "fields": {
+            "descriptionId": "",
+            "orderId": 0,
             "productionLevel": 10,
             "cost_int": "",
             "productionId": 1902031,
             "buildingLevel": 4,
             "useTime": 0,
             "building_id": 1001011,
+            "nameId": "",
+            "icon": "",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1107,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11070",
+            "orderId": 0,
+            "productionLevel": 1,
+            "cost_int": "",
+            "productionId": 1902041,
+            "buildingLevel": 15,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1107",
+            "icon": "build_11071",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1108,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11080",
+            "orderId": 1,
+            "productionLevel": 2,
+            "cost_int": 1001.0,
+            "productionId": 1902041,
+            "buildingLevel": 16,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1108",
+            "icon": "build_11081",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1109,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11090",
+            "orderId": 2,
+            "productionLevel": 3,
+            "cost_int": 1002.0,
+            "productionId": 1902041,
+            "buildingLevel": 21,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1109",
+            "icon": "build_11091",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1110,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11100",
+            "orderId": 3,
+            "productionLevel": 4,
+            "cost_int": 1003.0,
+            "productionId": 1902041,
+            "buildingLevel": 27,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1110",
+            "icon": "build_11101",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1111,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11110",
+            "orderId": 4,
+            "productionLevel": 5,
+            "cost_int": 1004.0,
+            "productionId": 1902041,
+            "buildingLevel": 33,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1111",
+            "icon": "build_11111",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1112,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11120",
+            "orderId": 5,
+            "productionLevel": 6,
+            "cost_int": 1005.0,
+            "productionId": 1902041,
+            "buildingLevel": 39,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1112",
+            "icon": "build_11121",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1113,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11130",
+            "orderId": 6,
+            "productionLevel": 7,
+            "cost_int": 1006.0,
+            "productionId": 1902041,
+            "buildingLevel": 45,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1113",
+            "icon": "build_11131",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1114,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11140",
+            "orderId": 7,
+            "productionLevel": 8,
+            "cost_int": 1007.0,
+            "productionId": 1902041,
+            "buildingLevel": 51,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1114",
+            "icon": "build_11141",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1115,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11150",
+            "orderId": 8,
+            "productionLevel": 9,
+            "cost_int": 1008.0,
+            "productionId": 1902041,
+            "buildingLevel": 57,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1115",
+            "icon": "build_11151",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1116,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11160",
+            "orderId": 9,
+            "productionLevel": 10,
+            "cost_int": 1009.0,
+            "productionId": 1902041,
+            "buildingLevel": 60,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1116",
+            "icon": "build_11161",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1117,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11170",
+            "orderId": 10,
+            "productionLevel": 1,
+            "cost_int": "",
+            "productionId": 1902042,
+            "buildingLevel": 15,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1117",
+            "icon": "build_11171",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1118,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11180",
+            "orderId": 11,
+            "productionLevel": 2,
+            "cost_int": 1001.0,
+            "productionId": 1902042,
+            "buildingLevel": 16,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1118",
+            "icon": "build_11181",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1119,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11190",
+            "orderId": 12,
+            "productionLevel": 3,
+            "cost_int": 1002.0,
+            "productionId": 1902042,
+            "buildingLevel": 21,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1119",
+            "icon": "build_11191",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1120,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11200",
+            "orderId": 13,
+            "productionLevel": 4,
+            "cost_int": 1003.0,
+            "productionId": 1902042,
+            "buildingLevel": 27,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1120",
+            "icon": "build_11201",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1121,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11210",
+            "orderId": 14,
+            "productionLevel": 5,
+            "cost_int": 1004.0,
+            "productionId": 1902042,
+            "buildingLevel": 33,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1121",
+            "icon": "build_11211",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1122,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11220",
+            "orderId": 15,
+            "productionLevel": 6,
+            "cost_int": 1005.0,
+            "productionId": 1902042,
+            "buildingLevel": 39,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1122",
+            "icon": "build_11221",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1123,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11230",
+            "orderId": 16,
+            "productionLevel": 7,
+            "cost_int": 1006.0,
+            "productionId": 1902042,
+            "buildingLevel": 45,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1123",
+            "icon": "build_11231",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1124,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11240",
+            "orderId": 17,
+            "productionLevel": 8,
+            "cost_int": 1007.0,
+            "productionId": 1902042,
+            "buildingLevel": 51,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1124",
+            "icon": "build_11241",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1125,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11250",
+            "orderId": 18,
+            "productionLevel": 9,
+            "cost_int": 1008.0,
+            "productionId": 1902042,
+            "buildingLevel": 57,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1125",
+            "icon": "build_11251",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1126,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11260",
+            "orderId": 19,
+            "productionLevel": 10,
+            "cost_int": 1009.0,
+            "productionId": 1902042,
+            "buildingLevel": 60,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1126",
+            "icon": "build_11261",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1127,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11270",
+            "orderId": 20,
+            "productionLevel": 1,
+            "cost_int": "",
+            "productionId": 1902043,
+            "buildingLevel": 24,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1127",
+            "icon": "build_11271",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1128,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11280",
+            "orderId": 21,
+            "productionLevel": 2,
+            "cost_int": 1001.0,
+            "productionId": 1902043,
+            "buildingLevel": 25,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1128",
+            "icon": "build_11281",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1129,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11290",
+            "orderId": 22,
+            "productionLevel": 3,
+            "cost_int": 1002.0,
+            "productionId": 1902043,
+            "buildingLevel": 26,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1129",
+            "icon": "build_11291",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1130,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11300",
+            "orderId": 23,
+            "productionLevel": 4,
+            "cost_int": 1003.0,
+            "productionId": 1902043,
+            "buildingLevel": 28,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1130",
+            "icon": "build_11301",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1131,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11310",
+            "orderId": 24,
+            "productionLevel": 5,
+            "cost_int": 1004.0,
+            "productionId": 1902043,
+            "buildingLevel": 33,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1131",
+            "icon": "build_11311",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1132,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11320",
+            "orderId": 25,
+            "productionLevel": 6,
+            "cost_int": 1005.0,
+            "productionId": 1902043,
+            "buildingLevel": 39,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1132",
+            "icon": "build_11321",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1133,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11330",
+            "orderId": 26,
+            "productionLevel": 7,
+            "cost_int": 1006.0,
+            "productionId": 1902043,
+            "buildingLevel": 45,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1133",
+            "icon": "build_11331",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1134,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11340",
+            "orderId": 27,
+            "productionLevel": 8,
+            "cost_int": 1007.0,
+            "productionId": 1902043,
+            "buildingLevel": 51,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1134",
+            "icon": "build_11341",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1135,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11350",
+            "orderId": 28,
+            "productionLevel": 9,
+            "cost_int": 1008.0,
+            "productionId": 1902043,
+            "buildingLevel": 57,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1135",
+            "icon": "build_11351",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1136,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11360",
+            "orderId": 29,
+            "productionLevel": 10,
+            "cost_int": 1009.0,
+            "productionId": 1902043,
+            "buildingLevel": 60,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1136",
+            "icon": "build_11361",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1137,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11370",
+            "orderId": 30,
+            "productionLevel": 1,
+            "cost_int": "",
+            "productionId": 1912001,
+            "buildingLevel": 15,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1137",
+            "icon": "build_11371",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1138,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11380",
+            "orderId": 31,
+            "productionLevel": 2,
+            "cost_int": 1001.0,
+            "productionId": 1912001,
+            "buildingLevel": 16,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1138",
+            "icon": "build_11381",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1139,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11390",
+            "orderId": 32,
+            "productionLevel": 3,
+            "cost_int": 1002.0,
+            "productionId": 1912001,
+            "buildingLevel": 21,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1139",
+            "icon": "build_11391",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1140,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11400",
+            "orderId": 33,
+            "productionLevel": 4,
+            "cost_int": 1003.0,
+            "productionId": 1912001,
+            "buildingLevel": 27,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1140",
+            "icon": "build_11401",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1141,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11410",
+            "orderId": 34,
+            "productionLevel": 5,
+            "cost_int": 1004.0,
+            "productionId": 1912001,
+            "buildingLevel": 33,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1141",
+            "icon": "build_11411",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1142,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11420",
+            "orderId": 35,
+            "productionLevel": 6,
+            "cost_int": 1005.0,
+            "productionId": 1912001,
+            "buildingLevel": 39,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1142",
+            "icon": "build_11421",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1143,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11430",
+            "orderId": 36,
+            "productionLevel": 7,
+            "cost_int": 1006.0,
+            "productionId": 1912001,
+            "buildingLevel": 45,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1143",
+            "icon": "build_11431",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1144,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11440",
+            "orderId": 37,
+            "productionLevel": 8,
+            "cost_int": 1007.0,
+            "productionId": 1912001,
+            "buildingLevel": 51,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1144",
+            "icon": "build_11441",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1145,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11450",
+            "orderId": 38,
+            "productionLevel": 9,
+            "cost_int": 1008.0,
+            "productionId": 1912001,
+            "buildingLevel": 57,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1145",
+            "icon": "build_11451",
+            "productionType": 1
+        }
+    },
+    {
+        "pk": 1146,
+        "model": "building.buildingproduction",
+        "fields": {
+            "descriptionId": "build_11460",
+            "orderId": 39,
+            "productionLevel": 10,
+            "cost_int": 1009.0,
+            "productionId": 1912001,
+            "buildingLevel": 60,
+            "useTime": 0,
+            "building_id": 1002002,
+            "nameId": "build_1146",
+            "icon": "build_11461",
             "productionType": 1
         }
     }

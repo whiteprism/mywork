@@ -132,7 +132,6 @@ def itemBuy(request, response):
 
     storeitem = get_storeitem(storeitem_id)
 
-
     #条件检查
     if not storeitem or not storeitem.display:
         raise ErrorException(player, u"itemBuy:storeitem(%s) no buy" % (storeitem_id))
@@ -157,7 +156,6 @@ def itemBuy(request, response):
                 dailyCount = vip.buyGoldBoxCount
             else:
                 dailyCount = vip.goldHandCount
-        
         if count + today_buy_number > dailyCount:
             if playerbuyrecord:
                 player.update_buyrecord(playerbuyrecord)
@@ -193,8 +191,9 @@ def itemBuy(request, response):
     
     elif storeitem.item.is_woodhand:
         info = u""
-        critCount, wood = storeitem.item.woodhand_wood(player, today_buy_number)
-
+        total_price = (today_buy_number + 2) * 5
+        critCount, wood = storeitem.item.woodhand_wood(today_buy_number) # wood是float型
+        wood = int(wood * total_price)
         before_wood = player.wood
         player.add_wood(wood, info=info)
         after_wood = player.wood
@@ -376,8 +375,8 @@ def itemCompose(request, response):
     for index, playeritemfragment in enumerate(playeritemfragments):
         playeritemfragment.sub(playeritemfragment_costs[index], info)
          
-    acquire_item(player, item, number=1, info=info)
-
+    playerItem = acquire_item(player, item, number=1, info=info)
+    response.logic_response.set("itemId", playerItem.item_id)
 
     return response
 

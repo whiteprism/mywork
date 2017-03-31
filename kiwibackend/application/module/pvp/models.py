@@ -84,9 +84,3 @@ class SiegeRandomNumber(models.Model, StaticDataRedisHandler, CommonStaticModels
     SHEET_NAME = u"攻城战随机数"
     number = models.FloatField(u"攻城战随机数", default=0)
 
-# class SiegeAttactSoldierInfo(models.Model, StaticDataRedisHandler, CommonStaticModels):
-#     SHEET_NAME = u"攻城战投放士兵信息"
-#     type = models.IntegerField(u"士兵类型", default=0)
-#     name = name = models.CharField(u"name", max_length=200, default=0)
-#     energyConsume = models.IntegerField(u"能量消耗", default=0)
-#     maxCount = models.IntegerField(u"最大投放数量", default=0)

@@ -8,6 +8,7 @@ from submodule.fanyoy.redis import StaticSortedSetDataRedisHandler, StaticSingle
 from module.common.actionlog import ActionLogWriter
 from module.pvp.api import get_pvpUpgradeScore, get_pvpUpgradeScoreKeys
 from module.mail.api import send_system_mail
+from vip.api import get_vip
 import random
 import cPickle
 from django.conf import settings
@@ -447,167 +448,212 @@ class PlayerPVP(PlayerRedisDataBase):
         return res, upScore
 
 
-
-
 class PlayerSiegeBattle(PlayerRedisDataBase):
     """
     攻城战
     """
+    forts = ListField(default=[]) # 堡垒的冷却时间 元素个数为堡垒总数 vip升级数量有变
+    resources = ListField(default=[]) # [{"wood":xxx, "gold": xxx, "arrivalTime": time.time},] 元素个数为车辆总数
+    oppId = IntField(default = 0) # 对手id
+    lastBattleResult = BooleanField(default=False) # 上次对战结果
+    resourcesCount = IntField(default = 0) # 能被掠夺的车辆数量 
 
-    INIT_BATTLE_TIMES = 100 #每日默认战斗次数
-    battleTimes = IntField(default = 0)  #每日战斗
-    winCount = IntField(default = 0) #累計戰勝次數
-    cd_time = DateTimeField(default=datetime.datetime.min) #战斗失败冷却时间
-    opps = ListField(default=[]) #对手信息 {“playerId”:xx, "wood":xx, "gold": xx, "isLocked":xxx}
-    pkOpp = DictField(default={}) #正在战斗对手
-    forts = ListField(default=[0,0,0,0,0])#5个运输堡垒
-    autoRefreshAt = DateTimeField(default=datetime.datetime.now)
-    REFRESH_HOURS = [23, 11, 0]
+    def init_forts(self):
+        vip = get_vip(self.player.vip_level)
+        t = time.time()
+        if len(self.forts) == vip.fortCount:
+            return
+        for i in range(0, vip.fortCount-len(self.forts)):
+            self.forts.append(t)
+        self.update()
 
-    def load(self, player):
-        super(self.__class__, self).load(player)
-        today = datetime.date.today()
-        if self.updated_at.date() < today:
-            self.battleTimes = 0
+    def add_forts(self, count):
+        t = time.time()
+        for i in range(count):
+            self.forts.append(t)
+        self.update()
 
-    def get_opp(self, oppId):
-        for opp in self.opps:
-            if opp["player_id"] == oppId:
-                return opp
-        return None
+    def searchOpp(self):
+        """
+            搜索对手
+        """
+        from module.player.api import search_siegebattle_player
+        opp = search_siegebattle_player(self.player)
+        self.oppId = opp.id
+        self.update()
+        if opp.id > 0:
+            opp.siege_be_searched() # 设置被匹配的保护时间
+        return opp
 
-    def set_pkOpp(self, opp):
-        self.pkOpp = opp
+    def fightEnd(self, isWin):
+        """
+            结束战斗
+        """
+        self.lastBattleResult = isWin
         self.update()
 
     @property
-    def oppsLockCount(self):
-        count = 0
-        for opp in self.opps:
-            if opp["isLocked"]:
-                count += 1
-        return count
+    def has_fort(self):
+        """
+            有未使用的堡垒
+        """
+        now = time.time()
+        for _time in self.forts:
+            if _time < now:
+                return True
+        return False
 
-    @classmethod
-    def _before_refresh_hour(cls, hour):
-        for _h in cls.REFRESH_HOURS:
-            if _h < hour:
-                return _h
-        return _h
+    def use_fort(self):
+        """
+            使用堡垒
+        """
+        vip = get_vip(self.player.vip_level)
+        now = time.time()
+        for _i,_time in enumerate(self.forts):
+            if _time < now:
+                self.forts[_i] = now + vip.fortTime
+                print _time
+                break
+        self.update()
 
-    @classmethod
-    def _next_refesh_hour(cls, hour):
-        before_hour = cls._before_refresh_hour(hour)
-        _index = cls.REFRESH_HOURS.index(before_hour)
-        return cls.REFRESH_HOURS[_index-1]
+    def can_reset_fort(self, index):
+        now = time.time()
+        if index >= len(self.forts):
+            return False
+        return self.forts[index] > now
+
+    def reset_fort(self, index):
+        if index >= len(self.forts):
+            return
+        self.forts[index] = 0
+        self.update()
 
     @property
-    def leftRefreshTime(self):
+    def reset_fort_cost(self):
         """
-        剩余自动刷新时间
+            消除一个堡垒的消耗
         """
-        now = datetime.datetime.now()
-        next_refesh_hour = PlayerSiegeBattle._next_refesh_hour(now.hour)
-        end_time = datetime.datetime(now.year, now.month, now.day, next_refesh_hour, 59, 59)
-        return ( end_time - now ).total_seconds() + 4
+        vip = get_vip(self.player.vip_level)
+        return vip.resetCost
 
-    def refresh_auto(self, force=False):
-        now = datetime.datetime.now()
-        if not force and self.autoRefreshAt.date() == now.date():
-            if PlayerSiegeBattle._before_refresh_hour(self.autoRefreshAt.hour)  ==  PlayerSiegeBattle._before_refresh_hour(now.hour) :
-                return False
-        self.autoRefreshAt = now
-        self.refresh()
+    @property
+    def has_truck(self):
+        """
+            车辆未达上限
+        """
+        vip = get_vip(self.player.vip_level)
+        return len(self.resources) < vip.transitCount
+
+    def get_resources(self):
+        """
+            搜索 可被掠夺的资源
+        """
+        resource = {
+            "wood": 0,
+            "gold": 0,
+            "arrivalTime": 0
+        }
+        bunker_protect = self.player.siege_bunker_protected # 地保保护量
+        caslte_percent = self.player.siege_caslte_protected # 主城保护百分比
+        self.resourcesCount = 0
+        for item in self.resources:
+            if item["arrivalTime"] - time.time() > 240:
+                # 大于四分钟的资源才可被掠夺
+                self.resourcesCount += 1
+                wood = (item["wood"] > bunker_protect["wood"] and (item["wood"] - bunker_protect["wood"]) or item["wood"]) * (1 - caslte_percent)
+                gold = (item["gold"] > bunker_protect["gold"] and (item["gold"] - bunker_protect["gold"]) or item["gold"]) * (1 - caslte_percent)
+                resource["wood"] += wood
+                resource["gold"] += gold
+        self.update()
+        return resource
+
+    def get_resources_settlement(self):
+        """
+            结算 可被掠夺的资源
+        """
+        resource = {
+            "wood": 0,
+            "gold": 0,
+            "arrivalTime": 0
+        }
+        bunker_protect = self.player.siege_bunker_protected # 地保保护量
+        caslte_percent = self.player.siege_caslte_protected # 主城保护百分比
+        length = len(self.resources)
+        for i in range(self.resourcesCount):
+            item = self.resources[length - i - 1]
+            wood = (item["wood"] > bunker_protect["wood"] and (item["wood"] - bunker_protect["wood"]) or item["wood"]) * (1 - caslte_percent)
+            gold = (item["gold"] > bunker_protect["gold"] and (item["gold"] - bunker_protect["gold"]) or item["gold"]) * (1 - caslte_percent)
+            self.resources[length - i - 1]["wood"] -= wood
+            self.resources[length - i - 1]["gold"] -= gold
+            resource["wood"] += wood
+            resource["gold"] += gold
+        self.update()
+        return resource
+
+    def from_resource_to_reward(self, resource):
+        """
+            将resource 封装成 reward
+        """
+        from rewards.models import CommonReward
+        rewards = []
+        try:
+            rewardGold = CommonReward(type=50000, count=resource["gold"], level=0)
+            rewardWood = CommonReward(type=60000, count=resource["wood"], level=0)
+            rewards.append(rewardGold)
+            rewards.append(rewardWood)
+        except:
+            return rewards
+        return rewards
+
+    def add_resource(self, resource):
+        """
+            添加资源到运输列表中
+        """
+        vip = get_vip(self.player.vip_level)
+        if resource.has_key("wood") and resource.has_key("gold") and resource.has_key("arrivalTime"):
+            resource["arrivalTime"] = time.time() + vip.transitTime
+            self.resources.append(resource)
+            self.update()
+            # if not self.player.hasResource:
+            #     # 如果没有标记自己有未到达的资源，则标记
+            #     self.player.set_hasresource(True)
+        return self.resources
+
+    # def sub_resource(self):
+    #     """
+    #         资源被掠夺
+    #     """
+    #     vip = get_vip(self.player.vip_level)
+    #     bunker_protect = self.player.siege_bunker_protected # 地保保护量
+    #     caslte_percent = self.player.siege_caslte_protected # 主城保护百分比
+    #     for item in self.resources:
+    #         wood = (item["wood"] > bunker_protect["wood"] and (item["wood"] - bunker_protect["wood"]) or item["wood"]) * (1 - caslte_percent)
+    #         gold = (item["gold"] > bunker_protect["gold"] and (item["gold"] - bunker_protect["gold"]) or item["gold"]) * (1 - caslte_percent)
+    #         item["wood"] -= wood
+    #         item["gold"] -= gold
+    #     self.update()
+
+    def check_resource(self, index):
+        """
+            检查是否有资源到达
+        """ 
+        info = u"攻城战资源到达"
+        now = time.time()
+        if index >= len(self.resources):
+            return False
+        if self.resources[index]["arrivalTime"] <= now:
+            self.player.add_gold(self.resources[index]["gold"], info = info)
+            self.player.add_wood(self.resources[index]["wood"], info = info)
+            self.resources.pop(index)
+        # if len(self.resources) == 0:
+        #     # 没有正在运输的资源
+        #     self.player.set_hasresource(False)
+        self.update()
         return True
 
-    def refresh(self, replaceOppId=0):
-       from module.player.api import refresh_siegebattle_players
-       self.opps = refresh_siegebattle_players(self.player, replaceOppId)
-       self.update()
-
-    def replaceOpp(self):
-        opp = self.pkOpp
-        self.refresh(opp["player_id"])
-
-    @property
-    def fortInfos(self):
-        now = int(time.time())
-        forts = []
-        for fort in self.forts:
-            if fort > 0 and fort < now:
-                fort = 0
-            forts.append(fort)
-
-        return forts
-
-    def fort_canReset(self, index):
-        fortInfos = self.fortInfos
-
-        if index > len(fortInfos) or index < 1:
-            return False
-        return fortInfos[index - 1] > 0
-
-    def forts_reset(self, fortIndexes):
-        for fortIndex in fortIndexes:
-            self.forts[fortIndex - 1] = 0
-        self.update()
-
-    def forts_use(self, fortIndexes):
-        for fortIndex in fortIndexes:
-            self.forts[fortIndex - 1] = (time.time()) + Static.SIEGE_FORT_CD_TIME
-        self.update()
-
     def to_dict(self):
-        from module.player.api import get_player
-        dicts = {}
-        leftTimes = self.INIT_BATTLE_TIMES - self.battleTimes
-        dicts["leftTimes"] = leftTimes if leftTimes > 0 else 0
-        dicts["cdTime"] = self.cdTime #冷却时间
-        dicts["forts"] = self.fortInfos
-        opps = []
-        if not self.opps:
-            self.refresh_auto(True)
-
-        for _opp in self.opps:
-            _player = get_player(_opp["player_id"], False)
-            siegeViewData = _player.siege_view_data()
-            siegeViewData["grabRewards"] = _opp["rewards"]
-            siegeViewData["isLocked"] = _opp["isLocked"]
-            opps.append(siegeViewData)
-        dicts["opps"] = opps
-
+        dicts = super(self.__class__, self).to_dict()
+        del dicts["lastBattleResult"]
+        del dicts["resourcesCount"]
         return dicts
 
-    def add_winCount(self, add_count=1):
-        '''
-        战胜的总次数
-        '''
-
-        self.winCount += add_count
-
-    def use_battleTimes(self):
-        self.battleTimes += 1
-
-    @property
-    def canBattle(self):
-        leftTimes = self.INIT_BATTLE_TIMES - self.battleTimes
-        return leftTimes > 0
-
-    @property
-    def cdTime(self):
-        '''
-        冷却剩余时间
-        '''
-        if self.cd_time.replace(tzinfo=None) > datetime.datetime.now():
-            return datetime_to_unixtime(self.cd_time)
-        return 0
-
-    def reset_cdTime(self):
-        self.cd_time = datetime.datetime.now()
-
-    def set_cdTime(self):
-        self.cd_time = datetime.datetime.now() + datetime.timedelta(seconds=Static.SIEGE_PVP_CD_TIME)
-
-    @property
-    def isInCDTime(self):
-        return self.cdTime > 0

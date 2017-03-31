@@ -154,11 +154,14 @@ def buildingBuild(request, response):
         player.setSiegeOpen() #玩家可以被其他人搜到
         #城墙
         acquire_building(player, 1002002, level = 1 , centerX = 0, centerY = 0, status = 0, info=info)
-        #城墙配置点 三个
+        #城墙配置点
         point = player.castleLevel < 10 and range(1,4) or range(0, 5)
         defenseSiegeSoldierIds = player.castleLevel < 10 and [-1, 0, 0, 0, -1] or [0, 0, 0, 0, 0]
         for i in point:
             acquire_building(player, 1002003, level = 1 , centerX = i, centerY = 0, status = 0, info=info)
+        #防御塔配置点
+        for i in range(2):
+            acquire_building(player, 1002004, level = 1 , centerX = i, centerY = 0, status = 0, info=info)
         player.update_siege_defenseSoldierIds(defenseSiegeSoldierIds)
         response.common_response.player.set("defenseSiegeSoldierIds", defenseSiegeSoldierIds)
         response.common_response.player.set("siegeBattle", player.SiegeBattle.to_dict())
@@ -510,4 +513,16 @@ def buildingDismantle(request, response):
     player.delete_building(playerbuilding_id, True)
     ActionLogWriter.building_delete(player, playerbuilding_id, playerbuilding.building_id, info)
     response.logic_response.set("rewards", [reward.to_dict() for reward in rewards])
+    return response
+
+@handle_common
+@require_player
+def buildingWallWarriorUpgrade(request, response):
+    """
+    科技树升级
+    """
+    player = request.player
+    warriorId = getattr(request.logic_request, "warriorId", 0) # 要升级的warriorIDs
+    player.levelup_wall_warriors(warriorId)
+    response.common_response.player.set("wallWarriorIds", player.wallWarriorIds)
     return response

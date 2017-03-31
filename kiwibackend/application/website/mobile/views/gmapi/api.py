@@ -22,19 +22,3 @@ def get_playerId(playerId, severId):
     else:
         player_id = int(playerId)
     return player_id
-
-def get_item(rewardIdStr):
-    pattern = re.compile(r"t(\d+)v?(\d*)c?(\d*)")
-    match = pattern.match(rewardIdStr)
-    category = 0
-    level = 0
-    count = 0
-    if match:
-        category, level, count = match.groups()
-        category = int(category) if category else 0
-        level = int(level) if level else 0
-        count = int(count) if count else 1
-
-    item = (category, count, level)
-
-    return item

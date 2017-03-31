@@ -152,6 +152,23 @@ class Globals(BaseMessage):
         self.siegeFortPVPRatio = 0
         self.set("siegeFortPVPRatio", Static.SIEGE_FORT_PVP_RATIO)
 
+        self.guildContributeGoldCount = 0
+        self.set("guildContributeGoldCount", Static.GUILD_CONTRIBUTE_GOLD_COUNT)
+        self.guildContributeDiamondCount = 0
+        self.set("guildContributeDiamondCount", Static.GUILD_CONTRIBUTE_DIAMOND_COUNT)
+        self.guildContributeGoldXp = 0
+        self.set("guildContributeGoldXp", Static.GUILD_CONTRIBUTE_GOLD_XP)
+        self.guildContributeDiamondXp = 0
+        self.set("guildContributeDiamond", Static.GUILD_CONTRIBUTE_DIAMOND_XP)
+        self.guildGoldGet = 0
+        self.set("guildGoldGet", Static.GUILD_GOLD_GET)
+        self.guildDiamondGet= 0
+        self.set("guildDiamondGet", Static.GUILD_DIAMOND_GET)
+        self.guildGoldGetContribution= 0
+        self.set("guildGoldGetContribution", Static.GUILD_GOLD_GET_CONTRIBUTION)
+        self.guildDiamondGetContribution = 0
+        self.set("guildDiamondGetContribution", Static.GUILD_DIAMOND_GET_CONTRIBUTION)
+
 
 
 

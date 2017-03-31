@@ -5,11 +5,11 @@
         "fields": {
             "category": 1,
             "rewardIds_str": "t2632101c1",
-            "harvestInterval": 300,
+            "harvestInterval": 440,
             "costRewardId": "t2631101c1",
-            "growthInterval": 120,
+            "growthInterval": 200,
             "harvestTimes": 1,
-            "matureInterval": 120
+            "matureInterval": 240
         }
     },
     {
@@ -18,11 +18,11 @@
         "fields": {
             "category": 1,
             "rewardIds_str": "t2632102c1",
-            "harvestInterval": 300,
+            "harvestInterval": 640,
             "costRewardId": "t2631102c1",
-            "growthInterval": 120,
+            "growthInterval": 280,
             "harvestTimes": 1,
-            "matureInterval": 120
+            "matureInterval": 360
         }
     },
     {
@@ -31,11 +31,11 @@
         "fields": {
             "category": 1,
             "rewardIds_str": "t2632103c1",
-            "harvestInterval": 300,
+            "harvestInterval": 400,
             "costRewardId": "t2631103c1",
-            "growthInterval": 120,
+            "growthInterval": 180,
             "harvestTimes": 1,
-            "matureInterval": 120
+            "matureInterval": 220
         }
     },
     {
@@ -44,11 +44,11 @@
         "fields": {
             "category": 1,
             "rewardIds_str": "t2632104c1",
-            "harvestInterval": 300,
+            "harvestInterval": 350,
             "costRewardId": "t2631104c1",
-            "growthInterval": 120,
+            "growthInterval": 150,
             "harvestTimes": 1,
-            "matureInterval": 120
+            "matureInterval": 200
         }
     },
     {
@@ -57,11 +57,11 @@
         "fields": {
             "category": 2,
             "rewardIds_str": "t2632201c1",
-            "harvestInterval": 300,
+            "harvestInterval": 600,
             "costRewardId": "t2631201c1",
-            "growthInterval": 120,
-            "harvestTimes": 5,
-            "matureInterval": 120
+            "growthInterval": 300,
+            "harvestTimes": 3,
+            "matureInterval": 300
         }
     },
     {
@@ -70,11 +70,11 @@
         "fields": {
             "category": 2,
             "rewardIds_str": "t2632202c1",
-            "harvestInterval": 300,
+            "harvestInterval": 600,
             "costRewardId": "t2631202c1",
-            "growthInterval": 120,
-            "harvestTimes": 5,
-            "matureInterval": 120
+            "growthInterval": 300,
+            "harvestTimes": 3,
+            "matureInterval": 300
         }
     },
     {
@@ -83,11 +83,11 @@
         "fields": {
             "category": 2,
             "rewardIds_str": "t2632203c1",
-            "harvestInterval": 300,
+            "harvestInterval": 600,
             "costRewardId": "t2631203c1",
-            "growthInterval": 120,
-            "harvestTimes": 5,
-            "matureInterval": 120
+            "growthInterval": 300,
+            "harvestTimes": 3,
+            "matureInterval": 300
         }
     }
 ]

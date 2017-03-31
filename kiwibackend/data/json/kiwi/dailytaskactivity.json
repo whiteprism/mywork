@@ -4,7 +4,7 @@
         "model": "task.dailytaskactivity",
         "fields": {
             "activityValue": 50,
-            "rewards_int": "6330,6300"
+            "rewards_int": "6310,6300"
         }
     },
     {
@@ -12,7 +12,7 @@
         "model": "task.dailytaskactivity",
         "fields": {
             "activityValue": 100,
-            "rewards_int": "6310,6300"
+            "rewards_int": "6320,6300"
         }
     },
     {
@@ -20,7 +20,7 @@
         "model": "task.dailytaskactivity",
         "fields": {
             "activityValue": 150,
-            "rewards_int": "6320,6300"
+            "rewards_int": "6311,6300"
         }
     },
     {
@@ -28,7 +28,7 @@
         "model": "task.dailytaskactivity",
         "fields": {
             "activityValue": 200,
-            "rewards_int": "6311,6300"
+            "rewards_int": "6330,6300"
         }
     }
 ]

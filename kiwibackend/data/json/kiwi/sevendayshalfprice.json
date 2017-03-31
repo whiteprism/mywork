@@ -28,7 +28,7 @@
         "model": "task.sevendayshalfprice",
         "fields": {
             "itemCost": 200,
-            "rewardId": "t1504004c10"
+            "rewardId": "t1504004c30"
         }
     },
     {
@@ -43,8 +43,8 @@
         "pk": 6,
         "model": "task.sevendayshalfprice",
         "fields": {
-            "itemCost": 500,
-            "rewardId": "t2621201c50"
+            "itemCost": 1000,
+            "rewardId": "t2621201c66"
         }
     },
     {

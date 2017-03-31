@@ -113,8 +113,6 @@ class PlayerArmy(PlayerRedisDataBase):
         self.player.armies.update()
         return True
 
-
-
     def acquire(self, warrior_id, number):
         """
         建造小兵
@@ -145,37 +143,6 @@ class PlayerArmy(PlayerRedisDataBase):
         self.player.armies.update()
 
         return True
-
-class PlayerRampartSoldiers(PlayerRedisDataBase):
-    """
-    城墙士兵
-    """
-    soldierId = IntField(default=0)
-    soldierLevel = IntField(default=0)
-    endDatetime = DateTimeField(default=datetime.datetime.now) 
-    startDatetime = DateTimeField(default=datetime.datetime.now)
-
-    @property
-    def canLevelUp(self):
-        return self.soldierLevel < 10
-
-    def levelUp(self):
-        """
-        士兵升级
-        """
-        self.soldierLevel += 1;
-
-    @property
-    def timeLeft(self):
-        over_time = delta_time(self.startDatetime, self.endDatetime)
-        return over_time if over_time > 0 else 0
-
-    def to_dict(self):
-        dicts = super(self.__class__, self).to_dict()
-        dicts["timeLeft"] = self.timeLeft
-        del dicts["startDatetime"]
-        del dicts["endDatetime"]
-        return dicts
  
 class PlayerHero(PlayerRedisDataBase):
     """

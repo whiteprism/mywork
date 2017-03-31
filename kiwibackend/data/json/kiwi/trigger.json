@@ -1782,6 +1782,24 @@
         }
     },
     {
+        "pk": 1000110317,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "10317001",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1000110318,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "10318001",
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
         "pk": 1100210214,
         "model": "instance.trigger",
         "fields": {
@@ -1791,12 +1809,417 @@
         }
     },
     {
-        "pk": 1100210217,
+        "pk": 1100210215,
         "model": "instance.trigger",
         "fields": {
-            "data_int": "11217001,11217002,11217003,11217004",
+            "data_int": "11215001,11215002,11215003",
             "bOnce": 1,
             "triggerType": 14
+        }
+    },
+    {
+        "pk": 1000307310,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "10310001,10310002,10310003",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1000307313,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 10313001.0,
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1000307314,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 10314001.0,
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1000307320,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "10320001,10320002,10320003",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1300310921,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "13921001,13921002",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1300310922,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "13922001,13922002,13922003",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1300310923,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "13923001",
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1200409627,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "12627001,12627002",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1200409628,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "12628001,12628002,12628003",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1200409629,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "12629001,12629002,12629003",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1200410631,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "12631001",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1200410632,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 12632001.0,
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1400509114,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 14114001.0,
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1400509115,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "14115001,14115002,14115003",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1100610312,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "11312001,11312002",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1100610313,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "11313001",
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1100610314,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "11314001,11314002,11314003",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1500705115,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 15115001.0,
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1500705116,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 15116001.0,
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1300709940,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "13940001,13940002",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1300709941,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 13941001.0,
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1300709942,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 13942001.0,
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1300807943,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "13943001,13943002",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1300807944,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "13944001,13944002,13944003",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1300807945,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "13945001",
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1300810947,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "13947001,13947002",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1300810948,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "13948001,13948002,13948003",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1300810949,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "13949001",
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1300910951,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "13951001,13951002",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1300910952,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 13952001.0,
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1300910953,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 13953001.0,
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1201009634,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "12634001,12634002",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1201009635,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 12635001.0,
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1201009636,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "12636001,12636002,12636003",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1001010321,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "10321001,10321002",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1001010322,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 10322001.0,
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1001010323,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 10323001.0,
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1001110325,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 10325001.0,
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1001110326,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "10326001,10326002,10326003",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1101208316,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "11316001,11316002",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1101208317,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 11317001.0,
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1101208318,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "11318001,11318002,11318003",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1001310328,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": "10328001,10328002",
+            "bOnce": 1,
+            "triggerType": 14
+        }
+    },
+    {
+        "pk": 1001310329,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 10329001.0,
+            "bOnce": 1,
+            "triggerType": 7
+        }
+    },
+    {
+        "pk": 1001310330,
+        "model": "instance.trigger",
+        "fields": {
+            "data_int": 10330001.0,
+            "bOnce": 1,
+            "triggerType": 7
         }
     }
 ]

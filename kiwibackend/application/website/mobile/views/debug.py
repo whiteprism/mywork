@@ -27,6 +27,10 @@ from django.conf import settings
 def index(request):
     return render_to_response("debug/index.html")
 
+def test(request):
+    print dict(request.POST.items())
+    return HttpResponse("successs")
+
 def get_player_by_id_or_str(player_code):
 
     if len(player_code) >= 8:
@@ -242,7 +246,7 @@ def niubility(request):
     position = [[1,0],[8,8],[17,0],[17,14],[17,11],[15,17],[12,17],[13,3],[17,7],[5,1],[0,3],[0,0],[0,11],[9,17],[13,9],[17,3]]
 
     i = 0
-    eliminate_building = [1003001, 1003002, 1003003, 1003004, 1003005, 1003006, 1003007, 1002002, 1002003, 1001016, 1004001, 1004002, 1004003, 1004004, 1004005, 1004006, 1004007, 1004008, 1004009]
+    eliminate_building = [1002004, 1002001, 1003001, 1003002, 1003003, 1003004, 1003005, 1003006, 1003007, 1002002, 1002003, 1001016, 1004001, 1004002, 1004003, 1004004, 1004005, 1004006, 1004007, 1004008, 1004009]
     new_buildings = get_buildings()
     for building in new_buildings:
         if i  < len(position):
@@ -336,7 +340,7 @@ def niubility2(request):
     position = [[1,0],[8,8],[17,0],[17,14],[17,11],[15,17],[12,17],[13,3],[17,7],[5,1],[0,3],[0,0],[0,11],[9,17],[13,9],[17,3]]
 
     i = 0
-    eliminate_building = [1003001, 1003002, 1003003, 1003004, 1003005, 1003006, 1003007, 1002002, 1002003, 1001016, 1004001, 1004002, 1004003, 1004004, 1004005, 1004006, 1004007, 1004008, 1004009]
+    eliminate_building = [1002004, 1002001, 1003001, 1003002, 1003003, 1003004, 1003005, 1003006, 1003007, 1002002, 1002003, 1001016, 1004001, 1004002, 1004003, 1004004, 1004005, 1004006, 1004007, 1004008, 1004009]
     new_buildings = get_buildings()
     for building in new_buildings:
         if i  < len(position):

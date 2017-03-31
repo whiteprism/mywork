@@ -30,7 +30,7 @@ table:
       type: char
       default: ""
 
-    - name: difficulties_int
+    - name: difficulties_float
       column: difficulties
       type: char
       default: ""

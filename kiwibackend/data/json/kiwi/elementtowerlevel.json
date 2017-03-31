@@ -5,11 +5,11 @@
         "fields": {
             "monsterId": 1110001,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 1,
             "enemyId": 20010101,
             "zoneIDs_int": 20010101.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20010101",
             "towerId": 102001
@@ -21,11 +21,11 @@
         "fields": {
             "monsterId": 1110002,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 2,
             "enemyId": 20010201,
             "zoneIDs_int": 20010201.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20010201",
             "towerId": 102001
@@ -37,11 +37,11 @@
         "fields": {
             "monsterId": 1110005,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 3,
             "enemyId": 20010301,
             "zoneIDs_int": 20010301.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2312101c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20010301",
             "towerId": 102001
@@ -53,11 +53,11 @@
         "fields": {
             "monsterId": 1130003,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 4,
             "enemyId": 20010401,
             "zoneIDs_int": 20010401.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20010401",
             "towerId": 102001
@@ -69,11 +69,11 @@
         "fields": {
             "monsterId": 1120004,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 5,
             "enemyId": 20010501,
             "zoneIDs_int": 20010501.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20010501",
             "towerId": 102001
@@ -85,11 +85,11 @@
         "fields": {
             "monsterId": 1120005,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 6,
             "enemyId": 20010601,
             "zoneIDs_int": 20010601.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2621201c3,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20010601",
             "towerId": 102001
@@ -101,11 +101,11 @@
         "fields": {
             "monsterId": 1120006,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 7,
             "enemyId": 20010701,
             "zoneIDs_int": 20010701.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20010701",
             "towerId": 102001
@@ -117,11 +117,11 @@
         "fields": {
             "monsterId": 1120007,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 8,
             "enemyId": 20010801,
             "zoneIDs_int": 20010801.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20010801",
             "towerId": 102001
@@ -133,11 +133,11 @@
         "fields": {
             "monsterId": 1130001,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 9,
             "enemyId": 20010901,
             "zoneIDs_int": 20010901.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2312202c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20010901",
             "towerId": 102001
@@ -149,11 +149,11 @@
         "fields": {
             "monsterId": 1140002,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 10,
             "enemyId": 20011001,
             "zoneIDs_int": 20011001.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20011001",
             "towerId": 102001
@@ -165,11 +165,11 @@
         "fields": {
             "monsterId": 1140003,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 11,
             "enemyId": 20011101,
             "zoneIDs_int": 20011101.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20011101",
             "towerId": 102001
@@ -181,11 +181,11 @@
         "fields": {
             "monsterId": 1140002,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 12,
             "enemyId": 20011201,
             "zoneIDs_int": 20011201.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2312303c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20011201",
             "towerId": 102001
@@ -197,11 +197,11 @@
         "fields": {
             "monsterId": 1140006,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 13,
             "enemyId": 20011301,
             "zoneIDs_int": 20011301.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20011301",
             "towerId": 102001
@@ -213,11 +213,11 @@
         "fields": {
             "monsterId": 1150002,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 14,
             "enemyId": 20011401,
             "zoneIDs_int": 20011401.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20011401",
             "towerId": 102001
@@ -229,11 +229,11 @@
         "fields": {
             "monsterId": 1150003,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 15,
             "enemyId": 20011501,
             "zoneIDs_int": 20011501.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2621201c3,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20011501",
             "towerId": 102001
@@ -245,11 +245,11 @@
         "fields": {
             "monsterId": 1120005,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 16,
             "enemyId": 20011601,
             "zoneIDs_int": 20011601.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20011601",
             "towerId": 102001
@@ -261,11 +261,11 @@
         "fields": {
             "monsterId": 1120006,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 17,
             "enemyId": 20011701,
             "zoneIDs_int": 20011701.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20011701",
             "towerId": 102001
@@ -277,11 +277,11 @@
         "fields": {
             "monsterId": 1120007,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 18,
             "enemyId": 20011801,
             "zoneIDs_int": 20011801.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2312404c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20011801",
             "towerId": 102001
@@ -293,11 +293,11 @@
         "fields": {
             "monsterId": 1160007,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 19,
             "enemyId": 20011901,
             "zoneIDs_int": 20011901.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20011901",
             "towerId": 102001
@@ -309,11 +309,11 @@
         "fields": {
             "monsterId": 1140002,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 20,
             "enemyId": 20012001,
             "zoneIDs_int": 20012001.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20012001",
             "towerId": 102001
@@ -325,11 +325,11 @@
         "fields": {
             "monsterId": 1120008,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 21,
             "enemyId": 20012101,
             "zoneIDs_int": 20012101.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2342101c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20012101",
             "towerId": 102001
@@ -341,11 +341,11 @@
         "fields": {
             "monsterId": 1110001,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 22,
             "enemyId": 20012201,
             "zoneIDs_int": 20012201.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20012201",
             "towerId": 102001
@@ -357,11 +357,11 @@
         "fields": {
             "monsterId": 1110002,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 23,
             "enemyId": 20012301,
             "zoneIDs_int": 20012301.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20012301",
             "towerId": 102001
@@ -373,11 +373,11 @@
         "fields": {
             "monsterId": 1110005,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 24,
             "enemyId": 20012401,
             "zoneIDs_int": 20012401.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2621201c3,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20012401",
             "towerId": 102001
@@ -389,11 +389,11 @@
         "fields": {
             "monsterId": 1130003,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 25,
             "enemyId": 20012501,
             "zoneIDs_int": 20012501.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20012501",
             "towerId": 102001
@@ -405,11 +405,11 @@
         "fields": {
             "monsterId": 1120004,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 26,
             "enemyId": 20012601,
             "zoneIDs_int": 20012601.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20012601",
             "towerId": 102001
@@ -421,11 +421,11 @@
         "fields": {
             "monsterId": 1160001,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 27,
             "enemyId": 20012701,
             "zoneIDs_int": 20012701.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2342202c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20012701",
             "towerId": 102001
@@ -437,11 +437,11 @@
         "fields": {
             "monsterId": 1120006,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 28,
             "enemyId": 20012801,
             "zoneIDs_int": 20012801.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20012801",
             "towerId": 102001
@@ -453,11 +453,11 @@
         "fields": {
             "monsterId": 1160007,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 29,
             "enemyId": 20012901,
             "zoneIDs_int": 20012901.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20012901",
             "towerId": 102001
@@ -469,11 +469,11 @@
         "fields": {
             "monsterId": 1130001,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 30,
             "enemyId": 20013001,
             "zoneIDs_int": 20013001.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2342303c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20013001",
             "towerId": 102001
@@ -485,11 +485,11 @@
         "fields": {
             "monsterId": 1140002,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 31,
             "enemyId": 20013101,
             "zoneIDs_int": 20013101.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20013101",
             "towerId": 102001
@@ -501,11 +501,11 @@
         "fields": {
             "monsterId": 1140003,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 32,
             "enemyId": 20013201,
             "zoneIDs_int": 20013201.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20013201",
             "towerId": 102001
@@ -517,11 +517,11 @@
         "fields": {
             "monsterId": 1140004,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 33,
             "enemyId": 20013301,
             "zoneIDs_int": 20013301.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2621201c3,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20013301",
             "towerId": 102001
@@ -533,11 +533,11 @@
         "fields": {
             "monsterId": 1140006,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 34,
             "enemyId": 20013401,
             "zoneIDs_int": 20013401.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20013401",
             "towerId": 102001
@@ -549,11 +549,11 @@
         "fields": {
             "monsterId": 1150002,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 35,
             "enemyId": 20013501,
             "zoneIDs_int": 20013501.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20013501",
             "towerId": 102001
@@ -565,11 +565,11 @@
         "fields": {
             "monsterId": 1150003,
             "rewardIds_str": "t710000c20,t500000c1000,t710000c25,t500000c3000,t710000c30,t500000c5000",
+            "difficulties_float": "0,0.1,0.2",
             "level": 36,
             "enemyId": 20013601,
             "zoneIDs_int": 20013601.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2342404c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20013601",
             "towerId": 102001
@@ -581,11 +581,11 @@
         "fields": {
             "monsterId": 1150004,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 1,
             "enemyId": 20020101,
             "zoneIDs_int": 20020101.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20020101",
             "towerId": 102002
@@ -597,11 +597,11 @@
         "fields": {
             "monsterId": 1160001,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 2,
             "enemyId": 20020201,
             "zoneIDs_int": 20020201.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20020201",
             "towerId": 102002
@@ -613,11 +613,11 @@
         "fields": {
             "monsterId": 1160007,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 3,
             "enemyId": 20020301,
             "zoneIDs_int": 20020301.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2314101c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20020301",
             "towerId": 102002
@@ -629,11 +629,11 @@
         "fields": {
             "monsterId": 1120008,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 4,
             "enemyId": 20020401,
             "zoneIDs_int": 20020401.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20020401",
             "towerId": 102002
@@ -645,11 +645,11 @@
         "fields": {
             "monsterId": 1110002,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 5,
             "enemyId": 20020501,
             "zoneIDs_int": 20020501.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20020501",
             "towerId": 102002
@@ -661,11 +661,11 @@
         "fields": {
             "monsterId": 1140006,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 6,
             "enemyId": 20020601,
             "zoneIDs_int": 20020601.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2621201c3,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20020601",
             "towerId": 102002
@@ -677,11 +677,11 @@
         "fields": {
             "monsterId": 1160003,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 7,
             "enemyId": 20020701,
             "zoneIDs_int": 20020701.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20020701",
             "towerId": 102002
@@ -693,11 +693,11 @@
         "fields": {
             "monsterId": 1120006,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 8,
             "enemyId": 20020801,
             "zoneIDs_int": 20020801.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20020801",
             "towerId": 102002
@@ -709,11 +709,11 @@
         "fields": {
             "monsterId": 1110002,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 9,
             "enemyId": 20020901,
             "zoneIDs_int": 20020901.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2314202c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20020901",
             "towerId": 102002
@@ -725,11 +725,11 @@
         "fields": {
             "monsterId": 1110005,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 10,
             "enemyId": 20021001,
             "zoneIDs_int": 20021001.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20021001",
             "towerId": 102002
@@ -741,11 +741,11 @@
         "fields": {
             "monsterId": 1130003,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 11,
             "enemyId": 20021101,
             "zoneIDs_int": 20021101.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20021101",
             "towerId": 102002
@@ -757,11 +757,11 @@
         "fields": {
             "monsterId": 1120004,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 12,
             "enemyId": 20021201,
             "zoneIDs_int": 20021201.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2314303c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20021201",
             "towerId": 102002
@@ -773,11 +773,11 @@
         "fields": {
             "monsterId": 1160001,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 13,
             "enemyId": 20021301,
             "zoneIDs_int": 20021301.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20021301",
             "towerId": 102002
@@ -789,11 +789,11 @@
         "fields": {
             "monsterId": 1160007,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 14,
             "enemyId": 20021401,
             "zoneIDs_int": 20021401.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20021401",
             "towerId": 102002
@@ -805,11 +805,11 @@
         "fields": {
             "monsterId": 1120006,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 15,
             "enemyId": 20021501,
             "zoneIDs_int": 20021501.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2621201c3,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20021501",
             "towerId": 102002
@@ -821,11 +821,11 @@
         "fields": {
             "monsterId": 1110005,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 16,
             "enemyId": 20021601,
             "zoneIDs_int": 20021601.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20021601",
             "towerId": 102002
@@ -837,11 +837,11 @@
         "fields": {
             "monsterId": 1140002,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 17,
             "enemyId": 20021701,
             "zoneIDs_int": 20021701.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20021701",
             "towerId": 102002
@@ -853,11 +853,11 @@
         "fields": {
             "monsterId": 1160001,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 18,
             "enemyId": 20021801,
             "zoneIDs_int": 20021801.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2314404c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20021801",
             "towerId": 102002
@@ -869,11 +869,11 @@
         "fields": {
             "monsterId": 1140004,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 19,
             "enemyId": 20021901,
             "zoneIDs_int": 20021901.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20021901",
             "towerId": 102002
@@ -885,11 +885,11 @@
         "fields": {
             "monsterId": 1150003,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 20,
             "enemyId": 20022001,
             "zoneIDs_int": 20022001.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20022001",
             "towerId": 102002
@@ -901,11 +901,11 @@
         "fields": {
             "monsterId": 1150004,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 21,
             "enemyId": 20022101,
             "zoneIDs_int": 20022101.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2344101c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20022101",
             "towerId": 102002
@@ -917,11 +917,11 @@
         "fields": {
             "monsterId": 1150003,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 22,
             "enemyId": 20022201,
             "zoneIDs_int": 20022201.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20022201",
             "towerId": 102002
@@ -933,11 +933,11 @@
         "fields": {
             "monsterId": 1150004,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 23,
             "enemyId": 20022301,
             "zoneIDs_int": 20022301.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20022301",
             "towerId": 102002
@@ -949,11 +949,11 @@
         "fields": {
             "monsterId": 1160001,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 24,
             "enemyId": 20022401,
             "zoneIDs_int": 20022401.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2621201c3,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20022401",
             "towerId": 102002
@@ -965,11 +965,11 @@
         "fields": {
             "monsterId": 1140002,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 25,
             "enemyId": 20022501,
             "zoneIDs_int": 20022501.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20022501",
             "towerId": 102002
@@ -981,11 +981,11 @@
         "fields": {
             "monsterId": 1130001,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 26,
             "enemyId": 20022601,
             "zoneIDs_int": 20022601.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20022601",
             "towerId": 102002
@@ -997,11 +997,11 @@
         "fields": {
             "monsterId": 1120008,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 27,
             "enemyId": 20022701,
             "zoneIDs_int": 20022701.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2344202c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20022701",
             "towerId": 102002
@@ -1013,11 +1013,11 @@
         "fields": {
             "monsterId": 1110005,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 28,
             "enemyId": 20022801,
             "zoneIDs_int": 20022801.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20022801",
             "towerId": 102002
@@ -1029,11 +1029,11 @@
         "fields": {
             "monsterId": 1120005,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 29,
             "enemyId": 20022901,
             "zoneIDs_int": 20022901.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20022901",
             "towerId": 102002
@@ -1045,11 +1045,11 @@
         "fields": {
             "monsterId": 1160007,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 30,
             "enemyId": 20023001,
             "zoneIDs_int": 20023001.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2344303c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20023001",
             "towerId": 102002
@@ -1061,11 +1061,11 @@
         "fields": {
             "monsterId": 1140002,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 31,
             "enemyId": 20023101,
             "zoneIDs_int": 20023101.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20023101",
             "towerId": 102002
@@ -1077,11 +1077,11 @@
         "fields": {
             "monsterId": 1160007,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 32,
             "enemyId": 20023201,
             "zoneIDs_int": 20023201.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20023201",
             "towerId": 102002
@@ -1093,11 +1093,11 @@
         "fields": {
             "monsterId": 1130003,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 33,
             "enemyId": 20023301,
             "zoneIDs_int": 20023301.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2621201c3,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20023301",
             "towerId": 102002
@@ -1109,11 +1109,11 @@
         "fields": {
             "monsterId": 1140006,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 34,
             "enemyId": 20023401,
             "zoneIDs_int": 20023401.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20023401",
             "towerId": 102002
@@ -1125,11 +1125,11 @@
         "fields": {
             "monsterId": 1150002,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 35,
             "enemyId": 20023501,
             "zoneIDs_int": 20023501.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20023501",
             "towerId": 102002
@@ -1141,11 +1141,11 @@
         "fields": {
             "monsterId": 1110001,
             "rewardIds_str": "t710000c25,t500000c3000,t710000c30,t500000c5000,t710000c35,t500000c8000",
+            "difficulties_float": "0,0.2,0.3",
             "level": 36,
             "enemyId": 20023601,
             "zoneIDs_int": 20023601.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2344404c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20023601",
             "towerId": 102002
@@ -1157,11 +1157,11 @@
         "fields": {
             "monsterId": 1160007,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 1,
             "enemyId": 20030101,
             "zoneIDs_int": 20030101.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20030101",
             "towerId": 102003
@@ -1173,11 +1173,11 @@
         "fields": {
             "monsterId": 1120007,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 2,
             "enemyId": 20030201,
             "zoneIDs_int": 20030201.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20030201",
             "towerId": 102003
@@ -1189,11 +1189,11 @@
         "fields": {
             "monsterId": 1130001,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 3,
             "enemyId": 20030301,
             "zoneIDs_int": 20030301.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2317101c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20030301",
             "towerId": 102003
@@ -1205,11 +1205,11 @@
         "fields": {
             "monsterId": 1150004,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 4,
             "enemyId": 20030401,
             "zoneIDs_int": 20030401.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20030401",
             "towerId": 102003
@@ -1221,11 +1221,11 @@
         "fields": {
             "monsterId": 1140003,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 5,
             "enemyId": 20030501,
             "zoneIDs_int": 20030501.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20030501",
             "towerId": 102003
@@ -1237,11 +1237,11 @@
         "fields": {
             "monsterId": 1120006,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 6,
             "enemyId": 20030601,
             "zoneIDs_int": 20030601.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2621201c3,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20030601",
             "towerId": 102003
@@ -1253,11 +1253,11 @@
         "fields": {
             "monsterId": 1130001,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 7,
             "enemyId": 20030701,
             "zoneIDs_int": 20030701.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20030701",
             "towerId": 102003
@@ -1269,11 +1269,11 @@
         "fields": {
             "monsterId": 1140002,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 8,
             "enemyId": 20030801,
             "zoneIDs_int": 20030801.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20030801",
             "towerId": 102003
@@ -1285,11 +1285,11 @@
         "fields": {
             "monsterId": 1150002,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 9,
             "enemyId": 20030901,
             "zoneIDs_int": 20030901.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2317202c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20030901",
             "towerId": 102003
@@ -1301,11 +1301,11 @@
         "fields": {
             "monsterId": 1150004,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 10,
             "enemyId": 20031001,
             "zoneIDs_int": 20031001.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20031001",
             "towerId": 102003
@@ -1317,11 +1317,11 @@
         "fields": {
             "monsterId": 1160001,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 11,
             "enemyId": 20031101,
             "zoneIDs_int": 20031101.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20031101",
             "towerId": 102003
@@ -1333,11 +1333,11 @@
         "fields": {
             "monsterId": 1110002,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 12,
             "enemyId": 20031201,
             "zoneIDs_int": 20031201.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2317303c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20031201",
             "towerId": 102003
@@ -1349,11 +1349,11 @@
         "fields": {
             "monsterId": 1160007,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 13,
             "enemyId": 20031301,
             "zoneIDs_int": 20031301.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20031301",
             "towerId": 102003
@@ -1365,11 +1365,11 @@
         "fields": {
             "monsterId": 1120004,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 14,
             "enemyId": 20031401,
             "zoneIDs_int": 20031401.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20031401",
             "towerId": 102003
@@ -1381,11 +1381,11 @@
         "fields": {
             "monsterId": 1130001,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 15,
             "enemyId": 20031501,
             "zoneIDs_int": 20031501.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2621201c3,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20031501",
             "towerId": 102003
@@ -1397,11 +1397,11 @@
         "fields": {
             "monsterId": 1110002,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 16,
             "enemyId": 20031601,
             "zoneIDs_int": 20031601.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20031601",
             "towerId": 102003
@@ -1413,11 +1413,11 @@
         "fields": {
             "monsterId": 1140003,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 17,
             "enemyId": 20031701,
             "zoneIDs_int": 20031701.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20031701",
             "towerId": 102003
@@ -1429,11 +1429,11 @@
         "fields": {
             "monsterId": 1110001,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 18,
             "enemyId": 20031801,
             "zoneIDs_int": 20031801.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2317404c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20031801",
             "towerId": 102003
@@ -1445,11 +1445,11 @@
         "fields": {
             "monsterId": 1120005,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 19,
             "enemyId": 20031901,
             "zoneIDs_int": 20031901.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20031901",
             "towerId": 102003
@@ -1461,11 +1461,11 @@
         "fields": {
             "monsterId": 1120007,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 20,
             "enemyId": 20032001,
             "zoneIDs_int": 20032001.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20032001",
             "towerId": 102003
@@ -1477,11 +1477,11 @@
         "fields": {
             "monsterId": 1160002,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 21,
             "enemyId": 20032101,
             "zoneIDs_int": 20032101.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2347101c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20032101",
             "towerId": 102003
@@ -1493,11 +1493,11 @@
         "fields": {
             "monsterId": 1110001,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 22,
             "enemyId": 20032201,
             "zoneIDs_int": 20032201.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20032201",
             "towerId": 102003
@@ -1509,11 +1509,11 @@
         "fields": {
             "monsterId": 1120005,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 23,
             "enemyId": 20032301,
             "zoneIDs_int": 20032301.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20032301",
             "towerId": 102003
@@ -1525,11 +1525,11 @@
         "fields": {
             "monsterId": 1140005,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 24,
             "enemyId": 20032401,
             "zoneIDs_int": 20032401.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2621201c3,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20032401",
             "towerId": 102003
@@ -1541,11 +1541,11 @@
         "fields": {
             "monsterId": 1120007,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 25,
             "enemyId": 20032501,
             "zoneIDs_int": 20032501.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20032501",
             "towerId": 102003
@@ -1557,11 +1557,11 @@
         "fields": {
             "monsterId": 1130001,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 26,
             "enemyId": 20032601,
             "zoneIDs_int": 20032601.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20032601",
             "towerId": 102003
@@ -1573,11 +1573,11 @@
         "fields": {
             "monsterId": 1140006,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 27,
             "enemyId": 20032701,
             "zoneIDs_int": 20032701.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2347202c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20032701",
             "towerId": 102003
@@ -1589,11 +1589,11 @@
         "fields": {
             "monsterId": 1140003,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 28,
             "enemyId": 20032801,
             "zoneIDs_int": 20032801.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20032801",
             "towerId": 102003
@@ -1605,11 +1605,11 @@
         "fields": {
             "monsterId": 1110001,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 29,
             "enemyId": 20032901,
             "zoneIDs_int": 20032901.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20032901",
             "towerId": 102003
@@ -1621,11 +1621,11 @@
         "fields": {
             "monsterId": 1120005,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 30,
             "enemyId": 20033001,
             "zoneIDs_int": 20033001.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2347303c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20033001",
             "towerId": 102003
@@ -1637,11 +1637,11 @@
         "fields": {
             "monsterId": 1120007,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 31,
             "enemyId": 20033101,
             "zoneIDs_int": 20033101.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20033101",
             "towerId": 102003
@@ -1653,11 +1653,11 @@
         "fields": {
             "monsterId": 1160007,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 32,
             "enemyId": 20033201,
             "zoneIDs_int": 20033201.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20033201",
             "towerId": 102003
@@ -1669,11 +1669,11 @@
         "fields": {
             "monsterId": 1110001,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 33,
             "enemyId": 20033301,
             "zoneIDs_int": 20033301.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2621201c3,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20033301",
             "towerId": 102003
@@ -1685,11 +1685,11 @@
         "fields": {
             "monsterId": 1120005,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 34,
             "enemyId": 20033401,
             "zoneIDs_int": 20033401.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20033401",
             "towerId": 102003
@@ -1701,11 +1701,11 @@
         "fields": {
             "monsterId": 1110005,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 35,
             "enemyId": 20033501,
             "zoneIDs_int": 20033501.0,
             "diamondCosts_int": "",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "",
             "nameId": "warrior_20033501",
             "towerId": 102003
@@ -1717,11 +1717,11 @@
         "fields": {
             "monsterId": 1120007,
             "rewardIds_str": "t710000c30,t500000c5000,t710000c35,t500000c8000,t710000c40,t500000c10000",
+            "difficulties_float": "0,0.3,0.5",
             "level": 36,
             "enemyId": 20033601,
             "zoneIDs_int": 20033601.0,
             "diamondCosts_int": "0,10,10,20,20,40",
-            "difficulties_int": "0,30,50",
             "diamondRewardIds_str": "t2347404c1,t710000c30,t710000c40,t710000c50,t710000c60,t710000c80",
             "nameId": "warrior_20033601",
             "towerId": 102003

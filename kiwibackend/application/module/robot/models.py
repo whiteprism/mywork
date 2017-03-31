@@ -4,6 +4,7 @@ from module.hero.api import get_card
 from module.equip.api import get_cardequip
 from common.models import CommonStaticModels
 from submodule.fanyoy.redis import StaticDataRedisHandler
+from module.common.static import Static
 
 class Robot(models.Model, StaticDataRedisHandler, CommonStaticModels):
     SHEET_NAME = u"机器人"
@@ -22,7 +23,9 @@ class Robot(models.Model, StaticDataRedisHandler, CommonStaticModels):
     towerLevel =  models.IntegerField(u"防御塔等级", default=0)
     siegeSoldierIds_int = models.CharField(u"城墙兵站位", max_length=200, default="")
     siegeSoldierLevels_int = models.CharField(u"城墙兵等级", max_length=200, default="")
-
+    siegeWood =  models.IntegerField(u"攻城战木材", default=0)
+    siegeGold =  models.IntegerField(u"攻城战金币", default=0)
+    
     @property
     def heroes(self):
         return [int(float(pk)) for pk in self.heroes_int.strip().split(",") if pk]
@@ -70,3 +73,26 @@ class Robot(models.Model, StaticDataRedisHandler, CommonStaticModels):
     @property
     def siegeSoldierLevels(self):
         return [int(float(pk)) for pk in self.siegeSoldierLevels_int.strip().split(",") if pk]
+
+    @property
+    def wallWarriorIds(self):
+        """
+            机器人科技树
+        """
+        rst = []
+        for _id in Static.HERO_WALL_SOLDIER_IDS:
+            meta = {
+                "soldierId": _id,
+                "soldierLevel": 0,
+                "count" : 0
+            }
+            rst.append(meta)
+
+        for i in range(len(self.siegeSoldierIds)):
+            for _soldier in rst:
+                if _soldier["soldierId"] == self.siegeSoldierIds[i]:
+                    _soldier["soldierLevel"] = self.siegeSoldierLevels[i]
+                    _soldier["count"] += 1
+
+        return rst
+

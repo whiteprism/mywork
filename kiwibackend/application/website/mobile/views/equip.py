@@ -497,14 +497,18 @@ def equipRefine(request, response):
                 return response
             playerequip.refine(1)
 
-            player.seven_days_task_going(Static.SEVEN_TASK_CATEGORY_ONE_EQUIP_REFINE, number=playerequip.refineLevel, is_incr=False, with_top=True, is_series=True)
+            # player.seven_days_task_going(Static.SEVEN_TASK_CATEGORY_ONE_EQUIP_REFINE, number=1, is_incr=True, with_top=False, is_series=False)
 
             if playerequip.refineLevel == 5:
-                player.seven_days_task_going(Static.SEVEN_TASK_CATEGORY_ALL_EQUIP_REFINE10, number=1, is_incr=True, with_top=False, is_series=False)
-
+                print 5
+                player.seven_days_task_going(Static.SEVEN_TASK_CATEGORY_ALL_EQUIP_REFINE10, number=1, is_incr=True, with_top=False, is_series=True)
             elif playerequip.refineLevel == 3:
-                player.seven_days_task_going(Static.SEVEN_TASK_CATEGORY_ALL_EQUIP_REFINE5, number=1, is_incr=True, with_top=False, is_series=False)
-
+                print 3
+                player.seven_days_task_going(Static.SEVEN_TASK_CATEGORY_ALL_EQUIP_REFINE5, number=1, is_incr=True, with_top=False, is_series=True)
+            elif playerequip.refineLevel == 1:
+                print 1
+                player.seven_days_task_going(Static.SEVEN_TASK_CATEGORY_ONE_EQUIP_REFINE, number=1, is_incr=True, with_top=False, is_series=True)
+            
             #检查精炼大师
             if playerequip.playerhero_id > 0:
                 playerhero = player.heroes.get(playerequip.playerhero_id)

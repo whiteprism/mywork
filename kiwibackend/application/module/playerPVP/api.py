@@ -143,7 +143,7 @@ def send_weekly_pvp_rewards():
             contents = []
             contents.append({
                 "content": "fytext_300710",
-                "paramList": [str(int(opp_player.PVP.lastWeekScore))],
+                "paramList": [str(int(opp_player.PVP.lastWeekRank))],
             })
             
             send_system_mail(player=opp_player, sender=None, title="fytext_300724", contents=contents, rewards=reward_list)
@@ -197,7 +197,7 @@ def send_daily_pvp_rewards():
             contents = []
             contents.append({
                 "content": "fytext_300709",
-                "paramList": [str(opp_player.PVP.lastWeekRank)],
+                "paramList": [str(opp_player.PVP.yesterdayRank)],
             })
             send_system_mail(player=opp_player, sender=None, title="fytext_300723", contents=contents, rewards=reward_list)
 

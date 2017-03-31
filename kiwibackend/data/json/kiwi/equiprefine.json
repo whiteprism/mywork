@@ -105,7 +105,7 @@
         "fields": {
             "refineLevel": 10,
             "equipLevel": 30,
-            "refineXp": 110,
+            "refineXp": 120,
             "quality": 2
         }
     },
@@ -115,7 +115,7 @@
         "fields": {
             "refineLevel": 11,
             "equipLevel": 30,
-            "refineXp": 120,
+            "refineXp": 140,
             "quality": 2
         }
     },
@@ -125,7 +125,7 @@
         "fields": {
             "refineLevel": 12,
             "equipLevel": 30,
-            "refineXp": 130,
+            "refineXp": 160,
             "quality": 2
         }
     },
@@ -135,7 +135,7 @@
         "fields": {
             "refineLevel": 13,
             "equipLevel": 30,
-            "refineXp": 160,
+            "refineXp": 180,
             "quality": 2
         }
     },
@@ -145,7 +145,7 @@
         "fields": {
             "refineLevel": 14,
             "equipLevel": 30,
-            "refineXp": 190,
+            "refineXp": 200,
             "quality": 2
         }
     },
@@ -155,7 +155,7 @@
         "fields": {
             "refineLevel": 15,
             "equipLevel": 30,
-            "refineXp": 220,
+            "refineXp": 230,
             "quality": 2
         }
     },
@@ -165,7 +165,7 @@
         "fields": {
             "refineLevel": 16,
             "equipLevel": 30,
-            "refineXp": 250,
+            "refineXp": 260,
             "quality": 2
         }
     },
@@ -185,7 +185,7 @@
         "fields": {
             "refineLevel": 18,
             "equipLevel": 30,
-            "refineXp": 330,
+            "refineXp": 320,
             "quality": 2
         }
     },
@@ -195,7 +195,7 @@
         "fields": {
             "refineLevel": 19,
             "equipLevel": 30,
-            "refineXp": 390,
+            "refineXp": 350,
             "quality": 2
         }
     },
@@ -205,7 +205,7 @@
         "fields": {
             "refineLevel": 20,
             "equipLevel": 30,
-            "refineXp": 460,
+            "refineXp": 400,
             "quality": 2
         }
     },
@@ -215,7 +215,7 @@
         "fields": {
             "refineLevel": 21,
             "equipLevel": 30,
-            "refineXp": 530,
+            "refineXp": 450,
             "quality": 2
         }
     },
@@ -225,7 +225,7 @@
         "fields": {
             "refineLevel": 22,
             "equipLevel": 30,
-            "refineXp": 600,
+            "refineXp": 500,
             "quality": 2
         }
     },
@@ -235,7 +235,7 @@
         "fields": {
             "refineLevel": 23,
             "equipLevel": 30,
-            "refineXp": 670,
+            "refineXp": 550,
             "quality": 2
         }
     },
@@ -245,7 +245,7 @@
         "fields": {
             "refineLevel": 24,
             "equipLevel": 30,
-            "refineXp": 750,
+            "refineXp": 600,
             "quality": 2
         }
     },
@@ -255,7 +255,7 @@
         "fields": {
             "refineLevel": 25,
             "equipLevel": 30,
-            "refineXp": 830,
+            "refineXp": 700,
             "quality": 2
         }
     },
@@ -265,7 +265,7 @@
         "fields": {
             "refineLevel": 26,
             "equipLevel": 30,
-            "refineXp": 910,
+            "refineXp": 800,
             "quality": 2
         }
     },
@@ -275,7 +275,7 @@
         "fields": {
             "refineLevel": 27,
             "equipLevel": 30,
-            "refineXp": 990,
+            "refineXp": 900,
             "quality": 2
         }
     },
@@ -285,7 +285,7 @@
         "fields": {
             "refineLevel": 28,
             "equipLevel": 30,
-            "refineXp": 1070,
+            "refineXp": 1000,
             "quality": 2
         }
     },
@@ -295,7 +295,7 @@
         "fields": {
             "refineLevel": 29,
             "equipLevel": 30,
-            "refineXp": 1150,
+            "refineXp": 1100,
             "quality": 2
         }
     },
@@ -305,7 +305,7 @@
         "fields": {
             "refineLevel": 30,
             "equipLevel": 30,
-            "refineXp": 1240,
+            "refineXp": 1200,
             "quality": 2
         }
     },
@@ -415,7 +415,7 @@
         "fields": {
             "refineLevel": 10,
             "equipLevel": 30,
-            "refineXp": 110,
+            "refineXp": 120,
             "quality": 3
         }
     },
@@ -425,7 +425,7 @@
         "fields": {
             "refineLevel": 11,
             "equipLevel": 30,
-            "refineXp": 120,
+            "refineXp": 140,
             "quality": 3
         }
     },
@@ -435,7 +435,7 @@
         "fields": {
             "refineLevel": 12,
             "equipLevel": 30,
-            "refineXp": 130,
+            "refineXp": 160,
             "quality": 3
         }
     },
@@ -445,7 +445,7 @@
         "fields": {
             "refineLevel": 13,
             "equipLevel": 30,
-            "refineXp": 160,
+            "refineXp": 180,
             "quality": 3
         }
     },
@@ -455,7 +455,7 @@
         "fields": {
             "refineLevel": 14,
             "equipLevel": 30,
-            "refineXp": 190,
+            "refineXp": 200,
             "quality": 3
         }
     },
@@ -465,7 +465,7 @@
         "fields": {
             "refineLevel": 15,
             "equipLevel": 30,
-            "refineXp": 220,
+            "refineXp": 230,
             "quality": 3
         }
     },
@@ -475,7 +475,7 @@
         "fields": {
             "refineLevel": 16,
             "equipLevel": 30,
-            "refineXp": 250,
+            "refineXp": 260,
             "quality": 3
         }
     },
@@ -495,7 +495,7 @@
         "fields": {
             "refineLevel": 18,
             "equipLevel": 30,
-            "refineXp": 330,
+            "refineXp": 320,
             "quality": 3
         }
     },
@@ -505,7 +505,7 @@
         "fields": {
             "refineLevel": 19,
             "equipLevel": 30,
-            "refineXp": 390,
+            "refineXp": 350,
             "quality": 3
         }
     },
@@ -515,7 +515,7 @@
         "fields": {
             "refineLevel": 20,
             "equipLevel": 30,
-            "refineXp": 460,
+            "refineXp": 400,
             "quality": 3
         }
     },
@@ -525,7 +525,7 @@
         "fields": {
             "refineLevel": 21,
             "equipLevel": 30,
-            "refineXp": 530,
+            "refineXp": 450,
             "quality": 3
         }
     },
@@ -535,7 +535,7 @@
         "fields": {
             "refineLevel": 22,
             "equipLevel": 30,
-            "refineXp": 600,
+            "refineXp": 500,
             "quality": 3
         }
     },
@@ -545,7 +545,7 @@
         "fields": {
             "refineLevel": 23,
             "equipLevel": 30,
-            "refineXp": 670,
+            "refineXp": 550,
             "quality": 3
         }
     },
@@ -555,7 +555,7 @@
         "fields": {
             "refineLevel": 24,
             "equipLevel": 30,
-            "refineXp": 750,
+            "refineXp": 600,
             "quality": 3
         }
     },
@@ -565,7 +565,7 @@
         "fields": {
             "refineLevel": 25,
             "equipLevel": 30,
-            "refineXp": 830,
+            "refineXp": 700,
             "quality": 3
         }
     },
@@ -575,7 +575,7 @@
         "fields": {
             "refineLevel": 26,
             "equipLevel": 30,
-            "refineXp": 910,
+            "refineXp": 800,
             "quality": 3
         }
     },
@@ -585,7 +585,7 @@
         "fields": {
             "refineLevel": 27,
             "equipLevel": 30,
-            "refineXp": 990,
+            "refineXp": 900,
             "quality": 3
         }
     },
@@ -595,7 +595,7 @@
         "fields": {
             "refineLevel": 28,
             "equipLevel": 30,
-            "refineXp": 1070,
+            "refineXp": 1000,
             "quality": 3
         }
     },
@@ -605,7 +605,7 @@
         "fields": {
             "refineLevel": 29,
             "equipLevel": 30,
-            "refineXp": 1150,
+            "refineXp": 1100,
             "quality": 3
         }
     },
@@ -615,7 +615,7 @@
         "fields": {
             "refineLevel": 30,
             "equipLevel": 30,
-            "refineXp": 1240,
+            "refineXp": 1200,
             "quality": 3
         }
     },
@@ -725,7 +725,7 @@
         "fields": {
             "refineLevel": 10,
             "equipLevel": 30,
-            "refineXp": 110,
+            "refineXp": 120,
             "quality": 4
         }
     },
@@ -735,7 +735,7 @@
         "fields": {
             "refineLevel": 11,
             "equipLevel": 30,
-            "refineXp": 120,
+            "refineXp": 140,
             "quality": 4
         }
     },
@@ -745,7 +745,7 @@
         "fields": {
             "refineLevel": 12,
             "equipLevel": 30,
-            "refineXp": 130,
+            "refineXp": 160,
             "quality": 4
         }
     },
@@ -755,7 +755,7 @@
         "fields": {
             "refineLevel": 13,
             "equipLevel": 30,
-            "refineXp": 160,
+            "refineXp": 180,
             "quality": 4
         }
     },
@@ -765,7 +765,7 @@
         "fields": {
             "refineLevel": 14,
             "equipLevel": 30,
-            "refineXp": 190,
+            "refineXp": 200,
             "quality": 4
         }
     },
@@ -775,7 +775,7 @@
         "fields": {
             "refineLevel": 15,
             "equipLevel": 30,
-            "refineXp": 220,
+            "refineXp": 230,
             "quality": 4
         }
     },
@@ -785,7 +785,7 @@
         "fields": {
             "refineLevel": 16,
             "equipLevel": 30,
-            "refineXp": 250,
+            "refineXp": 260,
             "quality": 4
         }
     },
@@ -805,7 +805,7 @@
         "fields": {
             "refineLevel": 18,
             "equipLevel": 30,
-            "refineXp": 330,
+            "refineXp": 320,
             "quality": 4
         }
     },
@@ -815,7 +815,7 @@
         "fields": {
             "refineLevel": 19,
             "equipLevel": 30,
-            "refineXp": 390,
+            "refineXp": 350,
             "quality": 4
         }
     },
@@ -825,7 +825,7 @@
         "fields": {
             "refineLevel": 20,
             "equipLevel": 30,
-            "refineXp": 460,
+            "refineXp": 400,
             "quality": 4
         }
     },
@@ -835,7 +835,7 @@
         "fields": {
             "refineLevel": 21,
             "equipLevel": 30,
-            "refineXp": 530,
+            "refineXp": 450,
             "quality": 4
         }
     },
@@ -845,7 +845,7 @@
         "fields": {
             "refineLevel": 22,
             "equipLevel": 30,
-            "refineXp": 600,
+            "refineXp": 500,
             "quality": 4
         }
     },
@@ -855,7 +855,7 @@
         "fields": {
             "refineLevel": 23,
             "equipLevel": 30,
-            "refineXp": 670,
+            "refineXp": 550,
             "quality": 4
         }
     },
@@ -865,7 +865,7 @@
         "fields": {
             "refineLevel": 24,
             "equipLevel": 30,
-            "refineXp": 750,
+            "refineXp": 600,
             "quality": 4
         }
     },
@@ -875,7 +875,7 @@
         "fields": {
             "refineLevel": 25,
             "equipLevel": 30,
-            "refineXp": 830,
+            "refineXp": 700,
             "quality": 4
         }
     },
@@ -885,7 +885,7 @@
         "fields": {
             "refineLevel": 26,
             "equipLevel": 30,
-            "refineXp": 910,
+            "refineXp": 800,
             "quality": 4
         }
     },
@@ -895,7 +895,7 @@
         "fields": {
             "refineLevel": 27,
             "equipLevel": 30,
-            "refineXp": 990,
+            "refineXp": 900,
             "quality": 4
         }
     },
@@ -905,7 +905,7 @@
         "fields": {
             "refineLevel": 28,
             "equipLevel": 30,
-            "refineXp": 1070,
+            "refineXp": 1000,
             "quality": 4
         }
     },
@@ -915,7 +915,7 @@
         "fields": {
             "refineLevel": 29,
             "equipLevel": 30,
-            "refineXp": 1150,
+            "refineXp": 1100,
             "quality": 4
         }
     },
@@ -925,7 +925,7 @@
         "fields": {
             "refineLevel": 30,
             "equipLevel": 30,
-            "refineXp": 1240,
+            "refineXp": 1200,
             "quality": 4
         }
     },
@@ -1035,7 +1035,7 @@
         "fields": {
             "refineLevel": 10,
             "equipLevel": 30,
-            "refineXp": 110,
+            "refineXp": 120,
             "quality": 5
         }
     },
@@ -1045,7 +1045,7 @@
         "fields": {
             "refineLevel": 11,
             "equipLevel": 30,
-            "refineXp": 120,
+            "refineXp": 140,
             "quality": 5
         }
     },
@@ -1055,7 +1055,7 @@
         "fields": {
             "refineLevel": 12,
             "equipLevel": 30,
-            "refineXp": 130,
+            "refineXp": 160,
             "quality": 5
         }
     },
@@ -1065,7 +1065,7 @@
         "fields": {
             "refineLevel": 13,
             "equipLevel": 30,
-            "refineXp": 160,
+            "refineXp": 180,
             "quality": 5
         }
     },
@@ -1075,7 +1075,7 @@
         "fields": {
             "refineLevel": 14,
             "equipLevel": 30,
-            "refineXp": 190,
+            "refineXp": 200,
             "quality": 5
         }
     },
@@ -1085,7 +1085,7 @@
         "fields": {
             "refineLevel": 15,
             "equipLevel": 30,
-            "refineXp": 220,
+            "refineXp": 230,
             "quality": 5
         }
     },
@@ -1095,7 +1095,7 @@
         "fields": {
             "refineLevel": 16,
             "equipLevel": 30,
-            "refineXp": 250,
+            "refineXp": 260,
             "quality": 5
         }
     },
@@ -1115,7 +1115,7 @@
         "fields": {
             "refineLevel": 18,
             "equipLevel": 30,
-            "refineXp": 330,
+            "refineXp": 320,
             "quality": 5
         }
     },
@@ -1125,7 +1125,7 @@
         "fields": {
             "refineLevel": 19,
             "equipLevel": 30,
-            "refineXp": 390,
+            "refineXp": 350,
             "quality": 5
         }
     },
@@ -1135,7 +1135,7 @@
         "fields": {
             "refineLevel": 20,
             "equipLevel": 30,
-            "refineXp": 460,
+            "refineXp": 400,
             "quality": 5
         }
     },
@@ -1145,7 +1145,7 @@
         "fields": {
             "refineLevel": 21,
             "equipLevel": 30,
-            "refineXp": 530,
+            "refineXp": 450,
             "quality": 5
         }
     },
@@ -1155,7 +1155,7 @@
         "fields": {
             "refineLevel": 22,
             "equipLevel": 30,
-            "refineXp": 600,
+            "refineXp": 500,
             "quality": 5
         }
     },
@@ -1165,7 +1165,7 @@
         "fields": {
             "refineLevel": 23,
             "equipLevel": 30,
-            "refineXp": 670,
+            "refineXp": 550,
             "quality": 5
         }
     },
@@ -1175,7 +1175,7 @@
         "fields": {
             "refineLevel": 24,
             "equipLevel": 30,
-            "refineXp": 750,
+            "refineXp": 600,
             "quality": 5
         }
     },
@@ -1185,7 +1185,7 @@
         "fields": {
             "refineLevel": 25,
             "equipLevel": 30,
-            "refineXp": 830,
+            "refineXp": 700,
             "quality": 5
         }
     },
@@ -1195,7 +1195,7 @@
         "fields": {
             "refineLevel": 26,
             "equipLevel": 30,
-            "refineXp": 910,
+            "refineXp": 800,
             "quality": 5
         }
     },
@@ -1205,7 +1205,7 @@
         "fields": {
             "refineLevel": 27,
             "equipLevel": 30,
-            "refineXp": 990,
+            "refineXp": 900,
             "quality": 5
         }
     },
@@ -1215,7 +1215,7 @@
         "fields": {
             "refineLevel": 28,
             "equipLevel": 30,
-            "refineXp": 1070,
+            "refineXp": 1000,
             "quality": 5
         }
     },
@@ -1225,7 +1225,7 @@
         "fields": {
             "refineLevel": 29,
             "equipLevel": 30,
-            "refineXp": 1150,
+            "refineXp": 1100,
             "quality": 5
         }
     },
@@ -1235,7 +1235,7 @@
         "fields": {
             "refineLevel": 30,
             "equipLevel": 30,
-            "refineXp": 1240,
+            "refineXp": 1200,
             "quality": 5
         }
     }

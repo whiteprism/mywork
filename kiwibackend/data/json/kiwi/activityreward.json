@@ -624,7 +624,7 @@
         "pk": 3001,
         "model": "activity.activityreward",
         "fields": {
-            "count": 5,
+            "count": 3,
             "type": 2620702,
             "level": 0
         }
@@ -633,7 +633,7 @@
         "pk": 3002,
         "model": "activity.activityreward",
         "fields": {
-            "count": 10,
+            "count": 5,
             "type": 2620702,
             "level": 0
         }
@@ -643,7 +643,7 @@
         "model": "activity.activityreward",
         "fields": {
             "count": 8,
-            "type": 2620703,
+            "type": 2620702,
             "level": 0
         }
     },
@@ -651,7 +651,7 @@
         "pk": 3004,
         "model": "activity.activityreward",
         "fields": {
-            "count": 10,
+            "count": 3,
             "type": 2620703,
             "level": 0
         }
@@ -661,7 +661,7 @@
         "model": "activity.activityreward",
         "fields": {
             "count": 5,
-            "type": 2620704,
+            "type": 2620703,
             "level": 0
         }
     },
@@ -669,8 +669,8 @@
         "pk": 3006,
         "model": "activity.activityreward",
         "fields": {
-            "count": 6,
-            "type": 2620704,
+            "count": 8,
+            "type": 2620703,
             "level": 0
         }
     },
@@ -678,7 +678,7 @@
         "pk": 3007,
         "model": "activity.activityreward",
         "fields": {
-            "count": 7,
+            "count": 3,
             "type": 2620704,
             "level": 0
         }
@@ -687,7 +687,7 @@
         "pk": 3008,
         "model": "activity.activityreward",
         "fields": {
-            "count": 8,
+            "count": 5,
             "type": 2620704,
             "level": 0
         }
@@ -696,7 +696,7 @@
         "pk": 3009,
         "model": "activity.activityreward",
         "fields": {
-            "count": 9,
+            "count": 8,
             "type": 2620704,
             "level": 0
         }
@@ -705,8 +705,8 @@
         "pk": 3010,
         "model": "activity.activityreward",
         "fields": {
-            "count": 10,
-            "type": 2620704,
+            "count": 5,
+            "type": 2620705,
             "level": 0
         }
     },
@@ -714,16 +714,7 @@
         "pk": 3011,
         "model": "activity.activityreward",
         "fields": {
-            "count": 11,
-            "type": 2620704,
-            "level": 0
-        }
-    },
-    {
-        "pk": 3012,
-        "model": "activity.activityreward",
-        "fields": {
-            "count": 6,
+            "count": 8,
             "type": 2620705,
             "level": 0
         }
@@ -820,15 +811,6 @@
     },
     {
         "pk": 3111,
-        "model": "activity.activityreward",
-        "fields": {
-            "count": 2,
-            "type": 2620402,
-            "level": 0
-        }
-    },
-    {
-        "pk": 3112,
         "model": "activity.activityreward",
         "fields": {
             "count": 2,
@@ -936,15 +918,6 @@
         }
     },
     {
-        "pk": 3212,
-        "model": "activity.activityreward",
-        "fields": {
-            "count": 2,
-            "type": 2620502,
-            "level": 0
-        }
-    },
-    {
         "pk": 3301,
         "model": "activity.activityreward",
         "fields": {
@@ -1036,15 +1009,6 @@
     },
     {
         "pk": 3311,
-        "model": "activity.activityreward",
-        "fields": {
-            "count": 5,
-            "type": 2620103,
-            "level": 0
-        }
-    },
-    {
-        "pk": 3312,
         "model": "activity.activityreward",
         "fields": {
             "count": 5,

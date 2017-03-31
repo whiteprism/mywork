@@ -134,4 +134,8 @@ table:
       type: int
       default: 0
 
+    - name: attackType
+      column: attackType
+      type: int
+      default: 0
 

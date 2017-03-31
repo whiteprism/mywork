@@ -56,11 +56,13 @@ def send_attack_mail(player, sender, title, contents, playback, isWin, mailType,
     """
     攻击信息
     """
+    sendInfo = {
+        "icon": sender.iconId,
+        "name": sender.name,
+    }
     mail = PlayerMail(
         player_id=player.pk, 
-        sender_id = sender.pk,
         playerName = player.name,
-        senderName = sender.name,
         title = title,
         contents = contents,
         category = 2,
@@ -68,6 +70,8 @@ def send_attack_mail(player, sender, title, contents, playback, isWin, mailType,
         playback = playback,
         mailType = mailType,
         attachments = rewards,
+        sender = sendInfo,
+        # sender = sender.userSimple_dict(), # 数据冗余
     )
     mail.save()
     
@@ -75,12 +79,13 @@ def send_defense_mail(player, sender, title, contents, playback, isWin, mailType
     """
     防御信息
     """
-
+    sendInfo = {
+        "icon": sender.iconId,
+        "name": sender.name,
+    }
     mail = PlayerMail(
         player_id=player.pk, 
-        sender_id = sender.pk,
         playerName = player.name,
-        senderName = sender.name,
         title = title,
         contents = contents,
         category = 3,
@@ -88,6 +93,8 @@ def send_defense_mail(player, sender, title, contents, playback, isWin, mailType
         playback = playback,
         mailType = mailType,
         attachments = rewards,
+        sender = sendInfo,
+        # sender = sender.userSimple_dict(),
         # paramList = params
     )
     mail.save()

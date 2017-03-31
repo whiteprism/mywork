@@ -195,6 +195,7 @@ class Warrior(models.Model, StaticDataRedisHandler, CommonStaticModels):
     nextWarriorLevel = models.IntegerField(u"小兵下个形态小兵等级", default=0)
     searchRange = models.FloatField(u"寻怪", default=0)
     maxCount = models.IntegerField(u"最大投放数量", default=0)
+    attackType = models.IntegerField(u"攻击类型", default=0) #1 魔法攻击 0 物理攻击
 
     @memoized_property
     def quality(self):
@@ -242,6 +243,12 @@ class Warrior(models.Model, StaticDataRedisHandler, CommonStaticModels):
     @memoized_property
     def hero(self):
         return Hero.get(self.id)
+
+    def is_wallsoldier():
+        '''
+            科技树中的士兵（城墙士兵）
+        '''
+        return self.warrior_id in Static.HERO_WALL_SOLDIER_IDS
 
 class WarriorLevel(models.Model, StaticDataRedisHandler, CommonStaticModels):
     SHEET_NAME = u"小兵等级"

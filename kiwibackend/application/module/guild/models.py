@@ -119,7 +119,7 @@ class GuildFireBuff(models.Model, StaticDataRedisHandler, CommonStaticModels):
         return []
 
     def get_bufflevel(self, fireLevel, buffLevel):
-        return self.buffLevels[fireLevel-1][buffLevel-1]
+        return self.buffLevels[int(fireLevel-1)][buffLevel-1]
 
     @memoized_property
     def buffLevels(self):

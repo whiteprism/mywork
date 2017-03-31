@@ -17,14 +17,14 @@ from module.guild.api import get_guild
 from building.models import BuildingType
 import md5
 from django.conf import settings
-
+from module.rewards.api import reward_cost
 import random
 
 from module.common.actionlog import ActionLogWriter
 from module.playerplayback.api import get_army_data, get_building_army_data
 from module.playerdata.api import get_playerdata
 from submodule.fanyoy import short_data
-from module.building.api import get_buildingproductions_by_building, get_buildingresourceprotected
+from module.building.api import get_buildingproductions_by_building, get_buildingresourceprotected, get_building
 #from module.guild.api import get_fireinfo_by_guildId, get_guild_by_id
 from module.pvp.api import get_pvpSiegeRandomNumber
 from module.offlinebonus.api import get_offlinebonuslevel, get_offlinebonusday
@@ -80,12 +80,6 @@ class Player(PlayerBase):
     lastEliteInstance = DictField(default = {"lastEliteFinished":False, "lastEliteLevelId":0})
     starChest = ListField(default = []) #打开宝箱信息
     eliteStarChest = ListField(default = []) #打开精英宝箱信息
-    heroLayout = ListField(default = []) #最后一次战斗站位信息
-    defenseHeroLayout = ListField(default = []) #竞技场防守阵容站位信息
-    defenseHeroIds = ListField(default=[]) #竞技场英雄防守阵容
-    defenseSiegeSoldierIds = ListField(default = []) #攻城战士兵防守阵容(长度为配置点的总数，未解锁位置为-1，空的位置为0，有兵的位置为士兵ID)
-    defenseSiegeLayout = ListField(default = [])#攻城战防守阵容站位信息
-    defenseSiegeIds = ListField(default=[]) #攻城战英雄防守阵容
     dailyTasks = DictField(default={}) #每日任务 status 0 进行中 1已达成 2已领取
     tasks = DictField(default={}) #每日任务 status 0 进行中 1已达成 2已领取
     sevenDaystasks = DictField(default={}) #每日任务 status 0 进行中 1已达成 2已领取
@@ -102,16 +96,29 @@ class Player(PlayerBase):
     offlinebonus = ListField(default=[]) #离线奖励
     castleLevel =  IntField(default=0) # 主城的等级
     playerWarriorIds = ListField(default=[]) # 玩家解锁小兵信息
-    endLockedTime = DateTimeField(default=datetime.datetime.now()) # 攻城战保护时间
-    isOpenSiege = BooleanField(default=False) #是否开启攻城战
+    #-------------竞技场---------------
+    heroLayout = ListField(default = []) #最后一次战斗站位信息
+    defenseHeroLayout = ListField(default = []) #竞技场防守阵容站位信息
+    defenseHeroIds = ListField(default=[]) #竞技场英雄防守阵容
     isOpenArena = BooleanField(default=False) #是否开启竞技场
+    #pvpResetCount = IntField(default=0) # 竞技场当日刷新次数
+    #pvpUpgradeScore = IntField(default=0) # 竞技场段位
+    #++++++++++++++++++++++++++++++++++
+    #-------------攻城战---------------
+    wallWarriorIds = ListField(default=[]) # 玩家解锁城墙士兵的信息
+    defenseSiegeSoldierIds = ListField(default = []) #攻城战士兵防守阵容(长度为配置点的总数，未解锁位置为-1，空的位置为0，有兵的位置为士兵ID)
+    defenseSiegeLayout = ListField(default = [])#攻城战防守阵容站位信息
+    defenseSiegeIds = ListField(default=[]) #攻城战英雄防守阵容
+    safedTime = LongField(default=0) # 攻城战保护时间 unix时间戳
+    isOpenSiege = BooleanField(default=False) #是否开启攻城战
+    liveness = IntField(default=0) # 攻城战的隐藏分
+    matchedTime = DateTimeField(default=datetime.datetime.now()) # 处于攻城战匹配或战斗阶段
+    # hasResource = BooleanField(default=False) # 是否有未到达的资源
+    #++++++++++++++++++++++++++++++++++
     halfBuyIds = ListField(default=[]) # 半价购买过的东西
     lastRaidId = IntField(default=0)
     resetRaidCount = IntField(default=0) # 100关刷新次数限制
-    #pvpResetCount = IntField(default=0) # 竞技场当日刷新次数
-    #pvpUpgradeScore = IntField(default=0) # 竞技场段位
     smallGameBattleCount = IntField(default=0) # 小游戏每日战斗次数
-
     #speedCount = IntField(default=0)
     #beSpeededCount = IntField(default=0)
 
@@ -129,7 +136,7 @@ class Player(PlayerBase):
     vipDailyRewardsSendAt = DateTimeField(default=datetime.datetime(2016,1,1))
     serverid = IntField(default=settings.SERVERID)
     meta = {
-        'indexes': ['level', 'name' , "endLockedTime", "isOpenSiege", "serverid"],
+        'indexes': ['level', 'name' , "safedTime", "isOpenSiege", "matchedTime", "liveness", "serverid"],
         'shard_key': ["serverid"],
     }
     POWER_FLUCTUATION_SECOND = Static.PLAYER_POWER_FLUCTUATION_SECOND #体力5分钟回复1点
@@ -224,15 +231,11 @@ class Player(PlayerBase):
         self.set_update("defenseSiegeLayout")
         #防守英雄ids
         self.set("defenseSiegeIds", Static.SIEGE_DEFENCE_INIT)
-        #初始化城墙士兵
-        if len(self.rampartSoldiers) > 0:
-            # 删除原有的 正常情况不会有
-            for soldier in self.rampartSoldiers.all().values():
-                self.delete_rampartsoldier(int(soldier.pk), True)
+        #初始化城墙士兵 TODO
+        self.init_wall_warriorIds()
+        #初始化移动堡垒
+        self.SiegeBattle.init_forts()
 
-        for soldier_id in Static.SIEGE_RAMPART_SOLDIERS:
-            playersoldier = self.rampartSoldiers.create(soldierId = soldier_id, soldierLevel = 1)
-            self.update_rampartsoldier(playersoldier, True)
         self.update()
 
     def setArenaOpen(self):
@@ -317,10 +320,6 @@ class Player(PlayerBase):
     @property
     def buildingplants(self):
         return self._get_playerdata("buildingplants")
-
-    @property
-    def rampartSoldiers(self):
-        return self._get_playerdata("rampartSoldiers")
 
     def get_buildings_count(self, building_id):
         return self.buildings.get_count_by_key("building_id", building_id)
@@ -543,6 +542,11 @@ class Player(PlayerBase):
                             self.dailyTasks[str(Static.DAILYTASK_CATEGORY_VIP_SWEEP)]["status"] = 1
                             self.update_dailytask(Static.DAILYTASK_CATEGORY_VIP_SWEEP)
                             self.set_update("dailyTasks")
+                    # 升级vip检查移动堡垒数量是否需要增加
+                    if self.isOpenSiege:
+                        count = vip.fortCount - len(self.SiegeBattle.forts)
+                        if count > 0:
+                            self.SiegeBattle.add_forts(count)
                 else:
                     break
             else:
@@ -1226,7 +1230,6 @@ class Player(PlayerBase):
             "dailytasks" : [],
             "tasks" : [],
             "sevenDaystasks":[],
-            "rampartSoldiers":[],
 
         }
 
@@ -1325,17 +1328,6 @@ class Player(PlayerBase):
         if modify:
             self.buildingplants.delete(pk)
         return self._delete_sth("buildingPlants", pk)
-
-    def update_rampartsoldier(self, playerrampartsoldiers, modify=False):
-        if modify:
-            self.rampartSoldiers.update(playerrampartsoldiers)
-        pk = playerrampartsoldiers.pk
-        return self._update_sth("rampartSoldiers", pk)
-
-    def delete_rampartsoldier(self, pk, modify=False):
-        if modify:
-            self.rampartSoldiers.delete(pk)
-        return self._delete_sth("rampartSoldiers", pk)
 
     def update_item(self, playeritem, modify=False):
         if modify:
@@ -1548,6 +1540,7 @@ class Player(PlayerBase):
     def is_end_tutorial(self):
         return self.tutorial["guideGid"] ==  Static.TUTORIAL_ID_MAIL and self.tutorial["status"] == 2
 
+    # debug 用的
     def end_tutorial(self):
         "结束新手向导"
         #self.tutorial_change = True
@@ -1555,6 +1548,7 @@ class Player(PlayerBase):
         self.tutorial["status"] = 2
         self.set_update("tutorial")
 
+    # 开启第一个新手引导 
     def tutorial_begin(self):
         self.tutorial_change = True
         self.tutorial["guideGid"] = Static.TUTORIAL_ID_GASHAPON_2
@@ -1732,6 +1726,19 @@ class Player(PlayerBase):
 
         return self.heroes.get_by_pks(hero_ids).values()
 
+    def layoutSiegeHeroSimple_dict(self):
+        '''
+        获取攻城战 heroes展示数据
+        '''
+        dicts = {}
+        dicts["uid"] = self.id
+        hero_list = []
+        for playerhero in self.layoutSiegeHeroes:
+            if playerhero:
+                hero_list.append(playerhero.to_simple_dict())
+        dicts["heros"] = hero_list
+        return dicts
+
     @property
     def layoutSiegeHeroes(self):
         hero_ids = []
@@ -1781,10 +1788,10 @@ class Player(PlayerBase):
         dicts["IDStr"] = self.iDstr
         dicts["guildName"] = self.guild.guildInfo.name if self.guildId > 0 else ""
         dicts["castleLevel"] = (robot and self.id < 0) and robot.cityLevel or self.castleLevel
-        playerTowers = self.buildings.get_list_by_key("building_id", BuildingType.TOWER)
-        pTowers = [t.level for t in playerTowers]
-        rTowers = (robot and self.id < 0) and [robot.towerLevel for i in range(0, 2)] or []
-        dicts["towerLevels"] = (robot and self.id < 0) and rTowers or pTowers
+        # playerTowers = self.buildings.get_list_by_key("building_id", BuildingType.TOWER)
+        # pTowers = [t.level for t in playerTowers]
+        # rTowers = (robot and self.id < 0) and [robot.towerLevel for i in range(0, 2)] or []
+        # dicts["towerLevels"] = (robot and self.id < 0) and rTowers or pTowers
         return dicts
 
     def userBattleRecord_dict(self):
@@ -1820,16 +1827,45 @@ class Player(PlayerBase):
 
     def siege_view_data(self ):
         '''
-        给别人看得, pvp view data
+            给别人看得, pvp view data
         '''
-
         dicts = {}
-        dicts["heros"] = self.layoutHeroSimple_dict()
+        dicts["heros"] = self.layoutSiegeHeroSimple_dict()
         dicts["pvpRank"] = self.pvpSimple_dict()
         dicts["userSimple"] = self.userSimple_dict()
-        dicts["status"] = 1
+        # dicts["status"] = 1
         dicts["battlePowerRank"] = self.powerRank
+        # dicts["resources"] = self.SiegeBattle.get_resources()
+        dicts["wallSoldiers"] =  self.siege_wall_soldiers() # 科技树士兵 id、等级、数量
         return dicts
+
+    def siege_be_searched(self):
+        """
+            攻城战被搜到
+        """
+        self.set("matchedTime", datetime.datetime.now() + datetime.timedelta(seconds=30))
+        self.update()
+
+    def siege_be_challenged(self):
+        """
+            攻城战被挑战
+        """
+        self.set("matchedTime", self.matchedTime + datetime.timedelta(seconds=180))
+        self.update()
+
+    def siege_be_ended(self):
+        """
+            攻城战匹配后被放弃
+        """
+        self.set("matchedTime", datetime.datetime.now())
+        self.update()
+
+    @property
+    def siege_be_challenging(self):
+        """
+            自己是否正在被挑战
+        """
+        return self.matchedTime > datetime.datetime.now()
 
     @property
     def levelconf(self):
@@ -1887,7 +1923,8 @@ class Player(PlayerBase):
                 elif self.level == 10 and self.tutorial_id == Static.TUTORIAL_ID_HERO_UPGRADE_15:
                     self.check_loginbonus()
                     self.next_tutorial_open()
-
+                # 解锁科技树士兵
+                self.update_wall_warriorIds()
                 # 10级　竞技场状态开启.
                 #if self.level == Static.PVP_LEVEL:
                 #    self.PVP._score(Static.PVP_INIT_SCORE - self.PVP.score)
@@ -1985,8 +2022,6 @@ class Player(PlayerBase):
                         self.playerWarriorIds.append({"soldierId":buildingproduction.productionId,"soldierLevel":1})
         self.set_update("playerWarriorIds")
 
-
-
     def levelup_hero_warriors(self, id):
         for warrior_info in self.playerWarriorIds:
 
@@ -1995,6 +2030,69 @@ class Player(PlayerBase):
                 break
 
         self.set_update("playerWarriorIds")
+
+    def init_wall_warriorIds(self):
+        """
+            初始化科技树
+        """
+        key_list = []
+        self.wallWarriorIds = []
+        buildingproductions = get_buildingproductions_by_building(BuildingType.RAMPART)
+        for production in buildingproductions:
+            # 根据玩家等级控制科技书的解锁和升级
+            _tmp = production.buildingLevel
+            if _tmp == 15:
+                _tmp = 14
+            if _tmp <= self.level and production.productionId not in key_list:
+                meta = {
+                    "soldierId": production.productionId,
+                    "soldierLevel": 1
+                }
+                self.wallWarriorIds.append(meta)
+                key_list.append(production.productionId)
+
+        self.set_update("wallWarriorIds")
+
+    def update_wall_warriorIds(self):
+        """
+            解锁新的科技树士兵
+        """
+        key_list = []
+        for soldier in self.wallWarriorIds:
+            key_list.append(soldier["soldierId"])
+        # 获取城墙的产物
+        buildingproductions = get_buildingproductions_by_building(BuildingType.RAMPART)
+        for production in buildingproductions:
+            # 根据玩家等级控制科技书的解锁和升级
+            if production.buildingLevel <= self.level and production.productionId not in key_list:
+                meta = {
+                "soldierId": production.productionId,
+                "soldierLevel": 1
+                }
+                self.wallWarriorIds.append(meta)
+        self.set_update("wallWarriorIds")
+
+    def levelup_wall_warriors(self, warriorId):
+        """
+            升级科技树中士兵
+        """
+        info = u"科技树升级"
+        for warrior_info in self.wallWarriorIds:
+            if warrior_info["soldierId"] == int(warriorId):
+                warrior = warrior_info
+                break
+        buildingproductions = get_buildingproductions_by_building(BuildingType.RAMPART)
+        for production in buildingproductions:
+            if production.productionId == warriorId and production.productionLevel == warrior["soldierLevel"] + 1:
+                if production.buildingLevel > self.level:
+                    self.set_update("wallWarriorIds")
+                    return
+                else:
+                    warrior["soldierLevel"] += 1
+                    for cost in production.cost:
+                        reward_cost(self, cost, info, number=cost.count)
+                    break
+        self.set_update("wallWarriorIds")
 
     # def waravoid_add(self, delta_hour):
     #     now = datetime.datetime.now()
@@ -2183,7 +2281,6 @@ class Player(PlayerBase):
 
         Player.release_lock(self.pk)
 
-
     #自己保存
     def update(self, *args, **kwargs):
 
@@ -2201,76 +2298,37 @@ class Player(PlayerBase):
 
         Player.release_lock(self.pk)
 
-    def set_lock_time(self, seconds):
-        self.endLockedTime = datetime.datetime.now() + datetime.timedelta(seconds=seconds)
-        self.set_update("endLockedTime")
-
-    # @property
-    # def siegeBattle_isLock(self):
-    #     return self.endLockedTime > datetime.datetime.now()
-
     @property
-    def siege_proected(self):
+    def siege_caslte_protected(self):
+        """
+            攻城战主城保护百分比
+        """
         percentage = 0
         if self.pk < 0:
             return percentage
-
         castles = self.get_playerbuildings_by_building_id(BuildingType.CASTLE)
         for caslte in castles:
             protectConf =  get_buildingresourceprotected(BuildingType.CASTLE, caslte.level)
-            #gold_count += protectConf.goldCount
-            #wood_count += protectConf.woodCount
             percentage += protectConf.percentage
-
-        # 地堡 玩家可以有多个地堡
-        bunker_list = self.get_playerbuildings_by_building_id(BuildingType.BUNKER)
-        for bunker in bunker_list:
-            protectConf =  get_buildingresourceprotected(BuildingType.BUNKER, bunker.level)
-            #gold_count += protectConf.goldCount
-            #wood_count += protectConf.woodCount
-            percentage += protectConf.percentage
-
         return percentage
 
-    def calculate_siege_spoilrewards(self):
-        # 这是计算玩家攻城战可以被抢夺多少资源。
-        now = datetime.datetime.now()
-        result = []
-        #randint = random.randint(1, 1000)
-        if self.id < 0:
-            randint = random.randint(1, 266)
-            pvpSiegeRandomNumber = get_pvpSiegeRandomNumber(randint)
-            gold_result = int(self.level * pvpSiegeRandomNumber.number * 300 + randint)
-            wood_result = int(self.level * pvpSiegeRandomNumber.number * 100 + randint)
-        else:
-            percentage = self.siege_proected
-            gold_count = self.yesterdayMaxGold if self.yesterdayMaxGold > 0 else self.todayMaxGold
-            gold_result = int(gold_count * (1 - percentage))
-            wood_count = self.yesterdayMaxWood if self.yesterdayMaxWood > 0 else self.todayMaxWood
-            wood_result = int(wood_count * (1 - percentage))
-
-
-        max_gold = (-10/(0.2 * self.level + 1.5) +3 ) * 100000
-        max_wood = (-10/(0.2 * self.level + 1.5) +3 ) * 30000
-
-        gold_result = gold_result if gold_result <= max_gold else max_gold
-        wood_result = wood_result if wood_result <= max_wood else max_wood
-
-        gold_result = int(gold_result)
-        wood_result = int(wood_result)
-
-        result = {"wood":wood_result , "gold": gold_result}
-        return result
-
-    def lost_siegebattle_result(self, gold, wood):
-        info = u"攻城战失利"
-        self.sub_gold(gold, info=info)
-        self.sub_wood(wood, info=info)
-
-    def win_siegebattle_result(self, gold, wood):
-        info = u"攻城战胜利"
-        self.add_gold(gold, info=info)
-        self.add_wood(wood, info=info)
+    @property
+    def siege_bunker_protected(self):
+        """
+            攻城战地保保护量
+        """
+        bunker_list = self.get_playerbuildings_by_building_id(BuildingType.BUNKER)
+        gold_count = 0
+        wood_count = 0
+        for bunker in bunker_list:
+            protectConf =  get_buildingresourceprotected(BuildingType.BUNKER, bunker.level)
+            gold_count += protectConf.goldCount
+            wood_count += protectConf.woodCount
+        protect = {
+            "wood": wood_count,
+            "gold": gold_count,
+        }
+        return protect
 
     @property
     def smallGameLeftTimes(self):
@@ -2286,3 +2344,77 @@ class Player(PlayerBase):
     def is_onLine(self):
         now = datetime.datetime.now()
         return (now - self.updated_at).total_seconds() < 5#1200
+
+    def set_lock_time(self):
+        """
+            设置攻城战被保护时间
+        """
+        vip = get_vip(self.vip["vipLevel"])
+        self.set("safedTime", time.time() + vip.safeTime)
+        self.update()
+
+    def siege_be_safedTime(self, seconds):
+        """
+            设置自己被保护时间
+        """
+        self.set("safedTime", time.time() + seconds)
+        self.update()
+
+    @property
+    def siege_in_safed(self):
+        """
+            攻城战处于被保护阶段
+        """
+        return self.safedTime > time.time()
+
+    def cancel_protect_time(self):
+        """
+            攻城战取消保护时间
+        """
+        self.set("safedTime", time.time())
+        self.update()
+
+    def add_liveness(self, number):
+        """
+            添加隐藏分
+        """
+        self.set("liveness", self.liveness + number)
+        self.update()
+
+    def sub_liveness(self, number):
+        """
+            减少隐藏分
+        """
+        self.set("liveness", self.liveness - number)
+        self.update()
+
+    # def set_hasresource(self, has):
+    #     """
+    #         标记自己是否有未到达资源
+    #     """
+    #     # 判断参数类型
+    #     if type(has) is bool:
+    #         self.set("hasResource", has)
+    #         self.update()
+
+    def siege_wall_soldiers(self):
+        """
+            攻城战城墙士兵数据
+        """
+        if self.id < 0:
+            # 机器人
+            from module.robot.api import get_robot
+            robot = get_robot(self.id)
+            return robot.wallWarriorIds
+
+        wallSoldiers = self.wallWarriorIds[:]
+        for i in wallSoldiers:
+            i["count"] = 0
+
+        for item in wallSoldiers:
+            for soldierId in self.defenseSiegeSoldierIds:
+                if item["soldierId"] == soldierId:
+                    item["count"] += 1
+            if item["soldierId"] == Static.HERO_WALL_SOLDIER_IDS[3]: # 防御塔的士兵ID
+                item["count"] = 2
+        return wallSoldiers

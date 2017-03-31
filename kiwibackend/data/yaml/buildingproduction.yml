@@ -40,4 +40,24 @@ table:
       type: int
       default: 0
 
+    - name: icon
+      column: icon
+      type: char
+      default: ""
+
+    - name: descriptionId
+      column: descriptionId
+      type: char
+      default: ""
+
+    - name: nameId
+      column: nameId
+      type: char
+      default: ""
+
+    - name: orderId
+      column: orderId
+      type: int
+      default: 0
+
 

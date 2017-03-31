@@ -1,7 +1,7 @@
 # -*- encoding:utf-8 -*-
 from decorators import require_player, handle_common
 from module.common.static import Static, AlertID
-from module.player.api import get_player, filter_robots_by_level, get_pvp_players
+from module.player.api import get_player, filter_robots_by_level, get_pvp_players, get_robot_resource
 from module.playerPVP.api import pvp_fight
 from module.common.middleware import ErrorException, AlertHandler
 from module.playerequip.api import get_playerheroes_equips, acquire_equip, acquire_equipfragment
@@ -81,34 +81,24 @@ def pvpSetUp(request, response):
             if not player.isOpenSiege:
                 AlertHandler(player,response, AlertID.ALERT_LEVEL_SHORTAGE, u"pvpSetUp:siege playerLevel(%s)" % (player.level))
                 return response
-            if player.stamina < Static.SIEGE_SUB_STAMINA:
-                AlertHandler(player, response, AlertID.ALERT_STAMINA_NOT_ENOUGH, u"pvpSetUp:stamina not enougth")
+            if player.siege_be_challenging:
+                # 正在被攻击 不能进行匹配
+                AlertHandler(player, response, AlertID.ALERT_SIEGE_BATTLE_BE_CHALLENGING, u"siegeBattlePlayer:be challenging")
+                return response
+            if target_player_id != player.SiegeBattle.oppId:
+                # 匹配的对手和挑战的对手不统一
+                AlertHandler(player,response, AlertID.ALERT_SIEGE_BATTLE_MATCH_AGAIN, u"pvpSetUp:siege fight player(%s) is not match player(%s)" % (target_player_id, player.SiegeBattle.oppId))
                 return response
 
-            if player.SiegeBattle.isInCDTime or not player.SiegeBattle.canBattle:
+            # 移动堡垒检查
+            if not player.SiegeBattle.has_fort:
+                AlertHandler(player, response, AlertID.ALERT_SIEGE_BATTLE_NO_FORT, u"siegeBattlePlayer:fort is not enougth")
                 return response
-
-            opp = player.SiegeBattle.get_opp(target_player_id)
-
-            if not opp:
-                response.common_response.player.set("siegeBattle", player.SiegeBattle.to_dict())
-                AlertHandler(player, response, AlertID.ALERT_SIEGE_BATTLE_PLAYER_IS_REFRESH, u"pvpSetUp: is refresh")
-                return response
-
-            # if target_player.siegeBattle_isLock:
-            #     AlertHandler(player, response, AlertID.ALERT_SIEGE_BATTLE_PLAYER_IN_WARAVOID, u"pvpSetUp: in waravoid")
-            #     return response
-
-            if target_player.is_onLine:
-                AlertHandler(player, response, AlertID.ALERT_SIEGE_BATTLE_PLAYER_ONLINE, u"pvpSetUp: is online")
-                return response
-
-            if target_player.guildId > 0 and target_player.guildId == player.guildId:
-                AlertHandler(player, response, AlertID.ALERT_SIEGE_BATTLE_PLAYER_SAME_GUILD, u"pvpSetUp: samle guild")
-                return response
-
-            player.sub_stamina(Static.SIEGE_SUB_STAMINA)
-            player.SiegeBattle.set_pkOpp(opp)
+            if target_player_id > 0:
+                target_player.siege_be_challenged() # 设置被挑战的时间
+            player.siege_be_safedTime(240) # 攻击者被保护4分钟
+            # 消耗一个移动堡垒
+            player.SiegeBattle.use_fort()
             response.common_response.player.set("siegeBattle", player.SiegeBattle.to_dict())
 
         playback_data = {"leftArmyData": target_player.building_army_data}
@@ -275,7 +265,8 @@ def _pvpBattleResult(request, response):
             score = reward["count"]
 
     # pvp 的分支,pvp已经没有邮件的功能了。改成战斗记录的操作了。
-    send_battle_record(player=player, isWin=isWin, playerScore=player.PVP.score, playerRank=player.PVP.rank, targetPlayerScore=target_player.PVP.score, targetPlayerRank=target_player.PVP.rank, addScore=score,playerPowerRank = player.powerRank, targetPlayerId=target_player.pk,targetPlayerPowerRank=target_player.powerRank, playerVip=int(player.vip_level), playerIcon=player.iconId, targetPlayerVip=int(target_player.vip_level), targetPlayerIcon=target_player.iconId)
+    # send_battle_record(player=player, isWin=isWin, playerScore=player.PVP.score, playerRank=player.PVP.rank, targetPlayerScore=target_player.PVP.score, targetPlayerRank=target_player.PVP.rank, addScore=score,playerPowerRank = player.powerRank, targetPlayerId=target_player.pk,targetPlayerPowerRank=target_player.powerRank, playerVip=int(player.vip_level), playerIcon=player.iconId, targetPlayerVip=int(target_player.vip_level), targetPlayerIcon=target_player.iconId)
+    send_battle_record(player=player, targetPlayer=target_player, isWin=isWin, category=1, addScore=score, playerHeroes=player.layoutHeroSimple_dict(), targetHeroes=target_player.layoutHeroSimple_dict())
 
     # 竞技场排名七天乐奖励
     rank = 1000 - player.PVP.rank
@@ -312,142 +303,76 @@ def _pvpBattleResult(request, response):
 
 def _siegeBattleResult(request, response):
     """
-    攻城战结算
+        攻城战结算
     """
-    # 发起攻击的一方
     player = request.player
-    # 防守的一方
-    target_player_id = getattr(request.logic_request, "oppId", 0)
-    playback = getattr(request.logic_request, "playback", [])
-    fortIndexes = getattr(request.logic_request, "fortIndexes", []) #运输堡垒使用
-    target_player = get_player(target_player_id)
-
-    # 输了的玩家会在一段启动保护机制，不会在一段时间内 被其他玩家搜索到，这样通过锁定时间可以将这个时间 设置的长一些。
-    # 输的玩家只会在输掉以后损失相应的金币和木材。不会损失其他东西。
-    # 发起攻击的一方 需要消耗一种新的点数。每发起一次攻击扣除一点。
-    # 所有扣除东西在结算的接口去做
     isWin = getattr(request.logic_request, "isWin", False)
-    # 先结算防守方丢失
-    rewards = []
-    defence_rewards = []
+    soldiers = getattr(request.logic_request, "soldiers", [])
+    targetId = getattr(request.logic_request, "oppId", False)
 
     if not player.isOpenSiege:
         AlertHandler(player,response, AlertID.ALERT_LEVEL_SHORTAGE, u"_siegeBattleResult:playerLevel(%s) startLevel(%s)" % (player.level, Static.SIEGE_LEVEL))
         return response
-
-    if not player.SiegeBattle.canBattle:
-        return response
-
-    leftArmyData = playback["leftArmyData"]
-    heroInfos, _ = get_warrior_and_tech_dict_list_by_army_data(leftArmyData)
-
-    #最多5个
-    if len(heroInfos) + len(fortIndexes) > 5:
-        return response
-
-    opp =  player.SiegeBattle.pkOpp
-
-    player.SiegeBattle.replaceOpp()
-    fortUseNumber = 0
-    fortInfos = player.SiegeBattle.fortInfos
-    for fortIndex in fortIndexes:
-        if fortInfos[fortIndex - 1] == 0:
-            fortUseNumber += 1
-    player.SiegeBattle.forts_use(fortIndexes)
-    player.set_lock_time(0) #攻击敌人保护取消
-    
+    # 目标玩家
+    if int(targetId) != int(player.SiegeBattle.oppId):
+        # 检验目标
+        raise ErrorException(player, u"siegeBattleResult: SiegeBattle target player is not correct:target player id(%s) is not existed" % targetId)
+    # 记录本次对战结果
+    player.SiegeBattle.fightEnd(isWin)
+    target_player = get_player(targetId)
+    print '目标ＩＤ', targetId
+    resource = {}
     if isWin:
-        ratioPercent = Static.SIEGE_BASE_PVP_RATIO * len(heroInfos)  + Static.SIEGE_FORT_PVP_RATIO * fortUseNumber
-        baseRewards = opp["rewards"]
-        winGold = 0
-        winMaxGold = 0
-        winWood = 0
-        winMaxWood = 0
-        lostGold = 0
-        lostWood = 0
-        for baseReward in baseRewards:
-            if baseReward["type"] == Static.GOLD_ID:
-                winGold = int(baseReward["count"] * ratioPercent)
-                winMaxGold = baseReward["count"]
+        # 掠夺的资源
+        if targetId > 0:
+            # 真人
+            resource = target_player.SiegeBattle.get_resources_settlement()
+            target_player.siege_be_ended() # 清空攻击时间
+            # 隐藏分变化
+            player.add_liveness(18)
+            target_player.sub_liveness(15)
+            # 防守失败者有3小时的受保护时间
+            print '设置保护时间3小时'
+            target_player.set_lock_time()
+        else:
+            # 机器人
+            resource = get_robot_resource(targetId)
+            player.add_liveness(12)
+        player.SiegeBattle.add_resource(resource)
 
-            if baseReward["type"] == Static.WOOD_ID:
-                winWood = int(baseReward["count"] * ratioPercent)
-                winMaxWood = baseReward["count"]
-
-            rewards.append({
-                "type":baseReward["type"],
-                "count": int(baseReward["count"] * ratioPercent)
-            })
-
-        rewards.append({"type": Static.ITEM_HERO_UPGRADE_ID, "count": 1,})
-
-        if fortUseNumber > 0:
-            gashapon = get_gashapon(Static.SIEGE_REWARD_GASHAPON_ID)
-            is_new, playergashapon = player.gashapons.get_or_create(gashapon.pk)
-            units = playergashapon.acquire(player, gashapon, count=fortUseNumber)
-            for unit in units:
-                tmpReward = {"count":unit.gashapon_number, "type": unit.obj_id}
-                rewards.append(tmpReward)
-
-
-        if target_player.id > 0:
-            lostMaxGold = target_player.gold if target_player.gold  < winMaxGold else winMaxGold 
-            lostMaxWood = target_player.wood if target_player.wood  < winMaxWood else winMaxWood
-            lostGold = int(lostMaxGold * ratioPercent * (1 - target_player.siege_proected))
-            defence_rewards.append({"type":Static.GOLD_ID, "count":lostGold})
-            lostWood = int(lostMaxWood * ratioPercent * (1 - target_player.siege_proected))
-            defence_rewards.append({"type":Static.WOOD_ID, "count":lostWood})
-
-            # 设置保护时间
-            target_player.lost_siegebattle_result(lostGold, lostWood)
-            target_player.set_lock_time(1)#dbug
-            #target_player.set_lock_time(3600)#
-            target_player.passive_update()
-
-        # 万能碎片一个
-        acquire_item(player, Static.ITEM_HERO_UPGRADE_ID, 1, info=u"攻城战胜利所得")
-        player.win_siegebattle_result(winGold, winWood)
-        player.SiegeBattle.add_winCount()
-        player.task_going(Static.TASK_CATEGORY_SIEGE_TOTAL_COUNT, number=player.SiegeBattle.winCount, is_incr=False, is_series=True)
-
-        #邮件部分
-        content_attack  = "fytext_300712"
-        params_attack = [str(target_player.name), str(winGold), str(winWood)]
-        content_defense = "fytext_300714"
-        params_defense = [str(player.name), str(lostGold), str(lostWood)]
     else:
-        #添加CD时间
-        player.SiegeBattle.set_cdTime()
-        #邮件部分
-        content_attack = "fytext_300713"
-        params_attack = [str(target_player.name)]
-        content_defense = "fytext_300715"
-        params_defense = [str(player.name)]
+        # 隐藏分变化
+        if targetId > 0:
+            player.add_liveness(6)
+            target_player.sub_liveness(5)
+            target_player.siege_be_ended() # 清空攻击时间
+        else:
+            player.add_liveness(4)
 
+    player.cancel_protect_time() 
+    # 将资源转化成奖励
+    rewards = player.SiegeBattle.from_resource_to_reward(resource)
+    send_battle_record(player=player, targetPlayer=target_player, isWin=isWin, category=2, playerHeroes=player.layoutSiegeHeroSimple_dict(), targetHeroes=target_player.layoutSiegeHeroSimple_dict(), playerWallSoldiers = soldiers, targetWallSoldiers= target_player.siege_wall_soldiers(), resource=resource)
 
-    player.SiegeBattle.use_battleTimes()
-
-    content_attacks = []
-    content_attacks.append({
-        "content": content_attack,
-        "paramList": params_attack,
-    })
-
-    content_defenses = []
-    content_defenses.append({
-        "content": content_defense,
-        "paramList": params_defense,
-    })
-
-    send_attack_mail(player, target_player, title="fytext_300728", contents=content_attacks, playback=playback, isWin=isWin, mailType=1, rewards=rewards)
     if target_player.id > 0:
-        send_defense_mail(target_player, player, title="fytext_300728", contents=content_defenses, playback=playback, isWin=isWin, mailType=1, rewards=rewards)
-
+        send_battle_record(player=target_player, targetPlayer=player, isWin=not isWin, category=2, playerHeroes=target_player.layoutSiegeHeroSimple_dict(), targetHeroes=player.layoutSiegeHeroSimple_dict(), playerWallSoldiers = target_player.siege_wall_soldiers(), targetWallSoldiers = soldiers, resource=resource)
+    player.dailytask_going(Static.DAILYTASK_CATEGORY_SIEGE_BATTLE, number=1, is_incr=True, is_series=True)
     player.SiegeBattle.update()
+    response.logic_response.set("rewards", [reward.to_dict() for reward in rewards])
+    response.common_response.player.set("siegeBattle", player.SiegeBattle.to_dict())
+    return response
 
-
-    response.logic_response.set("rewards", rewards)
-
+@handle_common
+@require_player
+def siegeBattleResourceArrive(request, response):
+    """
+        攻城战资源到达
+    """
+    # 前端倒计时结束 向后端请求
+    player = request.player
+    index = getattr(request.logic_request, "index", 0)
+    if index != 0:
+        player.SiegeBattle.check_resource(index-1)
     response.common_response.player.set("siegeBattle", player.SiegeBattle.to_dict())
     return response
 
@@ -563,35 +488,41 @@ def siegeBattlePlayer(request, response):
     """
     搜索攻城战对手
     """
-
     player = request.player
+    category = getattr(request.logic_request, "category", 0) # 默认0正常匹配 1为确定取消保护再匹配
 
-    # 检查等级
     if not player.isOpenSiege:
         AlertHandler(player, response, AlertID.ALERT_PLAYER_LEVEL_NOT_ENOUGH, u"siegeBattlePlayer:need level(%s) player level is %s" %(Static.SIEGE_LEVEL, player.level))
         return response
+    if player.siege_be_challenging:
+        # 正在被攻击 不能进行匹配
+        AlertHandler(player, response, AlertID.ALERT_SIEGE_BATTLE_BE_CHALLENGING, u"siegeBattlePlayer:be challenging")
+        return response
 
-    #如果为非自动刷新
-    if player.SiegeBattle.refresh_auto():
-        pass
-    else:
-        lockCount = player.SiegeBattle.oppsLockCount
-        #5个对手都锁住则不刷新
-        if lockCount == 5:
-            response.common_response.player.set("siegeBattle", player.SiegeBattle.to_dict())
-            return response 
-
-        costGold = Static.SIEGE_REFRESH_COST_GOLD * (lockCount + 1)
-        #金币不足
-        if player.gold < costGold: 
-            AlertHandler(player, response, AlertID.ALERT_GOLD_NOT_ENOUGH, u"siegeBattlePlayer:refresh cost(%s) playerGold(%s)" % (costGold, player.gold))
+    # 运送车辆上限检查
+    if not player.SiegeBattle.has_truck:
+        AlertHandler(player, response, AlertID.ALERT_SIEGE_BATTLE_TRUCK_COUNT_IS_TOP, u"siegeBattlePlayer:truck count is top")
+        return response
+    if player.siege_in_safed:
+        # 处于被保护阶段
+        if category == 1:
+            player.cancel_protect_time()
+        else:
+            response.logic_response.set("hasSafeTime", True)
             return response
-        player.sub_gold(costGold, u"搜索攻城战对手")
-        player.SiegeBattle.refresh()
-
+    # 不释放上一个对手的话30秒自动过期
+    opp = player.SiegeBattle.searchOpp()
+    if opp.id > 0:
+        resource = opp.SiegeBattle.get_resources() # 能被抢夺的资源
+        opp.siege_be_searched() # 设置被搜到
+    else:
+        resource = get_robot_resource(opp.id)
+    response.logic_response.set("resources", resource)
+    response.logic_response.set("opp", opp.siege_view_data())
     response.common_response.player.set("siegeBattle", player.SiegeBattle.to_dict())
     return response
 
+# TODO : 删掉
 @handle_common
 @require_player
 def siegeBattlePlayerLock(request, response):
@@ -620,13 +551,13 @@ def siegeBattlePlayerLock(request, response):
     response.common_response.player.set("siegeBattle", player.SiegeBattle.to_dict())
     return response
 
+#TODO 删掉
 @handle_common
 @require_player
 def siegeBattleDelCDTime(request, response):
     """
     攻城战删除冷却时间
     """
-
     player = request.player
     # 检查等级
     if not player.isOpenSiege:
@@ -658,43 +589,16 @@ def siegeBattleFortReset(request, response):
         AlertHandler(player, response, AlertID.ALERT_PLAYER_LEVEL_NOT_ENOUGH, u"siegeBattleFortReset:need level(%s) player level is %s" %(Static.SIEGE_LEVEL, player.level))
         return response
 
-    diamondCost = 0
-    now = time.time()
-    fortInfos = player.SiegeBattle.fortInfos
+    diamondCost = player.SiegeBattle.reset_fort_cost
     for fortIndex in fortIndexes:
-        if not player.SiegeBattle.fort_canReset(fortIndex):
+        if player.SiegeBattle.can_reset_fort(fortIndex-1):
+            print "OK"
+            if player.yuanbo < diamondCost:
+                AlertHandler(player, response, AlertID.ALERT_DIAMOND_NOT_ENOUGH, u"siegeBattleFortReset cost(%s) now player have (%s)" % (diamondCost, player.yuanbo))
+                return response
+            player.sub_yuanbo(diamondCost, info=u"攻城战堡垒信息重置")
+            player.SiegeBattle.reset_fort(fortIndex-1)
             continue
-
-        fortCdAt = fortInfos[fortIndex - 1]
-    
-        _diamondCost = int(math.ceil((now - fortCdAt) * 1.0 / 60))
-        _diamondCost = _diamondCost if _diamondCost > 0 else 0
-        diamondCost += _diamondCost
-
-    if player.yuanbo < diamondCost:
-        AlertHandler(player, response, AlertID.ALERT_DIAMOND_NOT_ENOUGH, u"siegeBattleFortReset cost(%s) now player have (%s)" % (diamondCost, player.yuanbo))
-        return response
-
-    player.sub_yuanbo(diamondCost, info=u"攻城战堡垒信息重置")
-
-    player.SiegeBattle.forts_reset(fortIndexes)
     response.common_response.player.set("siegeBattle", player.SiegeBattle.to_dict())
-
     return response
 
-
-@handle_common
-@require_player
-def rampartSoldierLevelUp(request, response):
-    player = request.player
-    soldier_id = getattr(request.logic_request, "playerRampartSoldierId", 0)
-
-    playerrampartsoldier = player.rampartSoldiers.get(int(soldier_id))
-    if not playerrampartsoldier:
-        raise ErrorException(player, u"rampartSoldierLevelUp:rampartSoldiers(%s) is not existed" % soldier_id)
-    if not playerrampartsoldier.canLevelUp:
-        return response
-
-    playerrampartsoldier.levelUp()
-    player.update_rampartsoldier(playerrampartsoldier, True)
-    return response

@@ -29,8 +29,10 @@ class ViewUpdate(BaseUserData):
         self.defenseHeroIds=[] 
         self.defenseSiegeIds=[]
         self.defenseSiegeSoldierIds = []
-        self.rampartSoldiers = []
-        #self.playerWarriorIds=[] 
+        #self.playerWarriorIds=[]
+        self.wallWarriorIds = []
+        self.safedTime = 0
+        # self.endLockedTime = 0
 
 class ViewDelete(BaseUserData):
     def __init__(self):
@@ -55,5 +57,5 @@ class ViewDelete(BaseUserData):
         self.friendRelations = [] 
         self.dailytasks = []
         self.sevenDaystasks = []
-        self.rampartSoldiers = []
+        
 

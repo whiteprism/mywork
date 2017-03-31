@@ -387,7 +387,7 @@ def heroSkillLevelUp(request, response):
     player.update_hero(playerhero, True)
 
     player.dailytask_going(Static.DAILYTASK_CATEGORY_HERO_LEVELUP, number=1, is_incr=True, is_series=True)
-
+    player.seven_days_task_going(Static.SEVEN_TASK_CATEGORY_HERO_SKILL_LEVELUP, is_incr=True, with_top=False, is_series=True)
     if player.tutorial_id == Static.TUTORIAL_ID_SKILL_LEVELUP_13:
         player.tutorial_complete()
 

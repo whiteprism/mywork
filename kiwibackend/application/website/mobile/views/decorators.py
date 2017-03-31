@@ -173,7 +173,7 @@ def require_player(view_func):
         response.common_response.player.set("activityBoxIds", player.activityBoxIds)
         response.common_response.player.set("activityValue", player.activityValue)
         response.common_response.player.set("towerGold", player.towerGold)
-
+        response.common_response.player.set("wallWarriorIds", player.wallWarriorIds)
         response.common_response.player.set("daysFromcreated", player.daysFromcreated)
         #response.common_response.player.set("fireBuff", player.fireBuff)
         response.common_response.player.set("completeTaskList", [(int(taskId), status) for taskId, status in player.completeSevenTasks.items()])
@@ -185,6 +185,7 @@ def require_player(view_func):
         response.common_response.player.set("permanentCardActivity", player.permanent_card_is_activity)
         response.common_response.player.set("hasUnReadMails", player.has_unread_mails)
         response.common_response.player.set("seeds", player.md5Seeds)
+        response.common_response.player.set("safedTime", player.safedTime)
         response.common_response.set("serverTime", int(time.time()))
         if player.tutorial_change:
             response.common_response.player.set("tutorial", player.tutorial)
@@ -198,7 +199,7 @@ def require_player(view_func):
             response.common_response.player.set("arena", player.PVP.to_dict())
 
         if player.levelup and player.level == Static.SIEGE_LEVEL:
-            player.SiegeBattle.refresh_auto()
+            #player.SiegeBattle.refresh_auto()
             response.common_response.player.set("siegeBattle", player.SiegeBattle.to_dict())
 
         if player.PVP_change and player.isOpenArena:
@@ -218,8 +219,9 @@ def require_player(view_func):
 
 def handle_common(view_func):
     def _handle(request, response):
+        print request,"***"
         view_name = request.view_name
-
+        print view_name
 
 
         child_map = ChildMap()
@@ -289,12 +291,11 @@ def _modify_handler(request, response):
         activities = _activity_handler(request, response)
         mails = _mails_handler(request, response)
         battlerecords = _battlerecords_handler(request, response)
-        rampartsoldiers = _rampartsoldiers_handler(request, response)
 
         # if modifydata:
         #     modifydata.delete()
         #modify_datas = [heroes, souls, equips, buildings, gems, gemfragments, items, buyrecords, artifacts, dailytasks, tasks, equipfragments, artifactfragments, activities, mails]
-        modify_datas = [heroes,heroteams,souls, equips, buildings, items, buyrecords, artifacts, dailytasks, tasks, sevenDaystasks, equipfragments, artifactfragments, buildingfragments, buildingplants, activities, mails, battlerecords, rampartsoldiers]
+        modify_datas = [heroes,heroteams,souls, equips, buildings, items, buyrecords, artifacts, dailytasks, tasks, sevenDaystasks, equipfragments, artifactfragments, buildingfragments, buildingplants, activities, mails, battlerecords]
         for m in modify_datas:
             if "update" in m and m["update"]:
                 if not response.common_response.update:
@@ -533,10 +534,9 @@ def _mails_handler(request, response):
         "update":[],
         "delete":[],
     }
-
     for pk in player._update_list["mails"]:
         mails["update"].append(get_mail(pk).to_dict())
-        
+
     for pk in player._delete_list["mails"]:
         mails["delete"].append({"id": pk})
 
@@ -558,19 +558,3 @@ def _battlerecords_handler(request, response):
         battlerecords["delete"].append({"id": pk})
 
     return battlerecords
-
-def _rampartsoldiers_handler(request, response):
-    player = request.player
-    soldiers = {
-        "name": "rampartSoldiers",
-        "update":[],
-        "delete":[],
-    }
-
-    for pk in player._update_list["rampartSoldiers"]:
-        soldiers["update"].append(player.rampartSoldiers.get(pk).to_dict())
-        
-    for pk in player._delete_list["rampartSoldiers"]:
-        soldiers["delete"].append({"id": pk})
-
-    return soldiers

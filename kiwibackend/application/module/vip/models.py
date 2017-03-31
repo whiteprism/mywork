@@ -27,6 +27,13 @@ class Vip(models.Model, StaticDataRedisHandler, CommonStaticModels):
     dailyRewards_str = models.CharField(u"每日登陆奖励", default="", max_length=200)#rewards 新结构
     statueCount = models.IntegerField(u"可建造的神像总数", default=0)
     plantCount = models.IntegerField(u"可建造的植物总数", default=0)
+    #----------攻城战相关----------
+    safeTime = models.IntegerField(u"保护时间", default=0)
+    fortTime = models.IntegerField(u"堡垒CD", default=0)
+    transitTime = models.IntegerField(u"运输时间", default=0) # 资源运输的时间
+    resetCost = models.IntegerField(u"冷却堡垒消耗", default=0) # 消除移动堡垒冷却CD的钻石数量
+    fortCount = models.IntegerField(u"堡垒数量", default=0)
+    transitCount = models.IntegerField(u"运输数量", default=0) # 运输车的数量
 
     def __unicode(self):
         return "VIP Level:%s" % self.pk

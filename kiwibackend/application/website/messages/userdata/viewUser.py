@@ -70,6 +70,7 @@ class ViewUser(BaseUserData):
         self.defenseSiegeIds = []
         self.defenseSiegeSoldierIds = []
         self.playerWarriorIds = []
+        self.wallWarriorIds = []
         self.seeds = []
         self.enemies = {}
         self.firstIn = -1
@@ -90,7 +91,9 @@ class ViewUser(BaseUserData):
         self.smallGameLeftTimes = 0
         self.elementTower = None
         self.offlinebonus = []
-        self.rampartSoldiers = []
+        self.safedTime = 0
+        # self.endLockedTime = 0
         #self.fireBuff = -1
+        self.feiBook = {}
 
 

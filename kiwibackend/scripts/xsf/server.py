@@ -33,7 +33,7 @@ application = get_wsgi_application()
 
 import uwsgi
 
-from cron_job import *
+from scripts.cron_job import *
 
 for job_id, job in enumerate(jobs):
     uwsgi.register_signal(job_id, "", job['name'])

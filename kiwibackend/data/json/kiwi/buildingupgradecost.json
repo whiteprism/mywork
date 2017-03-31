@@ -264,7 +264,7 @@
         "pk": 1030,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 10000,
+            "count": 20000,
             "type": 600000,
             "level": 0
         }
@@ -273,7 +273,7 @@
         "pk": 1031,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 30000,
+            "count": 80000,
             "type": 600000,
             "level": 0
         }
@@ -282,7 +282,7 @@
         "pk": 1032,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 50000,
+            "count": 160000,
             "type": 600000,
             "level": 0
         }
@@ -291,7 +291,7 @@
         "pk": 1033,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 70000,
+            "count": 300000,
             "type": 600000,
             "level": 0
         }
@@ -300,7 +300,7 @@
         "pk": 1034,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 100000,
+            "count": 600000,
             "type": 600000,
             "level": 0
         }
@@ -309,7 +309,7 @@
         "pk": 1035,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 165000,
+            "count": 950000,
             "type": 600000,
             "level": 0
         }
@@ -318,7 +318,7 @@
         "pk": 1036,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 240000,
+            "count": 1310000,
             "type": 600000,
             "level": 0
         }
@@ -327,7 +327,7 @@
         "pk": 1037,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 340000,
+            "count": 1730000,
             "type": 600000,
             "level": 0
         }
@@ -336,7 +336,7 @@
         "pk": 1038,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 400000,
+            "count": 2210000,
             "type": 600000,
             "level": 0
         }
@@ -345,7 +345,7 @@
         "pk": 1039,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 590000,
+            "count": 2750000,
             "type": 600000,
             "level": 0
         }
@@ -948,7 +948,7 @@
         "pk": 2030,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 15000,
+            "count": 37000,
             "type": 500000,
             "level": 0
         }
@@ -957,7 +957,7 @@
         "pk": 2031,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 45000,
+            "count": 148000,
             "type": 500000,
             "level": 0
         }
@@ -966,7 +966,7 @@
         "pk": 2032,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 75000,
+            "count": 296000,
             "type": 500000,
             "level": 0
         }
@@ -975,7 +975,7 @@
         "pk": 2033,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 105000,
+            "count": 555000,
             "type": 500000,
             "level": 0
         }
@@ -984,7 +984,7 @@
         "pk": 2034,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 150000,
+            "count": 1110000,
             "type": 500000,
             "level": 0
         }
@@ -993,7 +993,7 @@
         "pk": 2035,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 247500,
+            "count": 1757500,
             "type": 500000,
             "level": 0
         }
@@ -1002,7 +1002,7 @@
         "pk": 2036,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 360000,
+            "count": 2423500,
             "type": 500000,
             "level": 0
         }
@@ -1011,7 +1011,7 @@
         "pk": 2037,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 510000,
+            "count": 3200500,
             "type": 500000,
             "level": 0
         }
@@ -1020,7 +1020,7 @@
         "pk": 2038,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 600000,
+            "count": 4088500,
             "type": 500000,
             "level": 0
         }
@@ -1029,7 +1029,7 @@
         "pk": 2039,
         "model": "building.buildingupgradecost",
         "fields": {
-            "count": 885000,
+            "count": 5087500,
             "type": 500000,
             "level": 0
         }
@@ -1435,7 +1435,7 @@
         "model": "building.buildingupgradecost",
         "fields": {
             "count": 30,
-            "type": 1504004,
+            "type": 1504007,
             "level": 0
         }
     },

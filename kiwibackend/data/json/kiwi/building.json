@@ -39,7 +39,7 @@
             "model": "",
             "levelCount_int": "1,1",
             "nameId": "build_1001002",
-            "unlockUserLevel": 1,
+            "unlockUserLevel": 6,
             "summaryId": "build_10010021"
         }
     },
@@ -125,7 +125,7 @@
             "canRemove": 0,
             "buildingPlantId": 0,
             "model": "",
-            "levelCount_int": "1,0,5,1,6,2,8,3,13,4,20,5",
+            "levelCount_int": "1,0,5,1",
             "nameId": "build_1001007",
             "unlockUserLevel": 16,
             "summaryId": "build_10010071"
@@ -149,7 +149,7 @@
             "model": "",
             "levelCount_int": "1,1,3,2,5,3,8,4,12,5,17,6",
             "nameId": "build_1001009",
-            "unlockUserLevel": 1,
+            "unlockUserLevel": 4,
             "summaryId": "build_10010091"
         }
     },
@@ -171,7 +171,7 @@
             "model": "",
             "levelCount_int": "1,1,3,2,5,3,8,4,12,5,17,6",
             "nameId": "build_1001010",
-            "unlockUserLevel": 1,
+            "unlockUserLevel": 4,
             "summaryId": "build_10010101"
         }
     },
@@ -248,7 +248,7 @@
             "category": 1,
             "buildingToastId": "text_192",
             "attrList_int": "",
-            "name": "\u65f6\u7a7a\u4e4b\u95e8",
+            "name": "\u5143\u7d20\u4e4b\u5854",
             "buildingToWarriorId": 191101400,
             "descriptionId": "build_10010140",
             "buildCamera": 1,
@@ -264,35 +264,13 @@
         }
     },
     {
-        "pk": 1002001,
-        "model": "building.building",
-        "fields": {
-            "category": 2,
-            "buildingToastId": "text_192",
-            "attrList_int": "",
-            "name": "\u9632\u5fa1\u58541",
-            "buildingToWarriorId": 191200100,
-            "descriptionId": "build_10020010",
-            "buildCamera": 1,
-            "orderId": 15,
-            "removeRewardIds_str": "",
-            "canRemove": 0,
-            "buildingPlantId": 0,
-            "model": "",
-            "levelCount_int": "1,2",
-            "nameId": "build_1002001",
-            "unlockUserLevel": 1,
-            "summaryId": "build_10020011"
-        }
-    },
-    {
         "pk": 1001016,
         "model": "building.building",
         "fields": {
             "category": 1,
             "buildingToastId": "text_192",
             "attrList_int": "",
-            "name": "\u96f7\u8fbe",
+            "name": "\u65f6\u7a7a\u4e4b\u95e8",
             "buildingToWarriorId": 191101600,
             "descriptionId": "build_10010160",
             "buildCamera": 1,
@@ -325,7 +303,7 @@
             "model": "",
             "levelCount_int": "1,0,4,1",
             "nameId": "build_1001015",
-            "unlockUserLevel": 14,
+            "unlockUserLevel": 16,
             "summaryId": "build_10010151"
         }
     },
@@ -411,7 +389,7 @@
             "canRemove": 0,
             "buildingPlantId": 2701004,
             "model": "",
-            "levelCount_int": "1,1,2,2,3,3,4,5",
+            "levelCount_int": "1,1,2,2,3,3,4,4",
             "nameId": "build_1003004",
             "unlockUserLevel": 1,
             "summaryId": "build_10030041"
@@ -433,7 +411,7 @@
             "canRemove": 0,
             "buildingPlantId": 2702001,
             "model": "",
-            "levelCount_int": "1,1,2,2,3,3,4,6",
+            "levelCount_int": "1,1,2,2,3,3,4,4",
             "nameId": "build_1003005",
             "unlockUserLevel": 1,
             "summaryId": "build_10030051"
@@ -455,7 +433,7 @@
             "canRemove": 0,
             "buildingPlantId": 2702002,
             "model": "",
-            "levelCount_int": "1,1,2,2,3,3,4,7",
+            "levelCount_int": "1,1,2,2,3,3,4,4",
             "nameId": "build_1003006",
             "unlockUserLevel": 1,
             "summaryId": "build_10030061"
@@ -477,7 +455,7 @@
             "canRemove": 0,
             "buildingPlantId": 2702003,
             "model": "",
-            "levelCount_int": "1,1,2,2,3,3,4,8",
+            "levelCount_int": "1,1,2,2,3,3,4,4",
             "nameId": "build_1003007",
             "unlockUserLevel": 1,
             "summaryId": "build_10030071"
@@ -686,12 +664,12 @@
         "model": "building.building",
         "fields": {
             "category": 2,
-            "buildingToastId": "text_193",
+            "buildingToastId": "text_192",
             "attrList_int": "",
             "name": "\u57ce\u5899",
             "buildingToWarriorId": 0,
             "descriptionId": "build_10020020",
-            "buildCamera": 2,
+            "buildCamera": 1,
             "orderId": 34,
             "removeRewardIds_str": "",
             "canRemove": 0,
@@ -708,12 +686,12 @@
         "model": "building.building",
         "fields": {
             "category": 2,
-            "buildingToastId": "text_194",
+            "buildingToastId": "text_192",
             "attrList_int": "",
             "name": "\u57ce\u5899\u914d\u7f6e",
             "buildingToWarriorId": 0,
             "descriptionId": "build_10020030",
-            "buildCamera": 3,
+            "buildCamera": 1,
             "orderId": 35,
             "removeRewardIds_str": "",
             "canRemove": 0,
@@ -723,6 +701,28 @@
             "nameId": "build_1002003",
             "unlockUserLevel": 1,
             "summaryId": "build_10020031"
+        }
+    },
+    {
+        "pk": 1002004,
+        "model": "building.building",
+        "fields": {
+            "category": 2,
+            "buildingToastId": "text_192",
+            "attrList_int": "",
+            "name": "\u9632\u5fa1\u5854\u914d\u7f6e",
+            "buildingToWarriorId": 0,
+            "descriptionId": "build_10020040",
+            "buildCamera": 1,
+            "orderId": 36,
+            "removeRewardIds_str": "",
+            "canRemove": 0,
+            "buildingPlantId": 0,
+            "model": "",
+            "levelCount_int": "1,1",
+            "nameId": "build_1002004",
+            "unlockUserLevel": 1,
+            "summaryId": "build_10020041"
         }
     }
 ]

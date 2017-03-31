@@ -13,7 +13,7 @@ from module.guild.api import get_sysguildinstanceInfo, get_guild_by_id, create_g
 from module.player.api import get_player
 from module.playeritem.api import acquire_item
 import datetime
-import random
+import random, time
 
 @handle_common
 @require_player
@@ -181,10 +181,17 @@ def guildInstanceOpen(request, response):
         guildInfo.self_release_lock()
         AlertHandler(player, response, AlertID.ALERT_GUILD_LIMIT_CAN_NOT_OPEN_INSTANCE, u"guildInstanceOpen your position is %s open instance need 2 or 1" %(player.guild.position))
         return response
-
     # 去静态表里面取得公会副本的信息
     sysGuildInstance = get_sysguildinstanceInfo(instanceLevelId, player.guildId)
     guildinstancelevel = get_guildinstanceLevel(instanceLevelId)
+
+    if player.yuanbo < guildinstancelevel.diamondCost:
+        AlertHandler(player, response, AlertID.ALERT_DIAMOND_NOT_ENOUGH, u"guildInstanceOpen:instanceLevelId(%s)  melt costYuanbo(%s) playerYuanbo(%s)" % (instanceLevelId, guildinstancelevel.diamondCost, player.yuanbo))
+        return response
+    info = u"开启公会副本:%s:%s" % (player.guildId, instanceLevelId)
+    player.sub_yuanbo(guildinstancelevel.diamondCost, info)
+
+
     if not sysGuildInstance or not  sysGuildInstance.isWaiting or player.guild.guildInfo.level < guildinstancelevel.guildLevelLimit:
         guildInfo.self_release_lock()
         if sysGuildInstance:
@@ -335,19 +342,31 @@ def guildInstanceStart(request, response):
     if not sysGuildInstance.isFighting or not sysGuildInstance.isOpen:
         sysGuildInstance.self_release_lock()
         return response
+    subBossHPPercentage = float(sysGuildInstance.bossHp-bossHp)/guildInstancelevel.bossHp
+    #打掉的boss 血量百分比
+    #按照百分比获得此人应的公会币
+    guildGold = int(subBossHPPercentage * guildInstancelevel.rewardGold)
+    player.guild.add_gold(guildGold, info="get from attack guild boss. instanceId:%s. HP:%s " % (str(level_id), str(bossHp)))
     sysGuildInstance.end_fight(player, bossHp, bossPercentage, isWin)
-
+    
     #reward
     # 完全通关（把boss打死以后发放公会副本的奖励）
     if isWin:
         rewardsCount = 0
         rewards_data = guildInstancelevel.rewardData
         for index, aucRewardId in enumerate(rewards_data["aucRewardIds"]):
-            count = random.choice(range(0, rewards_data["aucRewardMaxCount"][index]+1))
-            for i in range(0, count):
-                rewardsCount += 1
-                create_guildauctionmaxinfo(player.guildId, aucRewardId, level_id)
-
+            #修改副本掉落概率逻辑17-03-23
+            #count = random.choice(range(0, rewards_data["aucRewardMaxCount"][index]+1))
+            # for i in range(0, count):
+            #     rewardsCount += 1
+            #     create_guildauctionmaxinfo(player.guildId, aucRewardId, level_id)
+            count = rewards_data["aucRewardMaxCount"][index]
+            probability = rewards_data["probability"][index]
+            for i in range(0,count):           
+                if random.uniform(0,1) < probability:
+                    rewardsCount += 1
+                    create_guildauctionmaxinfo(player.guildId, aucRewardId, level_id)               
+            
         #万一没有随机拿一个
         if rewardsCount == 0:
             aucRewardId = random.choice(rewards_data["aucRewardIds"])
@@ -355,6 +374,8 @@ def guildInstanceStart(request, response):
 
 
     #response.logic_response.set("aucRewardIds", rewardBoxes)
+    response.logic_response.set("guild", player.guild.to_dict())
+
     return response
 
 @handle_common
@@ -592,7 +613,7 @@ def instanceBoxOpen(request, response):
 
     playerinstance_star = get_all_player_star_by_instance_id(player, instance_id, isElite)
     if playerinstance_star < star_data[chestLevel]:
-        AlertHandler(player, response, AlertID.ALERT_INSTANCE_CHEST_CAN_NOT_OPEN, u"instanceBoxOpen:instatnce(%s) playerinstance_star(%s) chestlevel(%)" % (instance_id, playerinstance_star, star_data[chestLevel]))
+        AlertHandler(player, response, AlertID.ALERT_INSTANCE_CHEST_CAN_NOT_OPEN, u"instanceBoxOpen:instatnce(%s) playerinstance_star(%s) chestlevel(%s)" % (instance_id, playerinstance_star, star_data[chestLevel]))
         return response
 
     if not player.chestWithDrawn(instance_id, chestLevel, isElite):
@@ -748,6 +769,8 @@ def raceInstanceSetUp(request, response):
         #response.logic_response.set("towerLevel", len(raidlevel.enemyIds) / 3)
         #response.logic_response.set("difficulties", difficulties)
     response.logic_response.set("enemies", [enemy.to_dict() for enemy in enemies])
+    response.logic_response.set("experiment2", raidinstance.experiment2)
+
         #response.logic_response.set("monsterIds", monsterId)
 
     return response
@@ -797,9 +820,8 @@ def raceInstanceStart(request, response):
     data = playerraidinstance.fight(raidlevel, isWin, percentage)
     player.update_raidinstance(playerraidinstance, True)
     if isWin:
-        player.sub_power(raidinstance.powerCost)
-
-
+        # raidinstance.powerCost 消耗的体力 现改为消耗耐力
+        player.sub_stamina(raidinstance.powerCost)
 
         #if raidinstance.category == 6:
         #    if level_id > player.lastRaidId:
@@ -1129,4 +1151,53 @@ def elementTowerInstanceSweep(request, response):
     response.logic_response.set("rewards", _t1Rewards)
     response.logic_response.set("freeBoxRewards", _t3Rewards)
 
+    return response
+
+
+@handle_common
+@require_player
+def guildInstanceBook(request, response):
+    """
+    公会副本飞鸽传书  & bookType 0 为一键提醒  其他为关闭此副本的提醒
+    """
+    player = request.player
+    instanceId = getattr(request.logic_request, "instanceId", 0)
+    bookType = getattr(request.logic_request, "bookType", 0)
+
+    if bookType == 1:
+        if str(player.id) in player.guild.guildInfo.feiBookDict:
+            if str(instanceId) in player.guild.guildInfo.feiBookDict[str(player.id)]:
+                del player.guild.guildInfo.feiBookDict[str(player.id)][str(instanceId)]
+                player.guild.guildInfo.save()
+        return response
+    #会长
+    if not player.guild.isChairman:
+        # TODO：更换 AlertID
+        AlertHandler(player, response, AlertID.ALERT_GUILD_LIMIT_NOT_ENOUGH, u"guildInstanceBook:only chairman or vice-chairman can send feiBook")
+        return response
+
+    # if not instanceId or (bookType and not to_player_id):
+
+    # 取得公会副本的信息
+    sysGuildInstanceInfo = get_sysguildinstanceInfo(instanceId, player.guildId)
+    if not sysGuildInstanceInfo or not sysGuildInstanceInfo.canFeiBook:
+        if sysGuildInstanceInfo:
+            sysGuildInstanceInfo.self_release_lock()
+        AlertHandler(player, response, AlertID.ALERT_GUILD_INSTANCE_HAS_ALREADY_EXPIRED, u"guildInstanceBook this instacelevel has already expired")
+        return response
+
+
+    if not sysGuildInstanceInfo or not sysGuildInstanceInfo.isOpen:
+        if sysGuildInstanceInfo:
+            sysGuildInstanceInfo.self_release_lock()
+        AlertHandler(player, response, AlertID.ALERT_GUILD_INSTANCE_HAS_ALREADY_EXPIRED, u"guildInstanceBook this instacelevel has already expired")
+        return response
+
+    pid_list = sysGuildInstanceInfo.get_unFighting_member_list()
+    for player_id in pid_list:
+        if str(player_id) not in player.guild.guildInfo.feiBookDict:
+            player.guild.guildInfo.feiBookDict[str(player_id)] = {str(instanceId): int(time.time())}
+        elif instanceId not in player.guild.guildInfo.feiBookDict[str(player_id)].keys():
+            player.guild.guildInfo.feiBookDict[str(player_id)][str(instanceId)] = int(time.time())
+    # response.logic_response.set("configinfo", configinfo.to_dict())
     return response

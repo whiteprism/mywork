@@ -30,7 +30,7 @@ class Instance(models.Model, StaticDataRedisHandler, CommonStaticModels):
     eliteRewardCounts_2_int = models.CharField(u"count_int", max_length=200, default="")
     eliteRewardIds_3_int = models.CharField(u"Reward_int", max_length=200, default="")
     eliteRewardCounts_3_int = models.CharField(u"count_int", max_length=200, default="")
-    rewardsId_int = models.CharField(u"奖励_int", max_length=500, default="")
+    rewardsId_int = models.CharField(u"奖励_int", max_length=1000, default="")
     counts_int = models.CharField(u"奖励_counts", max_length=200, default="")
     probability =  models.FloatField(u"概率", default=0)
 
@@ -332,6 +332,7 @@ class GuildInstanceLevel(models.Model, StaticDataRedisHandler, CommonStaticModel
     levelIndex = models.IntegerField(u"关卡位置index", default=0)
 
     revisionScale_float = models.CharField(u"revisionScale_float", max_length=100, default="")
+    probability_float = models.CharField(u'掉落概率', max_length = 100, default="")   
     aucRewardIds_int = models.CharField(u"InstanceReward_int", max_length=200, default="")
     aucRewardMaxCount_int = models.CharField(u'掉落物品数量', max_length = 100, default="")
     diamondCost = models.IntegerField(u"消耗钻石", default=0)
@@ -339,6 +340,7 @@ class GuildInstanceLevel(models.Model, StaticDataRedisHandler, CommonStaticModel
     zoneIDs_int = models.CharField(u"关卡使用的场景区域", max_length=1000, default="")
     triggerInfos_int = models.CharField(u"触发器", max_length=500, default="")
     guildLevelLimit = models.IntegerField(u"开启副本等级",  default=0)
+    rewardGold = models.IntegerField(u"该副本奖励的总公会币", default=0)
 
     @memoized_property
     def enemyIds(self):
@@ -358,7 +360,7 @@ class GuildInstanceLevel(models.Model, StaticDataRedisHandler, CommonStaticModel
             for warriorId in warriorIds:
                 warrior = get_warrior_by_upgrade(warriorId, enemy.heroUp)
                 heroStar = get_herostar(warrior.cardId, enemy.heroStar)
-                hp += (warrior.hero.hp + heroStar.hpGrow * 1.0 * (enemy.heroLevel - 1)) * (1 + heroStar.growPercent) * enemy.propertyValues[1]
+                hp += (warrior.hero.hp + heroStar.hpGrow * 1.0 * (enemy.heroLevel - 1)) * (1 + heroStar.growPercent) * enemy.propertyValues[0]
         #print p_list
         return int(hp) 
 
@@ -393,6 +395,7 @@ class GuildInstanceLevel(models.Model, StaticDataRedisHandler, CommonStaticModel
         data = {}
         data["aucRewardIds"] = [int(float(i)) for i in self.aucRewardIds_int.strip().split(",") if i]
         data["aucRewardMaxCount"] = [int(float(p)) for p in self.aucRewardMaxCount_int.strip().split(",") if p]
+        data["probability"] = [float(p) for p in self.probability_float.strip().split(",") if p]
         return data
 
     @memoized_property
@@ -917,7 +920,7 @@ class ElementTowerLevel(models.Model, StaticDataRedisHandler, CommonStaticModels
     level = models.IntegerField(u"层级", default=0)
     nameId = models.CharField(u"名字id", max_length=200, default="")
     rewardIds_str = models.CharField(u"奖励", max_length=300, default="")
-    difficulties_int = models.CharField(u"难度", max_length=300, default="")
+    difficulties_float = models.CharField(u"难度", max_length=300, default="")
     diamondRewardIds_str = models.CharField(u"钻石开宝箱", max_length=300, default="")
     diamondCosts_int = models.CharField(u"钻石开宝箱消耗", max_length=300, default="")
     enemyId = models.IntegerField(u"敌军阵容ID", default=0)

@@ -13,4 +13,4 @@ MONGO_DB_NAME = "kiwi"
 #服务器ID
 SERVERID = 1000
 
-ALL_SERVERS = [0, 1000] #和服列表
+ALL_SERVERS = [0, 1000, 1004] #和服列表

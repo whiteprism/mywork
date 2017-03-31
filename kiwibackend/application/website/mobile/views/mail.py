@@ -114,25 +114,23 @@ def recordsGet(request, response):
     获取战报
     """
     player = request.player
-    records = get_records(player)
-
+    category = getattr(request.logic_request, "category", 0) # 1 竞技场 2 攻城战
+    records = get_records(player, category)
+    # 清理战报 只留10条
+    if len(records) > 10:
+        for i in range(len(records)-1, 9, -1):
+            records[i].delete()
+            records.pop(i)
     result_msg = []
-
-    # 普通pvp的战斗邮件取消掉，替换为一种新的形式，战斗记录。
-    #
-    # 所有需要展示的信息，如下，做法和邮件系统差不多
-
     for record in records:
         if record:
-            timepass = (datetime.datetime.now() - record.created_at).seconds
-            result_msg.append({"isWin":record.isWin, "time":int(timepass),"addScore":record.addScore,"player":record.player.userBattleRecord_dict(),"targetPlayer":record.targetPlayer.userBattleRecord_dict(),
-                               "playerScore":record.playerScore, "targetPlayerScore":record.targetPlayerScore, "playerRank":record.playerRank, "targetPlayerRank":record.targetPlayerRank,"playerPowerRank":record.playerPowerRank,"targetPlayerPowerRank":record.targetPlayerPowerRank,
-                               "playerVip":int(record.playerVip), "playerPowerRank":record.playerPowerRank, "playerIcon":record.playerIcon, "targetPlayerVip":int(record.targetPlayerVip), "targetPlayerIcon":record.targetPlayerIcon})
+            _record = record.to_dict()
+            _record["time"] = (datetime.datetime.now() - record.created_at).seconds
+            result_msg.append(_record)
 
     # 每次只取最新的十条记录
     if len(result_msg) > 10:
         result_msg = result_msg[:10]
-
 
     response.logic_response.set("record", result_msg)
     return response

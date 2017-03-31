@@ -306,5 +306,12 @@
         "fields": {
             "condition_int": "1028,1010"
         }
+    },
+    {
+        "pk": 10039,
+        "model": "skill.conditions",
+        "fields": {
+            "condition_int": "1030,1016"
+        }
     }
 ]

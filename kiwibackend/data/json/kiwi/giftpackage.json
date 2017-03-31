@@ -24,7 +24,7 @@
             "level": 0,
             "entryName_key": "ActGift_10030002",
             "boxRewards_int": "",
-            "entryName_val": "14\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "entryName_val": "15\u7ea7\u7b49\u7ea7\u5956\u52b1",
             "boxImgs_str": "",
             "rewards_int": "3002,3102,3202,3302"
         }
@@ -39,7 +39,7 @@
             "level": 0,
             "entryName_key": "ActGift_10030003",
             "boxRewards_int": "",
-            "entryName_val": "18\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "entryName_val": "20\u7ea7\u7b49\u7ea7\u5956\u52b1",
             "boxImgs_str": "",
             "rewards_int": "3003,3103,3203,3303"
         }
@@ -54,7 +54,7 @@
             "level": 0,
             "entryName_key": "ActGift_10030004",
             "boxRewards_int": "",
-            "entryName_val": "22\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "entryName_val": "25\u7ea7\u7b49\u7ea7\u5956\u52b1",
             "boxImgs_str": "",
             "rewards_int": "3004,3104,3204,3304"
         }
@@ -69,7 +69,7 @@
             "level": 0,
             "entryName_key": "ActGift_10030005",
             "boxRewards_int": "",
-            "entryName_val": "26\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "entryName_val": "30\u7ea7\u7b49\u7ea7\u5956\u52b1",
             "boxImgs_str": "",
             "rewards_int": "3005,3105,3205,3305"
         }
@@ -84,7 +84,7 @@
             "level": 0,
             "entryName_key": "ActGift_10030006",
             "boxRewards_int": "",
-            "entryName_val": "30\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "entryName_val": "35\u7ea7\u7b49\u7ea7\u5956\u52b1",
             "boxImgs_str": "",
             "rewards_int": "3006,3106,3206,3306"
         }
@@ -99,7 +99,7 @@
             "level": 0,
             "entryName_key": "ActGift_10030007",
             "boxRewards_int": "",
-            "entryName_val": "35\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "entryName_val": "40\u7ea7\u7b49\u7ea7\u5956\u52b1",
             "boxImgs_str": "",
             "rewards_int": "3007,3107,3207,3307"
         }
@@ -114,7 +114,7 @@
             "level": 0,
             "entryName_key": "ActGift_10030008",
             "boxRewards_int": "",
-            "entryName_val": "40\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "entryName_val": "45\u7ea7\u7b49\u7ea7\u5956\u52b1",
             "boxImgs_str": "",
             "rewards_int": "3008,3108,3208,3308"
         }
@@ -129,7 +129,7 @@
             "level": 0,
             "entryName_key": "ActGift_10030009",
             "boxRewards_int": "",
-            "entryName_val": "45\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "entryName_val": "50\u7ea7\u7b49\u7ea7\u5956\u52b1",
             "boxImgs_str": "",
             "rewards_int": "3009,3109,3209,3309"
         }
@@ -144,7 +144,7 @@
             "level": 0,
             "entryName_key": "ActGift_10030010",
             "boxRewards_int": "",
-            "entryName_val": "50\u7ea7\u7b49\u7ea7\u5956\u52b1",
+            "entryName_val": "55\u7ea7\u7b49\u7ea7\u5956\u52b1",
             "boxImgs_str": "",
             "rewards_int": "3010,3110,3210,3310"
         }
@@ -159,24 +159,9 @@
             "level": 0,
             "entryName_key": "ActGift_10030011",
             "boxRewards_int": "",
-            "entryName_val": "55\u7ea7\u7b49\u7ea7\u5956\u52b1",
-            "boxImgs_str": "",
-            "rewards_int": "3011,3111,3211,3311"
-        }
-    },
-    {
-        "pk": 10030012,
-        "model": "activity.giftpackage",
-        "fields": {
-            "category": 1003,
-            "boxPrecent": 0,
-            "name": "ActGift_10030012",
-            "level": 0,
-            "entryName_key": "ActGift_10030012",
-            "boxRewards_int": "",
             "entryName_val": "60\u7ea7\u7b49\u7ea7\u5956\u52b1",
             "boxImgs_str": "",
-            "rewards_int": "3012,3112,3212,3312"
+            "rewards_int": "3011,3111,3211,3311"
         }
     },
     {

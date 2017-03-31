@@ -22,10 +22,25 @@ def get_active_experiments(userid):
     active_experiments = {}
     for experiment_name in active_experiment_names:
         experiment = get_experiment(experiment_name)
+        startedAt = 0 
+        endedAt = 0
         if experiment:
+            if experiment.is_alltime:
+                startedAt = datetime_to_unixtime(experiment.started_at)
+                endedAt = datetime_to_unixtime(experiment.ended_at)
+            elif experiment.is_weektime:
+                now = datetime.datetime.now()
+
+                if now.isoweekday() in experiment.weekdays:
+                    startedAtStr = "%s %s" % (now.date().isoformat(), experiment.week_started_at.isoformat())
+                    endAtStr = "%s %s" % (now.date().isoformat(), experiment.week_ended_at.isoformat())
+                    startedAt = datetime_to_unixtime(datetime.datetime.strptime(startedAtStr, "%Y-%m-%d %H:%M:%S"))
+                    endedAt = datetime_to_unixtime(datetime.datetime.strptime(endAtStr, "%Y-%m-%d %H:%M:%S"))
+
+
             active_experiments[experiment_name] = {
-                "startedAt": datetime_to_unixtime(experiment.started_at),
-                "endedAt": datetime_to_unixtime(experiment.ended_at),
+                "startedAt":startedAt,
+                "endedAt":endedAt,
                 "inWhites": userid in (experiment.whites + game_experiment.whites),
                 "inBlacks": userid in (experiment.blacks + game_experiment.blacks),
                 "name":experiment_name, 
@@ -69,7 +84,6 @@ def check_player_in_experiment_by_experiment(userid, experiment):
 
     if experiment.is_alltime and experiment.started_at <= now <= experiment.ended_at:
         return True
-
 
     if experiment.is_weektime:
         if now.isoweekday() in experiment.weekdays:

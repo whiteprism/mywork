@@ -100,4 +100,34 @@ table:
       type: int
       default: 0
 
+    - name: safeTime
+      column: safeTime
+      type: int
+      default: 0
+
+    - name: fortTime
+      column: fortTime
+      type: int
+      default: 0
+
+    - name: transitTime
+      column: transitTime
+      type: int
+      default: 0
+
+    - name: resetCost
+      column: resetCost
+      type: int
+      default: 0
+
+    - name: fortCount
+      column: fortCount
+      type: int
+      default: 0
+
+    - name: transitCount
+      column: transitCount
+      type: int
+      default: 0
+
 

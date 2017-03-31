@@ -116,6 +116,7 @@ custom_urls += patterns('mobile.views.instance',
     url("guildInstanceStart", action=2034),
     url("guildInstanceReset", action=2035),
     url("guildInstanceCancel", action=2036),
+    url("guildInstanceBook", action=2037), #飞鸽传书
     url("smallGameFinish", action=2701), #闯关小游戏
     url("elementTowerOpen", action=2801), #元素之塔开启
     url("elementTowerReset", action=2802), #元素之塔重置
@@ -142,7 +143,7 @@ custom_urls += patterns('mobile.views.pvp',
     url("pvpCDTimeDelete", action=2146), #清楚竞技场冷却时间
     url("siegeBattlePlayerLock", action=2132), #攻城战对手锁定
     url("siegeBattleFortReset", action=2133), #攻城战堡垒信息重置
-    url("rampartSoldierLevelUp", action=2134), #攻城战城墙士兵升级
+    url("siegeBattleResourceArrive", action=2134) #攻城战资源到达
 )
 
 #公会
@@ -180,6 +181,7 @@ custom_urls += patterns('mobile.views.guilds',
     url("guildIndex", action=2178),
     url("guildLevelUp", action=2179),
     url("guildFireCheckStatus", action=2180), #工会火堆升级
+    url("guildFireStopBuff", action=2181),
 )
 
 #荣誉商店
@@ -205,6 +207,7 @@ custom_urls += patterns('mobile.views.building',
     url("buildingLevelUp", action=5007), #升级建筑
     url("buildingTutorialEnd", action=5008), #建筑引导结束
     url("buildingDismantle", action=5009), #建筑 拆除
+    url("buildingWallWarriorUpgrade", action=5010), #科技树士兵升级
 )
 
 #礼包

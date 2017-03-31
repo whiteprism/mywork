@@ -1414,7 +1414,7 @@
         "model": "instance.zone",
         "fields": {
             "attackDir": 0,
-            "startPoints_int": "157,248",
+            "startPoints_int": "157,235",
             "airGatesToActivate_int": "5,6",
             "zoneID": 2
         }
@@ -1424,7 +1424,7 @@
         "model": "instance.zone",
         "fields": {
             "attackDir": 0,
-            "startPoints_int": "248,332",
+            "startPoints_int": "234,332",
             "airGatesToActivate_int": "5,6",
             "zoneID": 2
         }
@@ -4504,7 +4504,7 @@
         "model": "instance.zone",
         "fields": {
             "attackDir": 0,
-            "startPoints_int": "269,269",
+            "startPoints_int": "241,269",
             "airGatesToActivate_int": "",
             "zoneID": 1
         }
@@ -5724,7 +5724,7 @@
         "model": "instance.zone",
         "fields": {
             "attackDir": 0,
-            "startPoints_int": "31,150",
+            "startPoints_int": "59,150",
             "airGatesToActivate_int": "6,7",
             "zoneID": 3
         }
@@ -5754,7 +5754,7 @@
         "model": "instance.zone",
         "fields": {
             "attackDir": 0,
-            "startPoints_int": "31,150",
+            "startPoints_int": "59,150",
             "airGatesToActivate_int": "6,7",
             "zoneID": 3
         }
@@ -5784,7 +5784,7 @@
         "model": "instance.zone",
         "fields": {
             "attackDir": 0,
-            "startPoints_int": "31,150",
+            "startPoints_int": "59,150",
             "airGatesToActivate_int": "6,7",
             "zoneID": 3
         }
@@ -5814,7 +5814,7 @@
         "model": "instance.zone",
         "fields": {
             "attackDir": 0,
-            "startPoints_int": "31,150",
+            "startPoints_int": "59,150",
             "airGatesToActivate_int": "6,7",
             "zoneID": 3
         }

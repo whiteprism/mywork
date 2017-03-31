@@ -24,6 +24,7 @@ def index(request):
         message_response.set("messageId",message_request.messageId)
         yoyprint(u"message id is %s" % message_request.messageId)
 
+        print message_request.messageId
 
         custom_view = custom_controller(message_request.messageId)
 
@@ -34,7 +35,7 @@ def index(request):
 
 
         if message_request.view_name != "init":
-            yoyprint(message_response.for_response())
+           yoyprint(message_response.for_response())
 
         return HttpResponse(msgpack.packb(message_response.for_response()))
     else:

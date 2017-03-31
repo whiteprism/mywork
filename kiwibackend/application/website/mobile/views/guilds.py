@@ -555,29 +555,44 @@ def guildContribute(request, response):
 
     category = getattr(request.logic_request, "category", 0)
 
-    # 金币捐献
+    #有效贡献次数
     if player.guild.dailyLeftContributionCount <= 0:
-        AlertHandler(player, response, AlertID.ALERT_GUILD_CONTRIBUTE_HAS_FULL, u"guildContribute you have contibuted no time")
-        return response
+        # AlertHandler(player, response, AlertID.ALERT_GUILD_CONTRIBUTE_HAS_FULL, u"guildContribute you have contibuted no time")
+        # return response
+        if category == 2:
+            #today = datetime.datetime.now().date()
+            # if player.guild.updated_at.date() != today:
+            #     player.guild.dailyCostContributionCount = 0
+            #player.guild.dailyCostContributionCount += 1
+            yuanbo_cost = Static.GUILD_CONTRIBUTE_DIAMOND_COUNT + player.guild.dailyCostContributionCount
+            if player.yuanbo < yuanbo_cost:
+                AlertHandler(player, response, AlertID.ALERT_DIAMOND_NOT_ENOUGH, u"guildContribute need diamond %s you have %s" %(Static.GUILD_CONTRIBUTE_DIAMOND_COUNT, player.yuanbo))
+                return response                
+            player.guild.contribute(False, category, 0, Static.GUILD_DIAMOND_GET, u"社团捐献")
+            player.sub_yuanbo(yuanbo_cost, info=u"社团捐献")           
+    else:
+        # 金币捐献
+        if category == 1:
+            if player.gold < Static.GUILD_CONTRIBUTE_GOLD_COUNT:
+                AlertHandler(player, response, AlertID.ALERT_GOLD_NOT_ENOUGH, u"guildContribute need gold %s you have %s" %(Static.GUILD_CONTRIBUTE_GOLD_COUNT, player.gold))
+                return response
 
-    if category == 1:
-        if player.gold < Static.GUILD_CONTRIBUTE_GOLD_COUNT:
-            AlertHandler(player, response, AlertID.ALERT_GOLD_NOT_ENOUGH, u"guildContribute need gold %s you have %s" %(Static.GUILD_CONTRIBUTE_GOLD_COUNT, player.gold))
-            return response
+            player.guild.contribute(True, category, Static.GUILD_CONTRIBUTE_GOLD_XP, Static.GUILD_GOLD_GET, u"社团捐献")
 
-        player.guild.contribute(Static.GUILD_CONTRIBUTE_GOLD_XP, Static.GUILD_GOLD_GET, u"社团捐献")
+            player.sub_gold(Static.GUILD_CONTRIBUTE_GOLD_COUNT, info=u"社团捐献")
 
-        player.sub_gold(Static.GUILD_CONTRIBUTE_GOLD_COUNT, info=u"社团捐献")
+        #钻石捐献
+        elif category == 2:
+            if player.yuanbo < Static.GUILD_CONTRIBUTE_DIAMOND_COUNT:
+                AlertHandler(player, response, AlertID.ALERT_DIAMOND_NOT_ENOUGH, u"guildContribute need diamond %s you have %s" %(Static.GUILD_CONTRIBUTE_DIAMOND_COUNT, player.yuanbo))
+                return response
 
-    #钻石捐献
-    elif category == 2:
-        if player.yuanbo < Static.GUILD_CONTRIBUTE_DIAMOND_COUNT:
-            AlertHandler(player, response, AlertID.ALERT_DIAMOND_NOT_ENOUGH, u"guildContribute need diamond %s you have %s" %(Static.GUILD_CONTRIBUTE_DIAMOND_COUNT, player.yuanbo))
-            return response
+            player.guild.contribute(True, category, Static.GUILD_CONTRIBUTE_DIAMOND_XP, Static.GUILD_DIAMOND_GET, u"社团捐献")
+            player.sub_yuanbo(Static.GUILD_CONTRIBUTE_DIAMOND_COUNT, info=u"社团捐献")
 
-        player.guild.contribute(Static.GUILD_CONTRIBUTE_DIAMOND_XP, Static.GUILD_DIAMOND_GET, u"社团捐献")
-        player.sub_yuanbo(Static.GUILD_CONTRIBUTE_DIAMOND_COUNT, info=u"社团捐献")
 
+        if player.guild.dailyLeftContributionCount == 0:
+            player.guild.dailyCostContributionCount = 1
 
     player.dailytask_going(Static.DAILYTASK_CATEGORY_GUILD_CONTRIBUTE, number=1, is_incr=True, is_series=True)
 
@@ -822,6 +837,8 @@ def speedUpHero(request, response):
 
     targetPlayer = None
     if targetPlayerId:
+        if targetPlayerId == player.id:
+            return response
         targetPlayer = get_player(targetPlayerId)
         if not targetPlayer:
             return response
@@ -850,7 +867,8 @@ def speedUpHero(request, response):
             #modify by ljdong
             #if memberId in player.guild.speedPlayerIds:
                 #continue
-
+            if memberId == player.id:
+                continue
             targetPlayer = get_player(memberId)
             #每日最多被加速5次
             if targetPlayer.guild.isMaxSpeeded:
@@ -999,6 +1017,41 @@ def guildFireCheckStatus(request, response):
 
     return response
 
+@handle_common
+@require_player
+def guildFireStopBuff(request, response):
+    """
+    停止火堆燃烧
+    """
+    player = request.player
+
+    fireIndex = getattr(request.logic_request, "index", 0)
+    category = getattr(request.logic_request, "category", -1)
+
+    if player.guild.isMember:
+        AlertHandler(player, response, AlertID.ALERT_GUILD_LIMIT_NOT_ENOUGH, u"guildFireStopBuff:only chairman can create fire")
+        return response   
+     
+    guildInfo = player.guild.guildInfo
+    fire = getattr(guildInfo, "fire%s" % fireIndex)
+
+    guildFire = guildInfo.get_fire_by_index(fireIndex)
+    if not guildFire:
+        guildInfo.self_release_lock()
+        return response
+
+    if not fire["buffLevel"]:
+        AlertHandler(player, response, AlertID.ALERT_GUILD_FIRE_NOT_SET, u"guildFireStopBuff:guild fire buff not set")
+        return response 
+        
+    if category == 0:
+        guildInfo.stop_fire_buring(fireIndex)
+    if category == 1:
+        guildInfo.start_fire_buring(fireIndex)
+        
+    response.common_response.player.set("guild", player.guild.to_dict())  
+
+    return response 
 
 @handle_common
 @require_player
@@ -1023,7 +1076,6 @@ def guildFireBuffSettings(request, response):
     if hour > 24:
         hour = 24
 
-
     # 取得静态的火堆数据
     firebuff = get_guildfirebuff(buffType)
     guildInfo = player.guild.guildInfo
@@ -1032,7 +1084,6 @@ def guildFireBuffSettings(request, response):
     if not guildFire:
         guildInfo.self_release_lock()
         return response
-
     levelconf = firebuff.get_bufflevel(guildFire["level"], buffLevel)
     woodCost = hour * levelconf.woodCost
     if woodCost > player.guild.guildInfo.wood:

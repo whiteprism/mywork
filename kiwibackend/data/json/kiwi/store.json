@@ -7,7 +7,7 @@
             "name": "\u94dc\u5b9d\u7bb1",
             "incrDiamond": 0,
             "dailyCount": 0,
-            "baseDiamond": 10,
+            "baseDiamond": 30,
             "item_id": 2620201,
             "nameId": "item_2620201",
             "display": 1
@@ -21,7 +21,7 @@
             "name": "\u91d1\u5b9d\u7bb1",
             "incrDiamond": 0,
             "dailyCount": 5,
-            "baseDiamond": 50,
+            "baseDiamond": 80,
             "item_id": 2620203,
             "nameId": "item_2620203",
             "display": 1
@@ -35,7 +35,7 @@
             "name": "\u94f6\u5b9d\u7bb1",
             "incrDiamond": 0,
             "dailyCount": 0,
-            "baseDiamond": 20,
+            "baseDiamond": 60,
             "item_id": 2620202,
             "nameId": "item_2620202",
             "display": 1
@@ -74,12 +74,12 @@
         "model": "item.store",
         "fields": {
             "orderId": 8,
-            "name": "\u514d\u6218\u5238",
+            "name": "\u8d85\u5f3a\u7ecf\u9a8c\u836f\u6c34",
             "incrDiamond": 0,
             "dailyCount": 5,
             "baseDiamond": 20,
-            "item_id": 2620602,
-            "nameId": "item_2620602",
+            "item_id": 2620103,
+            "nameId": "item_2620103",
             "display": 1
         }
     },
@@ -87,7 +87,7 @@
         "pk": 1010,
         "model": "item.store",
         "fields": {
-            "orderId": 9,
+            "orderId": 12,
             "name": "\u626b\u8361\u5238",
             "incrDiamond": 0,
             "dailyCount": 0,
@@ -115,11 +115,11 @@
         "pk": 1012,
         "model": "item.store",
         "fields": {
-            "orderId": 10,
+            "orderId": 11,
             "name": "\u94dc\u94a5\u5319",
             "incrDiamond": 0,
             "dailyCount": 0,
-            "baseDiamond": 5,
+            "baseDiamond": 15,
             "item_id": 2620301,
             "nameId": "item_2620301",
             "display": 1
@@ -129,11 +129,11 @@
         "pk": 1013,
         "model": "item.store",
         "fields": {
-            "orderId": 11,
+            "orderId": 10,
             "name": "\u94f6\u94a5\u5319",
             "incrDiamond": 0,
             "dailyCount": 0,
-            "baseDiamond": 10,
+            "baseDiamond": 40,
             "item_id": 2620302,
             "nameId": "item_2620302",
             "display": 1
@@ -143,11 +143,11 @@
         "pk": 1014,
         "model": "item.store",
         "fields": {
-            "orderId": 12,
+            "orderId": 9,
             "name": "\u91d1\u94a5\u5319",
             "incrDiamond": 0,
             "dailyCount": 0,
-            "baseDiamond": 25,
+            "baseDiamond": 50,
             "item_id": 2620303,
             "nameId": "item_2620303",
             "display": 1
